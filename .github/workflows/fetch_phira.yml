@@ -1,0 +1,125 @@
+name: Update Phira Charts
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest charts
+        run: |
+          python << 'EOF'
+          import json
+          from pathlib import Path
+
+          import requests
+
+          SAVE_DIR = Path("chart/info")
+          SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+          session = requests.Session()
+
+          url = "https://api.phira.cn/chart?page=1&order=-updated"
+
+          resp = session.get(url, timeout=30)
+          resp.raise_for_status()
+
+          data = resp.json()
+
+          results = data.get("results", [])
+
+          updated_count = 0
+
+          for item in results:
+
+              chart_id = item.get("id")
+
+              if chart_id is None:
+                  continue
+
+              chart_url = f"https://api.phira.cn/chart/{chart_id}"
+
+              try:
+                  chart_resp = session.get(
+                      chart_url,
+                      timeout=30
+                  )
+
+                  chart_resp.raise_for_status()
+
+                  chart_data = chart_resp.json()
+
+                  file_path = (
+                      SAVE_DIR /
+                      f"{chart_id}.json"
+                  )
+
+                  new_content = json.dumps(
+                      chart_data,
+                      ensure_ascii=False,
+                      indent=2,
+                      sort_keys=True
+                  )
+
+                  old_content = None
+
+                  if file_path.exists():
+                      old_content = file_path.read_text(
+                          encoding="utf-8"
+                      )
+
+                  if old_content != new_content:
+
+                      file_path.write_text(
+                          new_content,
+                          encoding="utf-8"
+                      )
+
+                      updated_count += 1
+
+                      print(
+                          f"Updated {chart_id}"
+                      )
+
+              except Exception as e:
+                  print(
+                      f"Failed {chart_id}: {e}"
+                  )
+
+          print(
+              f"Total updated: {updated_count}"
+          )
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add chart/info
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update latest Phira charts"
+
+      - name: Push
+        run: git push
