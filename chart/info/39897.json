@@ -1,0 +1,28 @@
+{
+  "id": 39897,
+  "name": "离乡",
+  "level": "IN Lv.12",
+  "difficulty": 12.300001,
+  "charter": "FJY-Somby",
+  "composer": "ilem/洛天依",
+  "illustrator": "",
+  "description": "这张谱是id为39539的谱面的第一次修改\n修改内容如下:\n1.定数改为12.3\n2.物量调整为666\n3.删除掉“节奏判定区”以及所属音符\n4.结尾的超级长条全部挪到左侧\n5.所有从判定线背面下落的粉键全部改为正打\n6.判定线细微调整\n7.文字部分显示调整\n8.中间判定线过渡区域更自然一些，这样避免初见杀\n9.Bang15便士\n10.比例调整为16:9\n其他修改详情见铺面\n至于旧谱嘛…我不会删的，要是想玩旧谱随时可以玩，当然我还是建议玩这个\n个人建议还是先看一遍自动再自己打\n感谢各位的支持!\n\n(本来想在这里写小作文的，奈何有字数限制…)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/4bec0085-a44d-47c2-8b74-1b52dee99107",
+  "preview": "https://phira.5wyxi.com/files/0c6f9dd7-da21-4cd2-8e8e-2aff2e444808",
+  "file": "https://phira.5wyxi.com/files/559085a6-babf-4034-8127-e76100ef827f",
+  "uploader": 1360892,
+  "tags": [
+    "洛天依",
+    "VOCALOID",
+    "regular"
+  ],
+  "rating": 0.9324155,
+  "ratingCount": 159,
+  "created": "2025-06-19T05:29:34.146468Z",
+  "updated": "2025-06-19T05:29:34.146468Z",
+  "chartUpdated": "2025-06-19T05:29:34.146468Z"
+}

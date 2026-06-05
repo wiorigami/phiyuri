@@ -1,0 +1,26 @@
+{
+  "id": 29434,
+  "name": "心印",
+  "level": "IN",
+  "difficulty": 14.100001,
+  "charter": "Charisk",
+  "composer": "洛天依/LunaSafari/哈士奇P",
+  "illustrator": "",
+  "description": "2024/11/28 - 修复第421拍tap重叠",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9784d1b9-4d17-455b-b5dc-3b0cb0be04d0",
+  "preview": "https://phira.5wyxi.com/files/8879a0c0-950d-4860-83a0-73b51112f9f6",
+  "file": "https://phira.5wyxi.com/files/c87aacd0-cd80-4ce8-84a5-db7ecad49419",
+  "uploader": 443095,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9555364,
+  "ratingCount": 680,
+  "created": "2024-11-05T15:33:48.380365Z",
+  "updated": "2025-05-17T14:55:51.334213Z",
+  "chartUpdated": "2024-11-28T14:37:40.469201Z"
+}

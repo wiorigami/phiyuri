@@ -1,0 +1,26 @@
+{
+  "id": 4326,
+  "name": "チーズ",
+  "level": "IN Lv.14",
+  "difficulty": 14.500002,
+  "charter": "Mr.Clouds fixed by 阿醒LAJ",
+  "composer": "Chinozo",
+  "illustrator": "",
+  "description": "原谱师Mr.Cloud，改谱者醒了不起的老傲娇（兼上传者），这是改版请注意区分",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/a85d1ff9-d4af-462c-ac89-c829b5b712ca",
+  "preview": "https://phira.5wyxi.com/files/bd51d7ed-d9a3-4f4e-9110-fcca06b0d539",
+  "file": "https://phira.5wyxi.com/files/b6d0b2ff-7d50-4713-9edd-156168a82f7e",
+  "uploader": 104,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9506398,
+  "ratingCount": 4788,
+  "created": "2023-06-30T08:19:43.632781Z",
+  "updated": "2023-06-30T14:41:11.075194Z",
+  "chartUpdated": "2023-06-30T10:35:40.683419Z"
+}

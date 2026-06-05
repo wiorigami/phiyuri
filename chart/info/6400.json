@@ -1,0 +1,26 @@
+{
+  "id": 6400,
+  "name": "吉原ラメント",
+  "level": "IN",
+  "difficulty": 13.8,
+  "charter": "Toast",
+  "composer": "重音テト",
+  "illustrator": "",
+  "description": "新人谱师第三张谱",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/b5204d1c-63e5-4d16-86a4-deddfe88af50",
+  "preview": "https://phira.5wyxi.com/files/79a7a912-f3e7-4926-86ab-2377fa832b6a",
+  "file": "https://phira.5wyxi.com/files/f25ba014-d349-4b0b-aacb-7c674259e332",
+  "uploader": 34887,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9262596,
+  "ratingCount": 433,
+  "created": "2023-07-29T16:11:44.072157Z",
+  "updated": "2023-07-29T16:11:44.072157Z",
+  "chartUpdated": "2023-07-29T16:11:44.072157Z"
+}

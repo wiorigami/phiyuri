@@ -1,0 +1,26 @@
+{
+  "id": 52040,
+  "name": "ひつぎとふたご",
+  "level": "AT Lv.19",
+  "difficulty": 19.1,
+  "charter": "Pdievea",
+  "composer": "plastic",
+  "illustrator": "",
+  "description": "这个版本没那么闪，尾杀流速-1，不是重复上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/808b1630-8f70-4064-9b14-652a3c0138f7",
+  "preview": "https://phira.5wyxi.com/files/49d15dc8-3182-40fe-a536-2014125812b6",
+  "file": "https://phira.5wyxi.com/files/1e52663c-4d1b-4cd0-b8eb-deb7a11935c5",
+  "uploader": 1389033,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.86120826,
+  "ratingCount": 60,
+  "created": "2026-02-03T12:44:21.526670Z",
+  "updated": "2026-02-03T12:44:21.526670Z",
+  "chartUpdated": "2026-02-03T12:44:21.526670Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 26309,
+  "name": "ドリアン爆弾",
+  "level": "AT Lv. 16",
+  "difficulty": 16.099997,
+  "charter": "shun2420",
+  "composer": "Daily天利,Room_kun",
+  "illustrator": "",
+  "description": "8/15生日作 谱面为谱师本人上传 有问题 bilibili@shun_2420 \n谱面修改：\n增加几处特效\n修改尾杀配置\n定数修改16.4→16.1",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/d276e235-5ff4-4986-aafd-82b1dd10e128",
+  "preview": "https://phira.5wyxi.com/files/4a1eea82-db34-43b1-8a6a-ff67854967b8",
+  "file": "https://phira.5wyxi.com/files/c0a50722-cb24-4b87-ae5d-c8e95db2d618",
+  "uploader": 482195,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91946656,
+  "ratingCount": 834,
+  "created": "2024-08-15T08:12:58.924423Z",
+  "updated": "2025-06-12T11:13:42.092238Z",
+  "chartUpdated": "2024-11-29T23:59:24.925754Z"
+}

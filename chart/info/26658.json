@@ -1,0 +1,26 @@
+{
+  "id": 26658,
+  "name": "STARDUST",
+  "level": "IN Lv.15",
+  "difficulty": 15.50001,
+  "charter": "幕洛ED",
+  "composer": "Riya",
+  "illustrator": "",
+  "description": "B站用户名：幕洛ED，第三次写谱，第一次写15级，主要尝试了一些新配置和拆解动效（但没完全解决很多卡手和初见杀的问题，这个下次会注意的），个人定数是15.5",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f9f47e17-ae06-4d7d-8407-3d426de81465",
+  "preview": "https://phira.5wyxi.com/files/eeccc54b-4374-4d51-81c4-84243b745455",
+  "file": "https://phira.5wyxi.com/files/d7583bd0-b615-485c-880b-b488af8a74ef",
+  "uploader": 553721,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9095111,
+  "ratingCount": 84,
+  "created": "2024-08-21T09:44:51.081077Z",
+  "updated": "2024-08-21T09:44:51.081077Z",
+  "chartUpdated": "2024-08-21T09:44:51.081077Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28578,
+  "name": "Weavers",
+  "level": "IN Lv.15",
+  "difficulty": 15.199999,
+  "charter": "ZXRweavers",
+  "composer": "Feint",
+  "illustrator": "",
+  "description": "-没有修复谱师骂自己**的问题\n-修改了一些配置\n-添加了一些东西",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f1cf4638-aa7d-430c-9f02-a688e92cd78a",
+  "preview": "https://phira.5wyxi.com/files/24cd5771-4343-4f3e-9771-641e78cd978f",
+  "file": "https://phira.5wyxi.com/files/d3afdd97-2da4-46d8-9d44-978169ec2e72",
+  "uploader": 166772,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8898794,
+  "ratingCount": 195,
+  "created": "2024-10-09T03:26:01.945334Z",
+  "updated": "2024-10-09T03:26:01.945334Z",
+  "chartUpdated": "2024-10-09T03:26:01.945334Z"
+}

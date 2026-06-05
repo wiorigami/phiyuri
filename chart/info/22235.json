@@ -1,0 +1,26 @@
+{
+  "id": 22235,
+  "name": "Rose Quartz",
+  "level": "AT Lv.16",
+  "difficulty": 3.0,
+  "charter": "龙龙龙龙龙龙",
+  "composer": "Shiki",
+  "illustrator": "",
+  "description": "不好玩\n检查过了没有偏移，offset是对的，可能dump有点狠看着像是偏移了。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/8458a99c-6790-436f-a762-a00fe3109661",
+  "preview": "https://phira.5wyxi.com/files/03edf428-fa5a-4662-a83d-137175e01692",
+  "file": "https://phira.5wyxi.com/files/5a3a2334-db14-431c-9f6e-b340f6ad6813",
+  "uploader": 702870,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.9185799,
+  "ratingCount": 130,
+  "created": "2024-06-30T02:40:08.058657Z",
+  "updated": "2024-06-30T02:40:08.058657Z",
+  "chartUpdated": "2024-06-30T02:40:08.058657Z"
+}

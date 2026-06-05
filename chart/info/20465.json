@@ -1,0 +1,26 @@
+{
+  "id": 20465,
+  "name": "NightTheater",
+  "level": "IN Lv.15",
+  "difficulty": 15.500002,
+  "charter": "TangenT ~帷幕拉开~",
+  "composer": "わかどり",
+  "illustrator": "",
+  "description": "upd：5.27 修复了谱面bug 个人自制故事曲包「苦痛剧目」先行曲",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/cd7c2b01-dbf1-4bda-80b7-9fc379b42209",
+  "preview": "https://phira.5wyxi.com/files/c1d13ce7-bb11-46db-b547-0e4aab45cdff",
+  "file": "https://phira.5wyxi.com/files/bf9b9d86-625b-4447-9dcf-4b21275c4995",
+  "uploader": 599539,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.90504915,
+  "ratingCount": 279,
+  "created": "2024-05-27T15:02:07.284817Z",
+  "updated": "2024-05-27T15:02:07.284817Z",
+  "chartUpdated": "2024-05-27T15:02:07.284817Z"
+}

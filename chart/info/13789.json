@@ -1,0 +1,27 @@
+{
+  "id": 13789,
+  "name": "GALACTIC WARZONE",
+  "level": "IN Lv.15",
+  "difficulty": 15.800003,
+  "charter": "Ennty",
+  "composer": "Akira Complex",
+  "illustrator": "",
+  "description": "最大胆的一集\r\n陨石(点划)红键现已享受垂直判定！\r\n修改了两处note位移过快的问题",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/b2db370a-730a-4a38-8289-97a9457ecb7f",
+  "preview": "https://phira.5wyxi.com/files/1a28e333-29dd-4e72-b507-960e1b7cb2e8",
+  "file": "https://phira.5wyxi.com/files/f1f19388-3d45-461e-ba14-67fcacb77f61",
+  "uploader": 11519,
+  "tags": [
+    "Rotaeno",
+    "regular"
+  ],
+  "rating": 0.92817503,
+  "ratingCount": 1403,
+  "created": "2024-01-19T12:41:12.243324Z",
+  "updated": "2024-01-25T10:17:40.694947Z",
+  "chartUpdated": "2024-01-20T05:09:51.272638Z"
+}

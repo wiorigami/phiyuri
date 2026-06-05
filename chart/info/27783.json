@@ -1,0 +1,26 @@
+{
+  "id": 27783,
+  "name": "雨之城",
+  "level": "IN Lv.13",
+  "difficulty": 13.0,
+  "charter": "Yurina_Nasa",
+  "composer": "CsLrisEto",
+  "illustrator": "",
+  "description": "谱师本人上传 应该是本人目前写的最好的一个吧（ 新人学习一个月左右的成果 可能还是会有不足之处 以后会改进的 另外感谢@Haru_12的指导和纠正并修改\n2024.11.03更新：修改了部分排键和判定线表演\n2024.11.08更新：修改了其中一段的配置，并修改了双押段排键和判定线表演",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/ad595e93-0656-4473-ba15-076c522c724e",
+  "preview": "https://phira.5wyxi.com/files/02a73d4a-437e-4cae-8815-713a42c4c39d",
+  "file": "https://phira.5wyxi.com/files/8616dd2c-89b9-412d-9d21-b0ba1e55f2e6",
+  "uploader": 73294,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9370901,
+  "ratingCount": 1559,
+  "created": "2024-09-17T14:50:50.315258Z",
+  "updated": "2024-11-08T14:10:55.327758Z",
+  "chartUpdated": "2024-11-08T14:10:55.327758Z"
+}

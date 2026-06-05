@@ -1,0 +1,26 @@
+{
+  "id": 4497,
+  "name": "Drifters",
+  "level": "IN  Lv.14",
+  "difficulty": 14.900001,
+  "charter": "Driftingcube",
+  "composer": "Feint/Elizaveta",
+  "illustrator": "",
+  "description": "谱面视频见B站@Wintercube\n发布手元请@Wintercube\n一张纯良谱面\n\n修改日志：\n2024.6.2 修改部分配置，修复判定bug\n2024.6.23 更换高音质音频",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/01c3414b-ff09-4b69-946a-744b629c0ab2",
+  "preview": "https://phira.5wyxi.com/files/b23eb9b4-4d9f-434d-9192-f4488eeb1eab",
+  "file": "https://phira.5wyxi.com/files/bf444419-3a27-4d28-b5e6-15af8c2fd3a4",
+  "uploader": 11195,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9244884,
+  "ratingCount": 2545,
+  "created": "2023-07-02T13:26:39.576242Z",
+  "updated": "2024-06-23T03:25:06.747283Z",
+  "chartUpdated": "2024-06-23T03:25:06.747283Z"
+}

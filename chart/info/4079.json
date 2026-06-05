@@ -1,0 +1,26 @@
+{
+  "id": 4079,
+  "name": "KING",
+  "level": "FM Lv.15",
+  "difficulty": 15.0,
+  "charter": "IErin",
+  "composer": "Kanaria",
+  "illustrator": "",
+  "description": "是重製版唷",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1b42959d-1073-4fec-81ee-3ab4dd31f96a",
+  "preview": "https://phira.5wyxi.com/files/b7204d04-6545-47ee-bc68-d6e192325a9a",
+  "file": "https://phira.5wyxi.com/files/0e63270a-dea0-42cd-81c2-8f1fad4ce7e4",
+  "uploader": 23532,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.89976895,
+  "ratingCount": 4741,
+  "created": "2023-06-25T12:07:57.688125Z",
+  "updated": "2023-06-25T15:28:25.013401Z",
+  "chartUpdated": "2023-06-25T12:07:57.688125Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 21813,
+  "name": "Mechanical Power",
+  "level": "IN Lv.14",
+  "difficulty": 14.900003,
+  "charter": "CzsL145",
+  "composer": "Cheetah Mobile ",
+  "illustrator": "",
+  "description": "机械动力┃Mechanical  Power \n定数  14.9\n物量  765\n判定线  12\n事件  3200+\n\n初谱一改\n谱面演示：https://b23.tv/RCoEZ2x",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7cb9ef1b-8c22-4c22-917d-f84fea006a3f",
+  "preview": "https://phira.5wyxi.com/files/9ccfbdfa-29eb-4368-8937-694f3754a245",
+  "file": "https://phira.5wyxi.com/files/fa6174b9-4e3f-4d6f-9a6e-52218bc47126",
+  "uploader": 283881,
+  "tags": [
+    "滚动的天空",
+    "RS",
+    "regular"
+  ],
+  "rating": 0.9142991,
+  "ratingCount": 149,
+  "created": "2024-06-23T11:07:18.997954Z",
+  "updated": "2024-06-24T14:39:56.234982Z",
+  "chartUpdated": "2024-06-23T11:07:18.997954Z"
+}

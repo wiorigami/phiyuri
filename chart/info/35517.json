@@ -1,0 +1,26 @@
+{
+  "id": 35517,
+  "name": "Rave 7",
+  "level": "AT Lv.16",
+  "difficulty": 16.900002,
+  "charter": "122446",
+  "composer": "Dev/Null",
+  "illustrator": "",
+  "description": "萌新初谱，整体写的比较粗糙\n个人定数16.9(旧定数16.4)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/ef7a6ecb-180b-41db-9e13-286595051a8c",
+  "preview": "https://phira.5wyxi.com/files/bd9145bc-7b50-40e2-92df-2db5f511e4eb",
+  "file": "https://phira.5wyxi.com/files/eea5368a-940a-430d-9d8c-0d93c5611033",
+  "uploader": 22941,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.84788,
+  "ratingCount": 14,
+  "created": "2025-03-22T03:43:25.636511Z",
+  "updated": "2025-12-27T13:07:30.976206Z",
+  "chartUpdated": "2025-12-27T13:07:30.976206Z"
+}

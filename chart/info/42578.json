@@ -1,0 +1,26 @@
+{
+  "id": 42578,
+  "name": "机械玩具",
+  "level": "AT Lv.15",
+  "difficulty": 15.400002,
+  "charter": "NH74_fX",
+  "composer": "Xoun_Zer",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/880eedcf-3ad1-4ef9-b7c1-4579bf105d57",
+  "preview": "https://phira.5wyxi.com/files/b5d32684-f914-4957-8bdf-cf82190ac572",
+  "file": "https://phira.5wyxi.com/files/42f1b4de-6882-47ca-98a9-4f6679d87a9c",
+  "uploader": 31904,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.90016264,
+  "ratingCount": 92,
+  "created": "2025-07-24T03:57:48.749763Z",
+  "updated": "2025-07-24T03:57:48.749763Z",
+  "chartUpdated": "2025-07-24T03:57:48.749763Z"
+}

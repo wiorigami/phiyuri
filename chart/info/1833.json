@@ -1,0 +1,26 @@
+{
+  "id": 1833,
+  "name": "Armageddon",
+  "level": "IN Lv.15",
+  "difficulty": 15.8,
+  "charter": "GaiM",
+  "composer": "LeaF",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0aeb273f-a39e-428d-b909-cd17fe87bf2d",
+  "preview": "https://phira.5wyxi.com/files/c8f2a2e0-7dd7-4500-92e7-45d612997dc2",
+  "file": "https://phira.5wyxi.com/files/22c9ef82-3880-484b-ade7-4c3efcf92f43",
+  "uploader": 17540,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8493767,
+  "ratingCount": 609,
+  "created": "2023-05-13T05:20:36.372668Z",
+  "updated": "2023-11-30T14:01:32.036138Z",
+  "chartUpdated": "2023-05-13T05:20:36.372668Z"
+}

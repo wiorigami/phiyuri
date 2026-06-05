@@ -1,0 +1,26 @@
+{
+  "id": 54755,
+  "name": "Hello",
+  "level": "IN Lv.15",
+  "difficulty": 15.700003,
+  "charter": "面包人列扎",
+  "composer": "OMFG",
+  "illustrator": "",
+  "description": "PJ0参赛曲。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/559acac5-59db-49e4-aab7-7dbce350ccc6",
+  "preview": "https://phira.5wyxi.com/files/74d9e362-efdb-455e-8234-cb932219d900",
+  "file": "https://phira.5wyxi.com/files/83508134-295a-46a9-9023-78b5febc7446",
+  "uploader": 812953,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9013401,
+  "ratingCount": 1813,
+  "created": "2026-03-29T14:28:40.162156Z",
+  "updated": "2026-04-07T11:13:26.824949Z",
+  "chartUpdated": "2026-03-29T14:28:40.162156Z"
+}

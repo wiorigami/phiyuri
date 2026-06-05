@@ -1,0 +1,28 @@
+{
+  "id": 17139,
+  "name": "HALO（Legacy谱面）",
+  "level": "Legacy Lv.16",
+  "difficulty": 16.100002,
+  "charter": "778Y0E",
+  "composer": "Tatsunoshin",
+  "illustrator": "",
+  "description": "想来想去，这谱面也确实不适合17，更别说吸引热度了，， 所以我决定降低定数为16.1，并且保留谱面以警告后代不要标虚高（",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/31a9ae0f-0509-44cb-a5d7-500fc2818fa5",
+  "preview": "https://phira.5wyxi.com/files/f31e9dfc-0e06-4461-84d8-c53353eec5e0",
+  "file": "https://phira.5wyxi.com/files/7cea4caa-09b0-4541-991f-ad01b8ff976a",
+  "uploader": 14238,
+  "tags": [
+    "SDVX",
+    "Legacy",
+    "regular"
+  ],
+  "rating": 0.90347517,
+  "ratingCount": 368,
+  "created": "2024-03-15T17:09:18.468069Z",
+  "updated": "2024-10-14T12:17:14.182202Z",
+  "chartUpdated": "2024-03-15T17:09:18.468069Z"
+}

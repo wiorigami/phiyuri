@@ -1,0 +1,26 @@
+{
+  "id": 24832,
+  "name": "Amulet",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "Chikoro",
+  "composer": "Overnote",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/187a9b15-d53f-4143-84c1-882b60d1226e",
+  "preview": "https://phira.5wyxi.com/files/67d569c6-b8cc-41b5-a0f0-1da0aa2feb39",
+  "file": "https://phira.5wyxi.com/files/b5c780b0-0d7b-459b-8d80-16da3e8a2c62",
+  "uploader": 12581,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91714203,
+  "ratingCount": 113,
+  "created": "2024-07-31T12:30:00.403861Z",
+  "updated": "2024-07-31T12:30:00.403861Z",
+  "chartUpdated": "2024-07-31T12:30:00.403861Z"
+}

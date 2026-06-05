@@ -1,0 +1,26 @@
+{
+  "id": 37579,
+  "name": "crystallized",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "qj_1016",
+  "composer": "かめりあ",
+  "illustrator": "",
+  "description": "Malody V转谱，所以有些地方看起来会很怪(注：大部分红键为点滑)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0eacb941-fa99-44e1-b3b4-e38ff6180aaa",
+  "preview": "https://phira.5wyxi.com/files/1a0b2b29-3320-41b3-a288-3ce89b08bccb",
+  "file": "https://phira.5wyxi.com/files/fccbb9ff-d8c8-4290-a41f-c1a404e693e7",
+  "uploader": 1238019,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.90569234,
+  "ratingCount": 34,
+  "created": "2025-05-05T01:58:50.234176Z",
+  "updated": "2025-05-11T04:32:17.658804Z",
+  "chartUpdated": "2025-05-05T01:58:50.234176Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18422,
+  "name": "ギャンブル",
+  "level": "Lv 15",
+  "difficulty": 15.200001,
+  "charter": "gf",
+  "composer": "syudou",
+  "illustrator": "",
+  "description": "没有简介",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e67d638d-d29e-4fff-a0c4-7b8d366643e7",
+  "preview": "https://phira.5wyxi.com/files/1c5ccdcc-aea2-422d-b081-09ecf4d714a8",
+  "file": "https://phira.5wyxi.com/files/05fa8332-2928-4f66-a969-7661dc82fb71",
+  "uploader": 32790,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.89241695,
+  "ratingCount": 125,
+  "created": "2024-04-13T16:19:02.327451Z",
+  "updated": "2024-04-13T16:19:02.327451Z",
+  "chartUpdated": "2024-04-13T16:19:02.327451Z"
+}

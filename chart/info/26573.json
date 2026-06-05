@@ -1,0 +1,26 @@
+{
+  "id": 26573,
+  "name": "YELLOW",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "下北沢大天使",
+  "composer": "神山羊",
+  "illustrator": "",
+  "description": "原来的phira号:不写粪谱的谱师，被注销了，新号请移步UID:3493282657077935。这个谱有一些线动太快了，打击效果有偏移，还是能正常判定的，可以正常游玩，已经过谱师本人测验",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/60e67545-14f4-423d-aa6c-7d4d53297114",
+  "preview": "https://phira.5wyxi.com/files/84af1daf-4790-47a8-8cdb-36ce55d0a8ec",
+  "file": "https://phira.5wyxi.com/files/f01198b1-5041-4c3c-8947-16a934d69c06",
+  "uploader": 1232281,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88762605,
+  "ratingCount": 1430,
+  "created": "2024-08-19T15:12:12.487135Z",
+  "updated": "2024-08-30T00:45:36.754999Z",
+  "chartUpdated": "2024-08-19T15:12:12.487135Z"
+}

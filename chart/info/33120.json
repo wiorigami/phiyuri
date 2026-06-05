@@ -1,0 +1,26 @@
+{
+  "id": 33120,
+  "name": "白と黒のバケモノ",
+  "level": "AT Lv16",
+  "difficulty": 16.800003,
+  "charter": "离-离-原-上-谱",
+  "composer": "tezuka",
+  "illustrator": "",
+  "description": "优化了大部分键型排列和动效",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7eaba055-fcb7-4ee7-943e-07016304cbe6",
+  "preview": "https://phira.5wyxi.com/files/5dc2f69d-efc5-4d2d-955b-c0efb37c9be3",
+  "file": "https://phira.5wyxi.com/files/b0c36b0b-2b5b-4f23-8214-d9dcacc7de13",
+  "uploader": 1195513,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.89922523,
+  "ratingCount": 385,
+  "created": "2025-02-02T11:44:31.958102Z",
+  "updated": "2025-11-12T14:11:01.035804Z",
+  "chartUpdated": "2025-11-12T14:11:01.035804Z"
+}

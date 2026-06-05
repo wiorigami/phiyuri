@@ -1,0 +1,26 @@
+{
+  "id": 20080,
+  "name": "Purgatorium",
+  "level": "Death Lv.17",
+  "difficulty": 10.0,
+  "charter": "2beta",
+  "composer": "Incinerate",
+  "illustrator": "",
+  "description": "有重叠hold",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/922794c5-5b66-4430-9609-1de329947177",
+  "preview": "https://phira.5wyxi.com/files/3fe4dc17-a3e1-4513-9999-8cd3fb79bb6c",
+  "file": "https://phira.5wyxi.com/files/0e14e38f-a880-4909-962c-0242b0c2288d",
+  "uploader": 2035,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.8311529,
+  "ratingCount": 28,
+  "created": "2024-05-18T14:26:17.315960Z",
+  "updated": "2024-05-18T14:26:17.315960Z",
+  "chartUpdated": "2024-05-18T14:26:17.315960Z"
+}

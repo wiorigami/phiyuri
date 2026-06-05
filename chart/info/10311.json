@@ -1,0 +1,26 @@
+{
+  "id": 10311,
+  "name": "阳光开朗大男孩",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "20086lr",
+  "composer": "卦者灵风",
+  "illustrator": "",
+  "description": "稍微做了一点改变，加了判定线特效",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fde02218-3cbd-4a99-8bbc-96ea4529bc2a",
+  "preview": "https://phira.5wyxi.com/files/fd0830c8-abf1-4c36-9a7f-0c112df0550c",
+  "file": "https://phira.5wyxi.com/files/6ac8031d-35a4-43e8-8fca-80fc6eb222ab",
+  "uploader": 37955,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9335764,
+  "ratingCount": 20458,
+  "created": "2023-10-08T23:59:12.032530Z",
+  "updated": "2024-02-10T03:03:35.639715Z",
+  "chartUpdated": "2024-02-09T10:53:13.513648Z"
+}

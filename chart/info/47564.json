@@ -1,0 +1,26 @@
+{
+  "id": 47564,
+  "name": "SYSTEM_ON",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "橙Cozuku",
+  "composer": "CROWLIA",
+  "illustrator": "",
+  "description": "本人上传，含有还原Dynamix侧谱面的配置",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/01994977-d91d-4d83-a210-b2f466951871",
+  "preview": "https://phira.5wyxi.com/files/34647c6d-c3a2-42b3-a399-f715c34a57bd",
+  "file": "https://phira.5wyxi.com/files/7b4a97c7-2e06-4283-86e5-03366ef4dade",
+  "uploader": 81420,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.92784166,
+  "ratingCount": 149,
+  "created": "2025-10-03T16:06:35.277780Z",
+  "updated": "2025-10-04T14:23:29.910019Z",
+  "chartUpdated": "2025-10-03T16:06:35.277780Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11561,
+  "name": "The storm",
+  "level": "AT.lv15",
+  "difficulty": 15.0,
+  "charter": "ZDself",
+  "composer": "Charter: zym",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c66aedf7-deff-4c9c-b17e-bf5425c2fea5",
+  "preview": "https://phira.5wyxi.com/files/a7dcb1ec-59a9-41fe-94ce-35257b402c56",
+  "file": "https://phira.5wyxi.com/files/d17c5d4e-23b1-49de-82dc-b8c7beb6a7c3",
+  "uploader": 306077,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.85091746,
+  "ratingCount": 598,
+  "created": "2023-11-18T07:57:27.945283Z",
+  "updated": "2024-01-06T12:05:32.983401Z",
+  "chartUpdated": "2023-11-18T07:57:27.945283Z"
+}

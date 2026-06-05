@@ -1,0 +1,26 @@
+{
+  "id": 2126,
+  "name": "怪物",
+  "level": "IN",
+  "difficulty": 14.2,
+  "charter": "霜炎酱",
+  "composer": "YOASOBI",
+  "illustrator": "",
+  "description": null,
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/bcc2f685-5555-4950-a075-3d0b093f2750",
+  "preview": "https://phira.5wyxi.com/files/3fbb2e42-28c4-423e-8f84-e1bb341f8916",
+  "file": "https://phira.5wyxi.com/files/1efdec3b-02db-4907-b054-7dcab6da12ab",
+  "uploader": 92,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.92985517,
+  "ratingCount": 50071,
+  "created": "2023-05-15T13:42:59.298635Z",
+  "updated": "2025-01-04T16:59:58.769072Z",
+  "chartUpdated": "2023-05-15T13:42:59.298635Z"
+}

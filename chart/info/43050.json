@@ -1,0 +1,31 @@
+{
+  "id": 43050,
+  "name": "Journey's End",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "Journey of PomeloGPT",
+  "composer": "XC",
+  "illustrator": "",
+  "description": "萌新首个完成的独写谱，没什么经验，动效与配置可能存在一定的缺陷，欢迎大家理性讨论，提出修改建议!\n\n曲名: Journey's End\n作曲: XC\nBPM: 143\n定数: IN Lv.15\n物量: 550\n曲绘: Monaw(PomeloGPT modified)\n谱面制作: 柚子GPT\n——————————————",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/03e4d57d-80e7-429a-9c44-e04952a9d66c",
+  "preview": "https://phira.5wyxi.com/files/434c7a1f-fd6b-4ef2-ad20-c2046cec3def",
+  "file": "https://phira.5wyxi.com/files/079cd611-a6c8-43ba-ad6c-84657317d3b8",
+  "uploader": 778562,
+  "tags": [
+    "Terraria",
+    "泰拉瑞亚",
+    "旅人归途",
+    "HomewardJourney",
+    "母脑",
+    "regular"
+  ],
+  "rating": 0.9360341,
+  "ratingCount": 61,
+  "created": "2025-07-29T07:31:43.123886Z",
+  "updated": "2025-07-29T07:31:43.123886Z",
+  "chartUpdated": "2025-07-29T07:31:43.123886Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 215,
+  "name": "失態生態実験体",
+  "level": "IN",
+  "difficulty": 15.0,
+  "charter": "kbcrt",
+  "composer": "Pepoyo",
+  "illustrator": "Pepoyo",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1b48f26b-9063-4c60-90ad-64473c73977d",
+  "preview": "https://phira.5wyxi.com/files/21dcd234-0dba-4313-af79-74d4e0ec2a14",
+  "file": "https://phira.5wyxi.com/files/2c347273-92cd-4c5d-ac68-77605b9f41e1",
+  "uploader": 409,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9307692,
+  "ratingCount": 3055,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "chartUpdated": "2023-04-02T08:24:52.826382Z"
+}

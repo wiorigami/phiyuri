@@ -1,0 +1,26 @@
+{
+  "id": 31430,
+  "name": "夢",
+  "level": "IN Lv.14",
+  "difficulty": 14.000002,
+  "charter": "cmos-9201",
+  "composer": "Camelia",
+  "illustrator": "",
+  "description": "第一次写，感觉后面有点乱，别介意\n版本更新：\nv1.0\n初次发布\nv1.1\n1、修复了最后分裂部分蓝条极易爆蓝的问题\n2、修复了一些已知空押\n3、解决了音乐‘‘戛然而止’’的问题",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e13859a3-af95-4e21-a751-33b5c5dee707",
+  "preview": "https://phira.5wyxi.com/files/494e3725-9a29-4c70-baa4-4d9a999d53bb",
+  "file": "https://phira.5wyxi.com/files/0e0712d8-b7f0-43e0-8485-8ad0803450d8",
+  "uploader": 1254133,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88421494,
+  "ratingCount": 218,
+  "created": "2025-01-04T15:20:28.107966Z",
+  "updated": "2025-01-04T15:20:28.107966Z",
+  "chartUpdated": "2025-01-04T15:20:28.107966Z"
+}

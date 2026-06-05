@@ -1,0 +1,26 @@
+{
+  "id": 50929,
+  "name": "Interstellar Leap",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "sqrt2to1",
+  "composer": "NightarcP",
+  "illustrator": "",
+  "description": "对去年谱面进行了部分配置与动效的调整。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7da9860b-12d4-4061-a0e3-fe8e5cb6db24",
+  "preview": "https://phira.5wyxi.com/files/fd447a27-2d26-4bbc-ada8-cb3b28257c8c",
+  "file": "https://phira.5wyxi.com/files/99a83762-cc23-4569-98c1-ab22dcc998cf",
+  "uploader": 35154,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.80301756,
+  "ratingCount": 10,
+  "created": "2026-01-03T03:46:39.827511Z",
+  "updated": "2026-01-03T03:46:39.827511Z",
+  "chartUpdated": "2026-01-03T03:46:39.827511Z"
+}

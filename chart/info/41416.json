@@ -1,0 +1,28 @@
+{
+  "id": 41416,
+  "name": "莫愁乡",
+  "level": "AT Lv.14",
+  "difficulty": 14.500002,
+  "charter": "白涧白旷世奇才",
+  "composer": "亚细亚旷世奇才",
+  "illustrator": "",
+  "description": "这是我个人制作的第八张谱面。从6.28刚开始就创建谱面，一直到7.10晚上才做完，然后在7.11上午微调了一些动效后才决定上传，可谓是我写谱最快的一次。\n在此感谢所有提出建议的人！如果觉得有值得修改的地方，可以去原视频下方提供建议哦！每条评论我都会看的！祝大家玩得开心ww  b站同名。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1761a905-e7c6-45a3-b412-61a0b3d64170",
+  "preview": "https://phira.5wyxi.com/files/b42c1b39-a986-4d18-b818-cfd126b19cf4",
+  "file": "https://phira.5wyxi.com/files/0066d56c-e405-4052-aebb-425ce9bb2fc9",
+  "uploader": 39297,
+  "tags": [
+    "shader",
+    "莫愁乡",
+    "regular"
+  ],
+  "rating": 0.9586914,
+  "ratingCount": 8941,
+  "created": "2025-07-11T10:38:37.575832Z",
+  "updated": "2025-07-11T10:38:37.575832Z",
+  "chartUpdated": "2025-07-11T10:38:37.575832Z"
+}

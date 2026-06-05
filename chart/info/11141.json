@@ -1,0 +1,28 @@
+{
+  "id": 11141,
+  "name": "Burgeon",
+  "level": "IN Lv.13",
+  "difficulty": 13.500002,
+  "charter": "zyrf",
+  "composer": "AiRanthem",
+  "illustrator": "",
+  "description": "B站：@布耶尔-zyrf\n谱面预览：BV13v1tYXE5e\n老版谱面：BV1FC4y1H7Va\n24.10.27：整体翻新\n12.1：修复bug",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/2779831c-a27e-43f9-b6c1-ce2355c37631",
+  "preview": "https://phira.5wyxi.com/files/daab3276-8472-4593-aea0-13baba6da0b5",
+  "file": "https://phira.5wyxi.com/files/9784e2e9-2463-457a-8579-a1f2691760e0",
+  "uploader": 78246,
+  "tags": [
+    "原神",
+    "纳西妲",
+    "regular"
+  ],
+  "rating": 0.9466518,
+  "ratingCount": 2718,
+  "created": "2023-11-04T08:04:29.949824Z",
+  "updated": "2024-12-09T15:14:50.830777Z",
+  "chartUpdated": "2024-12-01T02:46:47.430229Z"
+}

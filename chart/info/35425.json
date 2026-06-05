@@ -1,0 +1,26 @@
+{
+  "id": 35425,
+  "name": "Compass",
+  "level": "AT Lv.??",
+  "difficulty": 10.0,
+  "charter": "Kanegawa",
+  "composer": "Mili",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/79d18c4b-b511-430f-9b8d-a1b1f294c00b",
+  "preview": "https://phira.5wyxi.com/files/cc16104b-205c-4064-a38f-69a20d52da41",
+  "file": "https://phira.5wyxi.com/files/cb59bfdf-badd-48da-a67d-56a6dadfa900",
+  "uploader": 606099,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9502854,
+  "ratingCount": 1530,
+  "created": "2025-03-19T02:35:37.212463Z",
+  "updated": "2025-05-06T15:02:50.525612Z",
+  "chartUpdated": "2025-03-19T02:35:37.212463Z"
+}

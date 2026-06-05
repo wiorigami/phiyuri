@@ -1,0 +1,26 @@
+{
+  "id": 4190,
+  "name": "lcyxis",
+  "level": "AT Lv.16",
+  "difficulty": 16.8,
+  "charter": "Setsuna",
+  "composer": "Raimukun",
+  "illustrator": "",
+  "description": "谱师本人上传，削弱两段32分和尾杀锁手配置并微调楼梯",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c3b10e3b-0d9b-48e7-a06a-c797b0016783",
+  "preview": "https://phira.5wyxi.com/files/fc3d9224-1d02-4980-8d6d-5723faaa6ff4",
+  "file": "https://phira.5wyxi.com/files/e7f56bba-70da-449a-95c0-c8a512382e63",
+  "uploader": 103157,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9103952,
+  "ratingCount": 1012,
+  "created": "2023-06-27T14:43:06.778676Z",
+  "updated": "2023-06-27T16:11:03.422062Z",
+  "chartUpdated": "2023-06-27T14:43:06.778676Z"
+}

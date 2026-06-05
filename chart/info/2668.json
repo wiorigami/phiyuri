@@ -1,0 +1,26 @@
+{
+  "id": 2668,
+  "name": "BASTET",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "moyu",
+  "composer": "Jehezukiel",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/6ab14a80-9624-415f-8a18-f16a9d4aeaea",
+  "preview": "https://phira.5wyxi.com/files/e391ce78-c348-4589-b7cd-b1cc9ac9c3cc",
+  "file": "https://phira.5wyxi.com/files/b4992aed-2173-4a4d-af56-909dc92242f3",
+  "uploader": 5730,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.84461015,
+  "ratingCount": 116,
+  "created": "2023-05-28T00:08:51.861153Z",
+  "updated": "2023-07-26T10:43:17.027136Z",
+  "chartUpdated": "2023-05-28T00:08:51.861153Z"
+}

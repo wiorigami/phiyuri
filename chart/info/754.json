@@ -1,0 +1,31 @@
+{
+  "id": 754,
+  "name": "Shin Takarajima Elevator",
+  "level": "Waiting - IN 11",
+  "difficulty": 0.0,
+  "charter": "PingTKP going UP",
+  "composer": "The Musical Ghost",
+  "illustrator": "",
+  "description": "坐电梯咯！",
+  "ranked": false,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/a93c5a63-3df8-4530-8c5e-bd29ad663193",
+  "preview": "https://phira.5wyxi.com/files/ac15bbfa-92ad-489d-92f2-88314367ddda",
+  "file": "https://phira.5wyxi.com/files/110cf072-c52d-43ed-b0da-edb508809a98",
+  "uploader": 967,
+  "tags": [
+    "regular",
+    "ShinTakarajima",
+    "新宝島",
+    "IN11",
+    "TheMusicalGhost",
+    "PingTKP"
+  ],
+  "rating": 0.9021207,
+  "ratingCount": 4350,
+  "created": "2023-04-25T00:57:00.671517Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-04-25T00:57:00.671517Z"
+}

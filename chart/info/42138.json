@@ -1,0 +1,26 @@
+{
+  "id": 42138,
+  "name": "乐园梦游记",
+  "level": "IN",
+  "difficulty": 15.0,
+  "charter": "柒",
+  "composer": "HOYO-MIX",
+  "illustrator": "",
+  "description": "本人上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fb07fbbc-7393-4c2d-97d7-93dc656d559f",
+  "preview": "https://phira.5wyxi.com/files/846649e4-2f11-4b2d-83e2-5ad4504202a2",
+  "file": "https://phira.5wyxi.com/files/e44aa494-63c8-4577-a43e-6264cf5379d0",
+  "uploader": 25362,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9024409,
+  "ratingCount": 1058,
+  "created": "2025-07-19T13:48:07.907544Z",
+  "updated": "2025-08-28T18:02:11.645927Z",
+  "chartUpdated": "2025-07-19T13:48:07.907544Z"
+}

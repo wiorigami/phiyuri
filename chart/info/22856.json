@@ -1,0 +1,26 @@
+{
+  "id": 22856,
+  "name": "Rubber Band",
+  "level": "AT Lv.16",
+  "difficulty": 16.800001,
+  "charter": "desivr",
+  "composer": "Jackal Queenston",
+  "illustrator": "",
+  "description": "重投，曲绘已修改。\n对于1378~1512cb处的tap和hold，hold判定在右边，tap判定在左边。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/029228d8-954f-43c4-b135-6094a83191ec",
+  "preview": "https://phira.5wyxi.com/files/3ab519de-e322-4b44-b8f8-c28e157906e3",
+  "file": "https://phira.5wyxi.com/files/2befd408-cc57-4d62-8ac0-d1dfc3e8dc28",
+  "uploader": 696993,
+  "tags": [
+    "troll"
+  ],
+  "rating": 0.77622664,
+  "ratingCount": 65,
+  "created": "2024-07-07T06:30:43.347873Z",
+  "updated": "2024-07-07T06:30:43.347873Z",
+  "chartUpdated": "2024-07-07T06:30:43.347873Z"
+}

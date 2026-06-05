@@ -1,0 +1,27 @@
+{
+  "id": 15931,
+  "name": "ほしのおとしもの",
+  "level": "IN   Lv.15",
+  "difficulty": 15.0,
+  "charter": "ほし",
+  "composer": "ああああ",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9194686b-3fbf-4abd-aa90-8247135b0062",
+  "preview": "https://phira.5wyxi.com/files/ade4a6b8-74c9-4165-98a3-879cb3701492",
+  "file": "https://phira.5wyxi.com/files/54305a5f-29a0-439f-8aca-2879150620c6",
+  "uploader": 10762,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "rating": 0.74348897,
+  "ratingCount": 123,
+  "created": "2024-02-17T06:51:01.512762Z",
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "chartUpdated": "2024-02-17T06:51:01.512762Z"
+}

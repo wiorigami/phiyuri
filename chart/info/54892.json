@@ -1,0 +1,26 @@
+{
+  "id": 54892,
+  "name": "World's end BLACKBOX",
+  "level": "AT Lv.16",
+  "difficulty": 16.900002,
+  "charter": "Hosii",
+  "composer": "打打だいず",
+  "illustrator": "",
+  "description": "新人二谱也是第一张高难谱，轻点喷(⋟﹏⋞)（二改:修正了开头的采音错误；修正了闪烁事件带来的判定问题；修改了部分卡手配置）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/6819fa0f-0b13-4ae0-814a-7cfc46903bbc",
+  "preview": "https://phira.5wyxi.com/files/ecbf6c86-7aa8-498f-b02f-b2dadd43bf7b",
+  "file": "https://phira.5wyxi.com/files/bcfe4d0f-08fa-4854-ba2b-4d3ce337074a",
+  "uploader": 1823783,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.83278084,
+  "ratingCount": 9,
+  "created": "2026-04-02T06:28:03.921145Z",
+  "updated": "2026-04-02T06:28:03.921145Z",
+  "chartUpdated": "2026-04-02T06:28:03.921145Z"
+}

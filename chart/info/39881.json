@@ -1,0 +1,26 @@
+{
+  "id": 39881,
+  "name": "Valhalla",
+  "level": "AT Lv.15",
+  "difficulty": 15.0,
+  "charter": "ᛈᛟᛚᛆᚱᛁᛋ",
+  "composer": "Vexento",
+  "illustrator": "",
+  "description": "心血来潮对旧谱进行了翻新。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
+  "preview": "https://phira.5wyxi.com/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
+  "file": "https://phira.5wyxi.com/files/4235f92c-9162-4fd7-8113-3085814a0ece",
+  "uploader": 93292,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.90183496,
+  "ratingCount": 170,
+  "created": "2025-06-18T14:50:04.950304Z",
+  "updated": "2026-06-04T16:30:20.497178Z",
+  "chartUpdated": "2026-06-04T16:30:20.497178Z"
+}

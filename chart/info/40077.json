@@ -1,0 +1,26 @@
+{
+  "id": 40077,
+  "name": "Sakura Fubuki",
+  "level": "IN",
+  "difficulty": 15.0,
+  "charter": "五水合硫酸锌",
+  "composer": "Street",
+  "illustrator": "",
+  "description": "本谱子参考了部分rizline配置。\n难度的话，可能达不到15，四舍五入一下就当15.0了\n物量：673\n判定线：25根\n",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/a871185d-85e8-4392-82fa-dbd8e3381ba0",
+  "preview": "https://phira.5wyxi.com/files/0d0272a7-957c-476d-ad5f-ba67b6bc9b59",
+  "file": "https://phira.5wyxi.com/files/6db88fcd-8085-4363-9f5f-6b2e150847b8",
+  "uploader": 1619374,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.79107165,
+  "ratingCount": 134,
+  "created": "2025-06-22T05:10:21.369215Z",
+  "updated": "2025-06-26T13:59:45.099009Z",
+  "chartUpdated": "2025-06-22T05:10:21.369215Z"
+}

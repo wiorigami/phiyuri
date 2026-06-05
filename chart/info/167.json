@@ -1,0 +1,27 @@
+{
+  "id": 167,
+  "name": "Wildfire",
+  "level": "IN Lv.15",
+  "difficulty": 15.633334,
+  "charter": "醒了不起的AO娇 feat. Faver",
+  "composer": "USAO",
+  "illustrator": "",
+  "description": "USAO金曲，劲爆拍砖，超高物量，底力地狱，等你来戰。这次修改了很多有问题的地方，对大量细节以及部分特效进行了优化。",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/6e9a083f-3acd-4cc8-9e2e-acddb8c2a5b6",
+  "preview": "https://phira.5wyxi.com/files/a718402e-8a36-4849-b3fb-22456e1c6f3e",
+  "file": "https://phira.5wyxi.com/files/149ae1cd-8379-49ce-92ce-dda14aaed5f0",
+  "uploader": 104,
+  "tags": [
+    "USAO",
+    "regular"
+  ],
+  "rating": 0.91933495,
+  "ratingCount": 4293,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "chartUpdated": "2023-06-15T07:39:45.103438Z"
+}

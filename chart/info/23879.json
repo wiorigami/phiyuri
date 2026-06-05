@@ -1,0 +1,26 @@
+{
+  "id": 23879,
+  "name": "かたち",
+  "level": "Abyss Lv.14",
+  "difficulty": 14.500002,
+  "charter": "母鸡",
+  "composer": "安月名莉子",
+  "illustrator": "",
+  "description": "BV1TK411k7VF 谱师本人上传 此为重制版     2024.6.14修改  去除大部分初见杀      2024.6.21  再一次修改，尽可能避免了部分段落引导不足的问题(感谢@点缀星空的建议)      7.9修改    更改了部分抽象note表演，但大部分表演为契合歌曲主题并未删去而保留，若影响游玩请谅解。 微调部分配置使其观感上更为清爽      7.20  感谢@Interjoke国际玩笑 的建议，优化了部分排列，将大部分ln替换为了tap",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/a58ad546-1445-48a7-bd09-136b3fe1fbde",
+  "preview": "https://phira.5wyxi.com/files/41e8585f-00d0-4bde-ae2f-5457f5ba1204",
+  "file": "https://phira.5wyxi.com/files/1fe291f7-4c70-4bb2-968c-b002be62d473",
+  "uploader": 3742,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9508416,
+  "ratingCount": 2269,
+  "created": "2024-07-20T03:27:54.622881Z",
+  "updated": "2024-07-20T13:11:12.432259Z",
+  "chartUpdated": "2024-07-20T03:27:54.622881Z"
+}

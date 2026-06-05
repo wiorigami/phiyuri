@@ -1,0 +1,28 @@
+{
+  "id": 692,
+  "name": "Era Breath",
+  "level": "AT  Lv.16",
+  "difficulty": 16.900003,
+  "charter": "苍穹失信者の喵猫鱼",
+  "composer": "MYUKKE.",
+  "illustrator": "",
+  "description": "谱面作者：\nB站@喵猫鱼\n在2023/4/21做了一次修改，使谱面变成真正的多指魔王。",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/2d669221-37da-473b-a563-f18c078d87ff",
+  "preview": "https://phira.5wyxi.com/files/70e1cb35-3344-4110-8b0b-3aa119bdb0e7",
+  "file": "https://phira.5wyxi.com/files/11c9fe57-cd71-4e4b-a026-34713749e4c4",
+  "uploader": 400,
+  "tags": [
+    "regular",
+    "魔王",
+    "多指"
+  ],
+  "rating": 0.8538917,
+  "ratingCount": 5079,
+  "created": "2023-04-22T09:17:33.011592Z",
+  "updated": "2025-02-26T11:21:20.050115Z",
+  "chartUpdated": "2023-04-22T09:17:33.011592Z"
+}

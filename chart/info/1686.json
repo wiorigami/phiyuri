@@ -1,0 +1,27 @@
+{
+  "id": 1686,
+  "name": "Chariot",
+  "level": "FM (IN) Lv.14",
+  "difficulty": 14.0,
+  "charter": "TXDDZ&Partning",
+  "composer": "USAO",
+  "illustrator": "",
+  "description": "劲爆机械战车，蛇鲸USAOBasshouse",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e4a242bb-140b-4d6e-90cc-331af6d06af7",
+  "preview": "https://phira.5wyxi.com/files/df54c5e5-e538-4b40-80a1-2f21b3c7d5f5",
+  "file": "https://phira.5wyxi.com/files/64de121e-c7bd-4ba0-b2f5-8c3fe772f159",
+  "uploader": 5715,
+  "tags": [
+    "regular",
+    "USAO"
+  ],
+  "rating": 0.8528021,
+  "ratingCount": 299,
+  "created": "2023-05-12T04:11:06.446733Z",
+  "updated": "2023-05-13T01:08:22.444402Z",
+  "chartUpdated": "2023-05-12T04:11:06.446733Z"
+}

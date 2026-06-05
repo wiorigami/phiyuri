@@ -1,0 +1,26 @@
+{
+  "id": 11083,
+  "name": "海神",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "hyt756",
+  "composer": "兎々",
+  "illustrator": "",
+  "description": "Please set Offset(s) : 0.8",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/d0d31ae2-fc1f-4023-85a3-7318aeca1554",
+  "preview": "https://phira.5wyxi.com/files/9948f3ee-0c35-462d-82c8-9e07eca4e71d",
+  "file": "https://phira.5wyxi.com/files/830f0a2d-d022-4df3-865c-1ac606727498",
+  "uploader": 358255,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8465822,
+  "ratingCount": 120,
+  "created": "2023-11-02T11:33:23.603519Z",
+  "updated": "2023-11-02T11:33:23.603519Z",
+  "chartUpdated": "2023-11-02T11:33:23.603519Z"
+}

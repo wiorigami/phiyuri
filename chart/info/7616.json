@@ -1,0 +1,26 @@
+{
+  "id": 7616,
+  "name": "カサネテク",
+  "level": "Player Lv.15",
+  "difficulty": 15.2,
+  "charter": "L_in",
+  "composer": "中村千寻",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/cbef6229-ca67-436b-a6ed-aa861a09668a",
+  "preview": "https://phira.5wyxi.com/files/edf17493-38cc-4f14-bd4d-c8fe22aa62cd",
+  "file": "https://phira.5wyxi.com/files/78515eed-459a-408b-84c7-996d6a79a76c",
+  "uploader": 36402,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8948229,
+  "ratingCount": 520,
+  "created": "2023-08-14T12:11:26.001410Z",
+  "updated": "2023-09-16T13:23:04.159290Z",
+  "chartUpdated": "2023-08-14T12:11:26.001410Z"
+}

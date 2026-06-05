@@ -1,0 +1,26 @@
+{
+  "id": 46544,
+  "name": "Chariot",
+  "level": "IN  Lv.13",
+  "difficulty": 13.200001,
+  "charter": "LogicM",
+  "composer": "USAO",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9f0a6a24-a66c-4142-9b28-dad01eab2efc",
+  "preview": "https://phira.5wyxi.com/files/0271b136-c46c-475d-8ddf-64b507e80b08",
+  "file": "https://phira.5wyxi.com/files/2c8c9451-93af-4074-8ded-2a310eb92e7b",
+  "uploader": 403,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8945463,
+  "ratingCount": 63,
+  "created": "2025-09-07T11:13:41.180890Z",
+  "updated": "2025-10-06T07:36:43.785138Z",
+  "chartUpdated": "2025-09-07T11:13:41.180890Z"
+}

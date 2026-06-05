@@ -1,0 +1,26 @@
+{
+  "id": 3207,
+  "name": "Picasso",
+  "level": "AT Lv.16",
+  "difficulty": 16.6,
+  "charter": "CRAEmix",
+  "composer": "Sakuzyo",
+  "illustrator": "",
+  "description": "重传，对配置与表演进行了大规模优化",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/censored.jpg",
+  "preview": "https://phira.5wyxi.com/files/a285d38d-8ea4-4f5d-92e4-9bd8666c856b",
+  "file": "https://phira.5wyxi.com/files/4b735a3a-d6cb-452c-9af7-e8ab65049ff3",
+  "uploader": 46403,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.85638267,
+  "ratingCount": 531,
+  "created": "2023-06-09T07:17:45.420863Z",
+  "updated": "2023-06-11T15:03:32.319510Z",
+  "chartUpdated": "2023-06-11T15:03:32.319510Z"
+}

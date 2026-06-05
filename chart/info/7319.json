@@ -1,0 +1,26 @@
+{
+  "id": 7319,
+  "name": "デッドマンズバラッド",
+  "level": "IN Lv.15",
+  "difficulty": 15.9,
+  "charter": "mgr@桜属马来娅",
+  "composer": "cosMo@暴走P",
+  "illustrator": "",
+  "description": "这是朴实无华的简介",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9dd85fc5-a2be-471e-99dd-7d8b96939c9c",
+  "preview": "https://phira.5wyxi.com/files/b4dd58a2-47e6-4368-aa42-f939ad38f804",
+  "file": "https://phira.5wyxi.com/files/5d9d02cf-678e-4e80-b601-707defc7b6f7",
+  "uploader": 4706,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9137014,
+  "ratingCount": 931,
+  "created": "2023-08-11T09:31:31.656502Z",
+  "updated": "2023-10-05T14:34:29.050056Z",
+  "chartUpdated": "2023-08-11T09:31:31.656502Z"
+}

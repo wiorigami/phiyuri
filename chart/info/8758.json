@@ -1,0 +1,26 @@
+{
+  "id": 8758,
+  "name": "Star Fall in Evernight City",
+  "level": "AT  Lv.16",
+  "difficulty": 15.500002,
+  "charter": "Zero_5368(SL No.40)",
+  "composer": "Reku Mochizuki",
+  "illustrator": "",
+  "description": "5thPecJam参赛谱\n详情见BV1Lm4y1T72G\n此版本稍作了修改\n前面传的那个版本有一个note忘记调fake了（）此版本已经修好了\n————————\n2025.3.4更新\n定数调整：\n15.9[旧版定数]→16.2[新版定数]",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/97b6bf24-eac0-48f2-a5de-f798a11eab1f",
+  "preview": "https://phira.5wyxi.com/files/069a992d-b3ca-4142-b10f-85fea60ff4a1",
+  "file": "https://phira.5wyxi.com/files/fe5a1d60-9d56-4b11-aab4-b96243ac0933",
+  "uploader": 145,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.89960974,
+  "ratingCount": 1636,
+  "created": "2023-08-30T02:08:22.088630Z",
+  "updated": "2025-03-04T04:29:20.800784Z",
+  "chartUpdated": "2023-08-30T02:08:22.088630Z"
+}

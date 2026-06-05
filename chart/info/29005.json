@@ -1,0 +1,31 @@
+{
+  "id": 29005,
+  "name": "Signal",
+  "level": "AT",
+  "difficulty": 17.0,
+  "charter": "ye -srx-",
+  "composer": "Ludicin",
+  "illustrator": "",
+  "description": "速写，应该不到17 收割难度不高",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/15bd8c4e-581f-4f9f-9302-49315e65edf3",
+  "preview": "https://phira.5wyxi.com/files/97e6882d-6b11-41e4-9f8f-c465f0627598",
+  "file": "https://phira.5wyxi.com/files/5f07120c-2915-496f-9b32-1197b7b7eac9",
+  "uploader": 1182164,
+  "tags": [
+    "高难",
+    "键盘",
+    "AT17",
+    "ludicin",
+    "signal",
+    "plain"
+  ],
+  "rating": 0.9417387,
+  "ratingCount": 90,
+  "created": "2024-10-23T12:15:57.149595Z",
+  "updated": "2024-10-23T12:15:57.149595Z",
+  "chartUpdated": "2024-10-23T12:15:57.149595Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 26687,
+  "name": "MAGENTA POTION",
+  "level": "sp",
+  "difficulty": 14.299996,
+  "charter": "鞍山",
+  "composer": "EmoCosine",
+  "illustrator": "",
+  "description": "第1次写",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/15ffac09-ad89-41c7-ac2f-843889a27bfb",
+  "preview": "https://phira.5wyxi.com/files/13e5bbd2-cfb2-467a-aa39-5c43a6812084",
+  "file": "https://phira.5wyxi.com/files/61c70fca-533b-4f39-a4f4-2a7f014265fd",
+  "uploader": 585430,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88363576,
+  "ratingCount": 2840,
+  "created": "2024-08-21T17:29:20.430193Z",
+  "updated": "2024-11-07T13:57:26.476684Z",
+  "chartUpdated": "2024-08-21T17:29:20.430193Z"
+}

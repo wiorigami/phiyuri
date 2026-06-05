@@ -1,0 +1,26 @@
+{
+  "id": 19335,
+  "name": "Silver",
+  "level": "IN Lv.13",
+  "difficulty": 13.0,
+  "charter": "explld",
+  "composer": "A. G. Cook",
+  "illustrator": "",
+  "description": "非原曲，这里去掉了人声",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/bba3207b-ed70-4b42-bac3-946910ab670c",
+  "preview": "https://phira.5wyxi.com/files/c8aced61-841b-4cf5-92a2-8be9684b7a99",
+  "file": "https://phira.5wyxi.com/files/02fd59a3-a1b3-4cd5-81d7-b8ce2600206c",
+  "uploader": 294754,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8243861,
+  "ratingCount": 64,
+  "created": "2024-05-03T03:56:06.510645Z",
+  "updated": "2024-05-12T01:42:13.745648Z",
+  "chartUpdated": "2024-05-03T03:56:06.510645Z"
+}

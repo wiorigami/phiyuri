@@ -1,0 +1,26 @@
+{
+  "id": 20035,
+  "name": "Avantgarde",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "colGem vs. obj_2333",
+  "composer": "Raimukun",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/25571021-e5ee-4799-8db0-fa0c0edc3d3d",
+  "preview": "https://phira.5wyxi.com/files/3257a6b5-280c-4567-a0c6-0692fcee8ee0",
+  "file": "https://phira.5wyxi.com/files/6dfb6499-2709-4916-b76c-185bab1a8c5e",
+  "uploader": 200,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.752098,
+  "ratingCount": 515,
+  "created": "2024-05-17T15:29:02.584291Z",
+  "updated": "2025-01-26T16:33:43.412392Z",
+  "chartUpdated": "2024-05-17T15:29:02.584291Z"
+}

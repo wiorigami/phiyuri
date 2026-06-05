@@ -1,0 +1,26 @@
+{
+  "id": 10438,
+  "name": "Calamity Fortune",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "南瓜 x lage",
+  "composer": "LeaF",
+  "illustrator": "",
+  "description": "有个bug修了，再麻烦审核一下",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/435dfab5-ecb3-44aa-a084-c9351b054d2c",
+  "preview": "https://phira.5wyxi.com/files/34d3c8e3-f0e6-4150-9015-a6c2ef8d08cd",
+  "file": "https://phira.5wyxi.com/files/7089a3d9-0a28-4d24-8279-25ec23befaf6",
+  "uploader": 482405,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8789599,
+  "ratingCount": 278,
+  "created": "2023-10-14T07:15:25.018179Z",
+  "updated": "2023-10-15T05:33:36.787268Z",
+  "chartUpdated": "2023-10-14T11:28:57.096226Z"
+}

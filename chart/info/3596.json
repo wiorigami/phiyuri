@@ -1,0 +1,26 @@
+{
+  "id": 3596,
+  "name": "ZENITHALZE",
+  "level": "AT",
+  "difficulty": 15.6,
+  "charter": "青杉Erdi",
+  "composer": "Anegasaki Nei",
+  "illustrator": "",
+  "description": "粉谱，延迟-50",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/94e2955b-311e-4d23-8dd0-4ab6543a2f48",
+  "preview": "https://phira.5wyxi.com/files/3b9873c7-bc85-4245-96ce-7d70260e6dad",
+  "file": "https://phira.5wyxi.com/files/5dd8a50b-753d-4f92-8fa5-fe35df508179",
+  "uploader": 2726,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.769129,
+  "ratingCount": 132,
+  "created": "2023-06-17T05:55:51.825230Z",
+  "updated": "2023-06-17T05:55:51.825230Z",
+  "chartUpdated": "2023-06-17T05:55:51.825230Z"
+}

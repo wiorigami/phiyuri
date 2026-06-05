@@ -1,0 +1,29 @@
+{
+  "id": 3987,
+  "name": "Radiant",
+  "level": "IN  Lv.13",
+  "difficulty": 13.8,
+  "charter": "YT_XT",
+  "composer": "塞壬唱片-MSR",
+  "illustrator": "",
+  "description": "本人上传\n个人主页: https://b23.tv/mktRFu7\n写的第一张谱，如有什么写的不好的地方请多多包涵，或者可以直接进b站私信进行批评，欢迎各位评谱！\n23.06.30更新：修复了红键判定异常的bug",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9de13211-094a-49e4-9727-0335937662cd",
+  "preview": "https://phira.5wyxi.com/files/a223a758-cddc-49c0-bf49-685e40ef407a",
+  "file": "https://phira.5wyxi.com/files/5d02df94-e171-46b6-bf68-0fea9fd9bb0b",
+  "uploader": 18020,
+  "tags": [
+    "明日方舟",
+    "塞壬唱片",
+    "明日方舟EP",
+    "regular"
+  ],
+  "rating": 0.9276692,
+  "ratingCount": 2701,
+  "created": "2023-06-24T04:21:15.347917Z",
+  "updated": "2023-06-30T04:20:00.307723Z",
+  "chartUpdated": "2023-06-30T04:20:00.307723Z"
+}

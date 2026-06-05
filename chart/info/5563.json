@@ -1,0 +1,26 @@
+{
+  "id": 5563,
+  "name": "Fervidex",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "LyNx.",
+  "composer": "Feryquitous",
+  "illustrator": "",
+  "description": "谱师在b站@LethyNre\n注：此版本与b站上视频中的版本有所不同，整体无太大出入，这一版是为避免一些不必要的影响正常游玩的bug，望周知。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/374fcf4f-4480-4e7a-90ce-cf6409e4f4af",
+  "preview": "https://phira.5wyxi.com/files/22185865-3800-4626-b817-d91d9b94c6f2",
+  "file": "https://phira.5wyxi.com/files/cbae5f45-29f7-413e-8868-37c6678ead79",
+  "uploader": 3192,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91051966,
+  "ratingCount": 783,
+  "created": "2023-07-18T13:51:39.057145Z",
+  "updated": "2023-07-22T05:40:54.467772Z",
+  "chartUpdated": "2023-07-18T13:51:39.057145Z"
+}

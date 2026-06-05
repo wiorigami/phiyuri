@@ -1,0 +1,26 @@
+{
+  "id": 17688,
+  "name": "G e n g a o z o",
+  "level": "AT Lv.17",
+  "difficulty": 17.0,
+  "charter": "TRixLoid",
+  "composer": "-45",
+  "illustrator": "",
+  "description": "映射段谱面判定 BUG 已修复，本谱面由谱师本人上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/63411fba-9a00-429c-a824-d4202ca8e892",
+  "preview": "https://phira.5wyxi.com/files/b5e6d539-2659-4fa3-902c-1c92fc7fc6cc",
+  "file": "https://phira.5wyxi.com/files/e5824e21-880b-4441-a53c-99b80820746e",
+  "uploader": 840215,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8761121,
+  "ratingCount": 587,
+  "created": "2024-03-29T14:33:48.359150Z",
+  "updated": "2025-03-02T02:39:04.891069Z",
+  "chartUpdated": "2024-03-29T14:33:48.359150Z"
+}

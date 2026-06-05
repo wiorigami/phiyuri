@@ -1,0 +1,26 @@
+{
+  "id": 41992,
+  "name": "Prophesy One",
+  "level": "AT LV.16",
+  "difficulty": 16.300001,
+  "charter": "v0idranges x 1/2ranges",
+  "composer": "vox2",
+  "illustrator": "",
+  "description": "v0idranges=b站化虚归无，1/2ranges=我，是本人上传喵TT，部分配置借鉴b站能搜到的两张chu自制，已修复945combo处错误",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7124ef66-8d1d-44f1-8844-79bc281d3029",
+  "preview": "https://phira.5wyxi.com/files/7b5cc5a3-6dec-4645-abec-e83ba331bc91",
+  "file": "https://phira.5wyxi.com/files/8f5c4f15-f0d1-47dc-83a8-5310bffb1e4a",
+  "uploader": 1759606,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91219515,
+  "ratingCount": 170,
+  "created": "2025-07-18T02:24:53.239513Z",
+  "updated": "2025-07-29T18:55:29.352742Z",
+  "chartUpdated": "2025-07-19T18:55:19.762316Z"
+}

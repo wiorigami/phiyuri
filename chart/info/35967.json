@@ -1,0 +1,26 @@
+{
+  "id": 35967,
+  "name": "Magic",
+  "level": "AT Lv.15",
+  "difficulty": 15.9,
+  "charter": "sys.archive",
+  "composer": "Nhato",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/271f7284-2261-459a-af4f-18405c6f4d5d",
+  "preview": "https://phira.5wyxi.com/files/0430380f-4e92-45fe-ae69-7f70700c4aa3",
+  "file": "https://phira.5wyxi.com/files/7fae5e66-b042-4a51-b66c-f816967a3b66",
+  "uploader": 1482486,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88857937,
+  "ratingCount": 43,
+  "created": "2025-03-31T10:24:05.707270Z",
+  "updated": "2025-04-03T17:57:56.614957Z",
+  "chartUpdated": "2025-03-31T10:24:05.707270Z"
+}

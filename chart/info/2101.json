@@ -1,0 +1,26 @@
+{
+  "id": 2101,
+  "name": "大喜宙",
+  "level": "IN Lv.14",
+  "difficulty": 0.0,
+  "charter": "大瑞矢斯",
+  "composer": "花儿乐队",
+  "illustrator": "",
+  "description": "新版微调。",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/73587272-a05b-4583-afb8-b0bb690f1d94",
+  "preview": "https://phira.5wyxi.com/files/60a657e3-80b9-452b-a8d6-4d4799492e19",
+  "file": "https://phira.5wyxi.com/files/af16be11-c200-4988-a6bc-60bc59579ad1",
+  "uploader": 13095,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9078779,
+  "ratingCount": 865,
+  "created": "2023-05-14T17:33:00.440670Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-05-14T17:33:00.440670Z"
+}

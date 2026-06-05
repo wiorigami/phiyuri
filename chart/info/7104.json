@@ -1,0 +1,28 @@
+{
+  "id": 7104,
+  "name": "火狐之舞",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "海武月地 vs 岚猫",
+  "composer": "影虎。",
+  "illustrator": "",
+  "description": null,
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c0ad9824-7ba4-43d5-9b85-611aea9891b7",
+  "preview": "https://phira.5wyxi.com/files/9447caed-46eb-4642-8482-80d7be638c7c",
+  "file": "https://phira.5wyxi.com/files/3dea55dc-1924-4624-a1dc-cd05a72c5eba",
+  "uploader": 99,
+  "tags": [
+    "SoundVoltex",
+    "LTC",
+    "regular"
+  ],
+  "rating": 0.8712511,
+  "ratingCount": 9292,
+  "created": "2023-08-08T11:53:20.273090Z",
+  "updated": "2024-11-30T06:42:47.971476Z",
+  "chartUpdated": "2023-08-08T11:53:20.273090Z"
+}

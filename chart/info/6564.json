@@ -1,0 +1,26 @@
+{
+  "id": 6564,
+  "name": "DOGMA",
+  "level": "IN.15",
+  "difficulty": 15.0,
+  "charter": "kklca",
+  "composer": "Wotaku、初音",
+  "illustrator": "",
+  "description": "B站UID:483333312，谱师本人上传，后期会继续改进",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/5c81128d-fc86-4648-ba2b-35b7f6f7e110",
+  "preview": "https://phira.5wyxi.com/files/b3f90c5e-8714-4b31-ab84-c4856f9c447e",
+  "file": "https://phira.5wyxi.com/files/56cb2485-489b-4331-9adf-1be64f527523",
+  "uploader": 63,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8693387,
+  "ratingCount": 520,
+  "created": "2023-08-01T07:31:46.548484Z",
+  "updated": "2023-12-30T11:49:35.406531Z",
+  "chartUpdated": "2023-08-01T07:31:46.548484Z"
+}

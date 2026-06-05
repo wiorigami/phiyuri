@@ -1,0 +1,26 @@
+{
+  "id": 3611,
+  "name": "ManaBlast",
+  "level": "EX Lv.16",
+  "difficulty": 16.0,
+  "charter": "DHua fixed by Yumouk with gaOSheng",
+  "composer": "HJLL",
+  "illustrator": "",
+  "description": "本人上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7606d551-2556-425a-af19-fa5bd276f459",
+  "preview": "https://phira.5wyxi.com/files/c59445f8-9069-4258-b5ed-6ba1456fd10e",
+  "file": "https://phira.5wyxi.com/files/b74b2774-2459-492d-ad18-c05a40a642e4",
+  "uploader": 25,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.901065,
+  "ratingCount": 198,
+  "created": "2023-06-17T10:12:47.192350Z",
+  "updated": "2023-06-17T12:02:24.168816Z",
+  "chartUpdated": "2023-06-17T10:12:47.192350Z"
+}

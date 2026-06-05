@@ -1,0 +1,26 @@
+{
+  "id": 34317,
+  "name": "Quaerite Veritatis",
+  "level": "AT Lv.16",
+  "difficulty": 16.700003,
+  "charter": "silicopper",
+  "composer": "Laur",
+  "illustrator": "",
+  "description": "谱师：我 定数：16.2（以旧版定数表为标准） / 16.7（以新版定数表为标准）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/bfa35f64-1b5f-469a-b119-4716980ea881",
+  "preview": "https://phira.5wyxi.com/files/ddfc0f54-b4d7-4a25-b82b-96d56b9b104b",
+  "file": "https://phira.5wyxi.com/files/c6437f02-c1cd-4c27-b6bf-b430f9a4de98",
+  "uploader": 1459509,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.908097,
+  "ratingCount": 318,
+  "created": "2025-02-22T10:36:32.155231Z",
+  "updated": "2025-03-23T00:22:02.012806Z",
+  "chartUpdated": "2025-02-22T10:36:32.155231Z"
+}

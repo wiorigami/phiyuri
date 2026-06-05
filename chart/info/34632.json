@@ -1,0 +1,27 @@
+{
+  "id": 34632,
+  "name": "Dream Chaser (Phira Ver.)",
+  "level": "IN Lv.14",
+  "difficulty": 14.7,
+  "charter": "Churis vs Rhythm",
+  "composer": "Mike Chino",
+  "illustrator": "",
+  "description": "萌新第一张自制谱，灵感来源于缪斯计划，喜欢的话多多支持。曲目经过谱师剪辑，未经允许擅自使用。谱面已更新，修复了一些分道音符bug与排键。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e1fce0bf-1394-410c-8af3-7550aafc1c37",
+  "preview": "https://phira.5wyxi.com/files/d24d64a6-0aa9-4ab5-8e9e-0d72d204e226",
+  "file": "https://phira.5wyxi.com/files/275ab7d2-d3af-4df8-abed-86dc2b81d1ef",
+  "uploader": 528044,
+  "tags": [
+    "缪斯计划",
+    "regular"
+  ],
+  "rating": 0.94389355,
+  "ratingCount": 117,
+  "created": "2025-03-01T04:49:28.598558Z",
+  "updated": "2025-06-13T08:22:05.215542Z",
+  "chartUpdated": "2025-06-13T08:22:05.215542Z"
+}

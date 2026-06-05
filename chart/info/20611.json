@@ -1,0 +1,28 @@
+{
+  "id": 20611,
+  "name": "PAINTER",
+  "level": "IN",
+  "difficulty": 14.8,
+  "charter": "宁你别乱写了",
+  "composer": "you /うぐ",
+  "illustrator": "",
+  "description": "本人上传，微量实验，没什么好说的，就这样吧:\ncd561处的shader由于未知原因，1/4不显示，于是改成了1/5，显示了但却依然没法正常显示，在求助几位大佬无果后放弃了\n其他的我也不多说什么，请（合理）运用垂直判定",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1919e667-4312-4c33-88aa-20bdf283e349",
+  "preview": "https://phira.5wyxi.com/files/7e79c9f5-0730-4407-aad5-65c7da4a2d0d",
+  "file": "https://phira.5wyxi.com/files/161ac024-0f5e-4822-b7ca-22fbf01b6a3a",
+  "uploader": 167894,
+  "tags": [
+    "shader",
+    "故事版",
+    "regular"
+  ],
+  "rating": 0.90424275,
+  "ratingCount": 456,
+  "created": "2024-06-01T07:57:25.657494Z",
+  "updated": "2024-06-02T14:31:21.405423Z",
+  "chartUpdated": "2024-06-01T07:57:25.657494Z"
+}

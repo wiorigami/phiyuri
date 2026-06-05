@@ -1,0 +1,26 @@
+{
+  "id": 8909,
+  "name": "Power Attack",
+  "level": "IN  Lv.14",
+  "difficulty": 14.400002,
+  "charter": "thxing",
+  "composer": "EBIMAYO",
+  "illustrator": "",
+  "description": "二改，调整了一些动效和配置",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/041adb19-1f9d-47b2-8dbb-4c6424512b69",
+  "preview": "https://phira.5wyxi.com/files/1788d337-9139-45e0-9847-4f7d6c390200",
+  "file": "https://phira.5wyxi.com/files/12840e89-c79f-424b-adbf-1408c7a1a47b",
+  "uploader": 26327,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.85228217,
+  "ratingCount": 307,
+  "created": "2023-09-01T08:25:25.914805Z",
+  "updated": "2023-09-01T08:25:25.914805Z",
+  "chartUpdated": "2023-09-01T08:25:25.914805Z"
+}

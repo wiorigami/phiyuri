@@ -1,0 +1,28 @@
+{
+  "id": 130,
+  "name": "Inverted World",
+  "level": "IN Lv.15",
+  "difficulty": 0.0,
+  "charter": "WH_C",
+  "composer": "ARForest",
+  "illustrator": "",
+  "description": "*内含部分剧情文字\r\n\r\n----------2.11更新----------\r\n修复了抽帧效果带来的打击特效消失的问题",
+  "ranked": false,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/bb6b242c-03bd-4719-85c5-442d313b3985",
+  "preview": "https://phira.5wyxi.com/files/1c0a3f68-5c99-4429-af52-78e02822742b",
+  "file": "https://phira.5wyxi.com/files/a2eb9a77-9948-49b7-a2ae-d16241c48713",
+  "uploader": 20,
+  "tags": [
+    "Rotaeno",
+    "故事板",
+    "regular"
+  ],
+  "rating": 0.93542075,
+  "ratingCount": 25767,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-04-02T08:24:52.826382Z"
+}

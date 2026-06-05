@@ -1,0 +1,26 @@
+{
+  "id": 5924,
+  "name": "Boss Rush",
+  "level": "IN Lv.15",
+  "difficulty": 15.500002,
+  "charter": "AWAKEN",
+  "composer": "USAO",
+  "illustrator": "",
+  "description": null,
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7bc73111-1a43-40c1-8a45-032f31f3efcf",
+  "preview": "https://phira.5wyxi.com/files/32c9602c-8cb5-4768-b424-9d1381ed1b73",
+  "file": "https://phira.5wyxi.com/files/2cb4bcb1-ffb6-4db1-aa51-99913d738c05",
+  "uploader": 6134,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.90551764,
+  "ratingCount": 3980,
+  "created": "2023-07-23T15:32:15.247434Z",
+  "updated": "2024-01-21T08:30:19.813105Z",
+  "chartUpdated": "2023-07-23T15:32:15.247434Z"
+}

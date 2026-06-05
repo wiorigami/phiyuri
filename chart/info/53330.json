@@ -1,0 +1,30 @@
+{
+  "id": 53330,
+  "name": "エータ・ベータ・イータ",
+  "level": "Speed",
+  "difficulty": 8.600002,
+  "charter": "Jiuwenzi",
+  "composer": "LuzeriA",
+  "illustrator": "",
+  "description": "DFC 8dan 1/4 drag 325/1736 pass=97.51",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c5ddd5ef-b0f6-45f8-a785-e9a295365080",
+  "preview": "https://phira.5wyxi.com/files/c6621495-f334-49d1-830e-81e6c93860c1",
+  "file": "https://phira.5wyxi.com/files/4f79b056-fc77-4858-8b76-3e4fd07f1cc7",
+  "uploader": 2051085,
+  "tags": [
+    "dfc",
+    "双指",
+    "speed",
+    "纯配置",
+    "plain"
+  ],
+  "rating": 0.95191896,
+  "ratingCount": 265,
+  "created": "2026-02-24T12:25:06.514745Z",
+  "updated": "2026-02-24T12:25:06.514745Z",
+  "chartUpdated": "2026-02-24T12:25:06.514745Z"
+}

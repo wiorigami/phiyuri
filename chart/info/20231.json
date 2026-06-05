@@ -1,0 +1,26 @@
+{
+  "id": 20231,
+  "name": "Southern Cross",
+  "level": "IN Lv.13",
+  "difficulty": 13.0,
+  "charter": "\"I am the crusader of the Southern Cross\"",
+  "composer": "403",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/5a229289-adf4-47db-a194-fda3721ffb42",
+  "preview": "https://phira.5wyxi.com/files/a1908537-e43c-4e3a-87ed-cb0950031dc3",
+  "file": "https://phira.5wyxi.com/files/19e7f0e3-fc53-47f0-aab7-a1653b6e1ff6",
+  "uploader": 31661,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9015192,
+  "ratingCount": 147,
+  "created": "2024-05-22T11:26:54.054084Z",
+  "updated": "2024-05-22T14:33:16.166726Z",
+  "chartUpdated": "2024-05-22T11:26:54.054084Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2645,
+  "name": "Infinity Heaven",
+  "level": "IN Lv.14",
+  "difficulty": 14.1,
+  "charter": "ukjhjl",
+  "composer": "HyuN",
+  "illustrator": "",
+  "description": "本人早期作品。\n2023.6.16 增加了谱面流速，改了好几处地方。部分地方做的还不太好，欢迎纠正。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e73d249f-b557-471c-8b0c-8fd77c399f39",
+  "preview": "https://phira.5wyxi.com/files/bd9c01cd-c53f-43c0-975d-bb34a8180cf6",
+  "file": "https://phira.5wyxi.com/files/770425a5-d563-4318-9aee-d72002daff49",
+  "uploader": 29409,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91047734,
+  "ratingCount": 2472,
+  "created": "2023-05-27T11:48:59.314905Z",
+  "updated": "2023-06-16T12:10:40.540759Z",
+  "chartUpdated": "2023-06-16T12:10:40.540759Z"
+}

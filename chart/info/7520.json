@@ -1,0 +1,29 @@
+{
+  "id": 7520,
+  "name": "HERO",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "H1-u8617",
+  "composer": "Ayase、Rockwell",
+  "illustrator": "",
+  "description": "b站 H1-u8617",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1e90cab2-3dda-446c-955e-4c373419edd6",
+  "preview": "https://phira.5wyxi.com/files/adfc16ca-3ad8-4c16-aa41-d88de6d46120",
+  "file": "https://phira.5wyxi.com/files/7b4dbace-302e-41ef-840d-d62757699801",
+  "uploader": 341581,
+  "tags": [
+    "初音未来",
+    "miku",
+    "魔法未来",
+    "regular"
+  ],
+  "rating": 0.92442673,
+  "ratingCount": 1144,
+  "created": "2023-08-13T04:49:19.266046Z",
+  "updated": "2023-09-17T08:11:49.804738Z",
+  "chartUpdated": "2023-08-13T04:49:19.266046Z"
+}

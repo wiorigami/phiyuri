@@ -1,0 +1,26 @@
+{
+  "id": 7418,
+  "name": "ドーピングダンス (亢奋剂舞)",
+  "level": "MI Lv.15",
+  "difficulty": 15.0,
+  "charter": "jm333",
+  "composer": "STEAKA /初音未来 (初音ミク)",
+  "illustrator": "",
+  "description": "第三次上传，对一些配置进行了改动，修改了表演。更正了画师信息。修正了谱面延迟",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/5bb05a8b-34f9-427e-abc8-311c376f8c40",
+  "preview": "https://phira.5wyxi.com/files/af6b2dd2-0b3b-4a05-87f2-2831bc10add0",
+  "file": "https://phira.5wyxi.com/files/96cd4676-6d7b-4f79-874e-4fb9393e91f5",
+  "uploader": 65,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.92842996,
+  "ratingCount": 13284,
+  "created": "2023-08-12T05:30:11.067267Z",
+  "updated": "2024-07-12T01:23:13.110734Z",
+  "chartUpdated": "2023-08-12T05:30:11.067267Z"
+}

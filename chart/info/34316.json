@@ -1,0 +1,26 @@
+{
+  "id": 34316,
+  "name": "Xerulean",
+  "level": "IN Lv.18",
+  "difficulty": 18.0,
+  "charter": "55752525",
+  "composer": "ZAQUVA",
+  "illustrator": "",
+  "description": "本人上传，BV1wPPNenEiS\n更新日志：\n修复了表演线bug\n排键微调",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0d5a102e-465b-4f32-a7a6-94144c278860",
+  "preview": "https://phira.5wyxi.com/files/cad0629e-4b27-4902-9114-a3261942aa86",
+  "file": "https://phira.5wyxi.com/files/3a40d163-e61f-48f1-83af-d16bedcda6bb",
+  "uploader": 1492307,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8535003,
+  "ratingCount": 39,
+  "created": "2025-02-22T10:28:55.149953Z",
+  "updated": "2025-03-07T08:59:46.345856Z",
+  "chartUpdated": "2025-03-07T08:59:46.345856Z"
+}

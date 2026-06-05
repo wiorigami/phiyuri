@@ -1,0 +1,27 @@
+{
+  "id": 12389,
+  "name": "See You Next Time!",
+  "level": "IN Lv.12",
+  "difficulty": 12.7,
+  "charter": "SWJsY3lh",
+  "composer": "Takehirotei",
+  "illustrator": "",
+  "description": "第二张谱\n第一张谱被瑞平采音了QAQ\n更新：找了几个人问了下建议 修改了少量位移 和背景判定线的透明度 增加了倒打反应时间 ",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7fb021ec-50dc-4c05-9192-79db1296541e",
+  "preview": "https://phira.5wyxi.com/files/8fe349dc-df62-48c5-937a-06de47b20bb2",
+  "file": "https://phira.5wyxi.com/files/1a9aa4b6-5e62-4fa3-a306-03babde0060d",
+  "uploader": 593303,
+  "tags": [
+    "OMT2023",
+    "regular"
+  ],
+  "rating": 0.9220465,
+  "ratingCount": 475,
+  "created": "2023-12-11T15:30:03.966475Z",
+  "updated": "2024-06-01T10:55:36.027537Z",
+  "chartUpdated": "2023-12-12T15:36:46.650254Z"
+}

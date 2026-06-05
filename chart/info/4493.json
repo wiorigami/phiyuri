@@ -1,0 +1,26 @@
+{
+  "id": 4493,
+  "name": "Good Life",
+  "level": "IN  Lv.15",
+  "difficulty": 0.0,
+  "charter": "LogicM",
+  "composer": "litmus*",
+  "illustrator": "",
+  "description": "",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/e699096e-1536-4f14-b1a7-ad5b878a906a",
+  "preview": "https://phira.5wyxi.com/files/b84c00e2-47f9-472d-93cd-3b4d3c3ad259",
+  "file": "https://phira.5wyxi.com/files/47175fe2-1a79-45a5-b1fc-c7529240db2d",
+  "uploader": 403,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8955126,
+  "ratingCount": 1890,
+  "created": "2023-07-02T11:58:50.279395Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-07-02T11:58:50.279395Z"
+}

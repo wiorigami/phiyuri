@@ -1,0 +1,27 @@
+{
+  "id": 13072,
+  "name": "Spin Eternally",
+  "level": "IN Lv.16",
+  "difficulty": 16.2,
+  "charter": "Tyarnl",
+  "composer": "Camellia",
+  "illustrator": "",
+  "description": "谱师 Tyarnl_679 第一张多指谱 修改了上一张的bug（表演note未设置成fake）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0e138f99-b893-4d11-ad62-802625ebeb33",
+  "preview": "https://phira.5wyxi.com/files/bca0da1b-92ff-4715-aaf0-274cbb7881b5",
+  "file": "https://phira.5wyxi.com/files/92877e74-7c55-426a-b0de-8b59c7750fbc",
+  "uploader": 94509,
+  "tags": [
+    "BeatSaber",
+    "regular"
+  ],
+  "rating": 0.92358774,
+  "ratingCount": 1210,
+  "created": "2023-12-31T11:50:18.443409Z",
+  "updated": "2023-12-31T11:50:18.443409Z",
+  "chartUpdated": "2023-12-31T11:50:18.443409Z"
+}

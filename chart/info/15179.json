@@ -1,0 +1,27 @@
+{
+  "id": 15179,
+  "name": "BirdSprite",
+  "level": "High Lv.15",
+  "difficulty": 15.0,
+  "charter": "6thPecJam",
+  "composer": "syatten",
+  "illustrator": "",
+  "description": "三天做完，可能有一些细节做得不是很好，还有请各位大佬斧正，谢谢",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fef38d63-c523-4584-8e85-e4733edc6a53",
+  "preview": "https://phira.5wyxi.com/files/afd0d049-52a8-457c-b559-55f16a2ca40d",
+  "file": "https://phira.5wyxi.com/files/215f2e9b-902a-4cf6-967e-f6c8d89565ef",
+  "uploader": 220150,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "rating": null,
+  "ratingCount": 0,
+  "created": "2024-02-09T17:04:45.279480Z",
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "chartUpdated": "2024-02-09T17:04:45.279480Z"
+}

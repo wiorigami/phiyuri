@@ -1,0 +1,26 @@
+{
+  "id": 2845,
+  "name": "ラグトレイン",
+  "level": "IN Lv.14",
+  "difficulty": 14.500002,
+  "charter": "vitamin b",
+  "composer": "稲葉曇",
+  "illustrator": "",
+  "description": "B站：没有营养的维生素b\n已修复561出现了三个键的bug",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/36933f96-4340-40d8-a454-9cde916cac3c",
+  "preview": "https://phira.5wyxi.com/files/422cb842-7b39-41f3-99ba-d43bdd973b8a",
+  "file": "https://phira.5wyxi.com/files/d575fde4-a05f-4278-810c-da8dc1f8a3b6",
+  "uploader": 51727,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9061311,
+  "ratingCount": 2875,
+  "created": "2023-06-02T16:14:58.204183Z",
+  "updated": "2023-06-03T05:19:23.305147Z",
+  "chartUpdated": "2023-06-03T03:01:01.260757Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 24523,
+  "name": "Star Cape",
+  "level": "IN Lv.14",
+  "difficulty": 14.199999,
+  "charter": "Yu_Sh_Q with shining SkyStar",
+  "composer": "打打だいず",
+  "illustrator": "",
+  "description": "感谢您来游玩谱面！本谱为一改谱，于2025.1.30上传，主要修改了脑裂段的配置，重置了一些地方的处理方式，零零散散的一些修改见B站视频\nB站视频bv号：BV1xpFLeVED6\n欢迎B站关注@Yu_Sh_Q！\n2025.7.15修改:定数由14.4下调至14.2\n我算是写了一张真正的纯良谱了哈哈哈（\n —————————————— \n谱面信息：\n曲名：Star Cape \n难度：IN Lv.14 \n定数：14.2（旧体系下14.4）\n物量：800 \n曲：打打だいず\n绘：Axle \n谱：Yu_Sh_Q with shining SkyStar",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9bb405dc-7d8b-4916-b308-f79be6172691",
+  "preview": "https://phira.5wyxi.com/files/a78cd91a-0ae9-4783-b0f3-ecc3b1d7f81c",
+  "file": "https://phira.5wyxi.com/files/34ad1d69-bc80-4e8a-9636-2272abecf736",
+  "uploader": 62495,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9204238,
+  "ratingCount": 330,
+  "created": "2024-07-28T04:00:18.722926Z",
+  "updated": "2025-07-15T10:13:55.617242Z",
+  "chartUpdated": "2025-01-30T10:42:16.291464Z"
+}

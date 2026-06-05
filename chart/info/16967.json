@@ -1,0 +1,27 @@
+{
+  "id": 16967,
+  "name": "Stardust",
+  "level": "AT Lv.19",
+  "difficulty": 19.800003,
+  "charter": "HORNEEE",
+  "composer": "mmry",
+  "illustrator": "",
+  "description": "DCC No.07 本人上船，2024.4.15日修改了一些信息，定数改为19.2，2025.2.15修改定数为19.8",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c1be095d-8ea6-42f3-bc49-ab12742ea8de",
+  "preview": "https://phira.5wyxi.com/files/b03cb2fd-a4f5-4f7d-a229-5370834a44a6",
+  "file": "https://phira.5wyxi.com/files/32509c1a-a2ef-42a7-8afe-095f864a5105",
+  "uploader": 3955,
+  "tags": [
+    "dynamix",
+    "regular"
+  ],
+  "rating": 0.5839275,
+  "ratingCount": 269,
+  "created": "2024-03-10T02:31:38.864033Z",
+  "updated": "2025-02-15T05:11:03.577149Z",
+  "chartUpdated": "2024-03-10T02:31:38.864033Z"
+}

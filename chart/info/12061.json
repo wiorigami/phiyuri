@@ -1,0 +1,27 @@
+{
+  "id": 12061,
+  "name": "Headache",
+  "level": "IN Lv.13",
+  "difficulty": 13.0,
+  "charter": "Dusk",
+  "composer": "NceS",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1a5ed0b8-22f0-4beb-86c9-3e4c35357a36",
+  "preview": "https://phira.5wyxi.com/files/c5d952ce-66ff-42b8-a20d-9d297fd46b3d",
+  "file": "https://phira.5wyxi.com/files/a56ecc2a-75ac-4d04-b17a-551fd0b9815d",
+  "uploader": 3375,
+  "tags": [
+    "Orzmic",
+    "troll"
+  ],
+  "rating": 0.8743361,
+  "ratingCount": 43,
+  "created": "2023-12-03T03:07:54.374740Z",
+  "updated": "2023-12-03T06:46:08.650521Z",
+  "chartUpdated": "2023-12-03T03:07:54.374740Z"
+}

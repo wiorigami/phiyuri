@@ -1,0 +1,26 @@
+{
+  "id": 35366,
+  "name": "Sphalerite",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "Yulisaku（Yurisky_&MooniteSakust&阿狸A_Li）",
+  "composer": "RYOQUCHA & CS4W",
+  "illustrator": "",
+  "description": "已修复红键的露陷问题  ｜  2025.8.1:修改了若干不合理的配置  |  bilibili：BV1HGQhYoELv  |  谱师：@MooniteSakust#8883 ，@NiLi#93670 ，Yurisky_   |  感谢KaNotεИ，Dr.Asriel，Adair-FarewelL,氷川秋乃,Necrologist提供的修改建议",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/90c26f93-bef6-4278-a1dc-926cc2ae9f1c",
+  "preview": "https://phira.5wyxi.com/files/3094dd50-af42-45a9-b862-b18b30eeb2b8",
+  "file": "https://phira.5wyxi.com/files/9b42ad6a-adfe-4254-a926-156a41af11ef",
+  "uploader": 89136,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9433331,
+  "ratingCount": 1248,
+  "created": "2025-03-16T14:05:24.659423Z",
+  "updated": "2026-05-01T02:39:15.612567Z",
+  "chartUpdated": "2025-08-01T15:22:03.489964Z"
+}

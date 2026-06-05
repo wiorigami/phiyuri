@@ -1,0 +1,28 @@
+{
+  "id": 53407,
+  "name": "Avantgarde",
+  "level": "IN Lv.16",
+  "difficulty": 16.600002,
+  "charter": "L-DOU(fixed by YRN)",
+  "composer": "Raimukun",
+  "illustrator": "",
+  "description": "双指底力谱\n谱师：L-DOU&Yurina_Nasa\n物量：1539\n事件：不知道\n\n\n玉瑞那那三主要负责了修改配置和添加特效\n\n绿豆主要负责了拉十",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/b28ad782-2b3f-4524-9031-0cb997eb9743",
+  "preview": "https://phira.5wyxi.com/files/04cc2ac9-0515-4f74-a171-32cfcf8c4b80",
+  "file": "https://phira.5wyxi.com/files/00396fa9-8650-4caf-8c74-24eaaf82f7af",
+  "uploader": 262857,
+  "tags": [
+    "双指",
+    "底力",
+    "regular"
+  ],
+  "rating": 0.9216158,
+  "ratingCount": 444,
+  "created": "2026-02-25T16:08:50.036899Z",
+  "updated": "2026-03-07T10:39:05.953200Z",
+  "chartUpdated": "2026-02-25T16:08:50.036899Z"
+}

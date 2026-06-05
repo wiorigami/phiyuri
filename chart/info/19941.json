@@ -1,0 +1,26 @@
+{
+  "id": 19941,
+  "name": "ネオネオン",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "Anxve13",
+  "composer": "DECO*27",
+  "illustrator": "",
+  "description": "第三版 本人投\n由于谱面是判定线贴图拼接 所以平板玩起来会出现长条距离有问题/断裂/等奇怪的问题\n推荐宽比高1.77778 音符大小1 体验感会更好一点\n",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fd490064-f744-43da-84d9-52727816c016",
+  "preview": "https://phira.5wyxi.com/files/7b37d2a1-7410-4644-a655-6e2381401474",
+  "file": "https://phira.5wyxi.com/files/f17d7475-25df-4b02-be0a-04ae103fdd2b",
+  "uploader": 455830,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9571937,
+  "ratingCount": 1194,
+  "created": "2024-05-14T03:47:24.653853Z",
+  "updated": "2024-06-28T05:12:08.401613Z",
+  "chartUpdated": "2024-05-14T03:47:24.653853Z"
+}

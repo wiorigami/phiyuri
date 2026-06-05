@@ -1,0 +1,26 @@
+{
+  "id": 2535,
+  "name": "2000VOLT",
+  "level": "IN Lv.15",
+  "difficulty": 15.7,
+  "charter": "Vostoney",
+  "composer": "ALTA",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f78952ca-a425-42f1-bae8-b3ffd7219391",
+  "preview": "https://phira.5wyxi.com/files/dc08cc28-e076-461a-8ac3-578c243afde2",
+  "file": "https://phira.5wyxi.com/files/d380a8b9-98b1-4102-9d66-faf95e428f6a",
+  "uploader": 35647,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.74436194,
+  "ratingCount": 349,
+  "created": "2023-05-25T13:49:00.896167Z",
+  "updated": "2024-09-05T15:36:54.093211Z",
+  "chartUpdated": "2023-05-25T13:49:00.896167Z"
+}

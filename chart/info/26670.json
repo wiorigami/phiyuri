@@ -1,0 +1,26 @@
+{
+  "id": 26670,
+  "name": "Grimheart",
+  "level": "AT Lv.14",
+  "difficulty": 14.400002,
+  "charter": "Cookie_awa",
+  "composer": "Puru",
+  "illustrator": "",
+  "description": "修复了 162cb 处 Hold 无法点击的问题\n修改了 329cb  471cb 处 Flick引导时间\n========================\n谱师b站@Cookie_wa",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/683a0d33-ea54-45a3-9960-f59fcc3c505e",
+  "preview": "https://phira.5wyxi.com/files/39ff7671-1132-4aa0-9376-64ce690a2543",
+  "file": "https://phira.5wyxi.com/files/09f38749-0dec-4d62-882a-6d83af2e3072",
+  "uploader": 8664,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9004814,
+  "ratingCount": 324,
+  "created": "2024-08-21T10:22:34.289589Z",
+  "updated": "2024-08-25T08:09:59.207311Z",
+  "chartUpdated": "2024-08-25T08:09:59.207311Z"
+}

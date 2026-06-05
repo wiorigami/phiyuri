@@ -1,0 +1,28 @@
+{
+  "id": 28128,
+  "name": "玩具狂奏曲 -終焉-",
+  "level": "AT Lv.16",
+  "difficulty": 16.500002,
+  "charter": "タイ コウ シ",
+  "composer": "きくお",
+  "illustrator": "",
+  "description": "3rdWJC参赛谱面修改版。\n优化排键。增强旋转纵连可玩性，可沿hold方向使用垂直判定。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/cd59b0f8-b4c3-4481-9489-ab3ddd63874c",
+  "preview": "https://phira.5wyxi.com/files/8cecb39c-21fa-41fe-be18-f4b4daa1542e",
+  "file": "https://phira.5wyxi.com/files/35a447a3-dc48-4668-9551-61f40ec3c0ae",
+  "uploader": 863573,
+  "tags": [
+    "CHUNITHM",
+    "WJC",
+    "regular"
+  ],
+  "rating": 0.58499044,
+  "ratingCount": 273,
+  "created": "2024-09-28T22:23:55.642981Z",
+  "updated": "2024-09-28T22:23:55.642981Z",
+  "chartUpdated": "2024-09-28T22:23:55.642981Z"
+}

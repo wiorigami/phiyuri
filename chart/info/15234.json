@@ -1,0 +1,27 @@
+{
+  "id": 15234,
+  "name": "Sky",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "6thPecJam",
+  "composer": "OAO",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/a677ab75-321c-4cae-bade-790542bd3845",
+  "preview": "https://phira.5wyxi.com/files/8989bc1e-c345-4373-ba25-f6402f3866cf",
+  "file": "https://phira.5wyxi.com/files/69b4bd3a-e045-44b6-8823-46ae00e8c313",
+  "uploader": 623634,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "rating": null,
+  "ratingCount": 0,
+  "created": "2024-02-10T03:44:09.930793Z",
+  "updated": "2024-03-09T15:24:17.835540Z",
+  "chartUpdated": "2024-02-10T03:44:09.930793Z"
+}

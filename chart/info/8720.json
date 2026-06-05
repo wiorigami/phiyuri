@@ -1,0 +1,28 @@
+{
+  "id": 8720,
+  "name": "洞穴",
+  "level": "RF Lv.6",
+  "difficulty": 14.7,
+  "charter": "MinKave",
+  "composer": "TDX-特仑苏",
+  "illustrator": "",
+  "description": "谱师：Zes M Young\n早期谱中比较好的（\n致审核：为什么我收到邮件我的解锁未来过审但是没有在任何分区看到谱面？而且它还占用了我的unstable谱位。希望能尽快解决。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3776c566-df2e-4b04-bb24-163d320a2f9a",
+  "preview": "https://phira.5wyxi.com/files/8e2701ac-497e-4c67-84d0-ee9b965246e4",
+  "file": "https://phira.5wyxi.com/files/09b31535-2696-466a-8ed8-b49592dcb1d4",
+  "uploader": 412688,
+  "tags": [
+    "RS",
+    "滚动的天空",
+    "regular"
+  ],
+  "rating": 0.9052252,
+  "ratingCount": 658,
+  "created": "2023-08-29T13:52:02.905328Z",
+  "updated": "2023-08-30T09:11:11.706050Z",
+  "chartUpdated": "2023-08-29T13:52:02.905328Z"
+}

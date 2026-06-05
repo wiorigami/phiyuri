@@ -1,0 +1,27 @@
+{
+  "id": 2708,
+  "name": "Avantgarde",
+  "level": "AT Lv.16",
+  "difficulty": 16.300001,
+  "charter": "飞飞XL",
+  "composer": "Raimukun",
+  "illustrator": "",
+  "description": "请上B站关注谱师-飞飞XL-谢谢喵",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/5ed6fb8a-be16-439f-afcd-381404770c7a",
+  "preview": "https://phira.5wyxi.com/files/c58f8d38-3280-4450-8b1e-0459063ec966",
+  "file": "https://phira.5wyxi.com/files/527ef52f-7519-49c4-856e-0e3d21c24bdc",
+  "uploader": 410,
+  "tags": [
+    "BOFET",
+    "regular"
+  ],
+  "rating": 0.9101827,
+  "ratingCount": 7166,
+  "created": "2023-05-28T11:12:09.122459Z",
+  "updated": "2023-09-26T15:19:40.074261Z",
+  "chartUpdated": "2023-05-28T11:12:09.122459Z"
+}

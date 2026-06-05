@@ -1,0 +1,26 @@
+{
+  "id": 775,
+  "name": "Cyber Induction",
+  "level": "Stamina",
+  "difficulty": 16.0,
+  "charter": "Iblcya",
+  "composer": "DJ SHARPNEL",
+  "illustrator": "",
+  "description": "未加特效版本 特效todo/招人",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/030b1417-2103-44dc-aaa1-44bfdfbb56ed",
+  "preview": "https://phira.5wyxi.com/files/9ec17a69-c619-4237-b0f2-98116dd812b3",
+  "file": "https://phira.5wyxi.com/files/d770daa4-e5f7-4abd-b078-82c6fb0efeee",
+  "uploader": 77,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.87099135,
+  "ratingCount": 524,
+  "created": "2023-04-25T23:22:16.315949Z",
+  "updated": "2023-04-25T23:22:16.315949Z",
+  "chartUpdated": "2023-04-25T23:22:16.315949Z"
+}

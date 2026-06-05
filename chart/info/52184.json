@@ -1,0 +1,27 @@
+{
+  "id": 52184,
+  "name": "Encounter",
+  "level": "4K Normal Lv.21",
+  "difficulty": 21.0,
+  "charter": "N_neo",
+  "composer": "litmus*",
+  "illustrator": "",
+  "description": "Charter：NSR（N_neo）  制谱净时长：5h  谱师本人上传，非转谱。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7a1fba49-2536-4dbc-bf06-cbc44dce31a0",
+  "preview": "https://phira.5wyxi.com/files/5ed41d96-81af-460b-9134-80e8d6547afa",
+  "file": "https://phira.5wyxi.com/files/9536c916-8090-4439-9914-a3829aa34c2a",
+  "uploader": 1142877,
+  "tags": [
+    "4k",
+    "plain"
+  ],
+  "rating": 0.95489866,
+  "ratingCount": 383,
+  "created": "2026-02-06T14:26:06.958295Z",
+  "updated": "2026-05-07T07:42:04.580280Z",
+  "chartUpdated": "2026-02-06T14:26:06.958295Z"
+}

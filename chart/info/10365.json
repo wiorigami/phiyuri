@@ -1,0 +1,26 @@
+{
+  "id": 10365,
+  "name": "ANOMALY",
+  "level": "SP Lv.?",
+  "difficulty": 10.0,
+  "charter": "Allen",
+  "composer": "Camellia",
+  "illustrator": "",
+  "description": "第一張譜 爛很正常（改過譜）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/80eb14ef-b325-4798-a34c-9f8f5e76a705",
+  "preview": "https://phira.5wyxi.com/files/4c279c25-7326-4507-825d-f6bd66c19397",
+  "file": "https://phira.5wyxi.com/files/fd875440-2a90-45d5-aa69-8821d53b6690",
+  "uploader": 461807,
+  "tags": [
+    "visual"
+  ],
+  "rating": 0.895212,
+  "ratingCount": 320,
+  "created": "2023-10-11T10:29:54.205321Z",
+  "updated": "2023-10-11T10:29:54.205321Z",
+  "chartUpdated": "2023-10-11T10:29:54.205321Z"
+}

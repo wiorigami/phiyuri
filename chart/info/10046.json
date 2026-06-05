@@ -1,0 +1,26 @@
+{
+  "id": 10046,
+  "name": "音弾超人ゴリライザー",
+  "level": "超人",
+  "difficulty": 0.1,
+  "charter": "sJDeviko",
+  "composer": "ゴリライザー制作委員会",
+  "illustrator": "",
+  "description": "啊?",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f9de9137-3dec-4f8a-83ad-a1766a198d19",
+  "preview": "https://phira.5wyxi.com/files/79d1fcae-ae6c-4ced-a996-206637d35cae",
+  "file": "https://phira.5wyxi.com/files/49fb6de0-6cbc-4081-bf57-1e916b472584",
+  "uploader": 24766,
+  "tags": [
+    "troll"
+  ],
+  "rating": 0.77254426,
+  "ratingCount": 128,
+  "created": "2023-10-02T11:59:46.047210Z",
+  "updated": "2024-01-10T15:20:25.213685Z",
+  "chartUpdated": "2023-11-09T09:53:57.149682Z"
+}

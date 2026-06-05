@@ -1,0 +1,26 @@
+{
+  "id": 5025,
+  "name": "Realms",
+  "level": "AT Lv.15",
+  "difficulty": 15.800003,
+  "charter": "ZYM Real SLTORG",
+  "composer": "Hinkik,A Himitsu ",
+  "illustrator": "",
+  "description": "这张谱面是和@郑大昌本昌 的联合制作，@郑大昌本昌 负责0～422、529～804、941～1068的配置和595～714的表演（剩下的归我）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/822893b0-6aba-43b4-90b4-198baac5c255",
+  "preview": "https://phira.5wyxi.com/files/165c7785-3126-4c6b-b96a-953d8cbfd087",
+  "file": "https://phira.5wyxi.com/files/d3e03901-02fa-4ebe-ac9f-e7d8a1830d1c",
+  "uploader": 45568,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8330298,
+  "ratingCount": 1278,
+  "created": "2023-07-09T13:45:50.658274Z",
+  "updated": "2023-07-15T05:41:24.155520Z",
+  "chartUpdated": "2023-07-09T13:45:50.658274Z"
+}

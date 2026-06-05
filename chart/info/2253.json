@@ -1,0 +1,27 @@
+{
+  "id": 2253,
+  "name": "ヒアソビ",
+  "level": "IN  Lv.15",
+  "difficulty": 0.0,
+  "charter": "Naptie",
+  "composer": "かめりあ",
+  "illustrator": "",
+  "description": "",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/ee66bb21-81ed-43f3-b215-c8fa8beff425",
+  "preview": "https://phira.5wyxi.com/files/d14a1b50-b273-4e46-b339-9aaa64e959ba",
+  "file": "https://phira.5wyxi.com/files/f3c0e6f7-bd0b-40fe-98fb-73a6cdafb8e6",
+  "uploader": 25933,
+  "tags": [
+    "VOCALOID",
+    "regular"
+  ],
+  "rating": 0.9113809,
+  "ratingCount": 4649,
+  "created": "2023-05-18T14:53:30.346043Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-05-18T14:53:30.346043Z"
+}

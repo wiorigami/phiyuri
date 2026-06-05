@@ -1,0 +1,26 @@
+{
+  "id": 23638,
+  "name": "はいよろこんで[乐意效劳]",
+  "level": "AT-15",
+  "difficulty": 15.0,
+  "charter": "ERBROR",
+  "composer": "こっちのけんと",
+  "illustrator": "",
+  "description": "把之前的版本中有的问题修复了一下",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/18f71be2-1293-4264-9c49-b3fe7646627c",
+  "preview": "https://phira.5wyxi.com/files/2ca98e89-4cd2-4055-9e7a-d4d91d8ae3fa",
+  "file": "https://phira.5wyxi.com/files/d71c8734-59eb-4fb9-ac08-4f5e8c4f3155",
+  "uploader": 362924,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8202171,
+  "ratingCount": 1104,
+  "created": "2024-07-17T03:40:37.589460Z",
+  "updated": "2024-07-17T03:40:37.589460Z",
+  "chartUpdated": "2024-07-17T03:40:37.589460Z"
+}

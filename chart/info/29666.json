@@ -1,0 +1,26 @@
+{
+  "id": 29666,
+  "name": "The Awakening",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "The_NewMan",
+  "composer": "Philipp Beesen",
+  "illustrator": "",
+  "description": "谱面几乎重构\n原本是发自于2023上半年的新手谱面，近期优化发布\n算是当时写的第一个Lv15\n为了遵从原著设定，线的多少是没有任何变化的，但是为了稳住15.1地定数，整体难度分布会有所不均，手感不保证优质，早期谱面优化，写的差还请见谅\n\n视频已经发布至B站(BV1qk4y1L7Kf)如需录制手元等请@谱师",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/808d780f-184d-4730-af4e-a2a59a7bed92",
+  "preview": "https://phira.5wyxi.com/files/2d2e7c42-4342-42e8-9048-0e509f0d5466",
+  "file": "https://phira.5wyxi.com/files/a56800ba-bc2b-440b-818c-ed6f882df3b7",
+  "uploader": 338,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8934741,
+  "ratingCount": 72,
+  "created": "2024-11-14T16:27:25.064095Z",
+  "updated": "2024-11-14T16:27:25.064095Z",
+  "chartUpdated": "2024-11-14T16:27:25.064095Z"
+}

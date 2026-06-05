@@ -1,0 +1,26 @@
+{
+  "id": 64,
+  "name": "GOODWORLD",
+  "level": "AT",
+  "difficulty": 15.600002,
+  "charter": "我",
+  "composer": "EBIMAYO",
+  "illustrator": "EBIMAYO",
+  "description": "谱师：我 (Uranusqwq)\n谱师的初谱\n谱面有高流速，离谱配置，卡手，还原bga，谱面十分帅气\n原谱IN15.7已修改为AT15.6 进行了一点优化，但似乎不影响这张谱面的难度）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/beaa3e7d-191d-4724-aad1-758a938ef743",
+  "preview": "https://phira.5wyxi.com/files/f2191891-bae0-42f8-a008-84a9dba0185a",
+  "file": "https://phira.5wyxi.com/files/3c135a9c-1768-4202-989c-290ff8bf807e",
+  "uploader": 84,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.873209,
+  "ratingCount": 849,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "chartUpdated": "2023-04-02T08:24:52.826382Z"
+}

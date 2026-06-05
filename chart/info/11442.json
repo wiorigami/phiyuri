@@ -1,0 +1,26 @@
+{
+  "id": 11442,
+  "name": "Reality Distortion",
+  "level": "AT Lv.16",
+  "difficulty": 16.6,
+  "charter": "Rizur & Kalsey",
+  "composer": "Akira Complex / かめりあ",
+  "illustrator": "",
+  "description": "因谱面部分动效产生播放器bug而导致本谱面无法提供视频预览投放至B站；请在著作权审核时自查B站UID82707502标有“S2N67L”的动态（它的发出时间应该在这个投稿请求之后），其附有该投稿账号ID。\n谱面文件上传已经过所有参与制作的谱师的同意（Rizur即提到的UID，可查证或直接私信；Kalsey为本人，Phira账号为该账号Kaltist）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f4c75476-eb89-4a62-8c7a-4998ad4301bd",
+  "preview": "https://phira.5wyxi.com/files/27b9a79e-5a71-408b-9784-837be6e45641",
+  "file": "https://phira.5wyxi.com/files/34fe652c-d0b7-4d29-b7e8-d571c9600e6f",
+  "uploader": 24821,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91160065,
+  "ratingCount": 401,
+  "created": "2023-11-12T16:47:06.278657Z",
+  "updated": "2026-01-29T12:19:34.542649Z",
+  "chartUpdated": "2023-11-12T16:47:06.278657Z"
+}

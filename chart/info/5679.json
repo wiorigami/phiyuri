@@ -1,0 +1,26 @@
+{
+  "id": 5679,
+  "name": "Sinkhole",
+  "level": "IN Lv.15",
+  "difficulty": 15.600002,
+  "charter": "Team - Plum",
+  "composer": "Plum",
+  "illustrator": "",
+  "description": "由谱师之一奇诺进行上传并且已获得其余谱师的允许",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f0a0e794-77c1-475c-a01f-2e554cbae97f",
+  "preview": "https://phira.5wyxi.com/files/cfc3c7aa-2545-4aea-9019-375ecbbcaf73",
+  "file": "https://phira.5wyxi.com/files/1fa43955-f6fb-4b02-a2fb-e2bbe59e274b",
+  "uploader": 312,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.95245844,
+  "ratingCount": 2885,
+  "created": "2023-07-20T11:02:01.066736Z",
+  "updated": "2023-07-23T10:56:32.964886Z",
+  "chartUpdated": "2023-07-23T10:55:40.078327Z"
+}

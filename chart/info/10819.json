@@ -1,0 +1,27 @@
+{
+  "id": 10819,
+  "name": "Chariot",
+  "level": "HD Lv.12",
+  "difficulty": 12.600002,
+  "charter": "rokrenUra",
+  "composer": "USAO",
+  "illustrator": "",
+  "description": "铺面为本人学员杯参赛谱面\ntip：632cb处为方便读谱将黄键修改到能垂直判定的位置\n以及谱面里长条伸缩是用fakenote实现的，由于phigros特有的长条双押提示导致观感直接被破坏，望周知：）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/461c9775-c248-4336-8475-d02de00f06e7",
+  "preview": "https://phira.5wyxi.com/files/63820622-14eb-4bf1-b983-121a3372f35a",
+  "file": "https://phira.5wyxi.com/files/988a90b0-aecf-4696-af0e-4329640910c3",
+  "uploader": 65907,
+  "tags": [
+    "WACCA",
+    "regular"
+  ],
+  "rating": 0.9396809,
+  "ratingCount": 268,
+  "created": "2023-10-24T15:37:59.789696Z",
+  "updated": "2023-10-25T04:07:27.315430Z",
+  "chartUpdated": "2023-10-24T15:37:59.789696Z"
+}

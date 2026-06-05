@@ -1,0 +1,26 @@
+{
+  "id": 237,
+  "name": "獅子舞",
+  "level": "IN",
+  "difficulty": 14.0,
+  "charter": "杭杭",
+  "composer": "UK",
+  "illustrator": "inukoro",
+  "description": "已经获得杭杭的授权了～",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3b3c2c94-faed-4661-b21e-9bbfcd511c07",
+  "preview": "https://phira.5wyxi.com/files/9068b901-1e7d-4cfe-acbe-bf1bc27ed57d",
+  "file": "https://phira.5wyxi.com/files/ce0af9d8-5e79-42c2-b11d-d9855c5de69e",
+  "uploader": 235,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8604937,
+  "ratingCount": 191,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-04-02T08:24:52.826382Z",
+  "chartUpdated": "2023-04-02T08:24:52.826382Z"
+}

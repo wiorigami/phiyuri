@@ -1,0 +1,26 @@
+{
+  "id": 1274,
+  "name": "マネキン",
+  "level": "IN.15",
+  "difficulty": 15.0,
+  "charter": "27-2",
+  "composer": "DECO*27/初音ミク",
+  "illustrator": "",
+  "description": "以后再也不会写这么快的谱了（认真）\nB站账号：https://space.bilibili.com/421782617?spm_id_from=333.1007.0.0",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/57b7722e-d2fc-45f2-ace6-8b036ab5700b",
+  "preview": "https://phira.5wyxi.com/files/d00af93e-46d6-42a6-b113-8dec808c9103",
+  "file": "https://phira.5wyxi.com/files/5cd8f0bb-3d17-4e0a-a49d-a4b88848f16a",
+  "uploader": 8575,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8677884,
+  "ratingCount": 262,
+  "created": "2023-05-06T14:29:29.977188Z",
+  "updated": "2023-05-06T14:59:02.656708Z",
+  "chartUpdated": "2023-05-06T14:29:29.977188Z"
+}

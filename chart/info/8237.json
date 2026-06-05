@@ -1,0 +1,26 @@
+{
+  "id": 8237,
+  "name": "すずめ",
+  "level": "IN Lv.11",
+  "difficulty": 11.0,
+  "charter": "启迪鸭",
+  "composer": "RADWIMPS feat.十明",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/b7da8451-ef8b-45b2-8a9a-3019236f945f",
+  "preview": "https://phira.5wyxi.com/files/10106622-0fe8-4e05-9a84-da16b9568ecf",
+  "file": "https://phira.5wyxi.com/files/75e0356a-0365-4b80-9ed1-e3b22fe3fee1",
+  "uploader": 11406,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.93105435,
+  "ratingCount": 6538,
+  "created": "2023-08-23T05:55:39.094880Z",
+  "updated": "2023-08-23T16:28:41.936378Z",
+  "chartUpdated": "2023-08-23T05:55:39.094880Z"
+}

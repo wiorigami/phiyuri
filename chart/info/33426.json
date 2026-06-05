@@ -1,0 +1,27 @@
+{
+  "id": 33426,
+  "name": "Urgent Encounter",
+  "level": "WAW 12",
+  "difficulty": 20.0,
+  "charter": "张三焱",
+  "composer": "PJ Moon",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9d81b7a1-e672-4100-be79-ba62315cd076",
+  "preview": "https://phira.5wyxi.com/files/699ec830-ff14-426e-9253-6285ded2600f",
+  "file": "https://phira.5wyxi.com/files/202480aa-12eb-49e9-aedb-e22f28428956",
+  "uploader": 80262,
+  "tags": [
+    "脑叶公司",
+    "plain"
+  ],
+  "rating": 0.8018367,
+  "ratingCount": 6,
+  "created": "2025-02-06T08:48:58.925335Z",
+  "updated": "2025-02-06T08:48:58.925335Z",
+  "chartUpdated": "2025-02-06T08:48:58.925335Z"
+}

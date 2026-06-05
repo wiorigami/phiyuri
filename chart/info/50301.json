@@ -1,0 +1,26 @@
+{
+  "id": 50301,
+  "name": "macro.wav",
+  "level": "IN Lv.15",
+  "difficulty": 15.500002,
+  "charter": "Korus.jpg",
+  "composer": "Dandeless",
+  "illustrator": "",
+  "description": "实验性谱面\nps.感谢@韩涵TAT的debug",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/4cf50202-ed59-4f39-aeb8-d320845a1817",
+  "preview": "https://phira.5wyxi.com/files/bcca2008-89a6-4198-ad53-69c2720c2bf3",
+  "file": "https://phira.5wyxi.com/files/de220100-11cb-4fea-b266-a7da6d18a41f",
+  "uploader": 32051,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.89883,
+  "ratingCount": 67,
+  "created": "2025-12-18T05:13:39.047256Z",
+  "updated": "2025-12-18T05:13:39.047256Z",
+  "chartUpdated": "2025-12-18T05:13:39.047256Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2843,
+  "name": "Black Lotus",
+  "level": "IN Lv.15",
+  "difficulty": 0.0,
+  "charter": "Black Star",
+  "composer": "wa.",
+  "illustrator": "",
+  "description": "谱师本人，三改",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/2447e230-a10e-488b-a98e-4cff8db16d19",
+  "preview": "https://phira.5wyxi.com/files/92d52f9f-6839-4981-ad30-3649f4efc52f",
+  "file": "https://phira.5wyxi.com/files/fd2eaedd-01fc-4da5-b696-6fdccb9a57b2",
+  "uploader": 2329,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9290317,
+  "ratingCount": 1421,
+  "created": "2023-06-02T15:48:25.622479Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-07-25T01:58:36.955588Z"
+}

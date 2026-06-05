@@ -1,0 +1,27 @@
+{
+  "id": 12659,
+  "name": "Jack-the-Ripper",
+  "level": "if",
+  "difficulty": 15.300001,
+  "charter": "ReesLith",
+  "composer": "sasakure.UK",
+  "illustrator": "",
+  "description": "配置和采音改了很多。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9b77ebaa-45bd-4858-a089-1c04213b0cc4",
+  "preview": "https://phira.5wyxi.com/files/864f936d-0e90-4588-a0ae-f9d4c9d219ed",
+  "file": "https://phira.5wyxi.com/files/eb62fd74-39f8-41a3-8803-5f937b33548b",
+  "uploader": 5305,
+  "tags": [
+    "BOF2009",
+    "regular"
+  ],
+  "rating": 0.8755657,
+  "ratingCount": 147,
+  "created": "2023-12-21T05:14:52.103151Z",
+  "updated": "2023-12-21T08:47:42.186336Z",
+  "chartUpdated": "2023-12-21T05:14:52.103151Z"
+}

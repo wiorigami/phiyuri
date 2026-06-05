@@ -1,0 +1,26 @@
+{
+  "id": 7100,
+  "name": "Angel Dust",
+  "level": "IN Lv.4",
+  "difficulty": 15.400002,
+  "charter": "snakewhale",
+  "composer": "Lv.4",
+  "illustrator": "",
+  "description": "谱师本人上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/ff0ad199-4f37-40ad-92d0-a91ca5e58c38",
+  "preview": "https://phira.5wyxi.com/files/0400e452-19ac-4ea6-bea6-2d6228e843f9",
+  "file": "https://phira.5wyxi.com/files/63bc48ea-096a-40a1-a627-30c2cfaf2478",
+  "uploader": 245778,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9328879,
+  "ratingCount": 1635,
+  "created": "2023-08-08T11:27:36.329281Z",
+  "updated": "2023-08-09T00:35:59.824089Z",
+  "chartUpdated": "2023-08-09T00:35:59.824089Z"
+}

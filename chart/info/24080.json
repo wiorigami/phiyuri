@@ -1,0 +1,28 @@
+{
+  "id": 24080,
+  "name": "8番出口",
+  "level": "IN Lv.13",
+  "difficulty": 13.500002,
+  "charter": "你好喵",
+  "composer": "EO",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/44305a5e-e884-4e0a-a559-7df99a306097",
+  "preview": "https://phira.5wyxi.com/files/47f2be62-2aba-4fdf-a585-7b4aba4e99be",
+  "file": "https://phira.5wyxi.com/files/f12471d0-36c1-48fe-8cf2-2f038f58a7cf",
+  "uploader": 1021826,
+  "tags": [
+    "术力口",
+    "短谱",
+    "regular"
+  ],
+  "rating": 0.9013502,
+  "ratingCount": 799,
+  "created": "2024-07-22T12:06:06.106989Z",
+  "updated": "2024-08-17T03:35:03.459239Z",
+  "chartUpdated": "2024-07-22T12:06:06.106989Z"
+}

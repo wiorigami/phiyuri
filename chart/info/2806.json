@@ -1,0 +1,26 @@
+{
+  "id": 2806,
+  "name": "フューチャー・イヴ",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "Mau",
+  "composer": "sasakure.UK",
+  "illustrator": "",
+  "description": "第一张谱，轻点骂",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/941882ba-15c2-4e6b-8127-c8b16f7ff0e6",
+  "preview": "https://phira.5wyxi.com/files/edcfe18d-7b28-4eb3-bab0-d46abdd9c874",
+  "file": "https://phira.5wyxi.com/files/272d7692-28ca-4dd9-9d35-fd07fda94d2c",
+  "uploader": 9570,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9256036,
+  "ratingCount": 1788,
+  "created": "2023-06-01T13:20:52.975269Z",
+  "updated": "2023-07-04T12:49:27.762362Z",
+  "chartUpdated": "2023-06-02T13:44:13.762447Z"
+}

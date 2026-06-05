@@ -1,0 +1,27 @@
+{
+  "id": 6303,
+  "name": "GOODMEN",
+  "level": "Fixed Lv.15",
+  "difficulty": 15.0,
+  "charter": "GOODluMEN v.s. 1nkfish",
+  "composer": "EBIMAYO",
+  "illustrator": "",
+  "description": "相较于AT15修复了部分无理配置，定数下调为15.0 作者B站@鱿鱼海鲜面",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3aac1ff7-ff3b-4896-a944-9c2f9455d557",
+  "preview": "https://phira.5wyxi.com/files/2b5b0b41-51a1-4d88-b151-92e7a9146aa5",
+  "file": "https://phira.5wyxi.com/files/4ad8893a-9240-47a2-b434-23b1447fff72",
+  "uploader": 272913,
+  "tags": [
+    "G2R2014",
+    "regular"
+  ],
+  "rating": 0.8862822,
+  "ratingCount": 571,
+  "created": "2023-07-28T12:31:35.745636Z",
+  "updated": "2024-07-07T15:14:12.518968Z",
+  "chartUpdated": "2023-07-28T12:31:35.745636Z"
+}

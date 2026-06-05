@@ -1,0 +1,29 @@
+{
+  "id": 205,
+  "name": "灰色鹦鹉",
+  "level": "Gray Lv.14",
+  "difficulty": 14.7,
+  "charter": "羽梦明",
+  "composer": "ChiliChill feat.洛天依",
+  "illustrator": "",
+  "description": "谱师本人上传\n修改后的版本，希望大家玩得愉快！",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7e44c9fd-b13e-40f1-b81b-f43893eceb18",
+  "preview": "https://phira.5wyxi.com/files/64227e82-7d8d-4c5c-b5a3-54f81afe71d0",
+  "file": "https://phira.5wyxi.com/files/a9b26bcb-9314-4849-9d32-7fee436894dd",
+  "uploader": 120,
+  "tags": [
+    "故事板",
+    "ChiliChill",
+    "洛天依",
+    "regular"
+  ],
+  "rating": 0.9549997,
+  "ratingCount": 2923,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-08-23T15:22:03.232242Z",
+  "chartUpdated": "2023-08-23T12:52:37.137561Z"
+}

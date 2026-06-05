@@ -1,0 +1,26 @@
+{
+  "id": 43121,
+  "name": "医生",
+  "level": "IN.15",
+  "difficulty": 15.0,
+  "charter": "帆高颖",
+  "composer": "亚细亚旷世奇才",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/725fba06-51e1-4b30-b382-c67325f9f414",
+  "preview": "https://phira.5wyxi.com/files/12b49b07-bef7-4be7-93e4-2e51de1a21fd",
+  "file": "https://phira.5wyxi.com/files/5902e341-98bb-4ea2-80c5-e2980b3a908f",
+  "uploader": 1021198,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9203977,
+  "ratingCount": 166,
+  "created": "2025-07-30T03:16:16.477693Z",
+  "updated": "2025-07-30T03:16:16.477693Z",
+  "chartUpdated": "2025-07-30T03:16:16.477693Z"
+}

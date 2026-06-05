@@ -1,0 +1,26 @@
+{
+  "id": 319,
+  "name": "King Atlantis",
+  "level": "AT Lv.17",
+  "difficulty": 17.0,
+  "charter": "The King of The Atlantis",
+  "composer": "Aoi",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/34a6eeac-6631-47c9-b513-b210c815b98f",
+  "preview": "https://phira.5wyxi.com/files/9d557d35-98dc-4448-8343-74bdb1013aaf",
+  "file": "https://phira.5wyxi.com/files/ff8e89e5-2cf6-46b8-b3ea-9d66c17ff60b",
+  "uploader": 1279,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9223345,
+  "ratingCount": 1729,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2023-05-16T10:30:06.311660Z",
+  "chartUpdated": "2023-04-02T08:24:52.826382Z"
+}

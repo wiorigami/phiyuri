@@ -1,0 +1,26 @@
+{
+  "id": 51307,
+  "name": "断腿进行曲",
+  "level": "AT Lv.14",
+  "difficulty": 14.300001,
+  "charter": "EntityDragon.class",
+  "composer": "锅霸",
+  "illustrator": "",
+  "description": "谱师本人上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/4263cf6c-4e1a-4f5a-a017-428984802522",
+  "preview": "https://phira.5wyxi.com/files/f6bb3a2a-4987-4445-b76c-0b65284962c7",
+  "file": "https://phira.5wyxi.com/files/40699f40-bc63-4be8-9735-5a741c204e08",
+  "uploader": 672668,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.90492594,
+  "ratingCount": 154,
+  "created": "2026-01-17T06:33:36.383398Z",
+  "updated": "2026-03-03T10:45:51.532164Z",
+  "chartUpdated": "2026-02-26T12:27:11.995994Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3544,
+  "name": "Picasso",
+  "level": "AT Lv.16",
+  "difficulty": 16.5,
+  "charter": "yourgrandpa",
+  "composer": "Sakuzyo",
+  "illustrator": "",
+  "description": "",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/censored.jpg",
+  "preview": "https://phira.5wyxi.com/files/32c67fe6-64c0-43f7-ab80-bef1b7caa53a",
+  "file": "https://phira.5wyxi.com/files/35c51df5-e49d-415a-aa24-0660422fcdfb",
+  "uploader": 14355,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.83254707,
+  "ratingCount": 388,
+  "created": "2023-06-16T07:06:06.053349Z",
+  "updated": "2023-06-16T07:06:06.053349Z",
+  "chartUpdated": "2023-06-16T07:06:06.053349Z"
+}

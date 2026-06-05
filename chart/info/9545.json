@@ -1,0 +1,27 @@
+{
+  "id": 9545,
+  "name": "Slyness Foxx",
+  "level": "IN Lv.14",
+  "difficulty": 14.0,
+  "charter": "GETM",
+  "composer": "udouddo",
+  "illustrator": "",
+  "description": "重传，修复了bug，但是手机游玩可能仍有露馅的地方\n特别感谢qr对特效升级的协助",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0207f135-bd43-42c7-8aec-ad91ffba81fd",
+  "preview": "https://phira.5wyxi.com/files/eecdac48-4dac-48af-b14a-7366a92f1030",
+  "file": "https://phira.5wyxi.com/files/c565039e-69d1-45fa-8d94-f5ad583d4ee9",
+  "uploader": 2716,
+  "tags": [
+    "Dynamix",
+    "regular"
+  ],
+  "rating": 0.92776424,
+  "ratingCount": 248,
+  "created": "2023-09-21T17:38:09.359953Z",
+  "updated": "2023-09-24T15:51:12.060082Z",
+  "chartUpdated": "2023-09-21T17:38:09.359953Z"
+}

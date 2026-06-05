@@ -1,0 +1,27 @@
+{
+  "id": 17119,
+  "name": "Fragrance",
+  "level": "AT LV.15",
+  "difficulty": 15.3,
+  "charter": "ClaudiaDean",
+  "composer": "矢鴇つかさ",
+  "illustrator": "",
+  "description": "萌新谱师的第三章谱面，还是不会用事件和不知道怎么更好的写判定线表演，求高人指点。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/8dec0f3e-4eda-4e0e-b32c-82305c5c9857",
+  "preview": "https://phira.5wyxi.com/files/4411e4e3-2c55-461c-9028-2b601f38c850",
+  "file": "https://phira.5wyxi.com/files/80770c15-d1fe-4b7d-8452-0cd5d56e7a32",
+  "uploader": 146239,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "rating": 0.8367354,
+  "ratingCount": 283,
+  "created": "2024-03-15T01:44:07.023429Z",
+  "updated": "2024-03-15T01:44:07.023429Z",
+  "chartUpdated": "2024-03-15T01:44:07.023429Z"
+}

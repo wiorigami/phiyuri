@@ -1,0 +1,26 @@
+{
+  "id": 1973,
+  "name": "Rush-Hour",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "amme_mark*",
+  "composer": "litmus*",
+  "illustrator": "",
+  "description": "谱师本人",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9eff9acc-9679-4942-b6b5-33c11c067e98",
+  "preview": "https://phira.5wyxi.com/files/8b99c75a-ce5d-4fce-b91b-7024891dc46b",
+  "file": "https://phira.5wyxi.com/files/c053d339-e659-4dd7-87f9-733665a202df",
+  "uploader": 3118,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.85657275,
+  "ratingCount": 156,
+  "created": "2023-05-14T03:11:56.132941Z",
+  "updated": "2023-05-14T03:11:56.132941Z",
+  "chartUpdated": "2023-05-14T03:11:56.132941Z"
+}

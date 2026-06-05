@@ -1,0 +1,26 @@
+{
+  "id": 11870,
+  "name": "Polyommatus",
+  "level": "AT Lv.14",
+  "difficulty": 14.5,
+  "charter": "tempo",
+  "composer": "Kaixo",
+  "illustrator": "",
+  "description": "Update:\nmodified note placement ",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/70854d1e-4701-46d7-a9b7-fbc16845bb4d",
+  "preview": "https://phira.5wyxi.com/files/d60beba9-baed-4db3-9ab9-4280fd7924b0",
+  "file": "https://phira.5wyxi.com/files/c91d1ea8-eada-4e86-aabb-b2ce2abb3044",
+  "uploader": 71432,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9122475,
+  "ratingCount": 93,
+  "created": "2023-11-27T01:44:51.927361Z",
+  "updated": "2023-12-01T13:42:28.711376Z",
+  "chartUpdated": "2023-11-29T04:42:59.409358Z"
+}

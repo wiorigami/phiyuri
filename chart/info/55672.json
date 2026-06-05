@@ -1,0 +1,26 @@
+{
+  "id": 55672,
+  "name": "PP BREAKER",
+  "level": "AT Lv.17",
+  "difficulty": 17.000004,
+  "charter": "账号你猜注没注销",
+  "composer": "Tanger",
+  "illustrator": "",
+  "description": "2026.3.19 二改：判定线颜色显示修复，部分排键进行微调     2026.4.6 将定数从16.8调整到17.0",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/d7f0f7f7-3741-4a18-9775-c360793eaec5",
+  "preview": "https://phira.5wyxi.com/files/8720b6e9-1a3b-49e4-9d9a-4a4aaaa64084",
+  "file": "https://phira.5wyxi.com/files/b1f8ece1-fa8a-40a4-818d-fcaa6bf6d805",
+  "uploader": 2091353,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9183384,
+  "ratingCount": 83,
+  "created": "2026-04-09T14:32:54.621747Z",
+  "updated": "2026-04-09T14:32:54.621747Z",
+  "chartUpdated": "2026-04-09T14:32:54.621747Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12181,
+  "name": "第六感",
+  "level": "IN  Lv.14",
+  "difficulty": 14.0,
+  "charter": "Naptie",
+  "composer": "Reol & Giga",
+  "illustrator": "",
+  "description": null,
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/79b9101e-582c-4430-b395-e31a1ed4c72e",
+  "preview": "https://phira.5wyxi.com/files/944ae117-962b-4707-95fa-15610740799b",
+  "file": "https://phira.5wyxi.com/files/a14437f0-aa7f-4f77-94b1-b3d2e05c41d9",
+  "uploader": 25933,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.940625,
+  "ratingCount": 26706,
+  "created": "2023-12-05T15:21:19.632974Z",
+  "updated": "2023-12-06T13:45:15.294869Z",
+  "chartUpdated": "2023-12-05T15:21:19.632974Z"
+}

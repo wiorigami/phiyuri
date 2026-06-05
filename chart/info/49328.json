@@ -1,0 +1,26 @@
+{
+  "id": 49328,
+  "name": "Credits",
+  "level": "SP Lv.CCB",
+  "difficulty": 10.0,
+  "charter": "AmAtrue",
+  "composer": "Frums",
+  "illustrator": "",
+  "description": "该谱面使用TG铁锅炖大鹅制作的TPhi Editor制作。\n如果只说完整写完的正规谱子，那这应该是我的新人初谱。主打一个梦到啥写啥，配置也多有实验性。\n特别鸣谢: tpe 交流群两位群友 @你的昔涟小可爱(改进旋转段特效)，@WasilyAZ(提供配置改进思路)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3332e87d-ebaf-42c4-a034-32a489cbadb3",
+  "preview": "https://phira.5wyxi.com/files/05d4b448-fbcd-4ddf-a44e-503c4e4d9824",
+  "file": "https://phira.5wyxi.com/files/04bfeb74-b5dd-4f94-9707-7f76f5d92ffb",
+  "uploader": 153302,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8426168,
+  "ratingCount": 89,
+  "created": "2025-11-21T03:03:23.618782Z",
+  "updated": "2025-11-21T03:03:23.618782Z",
+  "chartUpdated": "2025-11-21T03:03:23.618782Z"
+}

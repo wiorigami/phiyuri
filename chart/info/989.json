@@ -1,0 +1,27 @@
+{
+  "id": 989,
+  "name": "MARENOL",
+  "level": "AT Lv.15",
+  "difficulty": 15.599999,
+  "charter": "Encly",
+  "composer": "LeaF",
+  "illustrator": "",
+  "description": "第一次用phira上传谱面. 试着把音频预览给调的没那么吓人（B站@ty天远",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/censored.jpg",
+  "preview": "https://phira.5wyxi.com/files/b19377da-180a-4892-ae65-e9ac1f7973b2",
+  "file": "https://phira.5wyxi.com/files/c7a814ee-f8a1-467e-9d98-41dd30e44e3c",
+  "uploader": 1925,
+  "tags": [
+    "G2R2018",
+    "regular"
+  ],
+  "rating": 0.91307724,
+  "ratingCount": 12364,
+  "created": "2023-05-01T17:53:13.572247Z",
+  "updated": "2024-04-17T16:02:30.777265Z",
+  "chartUpdated": "2023-05-01T17:53:13.572247Z"
+}

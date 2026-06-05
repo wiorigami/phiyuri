@@ -1,0 +1,28 @@
+{
+  "id": 13605,
+  "name": "Dogbite",
+  "level": "Dog Lv.15",
+  "difficulty": 15.800003,
+  "charter": "元气麦子",
+  "composer": "t+pazolite",
+  "illustrator": "",
+  "description": "新人初谱，还请多多谅解\n1.1.0修复更新：优化了流速问题\n1.2.0修复更新：优化了初见杀问题\n1.3.0修复更新：优化了谱面表演\n1.4.0修复更新：优化了尾杀流速问题\n1.4.1修复更新：优化了初见杀问题\n2.0.0更新：优化了判定线表演",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3f9991c0-ea8f-44a7-91c6-0c5d4e03abbc",
+  "preview": "https://phira.5wyxi.com/files/c982b6b3-9e88-4f07-bc49-a6427d967db1",
+  "file": "https://phira.5wyxi.com/files/fc54e8ad-755e-4cc1-8a2b-6a053e8759d0",
+  "uploader": 363686,
+  "tags": [
+    "Dogbite",
+    "",
+    "regular"
+  ],
+  "rating": 0.7314387,
+  "ratingCount": 474,
+  "created": "2024-01-14T04:59:48.590134Z",
+  "updated": "2024-01-23T06:26:38.355662Z",
+  "chartUpdated": "2024-01-14T04:59:48.590134Z"
+}

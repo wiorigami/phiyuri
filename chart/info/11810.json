@@ -1,0 +1,26 @@
+{
+  "id": 11810,
+  "name": "人マニア",
+  "level": "AT  Lv.16",
+  "difficulty": 16.000004,
+  "charter": "Feembar",
+  "composer": "原口沙輔",
+  "illustrator": "",
+  "description": "BV1DN4y1m7dz 录制游玩视频默认授权（请在简介里艾特谱师） 不要录制本谱面的AUTOPLAY视频 一些配置的解法： 208cb：右手轮指接长条，左手接红键 224cb：接长条的手指利用垂判接红键  291cb：解法一：长条与蓝键两个一组对拍；解法二：一手长按另一手双押点击  356cb：phi的长条快按完时松手不会判miss  432cb：叠键陷成双押对拍  507cb：此处硬抗很卡手，建议一手接长条一手接中间蓝键",
+  "ranked": false,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/aabdec2b-a8c1-4f39-905d-94b77cd5624b",
+  "preview": "https://phira.5wyxi.com/files/ec0c53d9-a5f1-4940-b72e-c99da3c14a40",
+  "file": "https://phira.5wyxi.com/files/aabe2a2d-98fe-4d41-ace4-eb9e5f07ac2d",
+  "uploader": 5150,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8688885,
+  "ratingCount": 7476,
+  "created": "2023-11-25T15:07:53.203425Z",
+  "updated": "2026-03-08T15:16:31.690882Z",
+  "chartUpdated": "2023-12-02T14:45:06.839662Z"
+}

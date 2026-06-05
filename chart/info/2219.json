@@ -1,0 +1,26 @@
+{
+  "id": 2219,
+  "name": "ドクヘビ",
+  "level": "IN  Lv.15",
+  "difficulty": 15.600002,
+  "charter": "ドクナキ",
+  "composer": "かめりあ",
+  "illustrator": "",
+  "description": "charted by [PZUser:2:ドクナキ:PZRT]",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3b477d26-5a4d-466d-8db2-6f422aebbfc4",
+  "preview": "https://phira.5wyxi.com/files/45693edc-7e2f-4df8-99e1-40ef95e4a295",
+  "file": "https://phira.5wyxi.com/files/d0b7b725-2e69-4b1c-b872-48eed18c1ba0",
+  "uploader": 25933,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.87598103,
+  "ratingCount": 310,
+  "created": "2023-05-17T15:34:51.524660Z",
+  "updated": "2023-05-25T15:15:05.257150Z",
+  "chartUpdated": "2023-05-17T15:34:51.524660Z"
+}

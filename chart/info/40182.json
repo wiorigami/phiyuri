@@ -1,0 +1,26 @@
+{
+  "id": 40182,
+  "name": "鸡",
+  "level": "4kLv.鸡",
+  "difficulty": 0.0,
+  "charter": "woodsp2",
+  "composer": "woodsp2",
+  "illustrator": "",
+  "description": "技8dan，简称(   )",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/100da476-3d2d-492a-b94e-e041437c9763",
+  "preview": "https://phira.5wyxi.com/files/81ef1c47-95db-45b5-90af-701659bb25bb",
+  "file": "https://phira.5wyxi.com/files/262ab496-c244-4c34-8ae3-a58451d24225",
+  "uploader": 1607589,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.87698764,
+  "ratingCount": 400,
+  "created": "2025-06-24T06:32:59.499091Z",
+  "updated": "2025-06-24T06:32:59.499091Z",
+  "chartUpdated": "2025-06-24T06:32:59.499091Z"
+}

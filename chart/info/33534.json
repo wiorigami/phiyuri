@@ -1,0 +1,26 @@
+{
+  "id": 33534,
+  "name": "Dogbite",
+  "level": "IN Lv.14",
+  "difficulty": 14.9,
+  "charter": "primaly.archade",
+  "composer": "t+pazolite",
+  "illustrator": "",
+  "description": "初めての創作譜面です。\r\n(25/03/12 判定線の透明度を一部修正)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/02d54f08-0488-4c55-bc08-1700e02ce2be",
+  "preview": "https://phira.5wyxi.com/files/d5b208a5-7f64-4a05-ad10-8187a5fcee52",
+  "file": "https://phira.5wyxi.com/files/7651f2c5-8b15-4e52-b689-f097b780f47a",
+  "uploader": 1482486,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.87756616,
+  "ratingCount": 232,
+  "created": "2025-02-07T20:51:22.468857Z",
+  "updated": "2025-03-12T13:14:49.893513Z",
+  "chartUpdated": "2025-03-12T01:35:25.400614Z"
+}

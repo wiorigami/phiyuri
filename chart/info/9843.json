@@ -1,0 +1,26 @@
+{
+  "id": 9843,
+  "name": "叛逆のキャスタウェイ",
+  "level": "IN Lv.16",
+  "difficulty": 16.200005,
+  "charter": "W=Pt=S+R-1",
+  "composer": "棗いつき/DJ Genki",
+  "illustrator": "",
+  "description": "本人上传 谱师为WinterPT与StR-1已获得另一位谱师的授权\n我主要负责了动效与部分配置 StR-1负责了大部分配置\n双指底力 难点是出张和24分的爆发 \n一改 修改了部分动效bug\n@StR-1#80608",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/526b8b0f-16bd-4a2b-838e-58186fc2bb67",
+  "preview": "https://phira.5wyxi.com/files/569860e8-6d0e-4c35-88fb-76b016e4f029",
+  "file": "https://phira.5wyxi.com/files/d985b7f0-169c-47e8-b2e5-52a3eb386245",
+  "uploader": 10002,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9138572,
+  "ratingCount": 6284,
+  "created": "2023-09-30T06:30:44.880076Z",
+  "updated": "2026-04-10T12:42:44.303340Z",
+  "chartUpdated": "2023-09-30T11:04:49.033917Z"
+}

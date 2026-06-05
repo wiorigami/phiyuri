@@ -1,0 +1,26 @@
+{
+  "id": 20437,
+  "name": "Freedom Dive",
+  "level": "AT Lv.16",
+  "difficulty": 16.900002,
+  "charter": "Calepam",
+  "composer": "xi",
+  "illustrator": "",
+  "description": "update to the final version.\nThanks for playing.",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1b944900-3517-49c4-a886-137d2f74c70c",
+  "preview": "https://phira.5wyxi.com/files/305796a4-5950-47d2-827a-5c0bd4c6c9ab",
+  "file": "https://phira.5wyxi.com/files/109e0b6b-9da2-497d-a2fd-7a35021bf88b",
+  "uploader": 862130,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.3514779,
+  "ratingCount": 209,
+  "created": "2024-05-26T14:58:48.030503Z",
+  "updated": "2024-08-09T11:40:39.029664Z",
+  "chartUpdated": "2024-08-09T11:34:58.399697Z"
+}

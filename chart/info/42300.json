@@ -1,0 +1,26 @@
+{
+  "id": 42300,
+  "name": "Tablets",
+  "level": "IN Lv.15",
+  "difficulty": 15.0,
+  "charter": "是一只屑呀",
+  "composer": "にほしか",
+  "illustrator": "",
+  "description": "新人初谱\n需要注意的是293与294Combo使用的是横向判定\nB站演示视频:BV1cJgBznEgv",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/11e83ad0-aa76-4597-abcb-380aecd1f0e5",
+  "preview": "https://phira.5wyxi.com/files/18fad1e4-fb03-445f-981f-101320320adb",
+  "file": "https://phira.5wyxi.com/files/870270db-7264-47a5-b8eb-5e02a8c52031",
+  "uploader": 532067,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.91688997,
+  "ratingCount": 170,
+  "created": "2025-07-21T08:44:44.383554Z",
+  "updated": "2025-07-22T00:55:44.486568Z",
+  "chartUpdated": "2025-07-21T08:44:44.383554Z"
+}

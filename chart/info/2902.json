@@ -1,0 +1,26 @@
+{
+  "id": 2902,
+  "name": "lifeline【重置】",
+  "level": "AT LV.15",
+  "difficulty": 15.0,
+  "charter": "轩./尼露之犬",
+  "composer": "zeraphym",
+  "illustrator": "",
+  "description": "谱面经过了一些优化，由谱师本人亲自上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/2bb87d45-1cd4-4281-887b-6fc15756c2a6",
+  "preview": "https://phira.5wyxi.com/files/4f8d77d2-dbfd-4328-8d87-c12b74e1e102",
+  "file": "https://phira.5wyxi.com/files/e102a33f-09b0-4208-b562-55e43bced475",
+  "uploader": 1845,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8966137,
+  "ratingCount": 2022,
+  "created": "2023-06-03T16:04:37.364524Z",
+  "updated": "2023-06-03T16:04:37.364524Z",
+  "chartUpdated": "2023-06-03T16:04:37.364524Z"
+}

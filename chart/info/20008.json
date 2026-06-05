@@ -1,0 +1,26 @@
+{
+  "id": 20008,
+  "name": "nighttheater",
+  "level": "FM Lv.16.9",
+  "difficulty": 16.0,
+  "charter": "不会打谱的DVD",
+  "composer": "わかどり",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/41d96ca8-f892-4293-950f-d4922b2a7ca1",
+  "preview": "https://phira.5wyxi.com/files/0eb1b0e0-2bdd-4c64-843a-716301c73e29",
+  "file": "https://phira.5wyxi.com/files/abb0aacc-1e2e-411b-908e-c92497b75f69",
+  "uploader": 872326,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.31334046,
+  "ratingCount": 92,
+  "created": "2024-05-17T09:19:29.133973Z",
+  "updated": "2024-06-20T12:53:01.129426Z",
+  "chartUpdated": "2024-05-17T09:19:29.133973Z"
+}

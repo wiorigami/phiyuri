@@ -1,0 +1,27 @@
+{
+  "id": 3774,
+  "name": "Avantgarde",
+  "level": "IN Lv.15",
+  "difficulty": 15.900001,
+  "charter": "Jumpkun",
+  "composer": "Raimukun",
+  "illustrator": "",
+  "description": "改谱，看看",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f4bd5ae0-20fc-461b-a466-c64daa9ad12b",
+  "preview": "https://phira.5wyxi.com/files/76521062-1e7c-4247-8ccc-b27e77836e45",
+  "file": "https://phira.5wyxi.com/files/8ee2ed17-b37b-45ae-8ca9-da4e8d102edb",
+  "uploader": 12697,
+  "tags": [
+    "BOF2022",
+    "regular"
+  ],
+  "rating": 0.8172963,
+  "ratingCount": 379,
+  "created": "2023-06-20T12:14:47.985593Z",
+  "updated": "2023-06-21T15:39:37.939207Z",
+  "chartUpdated": "2023-06-20T12:14:47.985593Z"
+}

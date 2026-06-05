@@ -1,0 +1,27 @@
+{
+  "id": 15172,
+  "name": "蒼天のプリズムクラウン (feat. 初音ミク)",
+  "level": "IN Lv.15",
+  "difficulty": 15.800003,
+  "charter": "WinterPT",
+  "composer": "irucaice/初音ミク",
+  "illustrator": "",
+  "description": "6thPecJam参赛谱面 比较失败的一次尝试 事实证明我还没有驾驭这类曲风的能力；\n由于各类原因 这张谱工期较短 没有仔细打磨修改 今后会改谱 上传的是pj版本；\n曲是@StR-1 帮忙剪的\n改定数加求建议",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/8900a2fe-35cd-48ae-a705-96ceea757387",
+  "preview": "https://phira.5wyxi.com/files/0e73dc02-744f-4d05-990d-0f52b6359a25",
+  "file": "https://phira.5wyxi.com/files/25e78569-02fb-49bc-bbca-42b214489952",
+  "uploader": 10002,
+  "tags": [
+    "6thPecJam",
+    "regular"
+  ],
+  "rating": 0.79750377,
+  "ratingCount": 367,
+  "created": "2024-02-09T16:57:11.823500Z",
+  "updated": "2025-05-05T04:02:37.788926Z",
+  "chartUpdated": "2024-02-09T16:57:11.823500Z"
+}

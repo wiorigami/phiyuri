@@ -1,0 +1,26 @@
+{
+  "id": 36151,
+  "name": "Titania",
+  "level": "IN 16",
+  "difficulty": 14.1,
+  "charter": "caijizh",
+  "composer": "xi",
+  "illustrator": "",
+  "description": "第一次写谱，写的有点不好请见谅，第四次改铺",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/47bf2916-2092-4d26-a0f3-38a284f6ad05",
+  "preview": "https://phira.5wyxi.com/files/34b6ee27-74e0-4829-94c4-7d5ef2b442b6",
+  "file": "https://phira.5wyxi.com/files/a260ffd4-4f3c-4d59-aa11-860e6bb975ba",
+  "uploader": 577402,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.750785,
+  "ratingCount": 65,
+  "created": "2025-04-04T15:10:23.632451Z",
+  "updated": "2025-05-04T14:16:45.640019Z",
+  "chartUpdated": "2025-05-04T14:16:45.640019Z"
+}

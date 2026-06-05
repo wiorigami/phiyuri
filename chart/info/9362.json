@@ -1,0 +1,27 @@
+{
+  "id": 9362,
+  "name": "World Vanquisher",
+  "level": "AT Lv.16",
+  "difficulty": 16.2,
+  "charter": "【飞飞XL】",
+  "composer": "void(Mournfinale)",
+  "illustrator": "",
+  "description": "谱师：-飞飞XL-\n本家：chunithm",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/903a28fd-d344-43ac-814b-73611fde7401",
+  "preview": "https://phira.5wyxi.com/files/26f85e3f-b364-47bd-8e7f-b3d6931eef5b",
+  "file": "https://phira.5wyxi.com/files/e43f9b8a-3448-44c4-917f-584fa59a4e4b",
+  "uploader": 410,
+  "tags": [
+    "CHUNITHM",
+    "regular"
+  ],
+  "rating": 0.92006123,
+  "ratingCount": 6746,
+  "created": "2023-09-15T16:22:06.730385Z",
+  "updated": "2024-04-14T10:28:15.888281Z",
+  "chartUpdated": "2023-09-15T22:54:44.002444Z"
+}

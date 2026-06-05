@@ -1,0 +1,27 @@
+{
+  "id": 99,
+  "name": "Sanctuary",
+  "level": "IN Lv.15",
+  "difficulty": 15.400002,
+  "charter": "羽梦明",
+  "composer": "t+pazolite",
+  "illustrator": "",
+  "description": "tpz神曲，等你再战！",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3cc03f34-66e5-4dbb-a434-da7856a477c6",
+  "preview": "https://phira.5wyxi.com/files/125eb452-fca4-4d1a-bb93-7d1645191830",
+  "file": "https://phira.5wyxi.com/files/25a790d2-754f-4711-a34c-280415969e4a",
+  "uploader": 120,
+  "tags": [
+    "tpz",
+    "regular"
+  ],
+  "rating": 0.94154066,
+  "ratingCount": 7021,
+  "created": "2023-04-02T08:24:52.826382Z",
+  "updated": "2024-07-12T03:38:59.730209Z",
+  "chartUpdated": "2024-07-11T13:20:29.660807Z"
+}

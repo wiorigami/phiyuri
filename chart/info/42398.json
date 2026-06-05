@@ -1,0 +1,26 @@
+{
+  "id": 42398,
+  "name": "GlassyHeart.",
+  "level": "AT Lv.17",
+  "difficulty": 17.700006,
+  "charter": "浮沫_离柑",
+  "composer": "ILusMin/Bob Hou",
+  "illustrator": "",
+  "description": "phira的一个神奇特性：对速度过高事件“例如9999999速”会显示出错，所以原来那一版的许多note就是因为这个特性导致长度出现问题，我改了高速事件故此重投，真的非常非常非常不好意思……",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/403002db-803f-4b5a-9ac2-3a6c0da4fd36",
+  "preview": "https://phira.5wyxi.com/files/27376b4c-0ea4-43e0-b1b4-5fe770f0d7ee",
+  "file": "https://phira.5wyxi.com/files/ec59280c-118c-410d-b070-169c7b177249",
+  "uploader": 268677,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8013074,
+  "ratingCount": 112,
+  "created": "2025-07-22T05:45:35.943304Z",
+  "updated": "2025-07-23T01:54:23.940404Z",
+  "chartUpdated": "2025-07-22T05:45:35.943304Z"
+}

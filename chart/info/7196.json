@@ -1,0 +1,26 @@
+{
+  "id": 7196,
+  "name": "Glitched Character",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "Lxegger",
+  "composer": "Kobaryo",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/590a8ace-3eca-4eed-b471-6751ae33dc56",
+  "preview": "https://phira.5wyxi.com/files/800a8a3a-7166-4ece-ab67-a4d63e9f9184",
+  "file": "https://phira.5wyxi.com/files/5282adf6-8363-4864-ab9a-610bcfde90f3",
+  "uploader": 63633,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.7105367,
+  "ratingCount": 565,
+  "created": "2023-08-09T23:12:15.139599Z",
+  "updated": "2024-02-11T08:11:03.494423Z",
+  "chartUpdated": "2024-02-11T08:11:03.494423Z"
+}

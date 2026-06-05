@@ -1,0 +1,28 @@
+{
+  "id": 36634,
+  "name": "BBC Countdown 2013",
+  "level": "SP Vertical",
+  "difficulty": 15.0,
+  "charter": "Light_Seeker",
+  "composer": "David Lowe",
+  "illustrator": "",
+  "description": "垂直判定的极致应用，全押或许能通过，但我试过很难",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c38cf841-17b6-42e1-8110-dce90e0202ba",
+  "preview": "https://phira.5wyxi.com/files/62c101a2-7715-486a-924a-ac73007287aa",
+  "file": "https://phira.5wyxi.com/files/46cef6d4-1313-4a63-8e54-4aa8674016f9",
+  "uploader": 5235,
+  "tags": [
+    "垂直判定",
+    "垂判",
+    "regular"
+  ],
+  "rating": 0.9136111,
+  "ratingCount": 449,
+  "created": "2025-04-16T14:59:30.285325Z",
+  "updated": "2025-04-25T03:57:11.649713Z",
+  "chartUpdated": "2025-04-16T14:59:30.285325Z"
+}

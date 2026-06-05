@@ -1,0 +1,28 @@
+{
+  "id": 27234,
+  "name": "無機質世界に彩を",
+  "level": "SP Lv.?",
+  "difficulty": 15.8,
+  "charter": "[無機質の世界で]",
+  "composer": "MisomyL",
+  "illustrator": "",
+  "description": "7thPecJam Storyboard NL 18改。在赛后观摩了各路大神的shader用法以及对自己排键的反思，我又对故事版和配置进行了一轮的修改，与参赛版本有一些地方不同。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/0496ffe6-4197-4865-96b1-a6855d26ff21",
+  "preview": "https://phira.5wyxi.com/files/30b01282-ceb0-4668-8432-d9a4bc815245",
+  "file": "https://phira.5wyxi.com/files/14420d95-7454-4376-b157-13da6987bf3a",
+  "uploader": 540194,
+  "tags": [
+    "shader",
+    "故事版",
+    "regular"
+  ],
+  "rating": 0.947422,
+  "ratingCount": 5055,
+  "created": "2024-08-31T16:47:38.775612Z",
+  "updated": "2024-09-02T15:10:37.115281Z",
+  "chartUpdated": "2024-09-02T15:10:37.115281Z"
+}

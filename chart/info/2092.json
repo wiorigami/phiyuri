@@ -1,0 +1,26 @@
+{
+  "id": 2092,
+  "name": "Rush-Hour",
+  "level": "AT Lv.15",
+  "difficulty": 15.900003,
+  "charter": "大金锭",
+  "composer": "litmus*",
+  "illustrator": "",
+  "description": "看到b站上做的几个铺不符合自己的审美，就把这个铺做出来了，特效不是很会做，还请各位多多包涵。（感谢b站@Zeratix的一部分特效改写）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/709e89bd-bd26-4119-9fd6-c8e520f379d4",
+  "preview": "https://phira.5wyxi.com/files/f8206015-8184-48aa-99c0-fe21c179fe26",
+  "file": "https://phira.5wyxi.com/files/0656d4d0-c8fc-44eb-82fd-aa4ba0900b53",
+  "uploader": 11926,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88810253,
+  "ratingCount": 1665,
+  "created": "2023-05-14T15:09:41.214026Z",
+  "updated": "2023-05-20T14:11:38.036221Z",
+  "chartUpdated": "2023-05-14T15:09:41.214026Z"
+}

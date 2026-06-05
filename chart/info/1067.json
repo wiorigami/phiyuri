@@ -1,0 +1,27 @@
+{
+  "id": 1067,
+  "name": "強風オールバック",
+  "level": "IN Lv.13",
+  "difficulty": 0.0,
+  "charter": "Feembar",
+  "composer": "ゆこぴ",
+  "illustrator": "",
+  "description": "个人第三张完整谱面（之前那个有bug就重投了）",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/3dfb6e65-f538-489f-aefd-24e4bf5a0875",
+  "preview": "https://phira.5wyxi.com/files/4e6920ef-9304-4bd4-a062-bb4aeed9486b",
+  "file": "https://phira.5wyxi.com/files/a93cf789-a428-48bd-9011-5cb9df5b2c2e",
+  "uploader": 5150,
+  "tags": [
+    "art",
+    "regular"
+  ],
+  "rating": 0.91371816,
+  "ratingCount": 23235,
+  "created": "2023-05-03T01:54:15.770991Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-05-03T01:54:15.770991Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9464,
+  "name": "Recollection",
+  "level": "IN Lv.15",
+  "difficulty": 15.099999,
+  "charter": "X-Cross",
+  "composer": "Kobaryo",
+  "illustrator": "",
+  "description": "BPM=133→266\n修改日志5\n定数14.7→15.1\n开头加了一点表演，估摸着配置改得摸到15的门槛了，流速与表演线浓度再次降低，不至于尾杀目害。几处配置大动，比原来好玩。\n（要是某段打不过就硬糊吧反正-110ms才爆蓝）\n谱师b站号@BaioOTerragraph\n还是给大家说声抱歉吧，毕竟清了这么多次榜也着实有些不好意思。刚刚改了一下偏移，不然手感奇怪。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/1c9b8005-a79b-4a79-af55-7a17d27184ec",
+  "preview": "https://phira.5wyxi.com/files/23105ccd-a4a9-44f8-b1c6-71dcfbdf63ed",
+  "file": "https://phira.5wyxi.com/files/a687db27-14c5-41a4-a360-42825f17e2a7",
+  "uploader": 32694,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.92226565,
+  "ratingCount": 1674,
+  "created": "2023-09-17T08:02:41.132232Z",
+  "updated": "2023-11-26T03:46:16.820387Z",
+  "chartUpdated": "2023-11-25T17:59:09.855302Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 29130,
+  "name": "Parallel Universe Shifter",
+  "level": "4K-QFD",
+  "difficulty": 8.899996,
+  "charter": "-mint-",
+  "composer": "Camellia",
+  "illustrator": "",
+  "description": "使用@lvtouzu 的osu!mania转malody工具和@Iambic_Cave 的 Malody to Phigros Chart Converter 进行转谱\n使用 @MivikQ 的 prpr-render 进行渲染\n谱面来源osu!mania 4K World Cup 2023 GrandFinals Tiebreaker\n<—————信息—————>\nBPM：100-440\n曲师：かめりあ\n原谱：-mint-\n转谱：@紫极由纪\n长度：7分04秒\n物量：8372（本家8373）\n星级：8.93*（根据谱面信息页）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/f2048bc6-5d83-4d4e-864c-0f45cd7f1849",
+  "preview": "https://phira.5wyxi.com/files/7fd51dcf-7b98-4d2b-b09b-c5564c287dcd",
+  "file": "https://phira.5wyxi.com/files/aa721ac9-a419-44ec-9135-8348baf30704",
+  "uploader": 2331,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.905879,
+  "ratingCount": 44,
+  "created": "2024-10-27T06:23:42.980714Z",
+  "updated": "2024-10-27T06:23:42.980714Z",
+  "chartUpdated": "2024-10-27T06:23:42.980714Z"
+}

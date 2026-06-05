@@ -1,0 +1,27 @@
+{
+  "id": 8774,
+  "name": "NightTheater",
+  "level": "FM Lv.16",
+  "difficulty": 16.6,
+  "charter": "BigPigeon咕咕咕",
+  "composer": "わかどり",
+  "illustrator": "",
+  "description": "5thPecJam参赛谱修改版。\n早期谱面，多指谱。",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/c3b2a97a-c57c-434f-aaa5-193064b45ffd",
+  "preview": "https://phira.5wyxi.com/files/6e08192c-64c6-4d42-adf8-591e519fc3d6",
+  "file": "https://phira.5wyxi.com/files/e858bf94-eca5-4dba-b10d-dc2d3d39efcf",
+  "uploader": 211570,
+  "tags": [
+    "5thPecJam",
+    "regular"
+  ],
+  "rating": 0.57132536,
+  "ratingCount": 740,
+  "created": "2023-08-30T05:04:57.584780Z",
+  "updated": "2024-04-09T09:56:36.214506Z",
+  "chartUpdated": "2024-04-09T09:56:36.214506Z"
+}

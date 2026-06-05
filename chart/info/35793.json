@@ -1,0 +1,26 @@
+{
+  "id": 35793,
+  "name": "Fracture Temporelle",
+  "level": "AT Lv.17",
+  "difficulty": 17.900003,
+  "charter": "silicopper [Fractured]",
+  "composer": "黒皇帝",
+  "illustrator": "",
+  "description": "谱师：我                                                定数：17.1（旧） / 17.9（新）                                                本来写的18。自己都觉得不能这样瞎写就削成了17",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/d0ca7493-c58d-4105-8d7e-8fa174ae8a93",
+  "preview": "https://phira.5wyxi.com/files/d7d4b6c6-ba19-4062-8451-7b921ceed9cb",
+  "file": "https://phira.5wyxi.com/files/3bddcd57-fe0c-4349-8f03-418aadefa05b",
+  "uploader": 1459509,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9181553,
+  "ratingCount": 62,
+  "created": "2025-03-28T12:56:16.050967Z",
+  "updated": "2025-03-28T12:56:16.050967Z",
+  "chartUpdated": "2025-03-28T12:56:16.050967Z"
+}

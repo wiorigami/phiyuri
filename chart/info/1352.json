@@ -1,0 +1,26 @@
+{
+  "id": 1352,
+  "name": "R",
+  "level": "AT Lv.15+",
+  "difficulty": 15.900001,
+  "charter": "GJP",
+  "composer": "Plum",
+  "illustrator": "",
+  "description": "没有任何特效",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/d35174dc-9458-4ffe-81d2-810b21dcdde7",
+  "preview": "https://phira.5wyxi.com/files/15f853a5-e77e-4c1b-a66f-316a4e94e534",
+  "file": "https://phira.5wyxi.com/files/99979059-f99f-42b4-8eac-ad0f12cb2e63",
+  "uploader": 1942,
+  "tags": [
+    "plain"
+  ],
+  "rating": 0.73667544,
+  "ratingCount": 224,
+  "created": "2023-05-07T09:29:51.108699Z",
+  "updated": "2023-05-07T09:29:51.108699Z",
+  "chartUpdated": "2023-05-07T09:29:51.108699Z"
+}

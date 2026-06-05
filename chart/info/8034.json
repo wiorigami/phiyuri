@@ -1,0 +1,27 @@
+{
+  "id": 8034,
+  "name": "Phoebus",
+  "level": "AT Lv.15",
+  "difficulty": 0.0,
+  "charter": "awa_az",
+  "composer": "yooh",
+  "illustrator": "",
+  "description": "",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/32ef970a-63fd-4d19-9a2c-3637b00c7263",
+  "preview": "https://phira.5wyxi.com/files/198ded30-6bab-4548-b55f-346a28bed621",
+  "file": "https://phira.5wyxi.com/files/4ea63dec-c4c5-41f9-8b13-e16d3ed6076d",
+  "uploader": 6134,
+  "tags": [
+    "Lanota",
+    "regular"
+  ],
+  "rating": 0.92480475,
+  "ratingCount": 1552,
+  "created": "2023-08-20T05:14:00.274688Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-08-20T05:14:00.274688Z"
+}

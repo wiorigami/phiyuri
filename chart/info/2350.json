@@ -1,0 +1,26 @@
+{
+  "id": 2350,
+  "name": "アンコール",
+  "level": "IN Lv.14",
+  "difficulty": 14.5,
+  "charter": "Air",
+  "composer": "YOASOBI",
+  "illustrator": "",
+  "description": "Ayase(Composer)ikura(vocal)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/6d819793-a78e-4bfe-a10a-be397c67a930",
+  "preview": "https://phira.5wyxi.com/files/12b8e0f5-81b2-4a83-9f69-643e9fb66a65",
+  "file": "https://phira.5wyxi.com/files/3f232df7-f985-4bd9-a47d-a2397d95196e",
+  "uploader": 9425,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9299157,
+  "ratingCount": 1470,
+  "created": "2023-05-20T16:59:52.441373Z",
+  "updated": "2023-05-20T16:59:52.441373Z",
+  "chartUpdated": "2023-05-20T16:59:52.441373Z"
+}

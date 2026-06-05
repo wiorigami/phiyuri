@@ -1,0 +1,28 @@
+{
+  "id": 3220,
+  "name": "HAZARD",
+  "level": "SP Lv.?",
+  "difficulty": 0.0,
+  "charter": "白绒绒",
+  "composer": "Limpid",
+  "illustrator": "",
+  "description": "当边缘的判定线闪烁时，判定互换，不喜勿喷(╥ω╥`)  \n不知道为什么phira死活有个问题，不过反正不影响游玩",
+  "ranked": false,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fd235e30-fe72-471b-b051-d788a5df7344",
+  "preview": "https://phira.5wyxi.com/files/38e45e0e-a042-46ce-bf80-58137628a66b",
+  "file": "https://phira.5wyxi.com/files/bf6e7b4d-6a63-4e01-82a7-9af396265b70",
+  "uploader": 693,
+  "tags": [
+    "改判",
+    "微创",
+    "regular"
+  ],
+  "rating": 0.8862035,
+  "ratingCount": 11048,
+  "created": "2023-06-09T10:50:25.701119Z",
+  "updated": "2023-09-24T09:30:56.438924Z",
+  "chartUpdated": "2023-06-09T10:50:25.701119Z"
+}

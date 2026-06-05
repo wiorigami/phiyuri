@@ -1,0 +1,27 @@
+{
+  "id": 25565,
+  "name": "飝(Edit)",
+  "level": "SP Lv.FAST_FLY",
+  "difficulty": 10.0,
+  "charter": "飝FEI",
+  "composer": "姜米條",
+  "illustrator": "",
+  "description": "第一次写谱，请大家多多指教（我有B站账号，但不发视频）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/9f7899db-0a81-4e4c-9131-4c77ae1d9afd",
+  "preview": "https://phira.5wyxi.com/files/3685c1a9-a270-4567-8132-d0dfb9c41847",
+  "file": "https://phira.5wyxi.com/files/8f82fab0-3720-4acb-afc1-ad2c0557d522",
+  "uploader": 366254,
+  "tags": [
+    "第一张谱面",
+    "regular"
+  ],
+  "rating": 0.8042979,
+  "ratingCount": 14,
+  "created": "2024-08-07T12:09:06.739520Z",
+  "updated": "2024-08-07T12:09:06.739520Z",
+  "chartUpdated": "2024-08-07T12:09:06.739520Z"
+}

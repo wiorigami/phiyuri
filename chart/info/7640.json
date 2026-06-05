@@ -1,0 +1,26 @@
+{
+  "id": 7640,
+  "name": "Bad Elixir",
+  "level": "AT  Lv.17",
+  "difficulty": 17.2,
+  "charter": "CWind",
+  "composer": "xi",
+  "illustrator": "",
+  "description": "本人上传谱面。本谱难度极高，请根据个人实力情况酌情挑战！",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/83b872f2-4525-4c72-a739-7754ce60b657",
+  "preview": "https://phira.5wyxi.com/files/b28ebcc9-7a81-465f-926f-c2ccc9dbd4ce",
+  "file": "https://phira.5wyxi.com/files/6d89aca0-5773-4728-9803-b1a8727528da",
+  "uploader": 1231,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.86682147,
+  "ratingCount": 1091,
+  "created": "2023-08-14T15:03:35.339062Z",
+  "updated": "2023-10-22T07:22:49.108391Z",
+  "chartUpdated": "2023-10-22T07:22:49.108391Z"
+}

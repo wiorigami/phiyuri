@@ -1,0 +1,27 @@
+{
+  "id": 13550,
+  "name": "Fragrance",
+  "level": "AT",
+  "difficulty": 14.0,
+  "charter": "Sytice(agreement_)",
+  "composer": "Tsukasa(Arte Refact)",
+  "illustrator": "",
+  "description": "新人初谱",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/6e7dbff4-3bf4-4550-a69b-aa7d9fe9cf6f",
+  "preview": "https://phira.5wyxi.com/files/3ef91dcb-a21a-4259-b7be-b5a3cadff6ae",
+  "file": "https://phira.5wyxi.com/files/c7ee57bf-cee5-40d3-988a-eb300e1f8649",
+  "uploader": 52628,
+  "tags": [
+    "maimai",
+    "regular"
+  ],
+  "rating": 0.9035777,
+  "ratingCount": 282,
+  "created": "2024-01-13T12:34:59.049062Z",
+  "updated": "2024-01-13T12:34:59.049062Z",
+  "chartUpdated": "2024-01-13T12:34:59.049062Z"
+}

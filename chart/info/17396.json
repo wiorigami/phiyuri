@@ -1,0 +1,27 @@
+{
+  "id": 17396,
+  "name": "Acid Rain",
+  "level": "Acid Lv.15",
+  "difficulty": 15.5,
+  "charter": "SpiderS",
+  "composer": "Qlarabelle & Yuta Imai",
+  "illustrator": "",
+  "description": null,
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/15e4679b-d41b-486b-86c8-0779e499cc32",
+  "preview": "https://phira.5wyxi.com/files/db45ae3f-3700-4ef9-a782-98f7e20a1f29",
+  "file": "https://phira.5wyxi.com/files/a0d29bec-f225-40f0-b284-496542458550",
+  "uploader": 1545,
+  "tags": [
+    "2ndWJC",
+    "regular"
+  ],
+  "rating": 0.8741863,
+  "ratingCount": 151,
+  "created": "2024-03-22T16:23:33.065631Z",
+  "updated": "2024-12-13T06:19:02.433022Z",
+  "chartUpdated": "2024-03-22T16:23:33.065631Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 50965,
+  "name": "霓虹(Neon)",
+  "level": "AT Lv.15",
+  "difficulty": 15.900003,
+  "charter": "#include <stdio.h>",
+  "composer": "Cheetah Mobile",
+  "illustrator": "",
+  "description": "写的不是很好，要期末考试没时间了",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/fad28c17-3b15-441f-bbfc-bc721a99986e",
+  "preview": "https://phira.5wyxi.com/files/0c31715b-9cca-471c-b949-54a896799190",
+  "file": "https://phira.5wyxi.com/files/7b5fd4a5-0611-419c-9a67-a749fc9bf6a9",
+  "uploader": 949432,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.88458073,
+  "ratingCount": 25,
+  "created": "2026-01-04T05:35:24.915558Z",
+  "updated": "2026-01-04T05:35:24.915558Z",
+  "chartUpdated": "2026-01-04T05:35:24.915558Z"
+}

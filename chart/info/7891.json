@@ -1,0 +1,26 @@
+{
+  "id": 7891,
+  "name": "PUPA",
+  "level": "AT Lv.16",
+  "difficulty": 16.0,
+  "charter": "FYD-W11",
+  "composer": "モリモリあつし",
+  "illustrator": "",
+  "description": "谱面是本人创作，只在phira上传，未在其他任何平台上传",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/54780e1d-9ebe-41c9-b310-7dd89b3c9aab",
+  "preview": "https://phira.5wyxi.com/files/b791bc8e-c843-4b20-8b6d-e284acc4c689",
+  "file": "https://phira.5wyxi.com/files/416782a8-9768-4667-bd29-4fcb4352b95e",
+  "uploader": 358850,
+  "tags": [
+    "troll"
+  ],
+  "rating": 0.30138317,
+  "ratingCount": 265,
+  "created": "2023-08-18T08:01:22.610563Z",
+  "updated": "2023-08-19T01:10:45.156672Z",
+  "chartUpdated": "2023-08-18T08:01:22.610563Z"
+}

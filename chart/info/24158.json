@@ -1,0 +1,29 @@
+{
+  "id": 24158,
+  "name": "Soulwind",
+  "level": "AT Lv.16",
+  "difficulty": 16.2,
+  "charter": "Junsi",
+  "composer": "HyuN",
+  "illustrator": "",
+  "description": "于7.23日更新，更改了一些配置",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/41845e7d-cba1-4743-981a-c70b99f7188f",
+  "preview": "https://phira.5wyxi.com/files/ad0ebaa1-0144-428f-ac90-12e9f448df1e",
+  "file": "https://phira.5wyxi.com/files/552a82bc-93f9-4f68-9825-6d4fb868452c",
+  "uploader": 146487,
+  "tags": [
+    "6thPecJam",
+    "AT",
+    "中高难",
+    "regular"
+  ],
+  "rating": 0.9134616,
+  "ratingCount": 151,
+  "created": "2024-07-23T10:22:03.596912Z",
+  "updated": "2024-07-23T10:22:03.596912Z",
+  "chartUpdated": "2024-07-23T10:22:03.596912Z"
+}

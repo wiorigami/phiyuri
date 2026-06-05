@@ -1,0 +1,26 @@
+{
+  "id": 57541,
+  "name": "PUPA",
+  "level": "AT Lv.15",
+  "difficulty": 15.0,
+  "charter": "NooDERi",
+  "composer": "モリモリあつし",
+  "illustrator": "",
+  "description": "更改了尾杀交互的不可玩性",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/cea41289-e48b-4853-92b6-81539c0b99bc",
+  "preview": "https://phira.5wyxi.com/files/c060cdb0-1647-4f0d-b669-7fc1c8526216",
+  "file": "https://phira.5wyxi.com/files/a180ef10-e290-4b09-97ba-dc92a43f50a8",
+  "uploader": 3591,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.85080457,
+  "ratingCount": 143,
+  "created": "2026-05-02T03:14:08.908126Z",
+  "updated": "2026-05-02T03:14:08.908126Z",
+  "chartUpdated": "2026-05-02T03:14:08.908126Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30031,
+  "name": "FULi AUTO SHOOTER",
+  "level": "IN Lv.15",
+  "difficulty": 15.2,
+  "charter": "AUTO.SHOOTER.fixed again by JEI_CCCP",
+  "composer": "MYUKKE.",
+  "illustrator": "",
+  "description": "新人初谱，写的过于保守（\n（Tip：由于新版本Pgr定数大洗牌，该谱面定数由原14.8上调至15.2）",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/b79f03eb-5da6-4e20-b8c0-7149fb9f308b",
+  "preview": "https://phira.5wyxi.com/files/90e11d3d-caa9-42d3-8595-1c2544d0e282",
+  "file": "https://phira.5wyxi.com/files/ab2ad5f5-1bd6-416c-b45b-addd9bfe06e6",
+  "uploader": 757146,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.8106564,
+  "ratingCount": 108,
+  "created": "2024-11-24T00:29:20.016425Z",
+  "updated": "2025-02-15T06:06:27.651146Z",
+  "chartUpdated": "2024-11-24T00:29:20.016425Z"
+}

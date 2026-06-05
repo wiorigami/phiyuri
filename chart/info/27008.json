@@ -1,0 +1,28 @@
+{
+  "id": 27008,
+  "name": "Invisible Frenzy",
+  "level": "IN Lv.15",
+  "difficulty": 15.900003,
+  "charter": " H ///   i ///   m",
+  "composer": "Kobaryo",
+  "illustrator": "",
+  "description": "视频演示 BV1ffsNeNEhK\n-------------------------\n24.9.17 谱面更新内容：\n更正一处采音失误；\n优化了drag曲线；\n增加了两处长条表演\n-------------------------\n24.10.2 谱面更新内容：\n增加和修改了多处表演\n(之后无特殊情况应该不会再更换谱面了)",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/7660f71c-9067-4db0-8037-c6af26524f76",
+  "preview": "https://phira.5wyxi.com/files/c693331e-bde5-422b-a0d3-9d2393bebb68",
+  "file": "https://phira.5wyxi.com/files/8b373346-c0fd-4195-b0d1-f2e0b58ca220",
+  "uploader": 63309,
+  "tags": [
+    "WACCA",
+    "华卡音舞",
+    "regular"
+  ],
+  "rating": 0.88264173,
+  "ratingCount": 923,
+  "created": "2024-08-28T04:14:37.270234Z",
+  "updated": "2024-11-01T00:42:22.614594Z",
+  "chartUpdated": "2024-10-02T00:24:07.334889Z"
+}

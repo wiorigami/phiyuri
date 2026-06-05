@@ -1,0 +1,26 @@
+{
+  "id": 45812,
+  "name": "四下无人",
+  "level": "IN Lv.14",
+  "difficulty": 14.299997,
+  "charter": "晨曦时忆梦",
+  "composer": "有棵里里",
+  "illustrator": "",
+  "description": "谱面预览BV1dCYCzmEad\n8.27 去除尾杀妨碍读谱的shader，更改尾杀流速以及定数\n请使用16:9比例游玩，在4:3比例下会出现部分Tap与Flick对不齐的情况",
+  "ranked": false,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/194b8f48-1b86-468e-8740-a55af5eae53b",
+  "preview": "https://phira.5wyxi.com/files/06b0f593-b621-4b22-a4e9-2e60ff70fc7d",
+  "file": "https://phira.5wyxi.com/files/0e35678b-56bd-4ac4-9a3b-f55d3a714c87",
+  "uploader": 160599,
+  "tags": [
+    "regular"
+  ],
+  "rating": 0.9171589,
+  "ratingCount": 215,
+  "created": "2025-08-27T07:02:16.489814Z",
+  "updated": "2025-09-13T05:12:52.189426Z",
+  "chartUpdated": "2025-08-27T07:02:16.489814Z"
+}

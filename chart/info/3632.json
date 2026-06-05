@@ -1,0 +1,27 @@
+{
+  "id": 3632,
+  "name": "ナイト・オブ・ナイツ (Cranky Remix)",
+  "level": "IN Lv.16",
+  "difficulty": 16.200003,
+  "charter": "twotthrees",
+  "composer": "cranky",
+  "illustrator": "",
+  "description": "削弱版，感觉写的好无聊",
+  "ranked": true,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
+  "illustration": "https://phira.5wyxi.com/files/533a2f31-c8e7-4f12-b214-be4c82e68b32",
+  "preview": "https://phira.5wyxi.com/files/c21bce4a-8649-44c4-ad83-7a307ad030ce",
+  "file": "https://phira.5wyxi.com/files/e598442a-3dd6-4959-8567-a2ce14e335cd",
+  "uploader": 7679,
+  "tags": [
+    "东方project",
+    "regular"
+  ],
+  "rating": 0.8997617,
+  "ratingCount": 7937,
+  "created": "2023-06-17T15:15:33.427220Z",
+  "updated": "2025-02-21T17:46:55.250395Z",
+  "chartUpdated": "2023-07-31T05:41:43.384845Z"
+}
