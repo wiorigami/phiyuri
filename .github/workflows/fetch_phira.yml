@@ -3,7 +3,7 @@ name: Update Phira Charts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0点（新加坡 8点）
+    - cron: "0 0 * * *"  # 每天 UTC 00:00（新加坡 08:00）
 
 permissions:
   contents: write
@@ -13,13 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # ✅ 关键修复：安装 requests
+      - name: Install dependencies
+        run: |
+          pip install requests
 
       - name: Fetch update list + charts
         run: |
@@ -36,7 +41,9 @@ jobs:
               "User-Agent": "Mozilla/5.0"
           })
 
-          # ===== 1. 获取 update 列表 =====
+          # =========================
+          # 1. 获取更新列表
+          # =========================
           url = "https://api.phira.cn/chart?page=1&order=-updated"
           resp = session.get(url, timeout=30)
           resp.raise_for_status()
@@ -55,16 +62,18 @@ jobs:
 
           changed = 0
 
-          # ===== 2. 下载每个 chart =====
+          # =========================
+          # 2. 下载 charts
+          # =========================
           for item in results:
               chart_id = item.get("id")
               if not chart_id:
                   continue
 
-              chart_url = f"https://api.phira.cn/chart/{chart_id}"
+              url = f"https://api.phira.cn/chart/{chart_id}"
 
               try:
-                  r = session.get(chart_url, timeout=30)
+                  r = session.get(url, timeout=30)
                   r.raise_for_status()
 
                   data = r.json()
