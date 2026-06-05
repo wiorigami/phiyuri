@@ -1,20 +1,19 @@
-name: Download Next 50 Chart Zips (Stable)
+name: Fetch Phira Charts (5min)
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"   # 每5分钟（UTC）
+  workflow_dispatch:        # 允许手动运行
 
 permissions:
   contents: write
 
-# 防止并发跑多个 workflow（很重要）
 concurrency:
-  group: phira-zip-downloader
-  cancel-in-progress: false
+  group: phira-fetch
+  cancel-in-progress: true
 
 jobs:
-  download:
+  fetch:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,7 +29,7 @@ jobs:
         run: |
           pip install requests
 
-      - name: Download next 50 zips
+      - name: Fetch charts
         run: |
           python << 'EOF'
           import json
@@ -38,112 +37,93 @@ jobs:
           from pathlib import Path
           import requests
 
-          ZIP_DIR = Path("chart/zip")
           INFO_DIR = Path("chart/info")
+          INFO_DIR.mkdir(parents=True, exist_ok=True)
 
-          ZIP_DIR.mkdir(parents=True, exist_ok=True)
-
-          MAX_LIMIT = 59945
-          BATCH_SIZE = 50
+          UPDATE_URL = "https://api.phira.cn/chart?page=1&order=-updated"
 
           session = requests.Session()
           session.headers.update({
               "User-Agent": "Mozilla/5.0"
           })
 
-          # =========================
-          # 1. 获取当前最大 zip ID
-          # =========================
-          existing_ids = []
+          print("Fetching update list...")
 
-          for f in ZIP_DIR.glob("*.zip"):
-              try:
-                  existing_ids.append(int(f.stem))
-              except:
-                  pass
+          resp = session.get(UPDATE_URL, timeout=30)
+          resp.raise_for_status()
 
-          max_id = max(existing_ids) if existing_ids else 0
-          print(f"Current max zip ID: {max_id}")
+          data = resp.json()
 
-          # =========================
-          # 2. 从 info 中筛选新 ID
-          # =========================
-          candidates = []
+          # 保存 update 快照
+          Path("chart/update.json").write_text(
+              json.dumps(data, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
 
-          for f in INFO_DIR.glob("*.json"):
-              try:
-                  data = json.loads(f.read_text(encoding="utf-8"))
-                  cid = data.get("id")
-                  if cid and max_id < cid <= MAX_LIMIT:
-                      candidates.append((cid, data.get("file")))
-              except:
-                  pass
+          results = data.get("results", [])
+          print("Total results:", len(results))
 
-          candidates.sort(key=lambda x: x[0])
+          updated_count = 0
 
-          print(f"Found {len(candidates)} candidates")
-
-          downloaded = 0
-          skipped = 0
-          failed = 0
-
-          # =========================
-          # 3. 下载最多50个
-          # =========================
-          for cid, url in candidates:
-
-              if downloaded >= BATCH_SIZE:
-                  break
-
-              if not url:
+          for item in results:
+              cid = item.get("id")
+              if not cid:
                   continue
 
-              out_path = ZIP_DIR / f"{cid}.zip"
-
-              if out_path.exists():
-                  skipped += 1
-                  continue
+              url = f"https://api.phira.cn/chart/{cid}"
 
               try:
-                  r = session.get(url, timeout=60)
-
+                  r = session.get(url, timeout=30)
                   if r.status_code != 200:
-                      print(f"Skip {cid} status {r.status_code}")
+                      print("skip", cid, r.status_code)
                       continue
 
-                  out_path.write_bytes(r.content)
+                  chart = r.json()
 
-                  downloaded += 1
-                  print(f"Downloaded {cid} ({downloaded}/50)")
+                  # 跳过错误数据
+                  if chart.get("error") == "找不到指定实体":
+                      continue
 
-                  time.sleep(0.4)  # 限速
+                  file_path = INFO_DIR / f"{cid}.json"
+
+                  new_content = json.dumps(
+                      chart,
+                      ensure_ascii=False,
+                      indent=2,
+                      sort_keys=True
+                  )
+
+                  old_content = None
+                  if file_path.exists():
+                      old_content = file_path.read_text(encoding="utf-8")
+
+                  if old_content != new_content:
+                      file_path.write_text(new_content, encoding="utf-8")
+                      updated_count += 1
+                      print("updated", cid)
+
+                  time.sleep(0.3)
 
               except Exception as e:
-                  failed += 1
-                  print(f"Error {cid}: {e}")
+                  print("error", cid, e)
 
-          print()
-          print("========== DONE ==========")
-          print("downloaded:", downloaded)
-          print("skipped:", skipped)
-          print("failed:", failed)
+          print("DONE, updated:", updated_count)
           EOF
 
-      - name: Commit and push safely
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add chart/zip
+          git add chart/
 
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
 
-          git commit -m "Batch download 50 charts"
+          git commit -m "Auto update charts"
 
-          # 防止 push 冲突
           git pull --rebase origin main || true
 
           git push
