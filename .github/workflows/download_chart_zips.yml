@@ -1,10 +1,17 @@
-name: Download Next 50 Chart Zips (Safe Rebase)
+name: Download Next 50 Chart Zips (Stable)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
+
+# 防止并发跑多个 workflow（很重要）
+concurrency:
+  group: phira-zip-downloader
+  cancel-in-progress: false
 
 jobs:
   download:
@@ -19,7 +26,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install requests
+      - name: Install dependencies
         run: |
           pip install requests
 
@@ -45,7 +52,7 @@ jobs:
           })
 
           # =========================
-          # 1. 获取最大 zip ID
+          # 1. 获取当前最大 zip ID
           # =========================
           existing_ids = []
 
@@ -59,7 +66,7 @@ jobs:
           print(f"Current max zip ID: {max_id}")
 
           # =========================
-          # 2. 找 info 中更大的 ID
+          # 2. 从 info 中筛选新 ID
           # =========================
           candidates = []
 
@@ -81,7 +88,7 @@ jobs:
           failed = 0
 
           # =========================
-          # 3. 下载最多 50 个
+          # 3. 下载最多50个
           # =========================
           for cid, url in candidates:
 
@@ -109,7 +116,7 @@ jobs:
                   downloaded += 1
                   print(f"Downloaded {cid} ({downloaded}/50)")
 
-                  time.sleep(0.4)
+                  time.sleep(0.4)  # 限速
 
               except Exception as e:
                   failed += 1
@@ -122,7 +129,7 @@ jobs:
           print("failed:", failed)
           EOF
 
-      - name: Commit and push safely (rebase)
+      - name: Commit and push safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -136,9 +143,7 @@ jobs:
 
           git commit -m "Batch download 50 charts"
 
-          # =========================
-          # 防冲突核心修复
-          # =========================
+          # 防止 push 冲突
           git pull --rebase origin main || true
 
           git push
