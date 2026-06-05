@@ -1,4 +1,4 @@
-name: Download Next 50 Chart Zips
+name: Download Next 50 Chart Zips (Safe Rebase)
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ jobs:
           })
 
           # =========================
-          # 1. 找当前最大ID
+          # 1. 获取最大 zip ID
           # =========================
           existing_ids = []
 
@@ -55,86 +55,74 @@ jobs:
               except:
                   pass
 
-          if existing_ids:
-              current = max(existing_ids)
-          else:
-              current = 0
+          max_id = max(existing_ids) if existing_ids else 0
+          print(f"Current max zip ID: {max_id}")
 
-          start_id = current + 1
+          # =========================
+          # 2. 找 info 中更大的 ID
+          # =========================
+          candidates = []
 
-          print(f"Current max ID: {current}")
-          print(f"Start ID: {start_id}")
-          print(f"Max limit: {MAX_LIMIT}")
+          for f in INFO_DIR.glob("*.json"):
+              try:
+                  data = json.loads(f.read_text(encoding="utf-8"))
+                  cid = data.get("id")
+                  if cid and max_id < cid <= MAX_LIMIT:
+                      candidates.append((cid, data.get("file")))
+              except:
+                  pass
+
+          candidates.sort(key=lambda x: x[0])
+
+          print(f"Found {len(candidates)} candidates")
 
           downloaded = 0
           skipped = 0
           failed = 0
 
           # =========================
-          # 2. 循环下载50个
+          # 3. 下载最多 50 个
           # =========================
-          cid = start_id
+          for cid, url in candidates:
 
-          while downloaded < BATCH_SIZE and cid <= MAX_LIMIT:
+              if downloaded >= BATCH_SIZE:
+                  break
 
-              url = f"https://api.phira.cn/chart/{cid}"
+              if not url:
+                  continue
+
+              out_path = ZIP_DIR / f"{cid}.zip"
+
+              if out_path.exists():
+                  skipped += 1
+                  continue
 
               try:
-                  r = session.get(url, timeout=30)
+                  r = session.get(url, timeout=60)
 
                   if r.status_code != 200:
-                      print(f"Skip {cid} (status {r.status_code})")
-                      cid += 1
+                      print(f"Skip {cid} status {r.status_code}")
                       continue
 
-                  data = r.json()
+                  out_path.write_bytes(r.content)
 
-                  # 跳过无效
-                  if isinstance(data, dict) and data.get("error"):
-                      print(f"Skip {cid} (error)")
-                      cid += 1
-                      continue
+                  downloaded += 1
+                  print(f"Downloaded {cid} ({downloaded}/50)")
 
-                  out_path = ZIP_DIR / f"{cid}.zip"
-
-                  if out_path.exists():
-                      skipped += 1
-                      cid += 1
-                      continue
-
-                  # 下载 file
-                  file_url = data.get("file")
-                  if not file_url:
-                      print(f"Skip {cid} (no file)")
-                      cid += 1
-                      continue
-
-                  file_resp = session.get(file_url, timeout=60)
-
-                  if file_resp.status_code == 200:
-                      out_path.write_bytes(file_resp.content)
-                      downloaded += 1
-                      print(f"Downloaded {cid} ({downloaded}/50)")
-                  else:
-                      print(f"Failed file {cid}")
-
-                  time.sleep(0.4)  # 限速
+                  time.sleep(0.4)
 
               except Exception as e:
                   failed += 1
                   print(f"Error {cid}: {e}")
-
-              cid += 1
 
           print()
           print("========== DONE ==========")
           print("downloaded:", downloaded)
           print("skipped:", skipped)
           print("failed:", failed)
-          print("stopped at:", cid)
           EOF
 
-      - name: Commit changes
+      - name: Commit and push safely (rebase)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -147,4 +135,10 @@ jobs:
           fi
 
           git commit -m "Batch download 50 charts"
+
+          # =========================
+          # 防冲突核心修复
+          # =========================
+          git pull --rebase origin main || true
+
           git push
