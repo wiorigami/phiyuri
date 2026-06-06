@@ -155,33 +155,68 @@ jobs:
               return;
             }
 
-            // 查找或创建 Release
+            // 获取所有 Release 找最新的
+            let releases = [];
             let releaseId = null;
-            const releaseName = 'Chart Zips Storage';
-            const releaseTag = 'chart-zips';
-
+            let releaseIndex = 1;
+            
             try {
-              // 尝试获取现有 release
-              const getReleaseResponse = await github.rest.repos.getReleaseByTag({
+              const response = await github.rest.repos.listReleases({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                tag: releaseTag
+                per_page: 100
               });
-              releaseId = getReleaseResponse.data.id;
-              console.log('Found existing release:', releaseId);
+              
+              releases = response.data.filter(r => 
+                r.tag_name.startsWith('chart-zips')
+              );
+              
+              console.log('Found existing releases:', releases.length);
+              
+              if (releases.length > 0) {
+                // 按 tag 名排序找最新的
+                releases.sort((a, b) => {
+                  const aNum = parseInt(a.tag_name.split('-')[2]) || 0;
+                  const bNum = parseInt(b.tag_name.split('-')[2]) || 0;
+                  return bNum - aNum;
+                });
+                
+                const latestRelease = releases[0];
+                const assetCount = latestRelease.assets.length;
+                
+                console.log(`Latest release: ${latestRelease.tag_name} (${assetCount}/1000 files)`);
+                
+                // 检查是否有空间
+                if (assetCount + filesToUpload.length <= 1000) {
+                  releaseId = latestRelease.id;
+                  console.log('Using existing release');
+                } else {
+                  releaseIndex = parseInt(latestRelease.tag_name.split('-')[2]) + 1;
+                  console.log(`Latest release is full, will create release #${releaseIndex}`);
+                }
+              }
             } catch (error) {
-              // Release 不存在，创建新的
+              console.log('No existing releases found');
+            }
+
+            // 如果需要新 Release，创建它
+            if (!releaseId) {
+              const tagName = `chart-zips-${releaseIndex}`;
+              const releaseName = `Chart Zips Storage [Part ${releaseIndex}]`;
+              
+              console.log(`Creating new release: ${tagName}`);
+              
               const createReleaseResponse = await github.rest.repos.createRelease({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                tag_name: releaseTag,
+                tag_name: tagName,
                 name: releaseName,
-                body: 'Storage for downloaded chart zip files',
+                body: `Storage for downloaded chart zip files - Part ${releaseIndex}`,
                 draft: false,
                 prerelease: false
               });
               releaseId = createReleaseResponse.data.id;
-              console.log('Created new release:', releaseId);
+              console.log(`Created release: ${tagName}`);
             }
 
             // 上传每个文件
@@ -206,6 +241,10 @@ jobs:
                 
                 console.log(`✓ Uploaded ${filename}`);
               } catch (error) {
+                if (error.message.includes('file_count limited')) {
+                  console.log('Release is full, will create new one in next run');
+                  break;
+                }
                 console.log(`✗ Failed to upload ${path.basename(filePath)}: ${error.message}`);
               }
             }
