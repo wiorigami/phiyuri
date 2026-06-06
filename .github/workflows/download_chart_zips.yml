@@ -255,8 +255,8 @@ jobs:
           rm -f .downloaded_files
           rm -rf chart/zip
 
-      - name: Wait 120 seconds
-        run: sleep 120
+      - name: Wait 1 seconds
+        run: sleep 1
 
       - name: Trigger next run
         if: success()
