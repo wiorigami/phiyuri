@@ -1,21 +1,22 @@
-name: Fetch Phira Charts (Loop)
+name: Download Chart Zips (Loop)
 
 on:
-  workflow_dispatch:   # ❗去掉 schedule，只保留手动 + 自循环触发
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
-  group: phira-fetch
-  cancel-in-progress: true
+  group: chart-zip-download
+  cancel-in-progress: false
 
 jobs:
-  fetch:
+  download:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -27,87 +28,91 @@ jobs:
         run: |
           pip install requests
 
-      - name: Fetch charts
+      - name: Download next 50 zips
         run: |
           python << 'EOF'
           import json
-          import time
-          from pathlib import Path
           import requests
+          from pathlib import Path
 
           INFO_DIR = Path("chart/info")
-          INFO_DIR.mkdir(parents=True, exist_ok=True)
+          ZIP_DIR = Path("chart/zip")
 
-          UPDATE_URL = "https://api.phira.cn/chart?page=1&order=-updated"
+          ZIP_DIR.mkdir(parents=True, exist_ok=True)
+
+          # 获取 zip 目录最大ID
+          existing = []
+
+          for f in ZIP_DIR.glob("*.zip"):
+              try:
+                  existing.append(int(f.stem))
+              except:
+                  pass
+
+          max_zip_id = max(existing) if existing else 0
+
+          print("Current max zip id:", max_zip_id)
+
+          info_files = []
+
+          for f in INFO_DIR.glob("*.json"):
+              try:
+                  cid = int(f.stem)
+                  if cid > max_zip_id:
+                      info_files.append((cid, f))
+              except:
+                  pass
+
+          info_files.sort(key=lambda x: x[0])
+
+          targets = info_files[:50]
+
+          print("Need download:", len(targets))
 
           session = requests.Session()
           session.headers.update({
               "User-Agent": "Mozilla/5.0"
           })
 
-          print("Fetching update list...")
+          downloaded = 0
 
-          resp = session.get(UPDATE_URL, timeout=30)
-          resp.raise_for_status()
-
-          data = resp.json()
-
-          Path("chart/update.json").write_text(
-              json.dumps(data, ensure_ascii=False, indent=2),
-              encoding="utf-8"
-          )
-
-          results = data.get("results", [])
-          print("Total results:", len(results))
-
-          updated_count = 0
-
-          for item in results:
-              cid = item.get("id")
-              if not cid:
-                  continue
-
-              url = f"https://api.phira.cn/chart/{cid}"
-
+          for cid, json_file in targets:
               try:
-                  r = session.get(url, timeout=30)
-
-                  if r.status_code != 200:
-                      print("skip", cid, r.status_code)
-                      continue
-
-                  chart = r.json()
-
-                  if chart.get("error") == "找不到指定实体":
-                      continue
-
-                  file_path = INFO_DIR / f"{cid}.json"
-
-                  new_content = json.dumps(
-                      chart,
-                      ensure_ascii=False,
-                      indent=2,
-                      sort_keys=True
+                  data = json.loads(
+                      json_file.read_text(encoding="utf-8")
                   )
 
-                  old_content = None
-                  if file_path.exists():
-                      old_content = file_path.read_text(encoding="utf-8")
+                  url = data.get("file")
 
-                  if old_content != new_content:
-                      file_path.write_text(new_content, encoding="utf-8")
-                      updated_count += 1
-                      print("updated", cid)
+                  if not url:
+                      continue
 
-                  time.sleep(0.3)
+                  out_file = ZIP_DIR / f"{cid}.zip"
+
+                  if out_file.exists():
+                      continue
+
+                  print("Downloading", cid)
+
+                  r = session.get(
+                      url,
+                      timeout=60,
+                      stream=True
+                  )
+
+                  r.raise_for_status()
+
+                  with open(out_file, "wb") as f:
+                      for chunk in r.iter_content(65536):
+                          if chunk:
+                              f.write(chunk)
+
+                  downloaded += 1
 
               except Exception as e:
-                  print("error", cid, e)
+                  print("Failed", cid, e)
 
-          print("DONE, updated:", updated_count)
-
-          # 🟢 关键：等待后触发下一轮
-          time.sleep(120)
+          print("Downloaded:", downloaded)
           EOF
 
       - name: Commit changes
@@ -115,17 +120,22 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add chart/
+          git add chart/zip
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Auto update charts"
+            git commit -m "Batch download 50 charts"
+
             git pull --rebase origin main || true
+
             git push
           fi
 
-      - name: Trigger next run (self-loop)
+      - name: Wait 120 seconds
+        run: sleep 120
+
+      - name: Trigger next run
         if: success()
         uses: actions/github-script@v7
         with:
@@ -133,6 +143,6 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: "fetch_phira.yml",
+              workflow_id: "download_chart_zips.yml",
               ref: "main"
             })
