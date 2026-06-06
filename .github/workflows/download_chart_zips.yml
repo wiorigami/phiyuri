@@ -1,136 +1,4 @@
-name: Download Chart Zips (Loop)
-
-on:
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  actions: write
-
-concurrency:
-  group: chart-zip-download
-  cancel-in-progress: false
-
-jobs:
-  download:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          pip install requests
-
-      - name: Download next 50 zips
-        run: |
-          python << 'EOF'
-          import json
-          import requests
-          from pathlib import Path
-
-          INFO_DIR = Path("chart/info")
-          ZIP_DIR = Path("chart/zip")
-
-          ZIP_DIR.mkdir(parents=True, exist_ok=True)
-
-          # 读取 release 中的 zip 文件列表
-          existing = []
-          
-          try:
-              response = requests.get(
-                  "https://api.github.com/repos/wiorigami/phiyuri/releases",
-                  headers={"Authorization": "token ${{ github.token }}"},
-                  timeout=30
-              )
-              response.raise_for_status()
-              
-              for release in response.json():
-                  for asset in release.get("assets", []):
-                      if asset["name"].endswith(".zip"):
-                          try:
-                              cid = int(asset["name"].replace(".zip", ""))
-                              existing.append(cid)
-                          except:
-                              pass
-          except Exception as e:
-              print(f"Warning: Could not fetch release assets: {e}")
-
-          max_zip_id = max(existing) if existing else 0
-
-          print("Current max zip id:", max_zip_id)
-
-          info_files = []
-
-          for f in INFO_DIR.glob("*.json"):
-              try:
-                  cid = int(f.stem)
-                  if cid > max_zip_id:
-                      info_files.append((cid, f))
-              except:
-                  pass
-
-          info_files.sort(key=lambda x: x[0])
-
-          targets = info_files[:50]
-
-          print("Need download:", len(targets))
-
-          session = requests.Session()
-          session.headers.update({
-              "User-Agent": "Mozilla/5.0"
-          })
-
-          downloaded = 0
-          temp_files = []
-
-          for cid, json_file in targets:
-              try:
-                  data = json.loads(
-                      json_file.read_text(encoding="utf-8")
-                  )
-
-                  url = data.get("file")
-
-                  if not url:
-                      continue
-
-                  out_file = ZIP_DIR / f"{cid}.zip"
-
-                  print("Downloading", cid)
-
-                  r = session.get(
-                      url,
-                      timeout=60,
-                      stream=True
-                  )
-
-                  r.raise_for_status()
-
-                  with open(out_file, "wb") as f:
-                      for chunk in r.iter_content(65536):
-                          if chunk:
-                              f.write(chunk)
-
-                  temp_files.append(str(out_file))
-                  downloaded += 1
-
-              except Exception as e:
-                  print("Failed", cid, e)
-
-          # 保存下载文件列表供后续步骤使用
-          with open(".downloaded_files", "w") as f:
-              for file_path in temp_files:
-                  f.write(file_path + "\n")
-
-          print("Downloaded:", downloaded)
-          EOF
+# 在 "Create or update Release" 步骤中替换 JavaScript 脚本
 
       - name: Create or update Release
         if: success()
@@ -155,33 +23,59 @@ jobs:
               return;
             }
 
-            // 查找或创建 Release
+            // 查找合适的 Release
             let releaseId = null;
-            const releaseName = 'Chart Zips Storage';
-            const releaseTag = 'chart-zips';
-
+            let currentReleaseIndex = 1;
+            
             try {
-              // 尝试获取现有 release
-              const getReleaseResponse = await github.rest.repos.getReleaseByTag({
+              // 获取所有 release
+              const releasesResponse = await github.rest.repos.listReleases({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                tag: releaseTag
+                per_page: 100
               });
-              releaseId = getReleaseResponse.data.id;
-              console.log('Found existing release:', releaseId);
+              
+              const releases = releasesResponse.data.filter(r => r.name && r.name.startsWith('Chart Zips Storage'));
+              
+              if (releases.length > 0) {
+                // 找最新的 Release
+                const latestRelease = releases[0];
+                currentReleaseIndex = parseInt(latestRelease.name.match(/\d+/)[0]) || 1;
+                
+                // 检查文件数量
+                const assetCount = latestRelease.assets.length;
+                console.log(`Latest release (${latestRelease.name}) has ${assetCount} files`);
+                
+                if (assetCount + filesToUpload.length <= 1000) {
+                  // 可以继续用这个 release
+                  releaseId = latestRelease.id;
+                  console.log('Using existing release');
+                } else {
+                  // 需要创建新 release
+                  currentReleaseIndex++;
+                  console.log('Current release is full, creating new one');
+                }
+              }
             } catch (error) {
-              // Release 不存在，创建新的
+              console.log('No existing releases found');
+            }
+            
+            // 如果没有 releaseId，创建新的 Release
+            if (!releaseId) {
+              const releaseName = `Chart Zips Storage [Part ${currentReleaseIndex}]`;
+              const releaseTag = `chart-zips-${currentReleaseIndex}`;
+              
               const createReleaseResponse = await github.rest.repos.createRelease({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 tag_name: releaseTag,
                 name: releaseName,
-                body: 'Storage for downloaded chart zip files',
+                body: `Storage for downloaded chart zip files - Part ${currentReleaseIndex}\n\nMax 1000 files per release`,
                 draft: false,
                 prerelease: false
               });
               releaseId = createReleaseResponse.data.id;
-              console.log('Created new release:', releaseId);
+              console.log(`Created new release: ${releaseName}`);
             }
 
             // 上传每个文件
@@ -206,27 +100,10 @@ jobs:
                 
                 console.log(`✓ Uploaded ${filename}`);
               } catch (error) {
+                if (error.message.includes('file_count limited')) {
+                  console.log(`Release is full, will create new one in next run`);
+                  break;
+                }
                 console.log(`✗ Failed to upload ${path.basename(filePath)}: ${error.message}`);
               }
             }
-
-      - name: Clean up temp files
-        if: always()
-        run: |
-          rm -f .downloaded_files
-          rm -rf chart/zip
-
-      - name: Wait 12 seconds
-        run: sleep 12
-
-      - name: Trigger next run
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: "download_chart_zips.yml",
-              ref: "main"
-            })
