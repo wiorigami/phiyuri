@@ -49,4 +49,4 @@ GitHub Repository → Actions → Update Phira Charts → Run workflow
 You may use and modify this project freely.
 
 ---
-<img src="https://xxx.com/image.png" width="300">
+<img src="[https://xxx.com/image.png](https://api.phira.cn/files/0d035d22-c3d4-4974-93ae-85f39745c374)" width="300">
