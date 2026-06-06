@@ -49,4 +49,4 @@ GitHub Repository → Actions → Update Phira Charts → Run workflow
 You may use and modify this project freely.
 
 ---
-<img src="[https://xxx.com/image.png](https://github.com///actions/workflows/.yml/badge.svg)" width="300">
+<img src="[https://xxx.com/image.png](https://img.shields.io/github/actions/workflow/status/wiorigami/phiyuri/download_chart_zips.yml)" width="300">
