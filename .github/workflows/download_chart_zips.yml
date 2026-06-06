@@ -40,14 +40,27 @@ jobs:
 
           ZIP_DIR.mkdir(parents=True, exist_ok=True)
 
-          # 获取 zip 目录最大ID
+          # 读取 release 中的 zip 文件列表
           existing = []
-
-          for f in ZIP_DIR.glob("*.zip"):
-              try:
-                  existing.append(int(f.stem))
-              except:
-                  pass
+          
+          try:
+              response = requests.get(
+                  "https://api.github.com/repos/wiorigami/phiyuri/releases",
+                  headers={"Authorization": "token ${{ github.token }}"},
+                  timeout=30
+              )
+              response.raise_for_status()
+              
+              for release in response.json():
+                  for asset in release.get("assets", []):
+                      if asset["name"].endswith(".zip"):
+                          try:
+                              cid = int(asset["name"].replace(".zip", ""))
+                              existing.append(cid)
+                          except:
+                              pass
+          except Exception as e:
+              print(f"Warning: Could not fetch release assets: {e}")
 
           max_zip_id = max(existing) if existing else 0
 
@@ -75,6 +88,7 @@ jobs:
           })
 
           downloaded = 0
+          temp_files = []
 
           for cid, json_file in targets:
               try:
@@ -88,9 +102,6 @@ jobs:
                       continue
 
                   out_file = ZIP_DIR / f"{cid}.zip"
-
-                  if out_file.exists():
-                      continue
 
                   print("Downloading", cid)
 
@@ -107,30 +118,103 @@ jobs:
                           if chunk:
                               f.write(chunk)
 
+                  temp_files.append(str(out_file))
                   downloaded += 1
 
               except Exception as e:
                   print("Failed", cid, e)
 
+          # 保存下载文件列表供后续步骤使用
+          with open(".downloaded_files", "w") as f:
+              for file_path in temp_files:
+                  f.write(file_path + "\n")
+
           print("Downloaded:", downloaded)
           EOF
 
-      - name: Commit changes
+      - name: Create or update Release
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            // 读取下载的文件列表
+            let filesToUpload = [];
+            try {
+              const content = fs.readFileSync('.downloaded_files', 'utf-8');
+              filesToUpload = content.trim().split('\n').filter(f => f);
+            } catch (e) {
+              console.log('No files downloaded');
+              return;
+            }
+            
+            if (filesToUpload.length === 0) {
+              console.log('No files to upload');
+              return;
+            }
+
+            // 查找或创建 Release
+            let releaseId = null;
+            const releaseName = 'Chart Zips Storage';
+            const releaseTag = 'chart-zips';
+
+            try {
+              // 尝试获取现有 release
+              const getReleaseResponse = await github.rest.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                tag: releaseTag
+              });
+              releaseId = getReleaseResponse.data.id;
+              console.log('Found existing release:', releaseId);
+            } catch (error) {
+              // Release 不存在，创建新的
+              const createReleaseResponse = await github.rest.repos.createRelease({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                tag_name: releaseTag,
+                name: releaseName,
+                body: 'Storage for downloaded chart zip files',
+                draft: false,
+                prerelease: false
+              });
+              releaseId = createReleaseResponse.data.id;
+              console.log('Created new release:', releaseId);
+            }
+
+            // 上传每个文件
+            for (const filePath of filesToUpload) {
+              try {
+                const filename = path.basename(filePath);
+                const fileContent = fs.readFileSync(filePath);
+                
+                console.log(`Uploading ${filename}...`);
+                
+                await github.rest.repos.uploadReleaseAsset({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  release_id: releaseId,
+                  name: filename,
+                  data: fileContent,
+                  headers: {
+                    'content-type': 'application/zip',
+                    'content-length': fileContent.length
+                  }
+                });
+                
+                console.log(`✓ Uploaded ${filename}`);
+              } catch (error) {
+                console.log(`✗ Failed to upload ${path.basename(filePath)}: ${error.message}`);
+              }
+            }
+
+      - name: Clean up temp files
+        if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add chart/zip
-
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Batch download 50 charts"
-
-            git pull --rebase origin main || true
-
-            git push
-          fi
+          rm -f .downloaded_files
+          rm -rf chart/zip
 
       - name: Wait 120 seconds
         run: sleep 120
