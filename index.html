@@ -106,21 +106,13 @@
             flex-wrap: wrap;
         }
         
-        .controls input[type="file"] {
-            padding: 8px 12px;
+        .controls input[type="text"] {
+            padding: 10px 12px;
             border: 2px solid #667eea;
             border-radius: 6px;
-            cursor: pointer;
             font-size: 14px;
-        }
-        
-        .controls input[type="text"] {
             flex: 1;
-            min-width: 200px;
-            padding: 10px 12px;
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            font-size: 14px;
+            min-width: 150px;
         }
         
         .controls button {
@@ -250,6 +242,8 @@
             height: 100%;
             color: #999;
             font-size: 16px;
+            flex-direction: column;
+            gap: 10px;
         }
         
         .error {
@@ -270,6 +264,23 @@
             background: #059669;
         }
         
+        .input-group {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .input-group span {
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+        
+        .input-group input {
+            flex: 1;
+            min-width: 150px;
+        }
+        
         @media (max-width: 768px) {
             .content {
                 flex-direction: column;
@@ -286,6 +297,10 @@
             .header h1 {
                 font-size: 20px;
             }
+            
+            .input-group {
+                flex-direction: column;
+            }
         }
     </style>
 </head>
@@ -293,14 +308,15 @@
     <div class="container">
         <div class="header">
             <h1>🎵 Phira Charts Viewer</h1>
-            <p>在线查看 ZIP 文件内容</p>
+            <p>输入 Chart ID 在线浏览 Release 中的文件</p>
         </div>
         
         <div class="controls" style="padding: 20px 30px;">
-            <input type="file" id="zipFile" accept=".zip" placeholder="选择 ZIP 文件">
-            <input type="text" id="releaseUrl" placeholder="或输入 Release URL (例如: https://github.com/owner/repo/releases/download/tag/file.zip)" value="">
-            <button onclick="loadFromUrl()">从 URL 加载</button>
-            <button class="download-btn" onclick="downloadCurrentFile()">下载当前文件</button>
+            <div class="input-group">
+                <span>📍 Chart ID:</span>
+                <input type="number" id="chartId" placeholder="输入 Chart ID (例如: 60137)" min="1">
+                <button onclick="loadFromId()">加载</button>
+            </div>
         </div>
         
         <div class="stats" style="padding: 0 30px; display: none;" id="stats">
@@ -328,7 +344,10 @@
                         <button class="download-btn" onclick="downloadCurrentFile()" style="display: none;" id="downloadBtn">下载</button>
                     </div>
                     <div class="viewer-content" id="viewerContent">
-                        <div class="empty">选择一个文件开始查看</div>
+                        <div class="empty">
+                            <div>输入 Chart ID 开始浏览</div>
+                            <div style="font-size: 12px; color: #aaa;">例如: 60137</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -339,16 +358,18 @@
         let zipData = null;
         let allFiles = [];
         let currentFile = null;
+        
+        // 配置信息
+        const CONFIG = {
+            owner: 'wiorigami',
+            repo: 'phiyuri',
+            tag: 'chart-zips'  // Release tag 名称
+        };
 
-        // 文件上传
-        document.getElementById('zipFile').addEventListener('change', function(e) {
-            const file = e.target.files[0];
-            if (file) {
-                const reader = new FileReader();
-                reader.onload = function(event) {
-                    loadZip(event.target.result);
-                };
-                reader.readAsArrayBuffer(file);
+        // 按 Enter 键加载
+        document.getElementById('chartId').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                loadFromId();
             }
         });
 
@@ -369,11 +390,11 @@
             document.getElementById('searchCount').textContent = visibleCount;
         });
 
-        // 从 URL 加载
-        async function loadFromUrl() {
-            const url = document.getElementById('releaseUrl').value.trim();
-            if (!url) {
-                alert('请输入 URL');
+        // 从 ID 加载
+        async function loadFromId() {
+            const chartId = document.getElementById('chartId').value.trim();
+            if (!chartId) {
+                alert('请输入有效的 Chart ID');
                 return;
             }
 
@@ -381,12 +402,20 @@
             content.innerHTML = '<div class="loading"><div class="spinner"></div><span>加载中...</span></div>';
 
             try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                // 构建 Release 下载 URL
+                const releaseUrl = `https://github.com/${CONFIG.owner}/${CONFIG.repo}/releases/download/${CONFIG.tag}/${chartId}.zip`;
+                
+                console.log('正在加载:', releaseUrl);
+                
+                const response = await fetch(releaseUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status} - Chart ID ${chartId} 不存在或网络错误`);
+                }
+                
                 const buffer = await response.arrayBuffer();
                 loadZip(buffer);
             } catch (error) {
-                content.innerHTML = `<div class="error">❌ 加载失败: ${error.message}</div>`;
+                content.innerHTML = `<div class="error">❌ 加载失败: ${error.message}<br><small>请检查 Chart ID 是否正确，或检查网络连接</small></div>`;
             }
         }
 
@@ -417,6 +446,11 @@
             const fileList = document.getElementById('fileList');
             fileList.innerHTML = '';
 
+            if (files.length === 0) {
+                fileList.innerHTML = '<li class="file-item" style="padding: 20px; text-align: center; color: #999;">没有文件</li>';
+                return;
+            }
+
             files.forEach(filename => {
                 const li = document.createElement('li');
                 li.className = 'file-item';
@@ -428,9 +462,13 @@
                 else if (filename.endsWith('.txt')) icon = '📝';
                 else if (filename.endsWith('.jpg') || filename.endsWith('.png')) icon = '🖼️';
                 else if (filename.endsWith('.zip')) icon = '📦';
+                else if (filename.endsWith('.mp3') || filename.endsWith('.wav')) icon = '🎵';
+                else if (filename.endsWith('.chart')) icon = '🎼';
                 else if (filename.endsWith('/')) icon = '📁';
 
-                li.innerHTML = `<span class="file-icon">${icon}</span><span>${filename}</span>`;
+                // 显示文件名，去掉路径
+                const displayName = filename.split('/').pop();
+                li.innerHTML = `<span class="file-icon">${icon}</span><span title="${filename}">${displayName}</span>`;
                 li.onclick = () => viewFile(filename, li);
                 fileList.appendChild(li);
             });
@@ -453,7 +491,7 @@
 
                 const ext = filename.split('.').pop().toLowerCase();
                 
-                if (['json', 'txt', 'csv', 'xml', 'html', 'css', 'js'].includes(ext)) {
+                if (['json', 'txt', 'csv', 'xml', 'html', 'css', 'js', 'chart'].includes(ext)) {
                     const text = await file.async('string');
                     
                     if (ext === 'json') {
@@ -461,12 +499,13 @@
                             const json = JSON.parse(text);
                             content.innerHTML = `<pre class="json-viewer">${JSON.stringify(json, null, 2)}</pre>`;
                         } catch (e) {
-                            content.innerHTML = `<pre class="json-viewer">${text}</pre>`;
+                            content.innerHTML = `<pre class="json-viewer">${escapeHtml(text)}</pre>`;
                         }
                     } else {
-                        content.innerHTML = `<pre class="json-viewer">${escapeHtml(text.substring(0, 50000))}</pre>`;
+                        const displayText = text.length > 50000 ? text.substring(0, 50000) : text;
+                        content.innerHTML = `<pre class="json-viewer">${escapeHtml(displayText)}</pre>`;
                         if (text.length > 50000) {
-                            content.innerHTML += `<div class="error">📌 文件过大，只显示前 50000 个字符</div>`;
+                            content.innerHTML += `<div class="error" style="margin-top: 10px;">📌 文件过大，只显示前 50000 个字符</div>`;
                         }
                     }
                 } else if (['jpg', 'png', 'gif', 'webp'].includes(ext)) {
