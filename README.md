@@ -49,4 +49,4 @@ GitHub Repository → Actions → Update Phira Charts → Run workflow
 You may use and modify this project freely.
 
 ---
-<iframe src="https://example.com" width="600" height="400"></iframe>
+<img src="https://xxx.com/image.png" width="300">
