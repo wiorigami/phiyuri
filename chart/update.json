@@ -1,6 +1,86 @@
 {
-  "count": 8737,
+  "count": 8734,
   "results": [
+    {
+      "id": 60014,
+      "name": "樱落繁花",
+      "level": "IN Lv.15",
+      "difficulty": 15.600002,
+      "charter": "Munger",
+      "composer": "SJQ音福",
+      "illustrator": "",
+      "description": "原视频BV11z421U7aK B站：格芒Munger 感谢游玩。 由于这个谱子是24年写的 未免有点问题 还请多多指教。 26.6.6:修改一些采音错误以及优化配置和手感 优化演出",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2385a19f-7dc0-4831-aa8f-bc64169ab08c",
+      "preview": "https://phira.5wyxi.com/files/fc5e0eb6-3ffc-42dd-9576-70b5bdb5632a",
+      "file": "https://phira.5wyxi.com/files/5f4156d3-c269-43b9-9cd6-4987944a31ca",
+      "uploader": 982859,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7896044,
+      "ratingCount": 8,
+      "created": "2026-06-05T21:35:55.925155Z",
+      "updated": "2026-06-05T21:35:55.925155Z",
+      "chartUpdated": "2026-06-05T21:35:55.925155Z"
+    },
+    {
+      "id": 59223,
+      "name": "蜘蛛の糸",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "FFXL＜ー＞（-飞飞XL-）",
+      "composer": "きくお×cosMo＠暴走P feat.影縫英",
+      "illustrator": "",
+      "description": "谱师：-飞飞XL-\n本家：CHUNITHM\n上线版本：CHUNITHM NEW",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/8ffdf0fc-b03b-4ba2-90e6-516d2605cede",
+      "preview": "https://phira.5wyxi.com/files/a46bcb8d-7416-4373-b2d9-ba1c4d4f083c",
+      "file": "https://phira.5wyxi.com/files/db60d9d5-42f3-4c74-85d8-d945a585d594",
+      "uploader": 410,
+      "tags": [
+        "CHUNITHM",
+        "中二节奏",
+        "regular"
+      ],
+      "rating": 0.9421579,
+      "ratingCount": 387,
+      "created": "2026-05-27T01:04:30.521969Z",
+      "updated": "2026-06-05T18:59:14.764899Z",
+      "chartUpdated": "2026-05-27T01:04:30.521969Z"
+    },
+    {
+      "id": 39881,
+      "name": "Valhalla",
+      "level": "AT Lv.15",
+      "difficulty": 15.0,
+      "charter": "ᛈᛟᛚᛆᚱᛁᛋ",
+      "composer": "Vexento",
+      "illustrator": "",
+      "description": "心血来潮对旧谱进行了翻新。",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
+      "preview": "https://phira.5wyxi.com/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
+      "file": "https://phira.5wyxi.com/files/4235f92c-9162-4fd7-8113-3085814a0ece",
+      "uploader": 93292,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9072528,
+      "ratingCount": 188,
+      "created": "2025-06-18T14:50:04.950304Z",
+      "updated": "2026-06-05T14:57:09.471296Z",
+      "chartUpdated": "2026-06-04T16:30:20.497178Z"
+    },
     {
       "id": 59571,
       "name": "Giselle",
@@ -21,8 +101,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8742508,
-      "ratingCount": 97,
+      "rating": 0.8690604,
+      "ratingCount": 112,
       "created": "2026-05-30T20:10:09.007739Z",
       "updated": "2026-06-05T07:56:30.008185Z",
       "chartUpdated": "2026-05-30T20:10:09.007739Z"
@@ -49,8 +129,8 @@
         "夜空中最亮的星",
         "regular"
       ],
-      "rating": 0.94278324,
-      "ratingCount": 753,
+      "rating": 0.9411121,
+      "ratingCount": 1307,
       "created": "2026-06-05T05:08:53.550854Z",
       "updated": "2026-06-05T05:16:46.376735Z",
       "chartUpdated": "2026-06-05T05:08:53.550854Z"
@@ -75,37 +155,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7807951,
-      "ratingCount": 9,
+      "rating": 0.81524706,
+      "ratingCount": 15,
       "created": "2026-06-05T01:55:59.968079Z",
       "updated": "2026-06-05T01:55:59.968079Z",
       "chartUpdated": "2026-06-05T01:55:59.968079Z"
-    },
-    {
-      "id": 39881,
-      "name": "Valhalla",
-      "level": "AT Lv.15",
-      "difficulty": 15.0,
-      "charter": "ᛈᛟᛚᛆᚱᛁᛋ",
-      "composer": "Vexento",
-      "illustrator": "",
-      "description": "心血来潮对旧谱进行了翻新。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
-      "preview": "https://phira.5wyxi.com/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
-      "file": "https://phira.5wyxi.com/files/4235f92c-9162-4fd7-8113-3085814a0ece",
-      "uploader": 93292,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9028013,
-      "ratingCount": 172,
-      "created": "2025-06-18T14:50:04.950304Z",
-      "updated": "2026-06-04T16:30:20.497178Z",
-      "chartUpdated": "2026-06-04T16:30:20.497178Z"
     },
     {
       "id": 59884,
@@ -127,8 +181,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83685577,
-      "ratingCount": 29,
+      "rating": 0.84282875,
+      "ratingCount": 32,
       "created": "2026-06-04T09:53:46.088218Z",
       "updated": "2026-06-04T09:53:46.088218Z",
       "chartUpdated": "2026-06-04T09:53:46.088218Z"
@@ -154,8 +208,8 @@
         "太鼓达人",
         "regular"
       ],
-      "rating": 0.94489735,
-      "ratingCount": 147,
+      "rating": 0.936807,
+      "ratingCount": 199,
       "created": "2026-06-04T05:02:49.654931Z",
       "updated": "2026-06-04T05:02:49.654931Z",
       "chartUpdated": "2026-06-04T05:02:49.654931Z"
@@ -180,8 +234,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93899924,
-      "ratingCount": 129,
+      "rating": 0.9410648,
+      "ratingCount": 176,
       "created": "2026-06-03T17:31:57.077335Z",
       "updated": "2026-06-03T17:31:57.077335Z",
       "chartUpdated": "2026-06-03T17:31:57.077335Z"
@@ -206,8 +260,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9282531,
-      "ratingCount": 1754,
+      "rating": 0.92782503,
+      "ratingCount": 1777,
       "created": "2025-11-16T14:23:49.729601Z",
       "updated": "2026-06-03T16:57:34.084834Z",
       "chartUpdated": "2026-04-19T04:40:37.184827Z"
@@ -234,8 +288,8 @@
         "6thWJC",
         "regular"
       ],
-      "rating": 0.91555595,
-      "ratingCount": 1071,
+      "rating": 0.91543794,
+      "ratingCount": 1074,
       "created": "2025-12-10T04:53:57.172286Z",
       "updated": "2026-06-03T16:38:56.817701Z",
       "chartUpdated": "2026-04-19T05:53:36.460599Z"
@@ -262,8 +316,8 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.91982114,
-      "ratingCount": 776,
+      "rating": 0.92001337,
+      "ratingCount": 819,
       "created": "2026-05-19T15:37:09.798510Z",
       "updated": "2026-06-03T14:29:12.528789Z",
       "chartUpdated": "2026-06-03T14:29:12.528789Z"
@@ -290,8 +344,8 @@
         "ARForest",
         "regular"
       ],
-      "rating": 0.9395088,
-      "ratingCount": 129,
+      "rating": 0.9395615,
+      "ratingCount": 143,
       "created": "2026-05-31T02:41:41.523893Z",
       "updated": "2026-06-03T12:22:35.818510Z",
       "chartUpdated": "2026-06-02T12:26:33.168517Z"
@@ -319,8 +373,8 @@
         "赛马娘",
         "regular"
       ],
-      "rating": 0.923166,
-      "ratingCount": 212,
+      "rating": 0.9225764,
+      "ratingCount": 216,
       "created": "2026-05-17T06:20:34.398366Z",
       "updated": "2026-06-03T12:02:21.770391Z",
       "chartUpdated": "2026-05-17T06:20:34.398366Z"
@@ -346,8 +400,8 @@
         "月计",
         "regular"
       ],
-      "rating": 0.91649663,
-      "ratingCount": 195,
+      "rating": 0.91629386,
+      "ratingCount": 223,
       "created": "2026-06-03T08:44:18.268359Z",
       "updated": "2026-06-03T08:44:18.268359Z",
       "chartUpdated": "2026-06-03T08:44:18.268359Z"
@@ -372,8 +426,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.661978,
-      "ratingCount": 2,
+      "rating": 0.6893796,
+      "ratingCount": 3,
       "created": "2026-06-03T06:19:18.692494Z",
       "updated": "2026-06-03T06:19:18.692494Z",
       "chartUpdated": "2026-06-03T06:19:18.692494Z"
@@ -398,8 +452,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8673388,
-      "ratingCount": 55,
+      "rating": 0.86866957,
+      "ratingCount": 58,
       "created": "2026-06-02T16:21:40.838143Z",
       "updated": "2026-06-03T03:49:35.910425Z",
       "chartUpdated": "2026-06-02T16:21:40.838143Z"
@@ -425,8 +479,8 @@
         "NIKKE",
         "regular"
       ],
-      "rating": 0.93481666,
-      "ratingCount": 152,
+      "rating": 0.9347589,
+      "ratingCount": 159,
       "created": "2026-06-02T02:30:16.002389Z",
       "updated": "2026-06-02T15:30:22.116907Z",
       "chartUpdated": "2026-06-02T15:30:22.116907Z"
@@ -451,8 +505,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8650309,
-      "ratingCount": 84,
+      "rating": 0.87944055,
+      "ratingCount": 103,
       "created": "2026-05-30T15:44:24.771709Z",
       "updated": "2026-06-02T10:39:23.456704Z",
       "chartUpdated": "2026-06-02T10:39:23.456704Z"
@@ -477,8 +531,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9553388,
-      "ratingCount": 895,
+      "rating": 0.9561166,
+      "ratingCount": 1021,
       "created": "2026-05-28T09:37:29.704875Z",
       "updated": "2026-06-02T08:57:55.804320Z",
       "chartUpdated": "2026-05-28T09:37:29.704875Z"
@@ -503,8 +557,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9422552,
-      "ratingCount": 9214,
+      "rating": 0.9426897,
+      "ratingCount": 9641,
       "created": "2026-05-29T02:18:35.248207Z",
       "updated": "2026-06-02T08:49:48.726791Z",
       "chartUpdated": "2026-06-02T08:49:48.726791Z"
@@ -529,8 +583,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7692639,
-      "ratingCount": 90,
+      "rating": 0.77112556,
+      "ratingCount": 98,
       "created": "2026-06-02T05:05:00.733668Z",
       "updated": "2026-06-02T06:24:37.025933Z",
       "chartUpdated": "2026-06-02T05:05:00.733668Z"
@@ -556,8 +610,8 @@
         "steaka",
         "regular"
       ],
-      "rating": 0.91717786,
-      "ratingCount": 257,
+      "rating": 0.91823393,
+      "ratingCount": 266,
       "created": "2026-02-23T15:58:10.269101Z",
       "updated": "2026-06-02T04:26:38.989701Z",
       "chartUpdated": "2026-05-29T20:48:40.996609Z"
@@ -583,8 +637,8 @@
         "520",
         "regular"
       ],
-      "rating": 0.9153053,
-      "ratingCount": 672,
+      "rating": 0.9099768,
+      "ratingCount": 887,
       "created": "2026-06-01T19:22:30.242497Z",
       "updated": "2026-06-01T19:22:30.242497Z",
       "chartUpdated": "2026-06-01T19:22:30.242497Z"
@@ -609,37 +663,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 1,
+      "rating": 0.80552316,
+      "ratingCount": 3,
       "created": "2026-06-01T15:59:13.829140Z",
       "updated": "2026-06-01T15:59:13.829140Z",
       "chartUpdated": "2026-06-01T15:59:13.829140Z"
-    },
-    {
-      "id": 59743,
-      "name": "Future Downloader",
-      "level": "IN  Lv.16",
-      "difficulty": 16.400002,
-      "charter": "SHS Downloader",
-      "composer": "Kobaryo",
-      "illustrator": "",
-      "description": "请使用0.7.1及以上版本游玩！！！\n请使用0.7.1及以上版本游玩！！！\n请使用0.7.1及以上版本游玩！！！\n本人上传，谱面演示见B站同名账号（BV号由于一些原因写不了）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b77e9565-f837-4d6b-8d62-a3c2fce1bdc5",
-      "preview": "https://phira.5wyxi.com/files/c8e4d10b-9493-468e-917e-156caa3ecac3",
-      "file": "https://phira.5wyxi.com/files/7a0994d5-c644-4f31-a8eb-29ffaca7e637",
-      "uploader": 1487585,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9382786,
-      "ratingCount": 59,
-      "created": "2026-06-01T14:38:29.342971Z",
-      "updated": "2026-06-01T14:38:29.342971Z",
-      "chartUpdated": "2026-06-01T14:38:29.342971Z"
     },
     {
       "id": 59673,
@@ -662,8 +690,8 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9365375,
-      "ratingCount": 225,
+      "rating": 0.9355867,
+      "ratingCount": 236,
       "created": "2026-05-31T14:51:55.106003Z",
       "updated": "2026-06-01T14:05:11.395685Z",
       "chartUpdated": "2026-06-01T14:05:11.395685Z"
@@ -688,8 +716,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9319098,
-      "ratingCount": 234,
+      "rating": 0.9318965,
+      "ratingCount": 247,
       "created": "2026-05-31T06:40:08.027352Z",
       "updated": "2026-06-01T13:02:33.032302Z",
       "chartUpdated": "2026-05-31T06:40:08.027352Z"
@@ -714,8 +742,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8795574,
-      "ratingCount": 138,
+      "rating": 0.8833599,
+      "ratingCount": 183,
       "created": "2026-06-01T09:37:06.801054Z",
       "updated": "2026-06-01T09:37:06.801054Z",
       "chartUpdated": "2026-06-01T09:37:06.801054Z"
@@ -742,8 +770,8 @@
         "底力",
         "regular"
       ],
-      "rating": 0.8354895,
-      "ratingCount": 72,
+      "rating": 0.8408682,
+      "ratingCount": 78,
       "created": "2026-06-01T05:47:17.662050Z",
       "updated": "2026-06-01T05:47:17.662050Z",
       "chartUpdated": "2026-06-01T05:47:17.662050Z"
@@ -768,37 +796,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9299834,
-      "ratingCount": 164,
+      "rating": 0.9303439,
+      "ratingCount": 169,
       "created": "2026-05-27T14:06:59.189117Z",
       "updated": "2026-05-31T12:43:19.821384Z",
       "chartUpdated": "2026-05-31T12:43:19.821384Z"
-    },
-    {
-      "id": 59231,
-      "name": "超ナイト・オブ・ナイツ",
-      "level": "AT  Lv.16",
-      "difficulty": 16.700003,
-      "charter": "Ex1stenS",
-      "composer": "ビートまりお,まろん",
-      "illustrator": "",
-      "description": "本人上传\n修改部分配置",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5cda8ccf-82c6-43eb-824f-22aad917e21e",
-      "preview": "https://phira.5wyxi.com/files/df8135d3-1571-46f6-aba0-9bc5acff1e3b",
-      "file": "https://phira.5wyxi.com/files/a3f238d1-7dd7-4b54-a9c2-7e2021740f91",
-      "uploader": 1503,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9180973,
-      "ratingCount": 329,
-      "created": "2026-05-27T04:45:57.996907Z",
-      "updated": "2026-05-31T12:38:18.389505Z",
-      "chartUpdated": "2026-05-31T12:38:18.389505Z"
     }
   ]
 }
