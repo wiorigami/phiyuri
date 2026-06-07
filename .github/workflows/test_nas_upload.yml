@@ -1,4 +1,4 @@
-name: Test NAS Upload
+name: Test Synology Upload
 
 on:
   workflow_dispatch:
@@ -8,45 +8,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependency
-        run: pip install synology-drive-api
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Create test file
-        run: echo "NAS upload test $(date)" > test.txt
-
-      - name: Upload
-        env:
-          NAS_URL: ${{ secrets.NAS_URL }}
-          NAS_USERNAME: ${{ secrets.NAS_USERNAME }}
-          NAS_PASSWORD: ${{ secrets.NAS_PASSWORD }}
         run: |
-          python << 'EOF'
-          import os
-          from synology_drive_api.drive import SynologyDrive
+          echo "hello nas $(date)" > test.txt
 
-          url = os.environ["NAS_URL"]
-          user = os.environ["NAS_USERNAME"]
-          pwd  = os.environ["NAS_PASSWORD"]
-
-          host = url.replace("https://", "").replace("http://", "").rstrip("/")
-
-          print("Connecting to:", host)
-
-          # ✅ 关键修复：用位置参数，不要用 NAS_USER 这种参数名
-          drive = SynologyDrive(user, pwd, host)
-
-          with open("test.txt", "rb") as f:
-              result = drive.upload_file(
-                  f,
-                  dest_folder_path="/mydrive/"
-              )
-
-          print("Upload result:", result)
-          print("Done")
-          EOF
+      - name: Upload to Synology NAS
+        uses: bungabear/synology_upload_action@v1.0.0
+        with:
+          host: ${{ secrets.NAS_URL }}
+          username: ${{ secrets.NAS_USERNAME }}
+          password: ${{ secrets.NAS_PASSWORD }}
+          local_path: './test.txt'
+          remote_path: '/home/'
