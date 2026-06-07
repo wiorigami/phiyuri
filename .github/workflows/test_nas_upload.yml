@@ -1,21 +1,14 @@
-name: NAS API Test Upload
+name: NAS API No-Port Test
 
 on:
   workflow_dispatch:
 
 jobs:
-  upload:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Create test file
-        run: |
-          echo "hello nas $(date)" > test.txt
-
-      - name: Upload via Synology API
+      - name: Test Synology Login (no port)
         run: |
           python << 'EOF'
           import requests
@@ -24,14 +17,12 @@ jobs:
           USER = "${{ secrets.NAS_USERNAME }}"
           PASS = "${{ secrets.NAS_PASSWORD }}"
 
-          BASE = f"https://{NAS_URL}:5001"
+          # ⚠️ 按你要求：不加端口
+          BASE = f"https://{NAS_URL}"
 
-          session = requests.Session()
+          url = f"{BASE}/webapi/auth.cgi"
 
-          print("1. login...")
-
-          login_url = f"{BASE}/webapi/auth.cgi"
-          login_params = {
+          params = {
               "api": "SYNO.API.Auth",
               "version": "3",
               "method": "login",
@@ -41,38 +32,19 @@ jobs:
               "format": "sid"
           }
 
-          r = session.get(login_url, params=login_params, timeout=30)
+          print("Request URL:")
+          print(url)
+
+          r = requests.get(url, params=params, timeout=30)
+
+          print("Status:", r.status_code)
+          print("Response:", r.text)
+
           data = r.json()
 
-          if not data.get("success"):
-              raise Exception(f"login failed: {data}")
-
-          sid = data["data"]["sid"]
-          print("login ok")
-
-          print("2. upload file...")
-
-          upload_url = f"{BASE}/webapi/entry.cgi"
-
-          files = {
-              "file": open("test.txt", "rb")
-          }
-
-          upload_params = {
-              "api": "SYNO.FileStation.Upload",
-              "version": "2",
-              "method": "upload",
-              "path": "/home/",
-              "create_parents": "true",
-              "_sid": sid
-          }
-
-          r = session.post(upload_url, params=upload_params, files=files, timeout=60)
-
-          print(r.text)
-
-          if r.status_code != 200:
-              raise Exception("upload failed")
-
-          print("upload done")
+          if data.get("success"):
+              print("LOGIN OK")
+              print("SID:", data["data"]["sid"])
+          else:
+              print("LOGIN FAILED")
           EOF
