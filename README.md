@@ -156,7 +156,7 @@ phiyuri/
 
 ## 📚 相关链接
 
-- [Phira 官网](https://phira.cn/)
+- [Phira 官网](https://phira.moe/)
 - [GitHub 仓库](https://github.com/wiorigami/phiyuri)
 
 ---
@@ -164,5 +164,5 @@ phiyuri/
 <div align="center">
 
 **Made with ❤️ for Phira Community**
-
+with the help from [GitHub Copilot](https://github.com/copilot) and [ChatGPT](https://chat.openai.com)
 </div>
