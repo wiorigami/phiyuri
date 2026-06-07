@@ -1,0 +1,87 @@
+name: Build Download List
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate download list
+        run: |
+          python << 'EOF'
+          import requests
+          import json
+
+          OWNER = "wiorigami"
+          REPO = "phiyuri"
+
+          url = f"https://api.github.com/repos/{OWNER}/{REPO}/releases"
+
+          headers = {
+              "Accept": "application/vnd.github+json"
+          }
+
+          print("Fetching releases...")
+
+          r = requests.get(url, headers=headers, timeout=30)
+          r.raise_for_status()
+
+          releases = r.json()
+
+          download_list = []
+
+          for release in releases:
+              tag = release.get("tag_name", "")
+
+              # 只处理 chart-zips-n
+              if not tag.startswith("chart-zips"):
+                  continue
+
+              print("Processing:", tag)
+
+              for asset in release.get("assets", []):
+                  name = asset.get("name", "")
+
+                  # 只要 id.zip
+                  if name.endswith(".zip"):
+                      download_list.append({
+                          "id": name.replace(".zip", ""),
+                          "file": name,
+                          "url": asset.get("browser_download_url")
+                      })
+
+          # 排序（按id）
+          def sort_key(x):
+              try:
+                  return int(x["id"])
+              except:
+                  return 0
+
+          download_list.sort(key=sort_key)
+
+          # 写入文件
+          with open("download_list.json", "w", encoding="utf-8") as f:
+              json.dump(download_list, f, ensure_ascii=False, indent=2)
+
+          print("Total files:", len(download_list))
+          print("Saved download_list.json")
+          EOF
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add download_list.json
+
+          git commit -m "update download list" || echo "no changes"
+
+          git push
