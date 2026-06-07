@@ -1,6 +1,32 @@
 {
-  "count": 8757,
+  "count": 8753,
   "results": [
+    {
+      "id": 36458,
+      "name": "He's a Pirate",
+      "level": "IN Lv.13",
+      "difficulty": 13.5,
+      "charter": "DiaoLin",
+      "composer": "Klaus Badelt",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/f2ce43a0-3042-43b9-8851-ad8ef0c52b7e",
+      "preview": "https://api.phira.cn/files/244a1886-f247-4895-9b47-3f44051af5cf",
+      "file": "https://api.phira.cn/files/0d549130-1bfc-448c-9199-31260e59c346",
+      "uploader": 1419099,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9237527,
+      "ratingCount": 1196,
+      "created": "2025-04-12T05:30:20.457804Z",
+      "updated": "2026-06-07T00:25:49.065763Z",
+      "chartUpdated": "2025-04-12T05:30:20.457804Z"
+    },
     {
       "id": 60137,
       "name": "Melodiniq",
@@ -21,7 +47,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90748245,
+      "rating": 0.92663586,
       "ratingCount": 0,
       "created": "2026-06-06T13:36:57.524148Z",
       "updated": "2026-06-06T13:36:57.524148Z",
@@ -47,7 +73,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8325244,
+      "rating": 0.9078454,
       "ratingCount": 0,
       "created": "2026-06-06T12:08:50.813651Z",
       "updated": "2026-06-06T12:08:50.813651Z",
@@ -99,7 +125,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90947294,
+      "rating": 0.9106602,
       "ratingCount": 135,
       "created": "2026-02-15T14:29:13.960914Z",
       "updated": "2026-06-06T08:19:33.451543Z",
@@ -125,7 +151,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.930527,
+      "rating": 0.9241955,
       "ratingCount": 39,
       "created": "2026-06-06T08:15:52.120492Z",
       "updated": "2026-06-06T08:17:32.750127Z",
@@ -151,7 +177,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91448134,
+      "rating": 0.91369754,
       "ratingCount": 287,
       "created": "2026-02-06T13:28:46.892353Z",
       "updated": "2026-06-06T07:51:57.945659Z",
@@ -177,7 +203,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92959845,
+      "rating": 0.92906433,
       "ratingCount": 188,
       "created": "2024-05-19T11:10:59.962800Z",
       "updated": "2026-06-06T06:09:41.212081Z",
@@ -203,7 +229,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.77160186,
+      "rating": 0.78747445,
       "ratingCount": 14,
       "created": "2026-06-06T03:12:16.467768Z",
       "updated": "2026-06-06T03:12:16.467768Z",
@@ -230,7 +256,7 @@
         "纵连",
         "regular"
       ],
-      "rating": 0.85110253,
+      "rating": 0.85081524,
       "ratingCount": 127,
       "created": "2026-05-01T11:51:12.530904Z",
       "updated": "2026-06-06T03:02:05.751972Z",
@@ -256,7 +282,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85790926,
+      "rating": 0.8617278,
       "ratingCount": 131,
       "created": "2026-06-05T21:35:55.925155Z",
       "updated": "2026-06-05T21:35:55.925155Z",
@@ -284,7 +310,7 @@
         "中二节奏",
         "regular"
       ],
-      "rating": 0.9375367,
+      "rating": 0.9358091,
       "ratingCount": 435,
       "created": "2026-05-27T01:04:30.521969Z",
       "updated": "2026-06-05T18:59:14.764899Z",
@@ -310,7 +336,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9299213,
+      "rating": 0.92778856,
       "ratingCount": 0,
       "created": "2026-06-01T14:38:29.342971Z",
       "updated": "2026-06-05T16:33:27.660539Z",
@@ -336,7 +362,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9082802,
+      "rating": 0.9065205,
       "ratingCount": 200,
       "created": "2025-06-18T14:50:04.950304Z",
       "updated": "2026-06-05T14:57:09.471296Z",
@@ -362,7 +388,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87275547,
+      "rating": 0.8729243,
       "ratingCount": 125,
       "created": "2026-05-30T20:10:09.007739Z",
       "updated": "2026-06-05T07:56:30.008185Z",
@@ -390,7 +416,7 @@
         "夜空中最亮的星",
         "regular"
       ],
-      "rating": 0.93549335,
+      "rating": 0.9358037,
       "ratingCount": 2064,
       "created": "2026-06-05T05:08:53.550854Z",
       "updated": "2026-06-05T05:16:46.376735Z",
@@ -416,7 +442,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7685166,
+      "rating": 0.77479625,
       "ratingCount": 33,
       "created": "2026-06-05T01:55:59.968079Z",
       "updated": "2026-06-05T01:55:59.968079Z",
@@ -442,7 +468,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8526882,
+      "rating": 0.8569728,
       "ratingCount": 38,
       "created": "2026-06-04T09:53:46.088218Z",
       "updated": "2026-06-04T09:53:46.088218Z",
@@ -469,7 +495,7 @@
         "太鼓达人",
         "regular"
       ],
-      "rating": 0.9329272,
+      "rating": 0.93367463,
       "ratingCount": 262,
       "created": "2026-06-04T05:02:49.654931Z",
       "updated": "2026-06-04T05:02:49.654931Z",
@@ -495,7 +521,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94635004,
+      "rating": 0.948615,
       "ratingCount": 229,
       "created": "2026-06-03T17:31:57.077335Z",
       "updated": "2026-06-03T17:31:57.077335Z",
@@ -521,7 +547,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92768085,
+      "rating": 0.9276771,
       "ratingCount": 1810,
       "created": "2025-11-16T14:23:49.729601Z",
       "updated": "2026-06-03T16:57:34.084834Z",
@@ -549,7 +575,7 @@
         "6thWJC",
         "regular"
       ],
-      "rating": 0.9155853,
+      "rating": 0.9150106,
       "ratingCount": 1086,
       "created": "2025-12-10T04:53:57.172286Z",
       "updated": "2026-06-03T16:38:56.817701Z",
@@ -577,7 +603,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9224322,
+      "rating": 0.9220297,
       "ratingCount": 876,
       "created": "2026-05-19T15:37:09.798510Z",
       "updated": "2026-06-03T14:29:12.528789Z",
@@ -603,7 +629,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90527755,
+      "rating": 0.90728587,
       "ratingCount": 0,
       "created": "2026-06-03T14:12:13.430622Z",
       "updated": "2026-06-03T14:12:13.430622Z",
@@ -631,7 +657,7 @@
         "ARForest",
         "regular"
       ],
-      "rating": 0.9448413,
+      "rating": 0.9451711,
       "ratingCount": 156,
       "created": "2026-05-31T02:41:41.523893Z",
       "updated": "2026-06-03T12:22:35.818510Z",
@@ -660,7 +686,7 @@
         "赛马娘",
         "regular"
       ],
-      "rating": 0.9193472,
+      "rating": 0.91969794,
       "ratingCount": 227,
       "created": "2026-05-17T06:20:34.398366Z",
       "updated": "2026-06-03T12:02:21.770391Z",
@@ -687,7 +713,7 @@
         "月计",
         "regular"
       ],
-      "rating": 0.90008724,
+      "rating": 0.9022136,
       "ratingCount": 254,
       "created": "2026-06-03T08:44:18.268359Z",
       "updated": "2026-06-03T08:44:18.268359Z",
@@ -739,7 +765,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87699753,
+      "rating": 0.8782134,
       "ratingCount": 68,
       "created": "2026-06-02T16:21:40.838143Z",
       "updated": "2026-06-03T03:49:35.910425Z",
@@ -766,37 +792,11 @@
         "NIKKE",
         "regular"
       ],
-      "rating": 0.93306845,
+      "rating": 0.9334042,
       "ratingCount": 170,
       "created": "2026-06-02T02:30:16.002389Z",
       "updated": "2026-06-02T15:30:22.116907Z",
       "chartUpdated": "2026-06-02T15:30:22.116907Z"
-    },
-    {
-      "id": 59556,
-      "name": "Highscore",
-      "level": "EX Lv.∅",
-      "difficulty": 10.0,
-      "charter": "没灵感了就这样吧",
-      "composer": "Panda Eyes/Teminite",
-      "illustrator": "",
-      "description": "曲名:Highscore\n曲师:Panda Eyes/Teminite\n封面:Unkown\n谱师:没灵感了就这样吧\n速度:110\n事件:10718\n物量:2026\n难度:EX Lv.∅\n线数:150\n++++++++++++++++++++\n谱师1:@样本标准差#8368 (大部分配置及部分表演)\n谱师2:@qwq1212#54401 (大部分配置及部分表演)\n谱师3:@黎久awa#2079128 (大部分表演及部分配置)",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a49c010a-23ef-465b-9e04-d18c165ed442",
-      "preview": "https://phira.5wyxi.com/files/7fa56ccb-3912-478a-b15b-1772286adfb0",
-      "file": "https://phira.5wyxi.com/files/5952fecd-b7fd-4e18-9789-6eee1f230ced",
-      "uploader": 8368,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8771415,
-      "ratingCount": 131,
-      "created": "2026-05-30T15:44:24.771709Z",
-      "updated": "2026-06-02T10:39:23.456704Z",
-      "chartUpdated": "2026-06-02T10:39:23.456704Z"
     }
   ]
 }
