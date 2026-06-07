@@ -1,30 +1,78 @@
-name: Test Synology Upload
+name: NAS API Test Upload
 
 on:
   workflow_dispatch:
 
 jobs:
-  test-upload:
+  upload:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Create test file
         run: |
           echo "hello nas $(date)" > test.txt
 
-      - name: Upload to Synology NAS
-        uses: bungabear/synology_upload_action@v1.0.0
-        with:
-          host: ${{ secrets.NAS_URL }}
-          username: ${{ secrets.NAS_USERNAME }}
-          password: ${{ secrets.NAS_PASSWORD }}
+      - name: Upload via Synology API
+        run: |
+          python << 'EOF'
+          import requests
 
-          filepath: './test.txt'
-          uploadpath: '/home/'
-          filename: 'test.txt'
+          NAS_URL = "${{ secrets.NAS_URL }}"
+          USER = "${{ secrets.NAS_USERNAME }}"
+          PASS = "${{ secrets.NAS_PASSWORD }}"
 
-          overwrite: true
-          createparent: true
+          BASE = f"https://{NAS_URL}:5001"
+
+          session = requests.Session()
+
+          print("1. login...")
+
+          login_url = f"{BASE}/webapi/auth.cgi"
+          login_params = {
+              "api": "SYNO.API.Auth",
+              "version": "3",
+              "method": "login",
+              "account": USER,
+              "passwd": PASS,
+              "session": "FileStation",
+              "format": "sid"
+          }
+
+          r = session.get(login_url, params=login_params, timeout=30)
+          data = r.json()
+
+          if not data.get("success"):
+              raise Exception(f"login failed: {data}")
+
+          sid = data["data"]["sid"]
+          print("login ok")
+
+          print("2. upload file...")
+
+          upload_url = f"{BASE}/webapi/entry.cgi"
+
+          files = {
+              "file": open("test.txt", "rb")
+          }
+
+          upload_params = {
+              "api": "SYNO.FileStation.Upload",
+              "version": "2",
+              "method": "upload",
+              "path": "/home/",
+              "create_parents": "true",
+              "_sid": sid
+          }
+
+          r = session.post(upload_url, params=upload_params, files=files, timeout=60)
+
+          print(r.text)
+
+          if r.status_code != 200:
+              raise Exception("upload failed")
+
+          print("upload done")
+          EOF
