@@ -1,0 +1,65 @@
+name: Test NAS Upload
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependency
+        run: |
+          pip install synology-drive-api
+
+      - name: Create test file
+        run: |
+          echo "GitHub Actions NAS upload test - $(date)" > test.txt
+
+      - name: Upload to NAS (home directory)
+        env:
+          NAS_URL: ${{ secrets.NAS_URL }}
+          NAS_USERNAME: ${{ secrets.NAS_USERNAME }}
+          NAS_PASSWORD: ${{ secrets.NAS_PASSWORD }}
+        run: |
+          python << 'EOF'
+          import os
+          from synology_drive_api.drive import SynologyDrive
+
+          url = os.environ["NAS_URL"]
+          user = os.environ["NAS_USERNAME"]
+          pwd  = os.environ["NAS_PASSWORD"]
+
+          print("NAS:", url)
+          print("User:", user)
+
+          # 提取 host（兼容 https://xxx / http://xxx）
+          host = url.replace("https://", "").replace("http://", "").rstrip("/")
+
+          print("Connecting to:", host)
+
+          with SynologyDrive(
+              NAS_USER=user,
+              NAS_PASS=pwd,
+              NAS_IP=host
+          ) as drive:
+
+              print("Connected OK")
+
+              with open("test.txt", "rb") as f:
+                  result = drive.upload_file(
+                      f,
+                      dest_folder_path="/mydrive/"
+                  )
+
+              print("Upload result:", result)
+              print("Upload finished")
+          EOF
