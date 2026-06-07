@@ -21,5 +21,10 @@ jobs:
           host: ${{ secrets.NAS_URL }}
           username: ${{ secrets.NAS_USERNAME }}
           password: ${{ secrets.NAS_PASSWORD }}
-          local_path: './test.txt'
-          remote_path: '/home/'
+
+          filepath: './test.txt'
+          uploadpath: '/home/'
+          filename: 'test.txt'
+
+          overwrite: true
+          createparent: true
