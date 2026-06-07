@@ -1,14 +1,17 @@
-name: NAS API No-Port Test
+name: NAS Upload Test
 
 on:
   workflow_dispatch:
 
 jobs:
-  test:
+  upload:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test Synology Login (no port)
+      - name: Create file
+        run: echo "hello nas $(date)" > test.txt
+
+      - name: Upload to NAS
         run: |
           python << 'EOF'
           import requests
@@ -17,34 +20,40 @@ jobs:
           USER = "${{ secrets.NAS_USERNAME }}"
           PASS = "${{ secrets.NAS_PASSWORD }}"
 
-          # ⚠️ 按你要求：不加端口
           BASE = f"https://{NAS_URL}"
 
-          url = f"{BASE}/webapi/auth.cgi"
+          # 1. login
+          login = requests.get(
+              f"{BASE}/webapi/auth.cgi",
+              params={
+                  "api":"SYNO.API.Auth",
+                  "version":"3",
+                  "method":"login",
+                  "account":USER,
+                  "passwd":PASS,
+                  "session":"FileStation",
+                  "format":"sid"
+              }
+          ).json()
 
-          params = {
-              "api": "SYNO.API.Auth",
-              "version": "3",
-              "method": "login",
-              "account": USER,
-              "passwd": PASS,
-              "session": "FileStation",
-              "format": "sid"
-          }
+          sid = login["data"]["sid"]
+          print("SID OK")
 
-          print("Request URL:")
-          print(url)
+          # 2. upload
+          files = {"file": open("test.txt","rb")}
 
-          r = requests.get(url, params=params, timeout=30)
+          upload = requests.post(
+              f"{BASE}/webapi/entry.cgi",
+              params={
+                  "api":"SYNO.FileStation.Upload",
+                  "version":"2",
+                  "method":"upload",
+                  "path":"/home/",
+                  "create_parents":"true",
+                  "_sid":sid
+              },
+              files=files
+          )
 
-          print("Status:", r.status_code)
-          print("Response:", r.text)
-
-          data = r.json()
-
-          if data.get("success"):
-              print("LOGIN OK")
-              print("SID:", data["data"]["sid"])
-          else:
-              print("LOGIN FAILED")
+          print(upload.text)
           EOF
