@@ -13,11 +13,11 @@
   "name": "HERA",
   "preview": "https://phira.5wyxi.com/files/6004761c-c145-46cf-898d-0fb397dc0a36",
   "ranked": false,
-  "rating": 0.85081524,
-  "ratingCount": 136,
-  "reviewed": false,
+  "rating": 0.8546139,
+  "ratingCount": 151,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "纵连",
     "regular"

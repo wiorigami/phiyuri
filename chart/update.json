@@ -1,5 +1,5 @@
 {
-  "count": 8753,
+  "count": 8751,
   "results": [
     {
       "id": 36458,
@@ -21,7 +21,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9237527,
+      "rating": 0.91887355,
       "ratingCount": 1196,
       "created": "2025-04-12T05:30:20.457804Z",
       "updated": "2026-06-07T00:25:49.065763Z",
@@ -47,7 +47,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92663586,
+      "rating": 0.92923844,
       "ratingCount": 0,
       "created": "2026-06-06T13:36:57.524148Z",
       "updated": "2026-06-06T13:36:57.524148Z",
@@ -73,7 +73,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9078454,
+      "rating": 0.9088833,
       "ratingCount": 0,
       "created": "2026-06-06T12:08:50.813651Z",
       "updated": "2026-06-06T12:08:50.813651Z",
@@ -99,7 +99,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8627804,
+      "rating": 0.8505738,
       "ratingCount": 15,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-06T09:17:57.902452Z",
@@ -125,7 +125,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9106602,
+      "rating": 0.9126807,
       "ratingCount": 135,
       "created": "2026-02-15T14:29:13.960914Z",
       "updated": "2026-06-06T08:19:33.451543Z",
@@ -151,7 +151,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9241955,
+      "rating": 0.9215181,
       "ratingCount": 39,
       "created": "2026-06-06T08:15:52.120492Z",
       "updated": "2026-06-06T08:17:32.750127Z",
@@ -177,11 +177,40 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91369754,
+      "rating": 0.91263676,
       "ratingCount": 287,
       "created": "2026-02-06T13:28:46.892353Z",
       "updated": "2026-06-06T07:51:57.945659Z",
       "chartUpdated": "2026-06-06T07:51:57.945659Z"
+    },
+    {
+      "id": 60091,
+      "name": "赤壁、大炎上！！",
+      "level": "AT Lv.17",
+      "difficulty": 17.500002,
+      "charter": "BhwP、大炎上！！",
+      "composer": "Cranky feat.おもしろ三国志",
+      "illustrator": "",
+      "description": "写疯了\n尾杀很难\n轻喷（）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/9dd5d7da-b15b-4f04-9f46-7497c5163151",
+      "preview": "https://api.phira.cn/files/d48dbd10-42dd-4c9b-b295-9d9a82cc8ae9",
+      "file": "https://api.phira.cn/files/07efee99-c996-4854-be90-bc9bf3aae8dc",
+      "uploader": 1294187,
+      "tags": [
+        "键盘",
+        "狂暴",
+        "CHUNITHM",
+        "regular"
+      ],
+      "rating": 0.8631377,
+      "ratingCount": 0,
+      "created": "2026-06-06T07:36:32.984356Z",
+      "updated": "2026-06-06T07:36:32.984356Z",
+      "chartUpdated": "2026-06-06T07:36:32.984356Z"
     },
     {
       "id": 20148,
@@ -203,7 +232,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92906433,
+      "rating": 0.9279586,
       "ratingCount": 188,
       "created": "2024-05-19T11:10:59.962800Z",
       "updated": "2026-06-06T06:09:41.212081Z",
@@ -229,7 +258,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.78747445,
+      "rating": 0.82765365,
       "ratingCount": 14,
       "created": "2026-06-06T03:12:16.467768Z",
       "updated": "2026-06-06T03:12:16.467768Z",
@@ -245,19 +274,19 @@
       "illustrator": "",
       "description": "发疯了\n感觉应该还可以（）\n关注BhwP_123谢谢喵\n我爱你们",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/69d7e305-b276-4ab9-a04c-5aac66c9619b",
-      "preview": "https://phira.5wyxi.com/files/6004761c-c145-46cf-898d-0fb397dc0a36",
-      "file": "https://phira.5wyxi.com/files/9e618247-a45e-4e9a-bcf4-482f7146fefd",
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/69d7e305-b276-4ab9-a04c-5aac66c9619b",
+      "preview": "https://api.phira.cn/files/6004761c-c145-46cf-898d-0fb397dc0a36",
+      "file": "https://api.phira.cn/files/9e618247-a45e-4e9a-bcf4-482f7146fefd",
       "uploader": 1294187,
       "tags": [
         "纵连",
         "regular"
       ],
-      "rating": 0.85081524,
-      "ratingCount": 127,
+      "rating": 0.8546139,
+      "ratingCount": 140,
       "created": "2026-05-01T11:51:12.530904Z",
       "updated": "2026-06-06T03:02:05.751972Z",
       "chartUpdated": "2026-05-01T11:51:12.530904Z"
@@ -282,7 +311,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8617278,
+      "rating": 0.86277217,
       "ratingCount": 131,
       "created": "2026-06-05T21:35:55.925155Z",
       "updated": "2026-06-05T21:35:55.925155Z",
@@ -310,7 +339,7 @@
         "中二节奏",
         "regular"
       ],
-      "rating": 0.9358091,
+      "rating": 0.9365238,
       "ratingCount": 435,
       "created": "2026-05-27T01:04:30.521969Z",
       "updated": "2026-06-05T18:59:14.764899Z",
@@ -336,7 +365,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92778856,
+      "rating": 0.93396026,
       "ratingCount": 0,
       "created": "2026-06-01T14:38:29.342971Z",
       "updated": "2026-06-05T16:33:27.660539Z",
@@ -352,18 +381,18 @@
       "illustrator": "",
       "description": "心血来潮对旧谱进行了翻新。",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
-      "preview": "https://phira.5wyxi.com/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
-      "file": "https://phira.5wyxi.com/files/4235f92c-9162-4fd7-8113-3085814a0ece",
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/5c22e5c1-fd06-4e01-90a0-42586d709b89",
+      "preview": "https://api.phira.cn/files/b0dcc6af-7439-4257-9448-e5e9fdc109e7",
+      "file": "https://api.phira.cn/files/4235f92c-9162-4fd7-8113-3085814a0ece",
       "uploader": 93292,
       "tags": [
         "regular"
       ],
-      "rating": 0.9065205,
-      "ratingCount": 200,
+      "rating": 0.906915,
+      "ratingCount": 206,
       "created": "2025-06-18T14:50:04.950304Z",
       "updated": "2026-06-05T14:57:09.471296Z",
       "chartUpdated": "2026-06-04T16:30:20.497178Z"
@@ -388,7 +417,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8729243,
+      "rating": 0.8783407,
       "ratingCount": 125,
       "created": "2026-05-30T20:10:09.007739Z",
       "updated": "2026-06-05T07:56:30.008185Z",
@@ -416,7 +445,7 @@
         "夜空中最亮的星",
         "regular"
       ],
-      "rating": 0.9358037,
+      "rating": 0.93599254,
       "ratingCount": 2064,
       "created": "2026-06-05T05:08:53.550854Z",
       "updated": "2026-06-05T05:16:46.376735Z",
@@ -442,7 +471,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.77479625,
+      "rating": 0.77588254,
       "ratingCount": 33,
       "created": "2026-06-05T01:55:59.968079Z",
       "updated": "2026-06-05T01:55:59.968079Z",
@@ -468,7 +497,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8569728,
+      "rating": 0.85609585,
       "ratingCount": 38,
       "created": "2026-06-04T09:53:46.088218Z",
       "updated": "2026-06-04T09:53:46.088218Z",
@@ -495,7 +524,7 @@
         "太鼓达人",
         "regular"
       ],
-      "rating": 0.93367463,
+      "rating": 0.9247242,
       "ratingCount": 262,
       "created": "2026-06-04T05:02:49.654931Z",
       "updated": "2026-06-04T05:02:49.654931Z",
@@ -521,7 +550,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.948615,
+      "rating": 0.9510796,
       "ratingCount": 229,
       "created": "2026-06-03T17:31:57.077335Z",
       "updated": "2026-06-03T17:31:57.077335Z",
@@ -547,7 +576,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9276771,
+      "rating": 0.927826,
       "ratingCount": 1810,
       "created": "2025-11-16T14:23:49.729601Z",
       "updated": "2026-06-03T16:57:34.084834Z",
@@ -563,20 +592,20 @@
       "illustrator": "",
       "description": "本人上传\n哔哩哔哩: @LPI_",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/466d6681-0ba5-42d0-a012-1f6c8f1657df",
-      "preview": "https://phira.5wyxi.com/files/9381d478-6aa4-4033-bc39-99c6811ba7bf",
-      "file": "https://phira.5wyxi.com/files/57d17a22-adae-4154-9253-1961ea9cccd4",
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/466d6681-0ba5-42d0-a012-1f6c8f1657df",
+      "preview": "https://api.phira.cn/files/9381d478-6aa4-4033-bc39-99c6811ba7bf",
+      "file": "https://api.phira.cn/files/57d17a22-adae-4154-9253-1961ea9cccd4",
       "uploader": 7084,
       "tags": [
         "VOCALOID",
         "6thWJC",
         "regular"
       ],
-      "rating": 0.9150106,
-      "ratingCount": 1086,
+      "rating": 0.9143807,
+      "ratingCount": 1101,
       "created": "2025-12-10T04:53:57.172286Z",
       "updated": "2026-06-03T16:38:56.817701Z",
       "chartUpdated": "2026-04-19T05:53:36.460599Z"
@@ -603,7 +632,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9220297,
+      "rating": 0.9226892,
       "ratingCount": 876,
       "created": "2026-05-19T15:37:09.798510Z",
       "updated": "2026-06-03T14:29:12.528789Z",
@@ -629,7 +658,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90728587,
+      "rating": 0.90975434,
       "ratingCount": 0,
       "created": "2026-06-03T14:12:13.430622Z",
       "updated": "2026-06-03T14:12:13.430622Z",
@@ -657,7 +686,7 @@
         "ARForest",
         "regular"
       ],
-      "rating": 0.9451711,
+      "rating": 0.94588137,
       "ratingCount": 156,
       "created": "2026-05-31T02:41:41.523893Z",
       "updated": "2026-06-03T12:22:35.818510Z",
@@ -686,7 +715,7 @@
         "赛马娘",
         "regular"
       ],
-      "rating": 0.91969794,
+      "rating": 0.9193105,
       "ratingCount": 227,
       "created": "2026-05-17T06:20:34.398366Z",
       "updated": "2026-06-03T12:02:21.770391Z",
@@ -713,7 +742,7 @@
         "月计",
         "regular"
       ],
-      "rating": 0.9022136,
+      "rating": 0.90397966,
       "ratingCount": 254,
       "created": "2026-06-03T08:44:18.268359Z",
       "updated": "2026-06-03T08:44:18.268359Z",
@@ -739,7 +768,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.6029398,
+      "rating": 0.5912294,
       "ratingCount": 5,
       "created": "2026-06-03T06:19:18.692494Z",
       "updated": "2026-06-03T06:19:18.692494Z",
@@ -765,38 +794,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8782134,
+      "rating": 0.87526375,
       "ratingCount": 68,
       "created": "2026-06-02T16:21:40.838143Z",
       "updated": "2026-06-03T03:49:35.910425Z",
       "chartUpdated": "2026-06-02T16:21:40.838143Z"
-    },
-    {
-      "id": 59759,
-      "name": "All Eyes on Me",
-      "level": "IN Lv.14",
-      "difficulty": 14.400002,
-      "charter": "My Star Anis",
-      "composer": "T.T.STAR",
-      "illustrator": "",
-      "description": "本人上传\n\r\n萌萌双指谱\r\n2026.6.2 修改部分内容",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/9b5c7e22-c170-4f92-b7d6-58af08949506",
-      "preview": "https://phira.5wyxi.com/files/0edc279f-b659-4783-8528-ee112a3e094e",
-      "file": "https://phira.5wyxi.com/files/936b14e6-e3a1-40a1-9aec-20e8e815ed75",
-      "uploader": 540194,
-      "tags": [
-        "NIKKE",
-        "regular"
-      ],
-      "rating": 0.9334042,
-      "ratingCount": 170,
-      "created": "2026-06-02T02:30:16.002389Z",
-      "updated": "2026-06-02T15:30:22.116907Z",
-      "chartUpdated": "2026-06-02T15:30:22.116907Z"
     }
   ]
 }
