@@ -1,4 +1,4 @@
-name: NAS Upload Test
+name: NAS Drive Upload Test
 
 on:
   workflow_dispatch:
@@ -8,52 +8,60 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Create file
-        run: echo "hello nas $(date)" > test.txt
+      - name: Create test file
+        run: echo "drive api upload test $(date)" > test.txt
 
-      - name: Upload to NAS
+      - name: Upload via Synology Drive API
         run: |
           python << 'EOF'
           import requests
 
-          NAS_URL = "${{ secrets.NAS_URL }}"
+          NAS = "${{ secrets.NAS_URL }}"
           USER = "${{ secrets.NAS_USERNAME }}"
           PASS = "${{ secrets.NAS_PASSWORD }}"
 
-          BASE = f"https://{NAS_URL}"
+          BASE = f"https://{NAS}"
 
-          # 1. login
-          login = requests.get(
+          print("Login...")
+
+          # 1. login (Drive session)
+          r = requests.get(
               f"{BASE}/webapi/auth.cgi",
               params={
-                  "api":"SYNO.API.Auth",
-                  "version":"3",
-                  "method":"login",
-                  "account":USER,
-                  "passwd":PASS,
-                  "session":"FileStation",
-                  "format":"sid"
-              }
-          ).json()
-
-          sid = login["data"]["sid"]
-          print("SID OK")
-
-          # 2. upload
-          files = {"file": open("test.txt","rb")}
-
-          upload = requests.post(
-              f"{BASE}/webapi/entry.cgi",
-              params={
-                  "api":"SYNO.FileStation.Upload",
-                  "version":"2",
-                  "method":"upload",
-                  "path":"/home/",
-                  "create_parents":"true",
-                  "_sid":sid
+                  "api": "SYNO.API.Auth",
+                  "version": "3",
+                  "method": "login",
+                  "account": USER,
+                  "passwd": PASS,
+                  "session": "Drive",
+                  "format": "sid"
               },
-              files=files
+              timeout=30
           )
 
-          print(upload.text)
+          j = r.json()
+          sid = j["data"]["sid"]
+          print("SID OK")
+
+          # 2. Drive upload
+          with open("test.txt", "rb") as f:
+              files = {
+                  "file": f
+              }
+
+              r = requests.post(
+                  f"{BASE}/webapi/entry.cgi",
+                  params={
+                      "api": "SYNO.Drive.Files",
+                      "version": "2",
+                      "method": "upload",
+                      "path": "/home/",
+                      "create_parents": "true",
+                      "_sid": sid
+                  },
+                  files=files,
+                  timeout=120
+              )
+
+          print(r.text)
           EOF
