@@ -13,11 +13,11 @@
   "name": "He's a Pirate",
   "preview": "https://phira.5wyxi.com/files/244a1886-f247-4895-9b47-3f44051af5cf",
   "ranked": false,
-  "rating": 0.91887355,
-  "ratingCount": 1385,
-  "reviewed": false,
+  "rating": 0.91795486,
+  "ratingCount": 1499,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
