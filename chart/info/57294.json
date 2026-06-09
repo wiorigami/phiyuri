@@ -1,20 +1,23 @@
 {
-  "id": 57294,
-  "name": "黝堊の祈り - Anima immortalis est.（故事版）",
-  "level": "猫败AT.20",
-  "difficulty": 20.0,
+  "chartUpdated": "2026-04-28T17:16:04.612821Z",
   "charter": "吹风扇的猫败",
   "composer": "Imperial Circus Dead Decadence",
-  "illustrator": "",
+  "created": "2026-04-28T17:16:04.612821Z",
   "description": "原版150MB，为了上传删到了20MB，不想说话了……毁了，玩原版b站搜索吹风扇的猫败进群拿，对不起大家……我不会写谱",
+  "difficulty": 20.0,
+  "file": "https://phira.5wyxi.com/files/67538141-86ae-4b22-b7b8-8d6d6e7a2140",
+  "id": 57294,
+  "illustration": "https://phira.5wyxi.com/files/870df663-dd43-4824-833e-909b332b8e01",
+  "illustrator": "",
+  "level": "猫败AT.20",
+  "name": "黝堊の祈り - Anima immortalis est.（故事版）",
+  "preview": "https://phira.5wyxi.com/files/f831c3f7-e2a0-4073-bbfa-33b24320b70d",
   "ranked": false,
+  "rating": 0.6756504,
+  "ratingCount": 32,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
-  "illustration": "https://phira.5wyxi.com/files/870df663-dd43-4824-833e-909b332b8e01",
-  "preview": "https://phira.5wyxi.com/files/f831c3f7-e2a0-4073-bbfa-33b24320b70d",
-  "file": "https://phira.5wyxi.com/files/67538141-86ae-4b22-b7b8-8d6d6e7a2140",
-  "uploader": 1460085,
   "tags": [
     "高难",
     "键盘",
@@ -22,9 +25,6 @@
     "故事版",
     "visual"
   ],
-  "rating": 0.67555505,
-  "ratingCount": 29,
-  "created": "2026-04-28T17:16:04.612821Z",
   "updated": "2026-04-28T17:16:04.612821Z",
-  "chartUpdated": "2026-04-28T17:16:04.612821Z"
+  "uploader": 1460085
 }
