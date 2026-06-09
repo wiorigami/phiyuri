@@ -1,4 +1,4 @@
-name: Update Phira Charts
+name: Update Phira Charts Regual
 
 on:
   workflow_dispatch:
