@@ -2,6 +2,8 @@ name: Download Chart Zips (Manual Run)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
 
 permissions:
   contents: write
