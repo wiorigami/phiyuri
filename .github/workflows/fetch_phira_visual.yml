@@ -1,0 +1,118 @@
+name: Update Phira Charts Visual
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 00:00（新加坡 08:00）
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ✅ 关键修复：安装 requests
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Fetch update list + charts
+        run: |
+          python << 'EOF'
+          import json
+          from pathlib import Path
+          import requests
+
+          SAVE_DIR = Path("chart/info")
+          SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
+          session = requests.Session()
+          session.headers.update({
+              "User-Agent": "Mozilla/5.0"
+          })
+
+          # =========================
+          # 1. 获取更新列表
+          # =========================
+          url = "https://api.phira.cn/chart?page=1&order=-updated&division=visual"
+          resp = session.get(url, timeout=30)
+          resp.raise_for_status()
+
+          update_data = resp.json()
+
+          # 保存 update 快照
+          Path("chart/update.json").write_text(
+              json.dumps(update_data, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          results = update_data.get("results", [])
+
+          print(f"Fetched update list: {len(results)} items")
+
+          changed = 0
+
+          # =========================
+          # 2. 下载 charts
+          # =========================
+          for item in results:
+              chart_id = item.get("id")
+              if not chart_id:
+                  continue
+
+              url = f"https://api.phira.cn/chart/{chart_id}"
+
+              try:
+                  r = session.get(url, timeout=30)
+                  r.raise_for_status()
+
+                  data = r.json()
+
+                  file_path = SAVE_DIR / f"{chart_id}.json"
+
+                  new_content = json.dumps(
+                      data,
+                      ensure_ascii=False,
+                      indent=2,
+                      sort_keys=True
+                  )
+
+                  old_content = None
+                  if file_path.exists():
+                      old_content = file_path.read_text(encoding="utf-8")
+
+                  if old_content != new_content:
+                      file_path.write_text(new_content, encoding="utf-8")
+                      changed += 1
+                      print(f"Updated {chart_id}")
+
+              except Exception as e:
+                  print(f"Failed {chart_id}: {e}")
+
+          print(f"Total changed: {changed}")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add chart/
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Sync Phira charts + update snapshot"
+          git push
