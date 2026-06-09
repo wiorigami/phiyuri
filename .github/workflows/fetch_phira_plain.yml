@@ -51,7 +51,7 @@ jobs:
           update_data = resp.json()
 
           # 保存 update 快照
-          Path("chart/update.json").write_text(
+          Path("chart/update_plain.json").write_text(
               json.dumps(update_data, ensure_ascii=False, indent=2),
               encoding="utf-8"
           )
