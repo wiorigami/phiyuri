@@ -13,11 +13,11 @@
   "name": "Lights",
   "preview": "https://phira.5wyxi.com/files/4eaf4cbc-3bb1-42b6-87e8-babdf938af6c",
   "ranked": false,
-  "rating": 0.86072636,
-  "ratingCount": 27,
-  "reviewed": false,
+  "rating": 0.8397582,
+  "ratingCount": 65,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

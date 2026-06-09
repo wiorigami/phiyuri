@@ -13,11 +13,11 @@
   "name": "Ether Second",
   "preview": "https://phira.5wyxi.com/files/77094581-7d6c-4121-86aa-53c74d5ae61e",
   "ranked": false,
-  "rating": 0.78207207,
-  "ratingCount": 48,
-  "reviewed": false,
+  "rating": 0.75902337,
+  "ratingCount": 61,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
