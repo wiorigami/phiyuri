@@ -2,6 +2,35 @@
   "count": 3048,
   "results": [
     {
+      "id": 58674,
+      "name": "大地に咲く旋律",
+      "level": "Impossible",
+      "difficulty": 10.0,
+      "charter": "0.571024%",
+      "composer": "幽閉サテライト",
+      "illustrator": "",
+      "description": "为本人上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/6474b049-1ad8-4c23-8ab9-3112040d8725",
+      "preview": "https://phira.5wyxi.com/files/537b1272-5109-4bd7-ba9e-d97c6b19b1a9",
+      "file": "https://phira.5wyxi.com/files/0f00df8a-ff97-43bc-a96e-b08500aefaff",
+      "uploader": 1698685,
+      "tags": [
+        "大地旋律",
+        "纵叠",
+        "耐力",
+        "plain"
+      ],
+      "rating": 0.86640924,
+      "ratingCount": 20,
+      "created": "2026-05-19T04:40:17.003465Z",
+      "updated": "2026-06-09T10:48:21.450121Z",
+      "chartUpdated": "2026-05-19T04:40:17.003465Z"
+    },
+    {
       "id": 60470,
       "name": "「NEO」 - 5K DAN",
       "level": "Dan",
@@ -21,8 +50,8 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.81567323,
+      "ratingCount": 4,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
@@ -48,41 +77,37 @@
         "osu",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.89916587,
+      "ratingCount": 20,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
     },
     {
-      "id": 58674,
-      "name": "大地に咲く旋律",
-      "level": "Impossible",
-      "difficulty": 10.0,
-      "charter": "0.571024%",
-      "composer": "幽閉サテライト",
+      "id": 60432,
+      "name": "King Atlantis",
+      "level": "THE SEA",
+      "difficulty": 19.000006,
+      "charter": "RJHXHX",
+      "composer": "Aoi",
       "illustrator": "",
-      "description": "为本人上传",
+      "description": "初次尝试6k的LN\nB站关注喵尾草_Official，谢谢喵",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/752485e6-c451-4482-9ac5-121f33ba2529",
-      "preview": "https://phira.5wyxi.com/files/7320896a-8d75-4d4c-9ea8-b72223ff65dd",
-      "file": "https://phira.5wyxi.com/files/da2d54e5-1915-46c0-a32e-51eb5d80e851",
-      "uploader": 1698685,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bed68485-e0f1-4323-b186-e111a8f2fd65",
+      "preview": "https://phira.5wyxi.com/files/c7dbc9ba-9acd-43db-8fd0-a09ef715e6c8",
+      "file": "https://phira.5wyxi.com/files/057f1be0-b1d3-4533-aeba-22bb80a93661",
+      "uploader": 124261,
       "tags": [
-        "大地旋律",
-        "纵叠",
-        "dfc",
-        "耐力",
         "plain"
       ],
-      "rating": 0.88511205,
-      "ratingCount": 11,
-      "created": "2026-05-19T04:40:17.003465Z",
-      "updated": "2026-06-08T13:04:11.616292Z",
-      "chartUpdated": "2026-05-19T04:40:17.003465Z"
+      "rating": 0.7482895,
+      "ratingCount": 1,
+      "created": "2026-06-08T15:28:48.917223Z",
+      "updated": "2026-06-08T15:28:48.917223Z",
+      "chartUpdated": "2026-06-08T15:28:48.917223Z"
     },
     {
       "id": 60375,
@@ -104,8 +129,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7749479,
-      "ratingCount": 3,
+      "rating": 0.7533789,
+      "ratingCount": 5,
       "created": "2026-06-08T06:50:40.547358Z",
       "updated": "2026-06-08T06:50:40.547358Z",
       "chartUpdated": "2026-06-08T06:50:40.547358Z"
@@ -130,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83745414,
-      "ratingCount": 9,
+      "rating": 0.8037245,
+      "ratingCount": 16,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -158,8 +183,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.82499236,
-      "ratingCount": 5,
+      "rating": 0.8397488,
+      "ratingCount": 12,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -186,8 +211,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.856128,
-      "ratingCount": 6,
+      "rating": 0.81564444,
+      "ratingCount": 9,
       "created": "2026-06-08T03:26:53.567788Z",
       "updated": "2026-06-08T03:26:53.567788Z",
       "chartUpdated": "2026-06-08T03:26:53.567788Z"
@@ -242,8 +267,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.83944565,
-      "ratingCount": 6,
+      "rating": 0.85248584,
+      "ratingCount": 7,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -298,8 +323,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91819173,
-      "ratingCount": 26,
+      "rating": 0.9208063,
+      "ratingCount": 27,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -367,37 +392,6 @@
       "chartUpdated": "2026-06-06T11:15:33.285347Z"
     },
     {
-      "id": 60115,
-      "name": "Isolation",
-      "level": "Invisible Lv.12+",
-      "difficulty": 12.900003,
-      "charter": "TEC109",
-      "composer": "Nighthawk22",
-      "illustrator": "",
-      "description": "本人上传\n293/2833 ，97.28%\nFOCUS\n双指低难谱面，多指谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2343df45-00aa-4789-9ed3-a6795626de59",
-      "preview": "https://phira.5wyxi.com/files/d720aa52-7e48-48dc-b916-204e3ecf5353",
-      "file": "https://phira.5wyxi.com/files/bb623fed-a9d6-45cd-9e16-896c892d64a3",
-      "uploader": 2398941,
-      "tags": [
-        "双指",
-        "DFC",
-        "切",
-        "耐力",
-        "读谱",
-        "plain"
-      ],
-      "rating": 0.82499236,
-      "ratingCount": 5,
-      "created": "2026-06-06T11:02:17.231241Z",
-      "updated": "2026-06-06T11:02:17.231241Z",
-      "chartUpdated": "2026-06-06T11:02:17.231241Z"
-    },
-    {
       "id": 59882,
       "name": "4K DestEnd Dan",
       "level": "4K Course (Marathon)",
@@ -419,8 +413,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.93065953,
-      "ratingCount": 99,
+      "rating": 0.936861,
+      "ratingCount": 109,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -473,8 +467,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.74909216,
-      "ratingCount": 11,
+      "rating": 0.7641806,
+      "ratingCount": 12,
       "created": "2026-06-06T06:13:47.318509Z",
       "updated": "2026-06-06T06:13:47.318509Z",
       "chartUpdated": "2026-06-06T06:13:47.318509Z"
@@ -499,8 +493,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7913087,
-      "ratingCount": 13,
+      "rating": 0.80256546,
+      "ratingCount": 14,
       "created": "2026-06-06T06:13:37.137996Z",
       "updated": "2026-06-06T06:13:37.137996Z",
       "chartUpdated": "2026-06-06T06:13:37.137996Z"
@@ -527,8 +521,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.8700147,
-      "ratingCount": 102,
+      "rating": 0.8628596,
+      "ratingCount": 127,
       "created": "2026-06-06T06:08:24.814080Z",
       "updated": "2026-06-06T06:08:24.814080Z",
       "chartUpdated": "2026-06-06T06:08:24.814080Z"
@@ -554,8 +548,8 @@
         "面",
         "plain"
       ],
-      "rating": 0.8953224,
-      "ratingCount": 153,
+      "rating": 0.89625144,
+      "ratingCount": 173,
       "created": "2026-06-06T06:08:16.181968Z",
       "updated": "2026-06-06T06:08:16.181968Z",
       "chartUpdated": "2026-06-06T06:08:16.181968Z"
@@ -639,8 +633,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8713542,
-      "ratingCount": 45,
+      "rating": 0.8590469,
+      "ratingCount": 48,
       "created": "2026-06-06T05:50:47.812237Z",
       "updated": "2026-06-06T05:50:47.812237Z",
       "chartUpdated": "2026-06-06T05:50:47.812237Z"
@@ -695,8 +689,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88625103,
-      "ratingCount": 207,
+      "rating": 0.8872169,
+      "ratingCount": 224,
       "created": "2026-06-05T15:38:12.252394Z",
       "updated": "2026-06-05T15:38:12.252394Z",
       "chartUpdated": "2026-06-05T15:38:12.252394Z"
@@ -724,8 +718,8 @@
         "AT19",
         "plain"
       ],
-      "rating": 0.66963005,
-      "ratingCount": 4,
+      "rating": 0.647507,
+      "ratingCount": 5,
       "created": "2026-06-05T10:43:17.757040Z",
       "updated": "2026-06-05T10:43:17.757040Z",
       "chartUpdated": "2026-06-05T10:43:17.757040Z"
@@ -830,8 +824,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92044526,
-      "ratingCount": 560,
+      "rating": 0.9179749,
+      "ratingCount": 882,
       "created": "2026-06-03T05:38:42.634648Z",
       "updated": "2026-06-03T05:38:42.634648Z",
       "chartUpdated": "2026-06-03T05:38:42.634648Z"
