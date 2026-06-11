@@ -13,11 +13,11 @@
   "name": "Unshakable",
   "preview": "https://phira.5wyxi.com/files/b76c456b-4e1f-4c8f-8adc-8bd634cee601",
   "ranked": false,
-  "rating": 0.9143277,
-  "ratingCount": 111,
-  "reviewed": false,
+  "rating": 0.91944814,
+  "ratingCount": 123,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
