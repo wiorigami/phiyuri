@@ -1,6 +1,32 @@
 {
-  "count": 3048,
+  "count": 3046,
   "results": [
+    {
+      "id": 60502,
+      "name": "Hello (BPM) 2026",
+      "level": "ADOFAI U18(UQ4)",
+      "difficulty": 20.0,
+      "charter": "Entity_303-E3（adofai轨道设计：Alpha）",
+      "composer": "かめりあ(Camellia)",
+      "illustrator": "",
+      "description": "原创adofai手法，adofai转谱的削弱版，16键和脚键部分用黄键送了，理论正常人可以AP（可能比2025略难~）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/aec34de3-4c46-40e7-9cc3-4583eb4d5577",
+      "preview": "https://phira.5wyxi.com/files/1ea24408-02d0-4956-b65e-dca89fcc4c1f",
+      "file": "https://phira.5wyxi.com/files/513dd21e-2849-4ed6-8f46-a68fcbd28095",
+      "uploader": 1677765,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8018332,
+      "ratingCount": 5,
+      "created": "2026-06-09T13:37:57.443413Z",
+      "updated": "2026-06-09T13:37:57.443413Z",
+      "chartUpdated": "2026-06-09T13:37:57.443413Z"
+    },
     {
       "id": 58674,
       "name": "大地に咲く旋律",
@@ -24,8 +50,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.86640924,
-      "ratingCount": 20,
+      "rating": 0.8610468,
+      "ratingCount": 24,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
       "chartUpdated": "2026-05-19T04:40:17.003465Z"
@@ -77,8 +103,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.89916587,
-      "ratingCount": 20,
+      "rating": 0.8941188,
+      "ratingCount": 44,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -103,8 +129,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 1,
+      "rating": 0.870769,
+      "ratingCount": 8,
       "created": "2026-06-08T15:28:48.917223Z",
       "updated": "2026-06-08T15:28:48.917223Z",
       "chartUpdated": "2026-06-08T15:28:48.917223Z"
@@ -129,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7533789,
-      "ratingCount": 5,
+      "rating": 0.79386526,
+      "ratingCount": 7,
       "created": "2026-06-08T06:50:40.547358Z",
       "updated": "2026-06-08T06:50:40.547358Z",
       "chartUpdated": "2026-06-08T06:50:40.547358Z"
@@ -155,8 +181,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8037245,
-      "ratingCount": 16,
+      "rating": 0.83478105,
+      "ratingCount": 21,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -183,8 +209,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8397488,
-      "ratingCount": 12,
+      "rating": 0.82935005,
+      "ratingCount": 42,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -211,8 +237,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.81564444,
-      "ratingCount": 9,
+      "rating": 0.8386654,
+      "ratingCount": 11,
       "created": "2026-06-08T03:26:53.567788Z",
       "updated": "2026-06-08T03:26:53.567788Z",
       "chartUpdated": "2026-06-08T03:26:53.567788Z"
@@ -267,8 +293,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.85248584,
-      "ratingCount": 7,
+      "rating": 0.8732863,
+      "ratingCount": 9,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -323,8 +349,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9208063,
-      "ratingCount": 27,
+      "rating": 0.92774653,
+      "ratingCount": 30,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -354,8 +380,8 @@
         "井芹仁菜随手AP",
         "plain"
       ],
-      "rating": 0.87565017,
-      "ratingCount": 17,
+      "rating": 0.88115025,
+      "ratingCount": 18,
       "created": "2026-06-04T14:14:42.896401Z",
       "updated": "2026-06-06T15:45:09.928696Z",
       "chartUpdated": "2026-06-04T14:14:42.896401Z"
@@ -413,8 +439,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.936861,
-      "ratingCount": 109,
+      "rating": 0.93956363,
+      "ratingCount": 114,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -493,8 +519,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80256546,
-      "ratingCount": 14,
+      "rating": 0.8124544,
+      "ratingCount": 16,
       "created": "2026-06-06T06:13:37.137996Z",
       "updated": "2026-06-06T06:13:37.137996Z",
       "chartUpdated": "2026-06-06T06:13:37.137996Z"
@@ -521,8 +547,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.8628596,
-      "ratingCount": 127,
+      "rating": 0.8523003,
+      "ratingCount": 143,
       "created": "2026-06-06T06:08:24.814080Z",
       "updated": "2026-06-06T06:08:24.814080Z",
       "chartUpdated": "2026-06-06T06:08:24.814080Z"
@@ -548,8 +574,8 @@
         "面",
         "plain"
       ],
-      "rating": 0.89625144,
-      "ratingCount": 173,
+      "rating": 0.90100706,
+      "ratingCount": 188,
       "created": "2026-06-06T06:08:16.181968Z",
       "updated": "2026-06-06T06:08:16.181968Z",
       "chartUpdated": "2026-06-06T06:08:16.181968Z"
@@ -633,8 +659,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8590469,
-      "ratingCount": 48,
+      "rating": 0.8729374,
+      "ratingCount": 58,
       "created": "2026-06-06T05:50:47.812237Z",
       "updated": "2026-06-06T05:50:47.812237Z",
       "chartUpdated": "2026-06-06T05:50:47.812237Z"
@@ -663,8 +689,8 @@
         "yesex",
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
+      "rating": 0.840337,
+      "ratingCount": 6,
       "created": "2026-06-06T04:55:37.646203Z",
       "updated": "2026-06-06T04:55:37.646203Z",
       "chartUpdated": "2026-06-06T04:55:37.646203Z"
@@ -689,8 +715,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8872169,
-      "ratingCount": 224,
+      "rating": 0.8876997,
+      "ratingCount": 240,
       "created": "2026-06-05T15:38:12.252394Z",
       "updated": "2026-06-05T15:38:12.252394Z",
       "chartUpdated": "2026-06-05T15:38:12.252394Z"
@@ -746,8 +772,8 @@
         "Stream",
         "plain"
       ],
-      "rating": 0.9320094,
-      "ratingCount": 56,
+      "rating": 0.93122464,
+      "ratingCount": 58,
       "created": "2026-02-10T04:59:51.898999Z",
       "updated": "2026-06-05T06:52:46.873152Z",
       "chartUpdated": "2026-02-10T04:59:51.898999Z"
@@ -772,8 +798,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80656886,
-      "ratingCount": 4,
+      "rating": 0.8156982,
+      "ratingCount": 5,
       "created": "2026-06-04T01:49:39.777231Z",
       "updated": "2026-06-04T01:49:39.777231Z",
       "chartUpdated": "2026-06-04T01:49:39.777231Z"
@@ -803,32 +829,6 @@
       "created": "2026-06-03T10:04:42.804972Z",
       "updated": "2026-06-03T13:45:10.578682Z",
       "chartUpdated": "2026-06-03T10:04:42.804972Z"
-    },
-    {
-      "id": 59809,
-      "name": "广寒宫",
-      "level": "简单4k Lv.15",
-      "difficulty": 15.0,
-      "charter": "曾经的王king",
-      "composer": "丸子呦",
-      "illustrator": "",
-      "description": "本人上传\nmalody转谱\n全程双押\nBPM:212\n物量:1140\n蓝键下落速度:12\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6b71ccd9-31f7-4395-b5af-b4b8433a0825",
-      "preview": "https://phira.5wyxi.com/files/d8fa4b50-3e44-4100-adcd-7685474bba70",
-      "file": "https://phira.5wyxi.com/files/94169271-4ed9-45f6-a58c-6e12b2d8f7d8",
-      "uploader": 1553215,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9179749,
-      "ratingCount": 882,
-      "created": "2026-06-03T05:38:42.634648Z",
-      "updated": "2026-06-03T05:38:42.634648Z",
-      "chartUpdated": "2026-06-03T05:38:42.634648Z"
     }
   ]
 }
