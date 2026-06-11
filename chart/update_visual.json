@@ -1,120 +1,6 @@
 {
-  "count": 174,
+  "count": 170,
   "results": [
-    {
-      "id": 59021,
-      "name": "Le Porteur d'Ombre",
-      "level": "猫败AT.18",
-      "difficulty": 18.0,
-      "charter": "吹风扇的猫败",
-      "composer": "黒皇帝/AKA",
-      "illustrator": "",
-      "description": "谱师本人上传\nB站:吹风扇的猫败",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1ce555ec-5ed7-4a91-bbb1-2ffb95189c17",
-      "preview": "https://phira.5wyxi.com/files/384f99da-8757-4d5a-919f-46a68dfe4fc8",
-      "file": "https://phira.5wyxi.com/files/4f37e62e-50de-4585-8f7a-7f348c1b5e31",
-      "uploader": 1460085,
-      "tags": [
-        "键盘",
-        "高难",
-        "at18",
-        "visual"
-      ],
-      "rating": 0.84443974,
-      "ratingCount": 39,
-      "created": "2026-05-24T08:42:48.290428Z",
-      "updated": "2026-05-24T08:42:48.290428Z",
-      "chartUpdated": "2026-05-24T08:42:48.290428Z"
-    },
-    {
-      "id": 58886,
-      "name": "再飞行（第一届猫败杯半决赛谱）",
-      "level": "？？？",
-      "difficulty": 9.099997,
-      "charter": "吹风扇的猫败",
-      "composer": "逃跑计划",
-      "illustrator": "",
-      "description": "第一届猫败杯半决赛谱\n谱面预览可b站搜索吹风扇的猫败\n比赛办完之后退圈了，我不适合写谱……",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d1b62a87-2cb0-47ad-84ab-1159a70a6e9b",
-      "preview": "https://phira.5wyxi.com/files/a4e5a7b3-fd77-44c5-b123-1c33369afa5c",
-      "file": "https://phira.5wyxi.com/files/d7ac817a-9fad-4288-b0a1-b34753c05ed2",
-      "uploader": 659386,
-      "tags": [
-        "怀旧",
-        "多指",
-        "故事版",
-        "visual"
-      ],
-      "rating": 0.92320323,
-      "ratingCount": 226,
-      "created": "2026-05-23T05:09:11.685109Z",
-      "updated": "2026-05-23T05:09:11.685109Z",
-      "chartUpdated": "2026-05-23T05:09:11.685109Z"
-    },
-    {
-      "id": 57311,
-      "name": "Galaxy Collapse",
-      "level": "猫败AT.19",
-      "difficulty": 19.0,
-      "charter": "吹风扇的猫败",
-      "composer": "黒皇帝",
-      "illustrator": "",
-      "description": "谱师本人上传\nB站:吹风扇的猫败",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0844455c-9b98-442e-abe0-03c6e968c09b",
-      "preview": "https://phira.5wyxi.com/files/daa13427-35b8-4012-84d0-c3a50d02abc5",
-      "file": "https://phira.5wyxi.com/files/cc660f32-2ba7-4f7f-8db4-cba319563d7f",
-      "uploader": 1460085,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.78311396,
-      "ratingCount": 168,
-      "created": "2026-04-29T08:26:21.460865Z",
-      "updated": "2026-04-29T10:32:04.515702Z",
-      "chartUpdated": "2026-04-29T08:26:21.460865Z"
-    },
-    {
-      "id": 57294,
-      "name": "黝堊の祈り - Anima immortalis est.（故事版）",
-      "level": "猫败AT.20",
-      "difficulty": 20.0,
-      "charter": "吹风扇的猫败",
-      "composer": "Imperial Circus Dead Decadence",
-      "illustrator": "",
-      "description": "原版150MB，为了上传删到了20MB，不想说话了……毁了，玩原版b站搜索吹风扇的猫败进群拿，对不起大家……我不会写谱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/870df663-dd43-4824-833e-909b332b8e01",
-      "preview": "https://phira.5wyxi.com/files/f831c3f7-e2a0-4073-bbfa-33b24320b70d",
-      "file": "https://phira.5wyxi.com/files/67538141-86ae-4b22-b7b8-8d6d6e7a2140",
-      "uploader": 1460085,
-      "tags": [
-        "高难",
-        "键盘",
-        "shader",
-        "故事版",
-        "visual"
-      ],
-      "rating": 0.68473554,
-      "ratingCount": 33,
-      "created": "2026-04-28T17:16:04.612821Z",
-      "updated": "2026-04-28T17:16:04.612821Z",
-      "chartUpdated": "2026-04-28T17:16:04.612821Z"
-    },
     {
       "id": 56993,
       "name": "Limen",
@@ -161,8 +47,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88460416,
-      "ratingCount": 43,
+      "rating": 0.8849575,
+      "ratingCount": 44,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -190,8 +76,8 @@
         "LeaF",
         "visual"
       ],
-      "rating": 0.7916832,
-      "ratingCount": 67,
+      "rating": 0.7946434,
+      "ratingCount": 68,
       "created": "2026-04-05T13:14:27.813066Z",
       "updated": "2026-04-05T13:14:27.813066Z",
       "chartUpdated": "2026-04-05T13:14:27.813066Z"
@@ -216,8 +102,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.79719675,
-      "ratingCount": 112,
+      "rating": 0.798974,
+      "ratingCount": 113,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -270,8 +156,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.89316,
-      "ratingCount": 513,
+      "rating": 0.8933689,
+      "ratingCount": 514,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -406,8 +292,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8564581,
-      "ratingCount": 64,
+      "rating": 0.85635126,
+      "ratingCount": 66,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -463,8 +349,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.93952215,
-      "ratingCount": 296,
+      "rating": 0.93908,
+      "ratingCount": 300,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -548,8 +434,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.7710111,
-      "ratingCount": 188,
+      "rating": 0.773434,
+      "ratingCount": 190,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -659,8 +545,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82953966,
-      "ratingCount": 75,
+      "rating": 0.8317137,
+      "ratingCount": 76,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -738,8 +624,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.77445906,
-      "ratingCount": 180,
+      "rating": 0.7757102,
+      "ratingCount": 181,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -764,8 +650,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88989645,
-      "ratingCount": 119,
+      "rating": 0.8917588,
+      "ratingCount": 122,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -821,6 +707,112 @@
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
+    },
+    {
+      "id": 49215,
+      "name": "CX-ronos",
+      "level": "AT Lv.18",
+      "difficulty": 18.2,
+      "charter": "NG-ronos",
+      "composer": "CS4W",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4744f66e-1e4f-4894-90df-0ebceb64a497",
+      "preview": "https://phira.5wyxi.com/files/fb36cf79-7fd9-42c6-8eae-a8d4586f09d1",
+      "file": "https://phira.5wyxi.com/files/13f9870f-8fb9-4574-abeb-b1fd50505b38",
+      "uploader": 1026384,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.94691485,
+      "ratingCount": 124,
+      "created": "2025-11-16T11:01:11.506983Z",
+      "updated": "2025-11-16T11:01:11.506983Z",
+      "chartUpdated": "2025-11-16T11:01:11.506983Z"
+    },
+    {
+      "id": 49179,
+      "name": "靈",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "Heronmony（鹭鸟音律）",
+      "composer": "MYTK",
+      "illustrator": "",
+      "description": "17.9",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
+      "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
+      "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
+      "uploader": 1017966,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.8216689,
+      "ratingCount": 100,
+      "created": "2025-11-16T01:44:43.045246Z",
+      "updated": "2025-11-16T01:44:43.045246Z",
+      "chartUpdated": "2025-11-16T01:44:43.045246Z"
+    },
+    {
+      "id": 48836,
+      "name": "昔涟",
+      "level": "EGO Lv.12",
+      "difficulty": 12.600002,
+      "charter": "SrY-ABYSS",
+      "composer": "张韶涵 / HOYO-MiX",
+      "illustrator": "",
+      "description": "来自游戏《崩坏星穹铁道》\n建议在黑暗环境下游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/399491ce-d9ee-4a21-aaa7-40c2ae47295a",
+      "preview": "https://phira.5wyxi.com/files/ad7db1c9-8534-423e-9f24-f19ce89f5bc4",
+      "file": "https://phira.5wyxi.com/files/1733b355-fb76-4999-967d-f20bcfff904d",
+      "uploader": 1437,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.9644403,
+      "ratingCount": 2005,
+      "created": "2025-11-08T03:06:05.755676Z",
+      "updated": "2025-11-08T03:06:05.755676Z",
+      "chartUpdated": "2025-11-08T03:06:05.755676Z"
+    },
+    {
+      "id": 48789,
+      "name": "再度和你",
+      "level": "See You Tomorrow",
+      "difficulty": 13.0,
+      "charter": "SrY-ABYSS",
+      "composer": "HOYO-MiX",
+      "illustrator": "",
+      "description": "BGM来自游戏《崩坏星穹铁道》昔涟角色pv\n已修复1个miss的bug，低配机谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4852e72a-3ee1-4a07-b094-4f107de13a4f",
+      "preview": "https://phira.5wyxi.com/files/fc5bb95e-53f5-40fc-9313-13ced62204c4",
+      "file": "https://phira.5wyxi.com/files/f8e17eab-01e3-470c-83a9-43b284771af3",
+      "uploader": 1437,
+      "tags": [
+        "崩坏星穹铁道",
+        "观赏",
+        "visual"
+      ],
+      "rating": 0.9750997,
+      "ratingCount": 4274,
+      "created": "2025-11-05T15:19:44.272431Z",
+      "updated": "2025-11-06T13:25:56.785787Z",
+      "chartUpdated": "2025-11-06T13:25:56.785787Z"
     }
   ]
 }
