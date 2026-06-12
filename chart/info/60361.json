@@ -13,14 +13,14 @@
   "name": "室内系的TrackMaker",
   "preview": "https://phira.5wyxi.com/files/3173c3c5-4977-47c6-9a1e-3dc095c97e97",
   "ranked": false,
-  "rating": 0.8614711,
-  "ratingCount": 13,
-  "reviewed": true,
+  "rating": 0.9293672,
+  "ratingCount": 794,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-08T05:03:23.565691Z",
+  "updated": "2026-06-11T12:22:59.330871Z",
   "uploader": 104501
 }
