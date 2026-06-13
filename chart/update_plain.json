@@ -1,6 +1,37 @@
 {
-  "count": 3046,
+  "count": 3049,
   "results": [
+    {
+      "id": 60678,
+      "name": "c.s.q.n.",
+      "level": "Absence Lv.15",
+      "difficulty": 17.7,
+      "charter": "TEC109",
+      "composer": "Aoi",
+      "illustrator": "",
+      "description": "本人上传\n503/2100，97.65%\n平平无奇的一张\n双指高难谱面，多指谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5bcf8a55-ccac-48a2-96b0-f785c433cc4b",
+      "preview": "https://phira.5wyxi.com/files/97240984-a6b3-489d-8028-7579e60291f7",
+      "file": "https://phira.5wyxi.com/files/c2d9157b-d3dd-4aef-b83c-2b86fce44348",
+      "uploader": 2398941,
+      "tags": [
+        "DFC",
+        "双指",
+        "叠",
+        "爆发",
+        "锚键",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 1,
+      "created": "2026-06-12T09:48:26.329355Z",
+      "updated": "2026-06-12T09:48:26.329355Z",
+      "chartUpdated": "2026-06-12T09:48:26.329355Z"
+    },
     {
       "id": 60502,
       "name": "Hello (BPM) 2026",
@@ -21,11 +52,42 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86685157,
-      "ratingCount": 10,
+      "rating": 0.881508,
+      "ratingCount": 14,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
+    },
+    {
+      "id": 60115,
+      "name": "Isolation",
+      "level": "Invisible Lv.12+",
+      "difficulty": 12.900003,
+      "charter": "TEC109",
+      "composer": "Nighthawk22",
+      "illustrator": "",
+      "description": "本人上传\n356/2800 ，97.34%\nFOCUS\n双指低难谱面，多指谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7bd32abf-7438-482f-bb6f-172e91433f19",
+      "preview": "https://phira.5wyxi.com/files/a382aa84-7d22-462c-a598-a0f6d7ae5547",
+      "file": "https://phira.5wyxi.com/files/441a25ef-0743-4b76-97b5-eb3279945486",
+      "uploader": 2398941,
+      "tags": [
+        "双指",
+        "DFC",
+        "切",
+        "耐力",
+        "读谱",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-06-06T11:02:17.231241Z",
+      "updated": "2026-06-09T12:56:03.108458Z",
+      "chartUpdated": "2026-06-09T12:56:03.108458Z"
     },
     {
       "id": 58674,
@@ -37,9 +99,9 @@
       "illustrator": "",
       "description": "为本人上传",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
+      "stableRequest": false,
       "illustration": "https://phira.5wyxi.com/files/6474b049-1ad8-4c23-8ab9-3112040d8725",
       "preview": "https://phira.5wyxi.com/files/537b1272-5109-4bd7-ba9e-d97c6b19b1a9",
       "file": "https://phira.5wyxi.com/files/0f00df8a-ff97-43bc-a96e-b08500aefaff",
@@ -50,8 +112,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8387095,
-      "ratingCount": 29,
+      "rating": 0.8253714,
+      "ratingCount": 34,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
       "chartUpdated": "2026-05-19T04:40:17.003465Z"
@@ -76,11 +138,37 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83321184,
-      "ratingCount": 5,
+      "rating": 0.86019063,
+      "ratingCount": 7,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
+    },
+    {
+      "id": 60464,
+      "name": "Inverted World（Extended Mix）",
+      "level": "4k Lv.24",
+      "difficulty": 24.0,
+      "charter": "Shidora喵",
+      "composer": "ARForest",
+      "illustrator": "",
+      "description": "过审难题",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d7dd3e22-e6a8-4209-8c6a-7a5d9fe4d91e",
+      "preview": "https://phira.5wyxi.com/files/b3d01c6d-4644-49e0-83ce-e33f8b76bb8e",
+      "file": "https://phira.5wyxi.com/files/e65dd633-8288-4d95-9f2a-285e0bcf3c4b",
+      "uploader": 205118,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.90593225,
+      "ratingCount": 24,
+      "created": "2026-06-09T03:57:19.814797Z",
+      "updated": "2026-06-09T03:57:19.814797Z",
+      "chartUpdated": "2026-06-09T03:57:19.814797Z"
     },
     {
       "id": 60455,
@@ -103,8 +191,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.9266435,
-      "ratingCount": 65,
+      "rating": 0.9308186,
+      "ratingCount": 91,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -181,8 +269,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83993745,
-      "ratingCount": 26,
+      "rating": 0.81587756,
+      "ratingCount": 29,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -209,8 +297,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8324562,
-      "ratingCount": 55,
+      "rating": 0.8142138,
+      "ratingCount": 89,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -265,8 +353,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.80552316,
-      "ratingCount": 3,
+      "rating": 0.8423025,
+      "ratingCount": 5,
       "created": "2026-06-08T03:26:11.798751Z",
       "updated": "2026-06-08T03:26:11.798751Z",
       "chartUpdated": "2026-06-08T03:26:11.798751Z"
@@ -293,8 +381,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8956693,
-      "ratingCount": 12,
+      "rating": 0.8731278,
+      "ratingCount": 13,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -323,8 +411,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.8343682,
-      "ratingCount": 10,
+      "rating": 0.8331157,
+      "ratingCount": 11,
       "created": "2026-06-07T14:03:10.966091Z",
       "updated": "2026-06-07T14:03:10.966091Z",
       "chartUpdated": "2026-06-07T14:03:10.966091Z"
@@ -349,8 +437,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92774653,
-      "ratingCount": 30,
+      "rating": 0.92980057,
+      "ratingCount": 31,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -380,8 +468,8 @@
         "井芹仁菜随手AP",
         "plain"
       ],
-      "rating": 0.88115025,
-      "ratingCount": 18,
+      "rating": 0.886194,
+      "ratingCount": 19,
       "created": "2026-06-04T14:14:42.896401Z",
       "updated": "2026-06-06T15:45:09.928696Z",
       "chartUpdated": "2026-06-04T14:14:42.896401Z"
@@ -411,8 +499,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.86499166,
-      "ratingCount": 16,
+      "rating": 0.87122583,
+      "ratingCount": 17,
       "created": "2026-05-24T14:15:45.191159Z",
       "updated": "2026-06-06T11:15:33.285347Z",
       "chartUpdated": "2026-06-06T11:15:33.285347Z"
@@ -439,8 +527,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.9407575,
-      "ratingCount": 117,
+      "rating": 0.93984795,
+      "ratingCount": 124,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -467,8 +555,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.7851703,
-      "ratingCount": 22,
+      "rating": 0.7893593,
+      "ratingCount": 23,
       "created": "2026-06-06T06:17:29.232127Z",
       "updated": "2026-06-06T06:17:29.232127Z",
       "chartUpdated": "2026-06-06T06:17:29.232127Z"
@@ -519,8 +607,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79928315,
-      "ratingCount": 17,
+      "rating": 0.80830336,
+      "ratingCount": 18,
       "created": "2026-06-06T06:13:37.137996Z",
       "updated": "2026-06-06T06:13:37.137996Z",
       "chartUpdated": "2026-06-06T06:13:37.137996Z"
@@ -547,8 +635,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.84742874,
-      "ratingCount": 154,
+      "rating": 0.8496711,
+      "ratingCount": 173,
       "created": "2026-06-06T06:08:24.814080Z",
       "updated": "2026-06-06T06:08:24.814080Z",
       "chartUpdated": "2026-06-06T06:08:24.814080Z"
@@ -574,8 +662,8 @@
         "面",
         "plain"
       ],
-      "rating": 0.9052863,
-      "ratingCount": 200,
+      "rating": 0.9042454,
+      "ratingCount": 219,
       "created": "2026-06-06T06:08:16.181968Z",
       "updated": "2026-06-06T06:08:16.181968Z",
       "chartUpdated": "2026-06-06T06:08:16.181968Z"
@@ -602,8 +690,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.8527255,
-      "ratingCount": 29,
+      "rating": 0.83843356,
+      "ratingCount": 33,
       "created": "2026-06-06T05:57:11.478255Z",
       "updated": "2026-06-06T05:57:11.478255Z",
       "chartUpdated": "2026-06-06T05:57:11.478255Z"
@@ -631,8 +719,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.6754885,
-      "ratingCount": 7,
+      "rating": 0.70072335,
+      "ratingCount": 8,
       "created": "2026-06-06T05:52:36.533220Z",
       "updated": "2026-06-06T05:52:36.533220Z",
       "chartUpdated": "2026-06-06T05:52:36.533220Z"
@@ -659,8 +747,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.87538123,
-      "ratingCount": 60,
+      "rating": 0.8782047,
+      "ratingCount": 65,
       "created": "2026-06-06T05:50:47.812237Z",
       "updated": "2026-06-06T05:50:47.812237Z",
       "chartUpdated": "2026-06-06T05:50:47.812237Z"
@@ -690,7 +778,7 @@
         "plain"
       ],
       "rating": 0.8533043,
-      "ratingCount": 6,
+      "ratingCount": 7,
       "created": "2026-06-06T04:55:37.646203Z",
       "updated": "2026-06-06T04:55:37.646203Z",
       "chartUpdated": "2026-06-06T04:55:37.646203Z"
@@ -715,8 +803,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8791847,
-      "ratingCount": 260,
+      "rating": 0.8804639,
+      "ratingCount": 283,
       "created": "2026-06-05T15:38:12.252394Z",
       "updated": "2026-06-05T15:38:12.252394Z",
       "chartUpdated": "2026-06-05T15:38:12.252394Z"
@@ -744,91 +832,11 @@
         "AT19",
         "plain"
       ],
-      "rating": 0.6796978,
-      "ratingCount": 6,
+      "rating": 0.67538697,
+      "ratingCount": 7,
       "created": "2026-06-05T10:43:17.757040Z",
       "updated": "2026-06-05T10:43:17.757040Z",
       "chartUpdated": "2026-06-05T10:43:17.757040Z"
-    },
-    {
-      "id": 52357,
-      "name": "Gate Openerz",
-      "level": "4k. STREAM lv.35",
-      "difficulty": 10.0,
-      "charter": "NOV.3RD",
-      "composer": "DJ SHARPNEL",
-      "illustrator": "",
-      "description": "谱师本人上传，耗时3天\nBPM:198.7\n可用于练习6dan切",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6271a303-66df-42ed-8b2f-aaa569a65081",
-      "preview": "https://phira.5wyxi.com/files/da1d0134-462f-46e6-9610-0c7a36186813",
-      "file": "https://phira.5wyxi.com/files/4476f85c-7aeb-46a0-af86-e4f26da217c9",
-      "uploader": 639205,
-      "tags": [
-        "4k",
-        "Stream",
-        "plain"
-      ],
-      "rating": 0.93338376,
-      "ratingCount": 60,
-      "created": "2026-02-10T04:59:51.898999Z",
-      "updated": "2026-06-05T06:52:46.873152Z",
-      "chartUpdated": "2026-02-10T04:59:51.898999Z"
-    },
-    {
-      "id": 59861,
-      "name": "Primordial Complex",
-      "level": "Abiogenesis",
-      "difficulty": 20.0,
-      "charter": "Rulaifozu",
-      "composer": "celtix",
-      "illustrator": "",
-      "description": "......................................................\n来自偶素玛尼压2026\n280bpm的超高速键盘\n物理量：5456\n首个96acc可以来找我领取v50（以哔哩哔哩的第一个96视频为准）\n不限截止日期\n玩得开心",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0c2a06c5-3593-4914-8566-13441512549c",
-      "preview": "https://phira.5wyxi.com/files/f2c3a1e5-8d91-4f30-a49d-09e722ea3bcd",
-      "file": "https://phira.5wyxi.com/files/98f720b5-a5d5-45c0-b1fd-18ebcc9b674f",
-      "uploader": 175134,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8156982,
-      "ratingCount": 5,
-      "created": "2026-06-04T01:49:39.777231Z",
-      "updated": "2026-06-04T01:49:39.777231Z",
-      "chartUpdated": "2026-06-04T01:49:39.777231Z"
-    },
-    {
-      "id": 59828,
-      "name": "Glitched Universe",
-      "level": "「M」 7Dan",
-      "difficulty": 10.0,
-      "charter": "N_neo",
-      "composer": "削除",
-      "illustrator": "",
-      "description": "初写无轨键盘，暂时将此设定为「M」7dan。与其他段位不同的是，「M」dan一首曲即一个段，未来计划先写1～6dan再考虑往更难的方向写。「M」dan会融入自己十来年的音游游玩经验，思路主要围绕“谱乐契合”“手感”“引导”三方面。\n\nPass：99.21%\n\nSong：Glitched Universe\nMusic Composer：Sakuzyo_削除\nCharter：N_neo\n\n谱师本人上传。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/01f4c8af-4bd1-4132-bd76-261d38f8bd57",
-      "preview": "https://phira.5wyxi.com/files/87f9cb95-0fa9-4e98-a74f-c6e45f837a59",
-      "file": "https://phira.5wyxi.com/files/f4056dd1-162b-4e91-bc7b-c263b3a2b724",
-      "uploader": 474953,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8626424,
-      "ratingCount": 24,
-      "created": "2026-06-03T10:04:42.804972Z",
-      "updated": "2026-06-03T13:45:10.578682Z",
-      "chartUpdated": "2026-06-03T10:04:42.804972Z"
     }
   ]
 }
