@@ -1,6 +1,58 @@
 {
-  "count": 3049,
+  "count": 3050,
   "results": [
+    {
+      "id": 60101,
+      "name": "Aestivalis 1.35x",
+      "level": "SUPREME",
+      "difficulty": 20.0,
+      "charter": "ZEN_SGOD_ITH",
+      "composer": "LV.4",
+      "illustrator": "",
+      "description": "Phira上传的最难有理纯配置切 \n过段标准 无暇45ms\n@S神#87478（索纳斯买的狐狸）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/21b52f80-af20-496a-8c5b-cdb86c15cd5f",
+      "preview": "https://phira.5wyxi.com/files/5ddf4e6c-d76d-4f24-b99e-92fb4ba9661c",
+      "file": "https://phira.5wyxi.com/files/7450766d-2945-4ee2-8f29-549cbef51792",
+      "uploader": 1786329,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8608429,
+      "ratingCount": 68,
+      "created": "2026-06-06T09:17:57.902452Z",
+      "updated": "2026-06-13T01:34:18.229771Z",
+      "chartUpdated": "2026-06-06T09:17:57.902452Z"
+    },
+    {
+      "id": 60741,
+      "name": "INCARNATOR ₀₀",
+      "level": "SUPREME",
+      "difficulty": 20.0,
+      "charter": "ZEN_SGOD_ITH",
+      "composer": "Silentroom x N²",
+      "illustrator": "",
+      "description": "Phira上传的最难有理纯配置hb\n过段标准 无暇45ms\n@S神#87478（索纳斯养的狐狸）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/55ca682f-7fde-44a9-a254-477ed657955e",
+      "preview": "https://phira.5wyxi.com/files/d6711950-2aac-44f4-9c3f-cd03836460f0",
+      "file": "https://phira.5wyxi.com/files/9212eee9-b098-476c-9fbb-c2d19e5b0f38",
+      "uploader": 1786329,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8258486,
+      "ratingCount": 6,
+      "created": "2026-06-13T01:31:45.078954Z",
+      "updated": "2026-06-13T01:31:45.078954Z",
+      "chartUpdated": "2026-06-13T01:31:45.078954Z"
+    },
     {
       "id": 60678,
       "name": "c.s.q.n.",
@@ -26,8 +78,8 @@
         "锚键",
         "plain"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 1,
+      "rating": 0.8423025,
+      "ratingCount": 5,
       "created": "2026-06-12T09:48:26.329355Z",
       "updated": "2026-06-12T09:48:26.329355Z",
       "chartUpdated": "2026-06-12T09:48:26.329355Z"
@@ -52,8 +104,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.881508,
-      "ratingCount": 14,
+      "rating": 0.89293945,
+      "ratingCount": 16,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
@@ -83,8 +135,8 @@
         "读谱",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.840337,
+      "ratingCount": 6,
       "created": "2026-06-06T11:02:17.231241Z",
       "updated": "2026-06-09T12:56:03.108458Z",
       "chartUpdated": "2026-06-09T12:56:03.108458Z"
@@ -112,8 +164,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8253714,
-      "ratingCount": 34,
+      "rating": 0.82987046,
+      "ratingCount": 35,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
       "chartUpdated": "2026-05-19T04:40:17.003465Z"
@@ -138,8 +190,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86019063,
-      "ratingCount": 7,
+      "rating": 0.87991786,
+      "ratingCount": 9,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
@@ -164,8 +216,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90593225,
-      "ratingCount": 24,
+      "rating": 0.9396137,
+      "ratingCount": 97,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
@@ -191,8 +243,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.9308186,
-      "ratingCount": 91,
+      "rating": 0.9330449,
+      "ratingCount": 110,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -217,8 +269,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87991786,
-      "ratingCount": 9,
+      "rating": 0.9015215,
+      "ratingCount": 13,
       "created": "2026-06-08T15:28:48.917223Z",
       "updated": "2026-06-08T15:28:48.917223Z",
       "chartUpdated": "2026-06-08T15:28:48.917223Z"
@@ -269,8 +321,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81587756,
-      "ratingCount": 29,
+      "rating": 0.84018165,
+      "ratingCount": 34,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -297,8 +349,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8142138,
-      "ratingCount": 89,
+      "rating": 0.8539367,
+      "ratingCount": 143,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -325,8 +377,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8481986,
-      "ratingCount": 12,
+      "rating": 0.8774048,
+      "ratingCount": 16,
       "created": "2026-06-08T03:26:53.567788Z",
       "updated": "2026-06-08T03:26:53.567788Z",
       "chartUpdated": "2026-06-08T03:26:53.567788Z"
@@ -353,8 +405,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
+      "rating": 0.8336699,
+      "ratingCount": 6,
       "created": "2026-06-08T03:26:11.798751Z",
       "updated": "2026-06-08T03:26:11.798751Z",
       "chartUpdated": "2026-06-08T03:26:11.798751Z"
@@ -381,8 +433,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8731278,
-      "ratingCount": 13,
+      "rating": 0.87987447,
+      "ratingCount": 14,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -411,8 +463,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.8331157,
-      "ratingCount": 11,
+      "rating": 0.85178196,
+      "ratingCount": 13,
       "created": "2026-06-07T14:03:10.966091Z",
       "updated": "2026-06-07T14:03:10.966091Z",
       "chartUpdated": "2026-06-07T14:03:10.966091Z"
@@ -468,8 +520,8 @@
         "井芹仁菜随手AP",
         "plain"
       ],
-      "rating": 0.886194,
-      "ratingCount": 19,
+      "rating": 0.8951198,
+      "ratingCount": 21,
       "created": "2026-06-04T14:14:42.896401Z",
       "updated": "2026-06-06T15:45:09.928696Z",
       "chartUpdated": "2026-06-04T14:14:42.896401Z"
@@ -499,8 +551,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.87122583,
-      "ratingCount": 17,
+      "rating": 0.8679143,
+      "ratingCount": 19,
       "created": "2026-05-24T14:15:45.191159Z",
       "updated": "2026-06-06T11:15:33.285347Z",
       "chartUpdated": "2026-06-06T11:15:33.285347Z"
@@ -527,8 +579,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.93984795,
-      "ratingCount": 124,
+      "rating": 0.9406495,
+      "ratingCount": 129,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -555,8 +607,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.7893593,
-      "ratingCount": 23,
+      "rating": 0.7968835,
+      "ratingCount": 24,
       "created": "2026-06-06T06:17:29.232127Z",
       "updated": "2026-06-06T06:17:29.232127Z",
       "chartUpdated": "2026-06-06T06:17:29.232127Z"
@@ -581,8 +633,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.77757335,
-      "ratingCount": 13,
+      "rating": 0.789542,
+      "ratingCount": 14,
       "created": "2026-06-06T06:13:47.318509Z",
       "updated": "2026-06-06T06:13:47.318509Z",
       "chartUpdated": "2026-06-06T06:13:47.318509Z"
@@ -607,8 +659,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80830336,
-      "ratingCount": 18,
+      "rating": 0.80964947,
+      "ratingCount": 20,
       "created": "2026-06-06T06:13:37.137996Z",
       "updated": "2026-06-06T06:13:37.137996Z",
       "chartUpdated": "2026-06-06T06:13:37.137996Z"
@@ -635,8 +687,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.8496711,
-      "ratingCount": 173,
+      "rating": 0.8482831,
+      "ratingCount": 202,
       "created": "2026-06-06T06:08:24.814080Z",
       "updated": "2026-06-06T06:08:24.814080Z",
       "chartUpdated": "2026-06-06T06:08:24.814080Z"
@@ -662,8 +714,8 @@
         "面",
         "plain"
       ],
-      "rating": 0.9042454,
-      "ratingCount": 219,
+      "rating": 0.9054079,
+      "ratingCount": 232,
       "created": "2026-06-06T06:08:16.181968Z",
       "updated": "2026-06-06T06:08:16.181968Z",
       "chartUpdated": "2026-06-06T06:08:16.181968Z"
@@ -690,8 +742,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.83843356,
-      "ratingCount": 33,
+      "rating": 0.84271455,
+      "ratingCount": 34,
       "created": "2026-06-06T05:57:11.478255Z",
       "updated": "2026-06-06T05:57:11.478255Z",
       "chartUpdated": "2026-06-06T05:57:11.478255Z"
@@ -719,8 +771,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.70072335,
-      "ratingCount": 8,
+      "rating": 0.72234154,
+      "ratingCount": 9,
       "created": "2026-06-06T05:52:36.533220Z",
       "updated": "2026-06-06T05:52:36.533220Z",
       "chartUpdated": "2026-06-06T05:52:36.533220Z"
@@ -747,8 +799,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8782047,
-      "ratingCount": 65,
+      "rating": 0.87842596,
+      "ratingCount": 69,
       "created": "2026-06-06T05:50:47.812237Z",
       "updated": "2026-06-06T05:50:47.812237Z",
       "chartUpdated": "2026-06-06T05:50:47.812237Z"
@@ -782,61 +834,6 @@
       "created": "2026-06-06T04:55:37.646203Z",
       "updated": "2026-06-06T04:55:37.646203Z",
       "chartUpdated": "2026-06-06T04:55:37.646203Z"
-    },
-    {
-      "id": 60000,
-      "name": "Anybody can find love(except you.)",
-      "level": "4K Lv.30",
-      "difficulty": 20.0,
-      "charter": "congratulations",
-      "composer": "hkmori",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b7ca6092-3451-4f69-bfb9-3897155017e9",
-      "preview": "https://phira.5wyxi.com/files/18366bf8-c214-4ee3-98b7-104441785134",
-      "file": "https://phira.5wyxi.com/files/795e0c74-d5db-46df-8bc6-d93ffa58a699",
-      "uploader": 139542,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8804639,
-      "ratingCount": 283,
-      "created": "2026-06-05T15:38:12.252394Z",
-      "updated": "2026-06-05T15:38:12.252394Z",
-      "chartUpdated": "2026-06-05T15:38:12.252394Z"
-    },
-    {
-      "id": 59967,
-      "name": "我们",
-      "level": "AT Lv.19+",
-      "difficulty": 19.700003,
-      "charter": "舶渡樱澪",
-      "composer": "DJ小女孩",
-      "illustrator": "",
-      "description": "本人上传\ndj小女孩真好听吧",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7a9c34e3-fdb2-4e5d-8422-8bf3e144ca29",
-      "preview": "https://phira.5wyxi.com/files/99e23d6e-8094-4621-91fb-0031c8441346",
-      "file": "https://phira.5wyxi.com/files/c30cf9c0-0dde-473a-a8d9-e443e753c0d2",
-      "uploader": 2215177,
-      "tags": [
-        "高难",
-        "无理",
-        "AT19",
-        "plain"
-      ],
-      "rating": 0.67538697,
-      "ratingCount": 7,
-      "created": "2026-06-05T10:43:17.757040Z",
-      "updated": "2026-06-05T10:43:17.757040Z",
-      "chartUpdated": "2026-06-05T10:43:17.757040Z"
     }
   ]
 }
