@@ -1,5 +1,5 @@
 {
-  "count": 170,
+  "count": 169,
   "results": [
     {
       "id": 56993,
@@ -21,8 +21,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8003291,
-      "ratingCount": 22,
+      "rating": 0.8097743,
+      "ratingCount": 28,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -47,8 +47,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8849575,
-      "ratingCount": 44,
+      "rating": 0.8880274,
+      "ratingCount": 47,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -76,8 +76,8 @@
         "LeaF",
         "visual"
       ],
-      "rating": 0.7867302,
-      "ratingCount": 71,
+      "rating": 0.7882302,
+      "ratingCount": 72,
       "created": "2026-04-05T13:14:27.813066Z",
       "updated": "2026-04-05T13:14:27.813066Z",
       "chartUpdated": "2026-04-05T13:14:27.813066Z"
@@ -102,39 +102,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.80243635,
-      "ratingCount": 115,
+      "rating": 0.80412304,
+      "ratingCount": 116,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
-    },
-    {
-      "id": 54776,
-      "name": "interlude:mentality",
-      "level": "Ultra Lv.2026",
-      "difficulty": 2026.0,
-      "charter": "*И∅th1ηg?* from *2026*",
-      "composer": "XH",
-      "illustrator": "",
-      "description": "SHATTER_80391234本人上传\n纯无脑塞爆，再无话说\n我确定为本人上传，谱师名义为本人马甲，用户名仅在该平台使用",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/77aec504-6cb3-4a2e-b726-26f8f665a421",
-      "preview": "https://phira.5wyxi.com/files/e5d5091d-dc4c-4766-83b3-29a4402bce40",
-      "file": "https://phira.5wyxi.com/files/75d336ee-1451-4f18-a0a1-5c79d085b421",
-      "uploader": 1711194,
-      "tags": [
-        "纯无理",
-        "零可玩性",
-        "visual"
-      ],
-      "rating": 0.85531026,
-      "ratingCount": 19,
-      "created": "2026-03-30T12:48:27.602515Z",
-      "updated": "2026-03-30T12:48:27.602515Z",
-      "chartUpdated": "2026-03-30T12:48:27.602515Z"
     },
     {
       "id": 51539,
@@ -156,8 +128,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8933405,
-      "ratingCount": 524,
+      "rating": 0.892957,
+      "ratingCount": 531,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -266,8 +238,8 @@
         "特效",
         "visual"
       ],
-      "rating": 0.7656401,
-      "ratingCount": 96,
+      "rating": 0.7659849,
+      "ratingCount": 97,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
       "chartUpdated": "2026-02-14T09:36:44.192161Z"
@@ -292,8 +264,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.85635126,
-      "ratingCount": 66,
+      "rating": 0.83950156,
+      "ratingCount": 71,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -349,8 +321,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9403042,
-      "ratingCount": 311,
+      "rating": 0.9395783,
+      "ratingCount": 319,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -375,8 +347,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8707227,
-      "ratingCount": 12,
+      "rating": 0.86350775,
+      "ratingCount": 13,
       "created": "2026-01-22T05:22:23.194810Z",
       "updated": "2026-01-22T05:22:23.194810Z",
       "chartUpdated": "2026-01-22T05:22:23.194810Z"
@@ -405,8 +377,8 @@
         "焚风",
         "visual"
       ],
-      "rating": 0.85787165,
-      "ratingCount": 16,
+      "rating": 0.85993946,
+      "ratingCount": 17,
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
@@ -434,8 +406,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.7739153,
-      "ratingCount": 196,
+      "rating": 0.7713744,
+      "ratingCount": 207,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -467,8 +439,8 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.89042854,
-      "ratingCount": 169,
+      "rating": 0.88687426,
+      "ratingCount": 171,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
       "chartUpdated": "2026-01-17T04:43:27.259439Z"
@@ -519,8 +491,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.84740216,
-      "ratingCount": 73,
+      "rating": 0.84939575,
+      "ratingCount": 74,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
       "chartUpdated": "2026-01-09T15:29:00.998126Z"
@@ -545,8 +517,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8325605,
-      "ratingCount": 77,
+      "rating": 0.8346434,
+      "ratingCount": 78,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -598,8 +570,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.95344496,
-      "ratingCount": 363,
+      "rating": 0.9521932,
+      "ratingCount": 365,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
@@ -624,8 +596,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7789208,
-      "ratingCount": 185,
+      "rating": 0.7792169,
+      "ratingCount": 187,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -650,8 +622,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8918267,
-      "ratingCount": 123,
+      "rating": 0.8935865,
+      "ratingCount": 126,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -676,8 +648,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8522283,
-      "ratingCount": 133,
+      "rating": 0.8501353,
+      "ratingCount": 136,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
       "chartUpdated": "2025-11-28T13:26:52.363537Z"
@@ -702,8 +674,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8770625,
-      "ratingCount": 20,
+      "rating": 0.88188934,
+      "ratingCount": 21,
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
@@ -780,8 +752,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9644964,
-      "ratingCount": 2029,
+      "rating": 0.9645116,
+      "ratingCount": 2042,
       "created": "2025-11-08T03:06:05.755676Z",
       "updated": "2025-11-08T03:06:05.755676Z",
       "chartUpdated": "2025-11-08T03:06:05.755676Z"
@@ -808,11 +780,42 @@
         "观赏",
         "visual"
       ],
-      "rating": 0.97521603,
-      "ratingCount": 4307,
+      "rating": 0.9753308,
+      "ratingCount": 4327,
       "created": "2025-11-05T15:19:44.272431Z",
       "updated": "2025-11-06T13:25:56.785787Z",
       "chartUpdated": "2025-11-06T13:25:56.785787Z"
+    },
+    {
+      "id": 47876,
+      "name": "finorza",
+      "level": "Speed Lv.Final",
+      "difficulty": 20.0,
+      "charter": "殇儿",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "双指的终点。。。\n\n谱师本人上传\n这是以dfc名义写的观赏谱。。。\n\n\n\n\n采音真的很爽，建议开打击音效",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/216952f9-0041-44c8-a0e3-0ca864a9dad4",
+      "preview": "https://phira.5wyxi.com/files/0396a0b5-6ba4-4cbd-9ebe-39d95d32959c",
+      "file": "https://phira.5wyxi.com/files/372e2df0-c9e5-414b-8008-30217d7fe331",
+      "uploader": 1946424,
+      "tags": [
+        "dfc",
+        "双指",
+        "玉米粒吃不下去",
+        "无理",
+        "高难",
+        "visual"
+      ],
+      "rating": 0.9048428,
+      "ratingCount": 56,
+      "created": "2025-10-08T05:39:20.982544Z",
+      "updated": "2025-10-08T05:39:20.982544Z",
+      "chartUpdated": "2025-10-08T05:39:20.982544Z"
     }
   ]
 }
