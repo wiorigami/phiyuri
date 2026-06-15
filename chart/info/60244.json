@@ -13,14 +13,14 @@
   "name": "Next Level",
   "preview": "https://phira.5wyxi.com/files/3fbedabb-dd35-4c51-b1e8-b21515f00382",
   "ranked": false,
-  "rating": 0.86103684,
-  "ratingCount": 61,
-  "reviewed": true,
+  "rating": 0.8613023,
+  "ratingCount": 67,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-13T14:05:45.813435Z",
+  "updated": "2026-06-14T04:15:38.314885Z",
   "uploader": 7084
 }

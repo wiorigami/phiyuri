@@ -13,11 +13,11 @@
   "name": "流萤之森",
   "preview": "https://phira.5wyxi.com/files/d5762ec5-524f-4c3d-af4a-27d362340d6a",
   "ranked": false,
-  "rating": 0.93887085,
-  "ratingCount": 1076,
-  "reviewed": false,
+  "rating": 0.9388438,
+  "ratingCount": 1247,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
