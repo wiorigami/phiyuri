@@ -1,5 +1,5 @@
 {
-  "count": 169,
+  "count": 168,
   "results": [
     {
       "id": 56993,
@@ -21,8 +21,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8097743,
-      "ratingCount": 28,
+      "rating": 0.82324344,
+      "ratingCount": 31,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -76,8 +76,8 @@
         "LeaF",
         "visual"
       ],
-      "rating": 0.7882302,
-      "ratingCount": 72,
+      "rating": 0.78672665,
+      "ratingCount": 74,
       "created": "2026-04-05T13:14:27.813066Z",
       "updated": "2026-04-05T13:14:27.813066Z",
       "chartUpdated": "2026-04-05T13:14:27.813066Z"
@@ -102,8 +102,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.80412304,
-      "ratingCount": 116,
+      "rating": 0.80578107,
+      "ratingCount": 117,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -128,8 +128,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.892957,
-      "ratingCount": 531,
+      "rating": 0.89336073,
+      "ratingCount": 533,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -208,8 +208,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8964417,
-      "ratingCount": 40,
+      "rating": 0.8987548,
+      "ratingCount": 41,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
       "chartUpdated": "2026-03-01T05:13:19.479990Z"
@@ -264,8 +264,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.83950156,
-      "ratingCount": 71,
+      "rating": 0.8464667,
+      "ratingCount": 75,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -292,8 +292,8 @@
         "创意",
         "visual"
       ],
-      "rating": 0.9032067,
-      "ratingCount": 77,
+      "rating": 0.9043993,
+      "ratingCount": 78,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
       "chartUpdated": "2026-02-10T06:56:11.788757Z"
@@ -321,8 +321,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9395783,
-      "ratingCount": 319,
+      "rating": 0.93991226,
+      "ratingCount": 329,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -382,35 +382,6 @@
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
-    },
-    {
-      "id": 51310,
-      "name": "今天来diss个人",
-      "level": "4K Lv.114514",
-      "difficulty": 114514.0,
-      "charter": "四川也是川（各视频平台同名）",
-      "composer": "骨折鸠（雨落的帅气）反初婉汐",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7e715791-31bc-4b34-85e0-9560872ce8c3",
-      "preview": "https://phira.5wyxi.com/files/4319b193-e1b0-4c1a-8c91-57725933ffd9",
-      "file": "https://phira.5wyxi.com/files/678c2ea3-1103-47c9-abdb-52fce63ac25e",
-      "uploader": 1905105,
-      "tags": [
-        "音游",
-        "雨落的帅气",
-        "4K",
-        "visual"
-      ],
-      "rating": 0.7713744,
-      "ratingCount": 207,
-      "created": "2026-01-17T06:34:21.824030Z",
-      "updated": "2026-01-17T06:34:21.824030Z",
-      "chartUpdated": "2026-01-17T06:34:21.824030Z"
     },
     {
       "id": 51301,
@@ -596,8 +567,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7792169,
-      "ratingCount": 187,
+      "rating": 0.77851397,
+      "ratingCount": 190,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -622,8 +593,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8935865,
-      "ratingCount": 126,
+      "rating": 0.89373875,
+      "ratingCount": 128,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -700,8 +671,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9473294,
-      "ratingCount": 125,
+      "rating": 0.9463656,
+      "ratingCount": 128,
       "created": "2025-11-16T11:01:11.506983Z",
       "updated": "2025-11-16T11:01:11.506983Z",
       "chartUpdated": "2025-11-16T11:01:11.506983Z"
@@ -752,8 +723,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9645116,
-      "ratingCount": 2042,
+      "rating": 0.9643968,
+      "ratingCount": 2049,
       "created": "2025-11-08T03:06:05.755676Z",
       "updated": "2025-11-08T03:06:05.755676Z",
       "chartUpdated": "2025-11-08T03:06:05.755676Z"
@@ -780,8 +751,8 @@
         "观赏",
         "visual"
       ],
-      "rating": 0.9753308,
-      "ratingCount": 4327,
+      "rating": 0.9753156,
+      "ratingCount": 4348,
       "created": "2025-11-05T15:19:44.272431Z",
       "updated": "2025-11-06T13:25:56.785787Z",
       "chartUpdated": "2025-11-06T13:25:56.785787Z"
@@ -816,6 +787,32 @@
       "created": "2025-10-08T05:39:20.982544Z",
       "updated": "2025-10-08T05:39:20.982544Z",
       "chartUpdated": "2025-10-08T05:39:20.982544Z"
+    },
+    {
+      "id": 46052,
+      "name": "Cyberpunk",
+      "level": "EXH Lv.-",
+      "difficulty": 10.0,
+      "charter": "仙家不能对话",
+      "composer": "Demon-K",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/24ca1041-9c41-4589-bd62-98cbc332fe76",
+      "preview": "https://phira.5wyxi.com/files/1194a8bd-f05a-4ba9-b35a-c662248c19fe",
+      "file": "https://phira.5wyxi.com/files/f07ef1d2-654f-48b5-b945-fd4c0a2dada8",
+      "uploader": 1573997,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.86141455,
+      "ratingCount": 43,
+      "created": "2025-08-29T10:38:33.924712Z",
+      "updated": "2025-08-29T10:38:33.924712Z",
+      "chartUpdated": "2025-08-29T10:38:33.924712Z"
     }
   ]
 }
