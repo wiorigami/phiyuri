@@ -1,6 +1,86 @@
 {
-  "count": 3050,
+  "count": 3052,
   "results": [
+    {
+      "id": 61003,
+      "name": "time machine",
+      "level": "弱切 Lv.21",
+      "difficulty": 5.5,
+      "charter": "TrikalineINF",
+      "composer": "aren park",
+      "illustrator": "",
+      "description": "第三张谱，比较长哦",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a7a09567-21cd-405e-b8b3-677a322019e6",
+      "preview": "https://phira.5wyxi.com/files/60c75a8c-038e-4a96-9cc2-1a5ae55649d1",
+      "file": "https://phira.5wyxi.com/files/b4f0812e-5326-458f-9773-2d1c95804554",
+      "uploader": 1526157,
+      "tags": [
+        "4K",
+        "耐",
+        "plain"
+      ],
+      "rating": 0.8720764,
+      "ratingCount": 20,
+      "created": "2026-06-14T13:34:28.668403Z",
+      "updated": "2026-06-14T13:34:28.668403Z",
+      "chartUpdated": "2026-06-14T13:34:28.668403Z"
+    },
+    {
+      "id": 60931,
+      "name": "Am I Even",
+      "level": "What should I do...?",
+      "difficulty": 10.0,
+      "charter": "Nothing is Falling apart...",
+      "composer": "XH",
+      "illustrator": "",
+      "description": "SHATTER_80391234本人上传\n谱师名义使用了本人马甲\n本谱关联《20th》精选集预热\n无病呻吟写的一张谱罢了\n带点个人情绪\n……",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/95b7c8f3-da2f-445c-aa25-b6bafc1b9bae",
+      "preview": "https://phira.5wyxi.com/files/dd523569-8178-49e6-995e-737038be7048",
+      "file": "https://phira.5wyxi.com/files/30640dc2-8665-4edc-b9a4-e425f4a1e9d8",
+      "uploader": 10924,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 1,
+      "created": "2026-06-14T05:54:39.030539Z",
+      "updated": "2026-06-14T05:54:39.030539Z",
+      "chartUpdated": "2026-06-14T05:54:39.030539Z"
+    },
+    {
+      "id": 60891,
+      "name": "goes nowhere (feat. Nosgov & Avast)",
+      "level": "Legacy Lv.17",
+      "difficulty": 17.0,
+      "charter": "Nothing lost direction...",
+      "composer": "Enkei/Nosgov/Avast",
+      "illustrator": "",
+      "description": "SHATTER_80391234本人上传\n谱师名义使用了本人马甲\n本谱为我的《20th》精选集预热\n\n不速写的水谱\n也就那样吧，写的依旧很乱，算是想到什么写什么\n我或许真的没法完全静下心来认真的完成一件事……\n以旧谱名义上传，考虑重制中",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/57c975f4-d4b1-41a7-8eff-5df26795ab16",
+      "preview": "https://phira.5wyxi.com/files/fd46d1c8-8a47-441d-8a3f-965c971132e6",
+      "file": "https://phira.5wyxi.com/files/52999147-44fa-4759-b33e-735d1c4544ec",
+      "uploader": 1711194,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.86923075,
+      "ratingCount": 16,
+      "created": "2026-06-13T17:47:04.436391Z",
+      "updated": "2026-06-13T17:47:04.436391Z",
+      "chartUpdated": "2026-06-13T17:47:04.436391Z"
+    },
     {
       "id": 60101,
       "name": "Aestivalis 1.35x",
@@ -21,37 +101,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8608429,
-      "ratingCount": 68,
+      "rating": 0.8596817,
+      "ratingCount": 70,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-13T01:34:18.229771Z",
       "chartUpdated": "2026-06-06T09:17:57.902452Z"
-    },
-    {
-      "id": 60741,
-      "name": "INCARNATOR ₀₀",
-      "level": "SUPREME",
-      "difficulty": 20.0,
-      "charter": "ZEN_SGOD_ITH",
-      "composer": "Silentroom x N²",
-      "illustrator": "",
-      "description": "Phira上传的最难有理纯配置hb\n过段标准 无暇45ms\n@S神#87478（索纳斯养的狐狸）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/55ca682f-7fde-44a9-a254-477ed657955e",
-      "preview": "https://phira.5wyxi.com/files/d6711950-2aac-44f4-9c3f-cd03836460f0",
-      "file": "https://phira.5wyxi.com/files/9212eee9-b098-476c-9fbb-c2d19e5b0f38",
-      "uploader": 1786329,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8258486,
-      "ratingCount": 6,
-      "created": "2026-06-13T01:31:45.078954Z",
-      "updated": "2026-06-13T01:31:45.078954Z",
-      "chartUpdated": "2026-06-13T01:31:45.078954Z"
     },
     {
       "id": 60678,
@@ -78,8 +132,8 @@
         "锚键",
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
+      "rating": 0.827837,
+      "ratingCount": 6,
       "created": "2026-06-12T09:48:26.329355Z",
       "updated": "2026-06-12T09:48:26.329355Z",
       "chartUpdated": "2026-06-12T09:48:26.329355Z"
@@ -104,8 +158,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89293945,
-      "ratingCount": 16,
+      "rating": 0.89572245,
+      "ratingCount": 19,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
@@ -164,8 +218,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.82987046,
-      "ratingCount": 35,
+      "rating": 0.8448883,
+      "ratingCount": 40,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
       "chartUpdated": "2026-05-19T04:40:17.003465Z"
@@ -190,8 +244,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87991786,
-      "ratingCount": 9,
+      "rating": 0.8817029,
+      "ratingCount": 10,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
@@ -216,8 +270,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9396137,
-      "ratingCount": 97,
+      "rating": 0.94310343,
+      "ratingCount": 154,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
@@ -243,8 +297,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.9330449,
-      "ratingCount": 110,
+      "rating": 0.9273695,
+      "ratingCount": 120,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -269,8 +323,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9015215,
-      "ratingCount": 13,
+      "rating": 0.91579604,
+      "ratingCount": 16,
       "created": "2026-06-08T15:28:48.917223Z",
       "updated": "2026-06-08T15:28:48.917223Z",
       "chartUpdated": "2026-06-08T15:28:48.917223Z"
@@ -295,8 +349,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79386526,
-      "ratingCount": 7,
+      "rating": 0.8095886,
+      "ratingCount": 8,
       "created": "2026-06-08T06:50:40.547358Z",
       "updated": "2026-06-08T06:50:40.547358Z",
       "chartUpdated": "2026-06-08T06:50:40.547358Z"
@@ -321,8 +375,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84018165,
-      "ratingCount": 34,
+      "rating": 0.8445204,
+      "ratingCount": 38,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -349,8 +403,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8539367,
-      "ratingCount": 143,
+      "rating": 0.86448896,
+      "ratingCount": 171,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -377,8 +431,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8774048,
-      "ratingCount": 16,
+      "rating": 0.8830666,
+      "ratingCount": 17,
       "created": "2026-06-08T03:26:53.567788Z",
       "updated": "2026-06-08T03:26:53.567788Z",
       "chartUpdated": "2026-06-08T03:26:53.567788Z"
@@ -433,8 +487,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.87987447,
-      "ratingCount": 14,
+      "rating": 0.88595766,
+      "ratingCount": 15,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -520,8 +574,8 @@
         "井芹仁菜随手AP",
         "plain"
       ],
-      "rating": 0.8951198,
-      "ratingCount": 21,
+      "rating": 0.8990867,
+      "ratingCount": 22,
       "created": "2026-06-04T14:14:42.896401Z",
       "updated": "2026-06-06T15:45:09.928696Z",
       "chartUpdated": "2026-06-04T14:14:42.896401Z"
@@ -551,8 +605,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.8679143,
-      "ratingCount": 19,
+      "rating": 0.8693532,
+      "ratingCount": 20,
       "created": "2026-05-24T14:15:45.191159Z",
       "updated": "2026-06-06T11:15:33.285347Z",
       "chartUpdated": "2026-06-06T11:15:33.285347Z"
@@ -579,8 +633,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.9406495,
-      "ratingCount": 129,
+      "rating": 0.9374302,
+      "ratingCount": 139,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -607,8 +661,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.7968835,
-      "ratingCount": 24,
+      "rating": 0.803891,
+      "ratingCount": 25,
       "created": "2026-06-06T06:17:29.232127Z",
       "updated": "2026-06-06T06:17:29.232127Z",
       "chartUpdated": "2026-06-06T06:17:29.232127Z"
@@ -659,8 +713,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80964947,
-      "ratingCount": 20,
+      "rating": 0.813199,
+      "ratingCount": 21,
       "created": "2026-06-06T06:13:37.137996Z",
       "updated": "2026-06-06T06:13:37.137996Z",
       "chartUpdated": "2026-06-06T06:13:37.137996Z"
@@ -687,8 +741,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.8482831,
-      "ratingCount": 202,
+      "rating": 0.8470599,
+      "ratingCount": 227,
       "created": "2026-06-06T06:08:24.814080Z",
       "updated": "2026-06-06T06:08:24.814080Z",
       "chartUpdated": "2026-06-06T06:08:24.814080Z"
@@ -714,8 +768,8 @@
         "面",
         "plain"
       ],
-      "rating": 0.9054079,
-      "ratingCount": 232,
+      "rating": 0.9069524,
+      "ratingCount": 243,
       "created": "2026-06-06T06:08:16.181968Z",
       "updated": "2026-06-06T06:08:16.181968Z",
       "chartUpdated": "2026-06-06T06:08:16.181968Z"
@@ -742,8 +796,8 @@
         "劲爆拍砖",
         "plain"
       ],
-      "rating": 0.84271455,
-      "ratingCount": 34,
+      "rating": 0.85063225,
+      "ratingCount": 36,
       "created": "2026-06-06T05:57:11.478255Z",
       "updated": "2026-06-06T05:57:11.478255Z",
       "chartUpdated": "2026-06-06T05:57:11.478255Z"
@@ -776,64 +830,6 @@
       "created": "2026-06-06T05:52:36.533220Z",
       "updated": "2026-06-06T05:52:36.533220Z",
       "chartUpdated": "2026-06-06T05:52:36.533220Z"
-    },
-    {
-      "id": 60068,
-      "name": "星辰入梦 feat. 花小楼",
-      "level": "AT Lv.18",
-      "difficulty": 18.0,
-      "charter": "BaDu0NwN",
-      "composer": "张旭 feat.花小楼",
-      "illustrator": "",
-      "description": "本人上传\n迷你世界真好玩吧",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/65081478-1b9e-4d7e-b29c-f0dc3d43a7da",
-      "preview": "https://phira.5wyxi.com/files/2858a3b3-b9a9-4287-9dad-1ee83d888045",
-      "file": "https://phira.5wyxi.com/files/4237256e-1a36-4fe0-92eb-5a5b3448e65f",
-      "uploader": 2215177,
-      "tags": [
-        "劲爆拍砖",
-        "高难",
-        "plain"
-      ],
-      "rating": 0.87842596,
-      "ratingCount": 69,
-      "created": "2026-06-06T05:50:47.812237Z",
-      "updated": "2026-06-06T05:50:47.812237Z",
-      "chartUpdated": "2026-06-06T05:50:47.812237Z"
-    },
-    {
-      "id": 60057,
-      "name": "ZIWEIYUAN",
-      "level": "AT Lv.18",
-      "difficulty": 18.0,
-      "charter": "ZIWEI Team",
-      "composer": "Kou！",
-      "illustrator": "",
-      "description": "谱面由10xing经过所有谱师同意后上传\n曲名：ZIWEIYUAN，为DWC决赛用曲\n曲师：Kou！\n谱师：ye -srx-(@phigros156#1127978) ＆ 10xing(@10xing#22341) & No-Smoking(@No-Smoking#692383)\nbpm：220\n时长：400s\n物量：7300\n谱面计划于24年10月开始，完成于26年3月20日，第一版移步#54328，在26年6月5日由其中一个谱师完成了配置微调，本次过后将大概率不会进行改动\n分工表（单位为秒）：\nNo-smoking：38～61，78～104，174～192，230～279，349～370\nye -srx-：61～78，192～230，370～393\n10xing：0～38，104～174，279～349\n其中一个谱师因为已经退坑所以这大概率是他最后一张谱面，另一个谱师因为淡坑现在也不怎么写了，这样的长篇估计不复再现",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/484da4ea-6d04-4f7b-ac93-acbec7e70302",
-      "preview": "https://phira.5wyxi.com/files/65b5daaf-8375-43d1-9e12-0184a38df0e5",
-      "file": "https://phira.5wyxi.com/files/16ba0b1a-90c5-4194-b3be-da095e563c47",
-      "uploader": 2139734,
-      "tags": [
-        "高难",
-        "键盘",
-        "at18",
-        "yesex",
-        "plain"
-      ],
-      "rating": 0.8533043,
-      "ratingCount": 7,
-      "created": "2026-06-06T04:55:37.646203Z",
-      "updated": "2026-06-06T04:55:37.646203Z",
-      "chartUpdated": "2026-06-06T04:55:37.646203Z"
     }
   ]
 }
