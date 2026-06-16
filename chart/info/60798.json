@@ -13,14 +13,14 @@
   "name": "カプチーノ",
   "preview": "https://phira.5wyxi.com/files/81e8cb40-e46f-4b08-bb62-7b51d714c1cb",
   "ranked": false,
-  "rating": 0.95047736,
-  "ratingCount": 386,
-  "reviewed": true,
+  "rating": 0.9510585,
+  "ratingCount": 544,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-13T08:08:12.793234Z",
+  "updated": "2026-06-15T10:20:07.826583Z",
   "uploader": 1753887
 }
