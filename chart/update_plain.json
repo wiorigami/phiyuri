@@ -1,6 +1,133 @@
 {
-  "count": 3052,
+  "count": 3055,
   "results": [
+    {
+      "id": 61122,
+      "name": "HRS~ 6th Dan~",
+      "level": "Dan Lv.6",
+      "difficulty": 6.0000005,
+      "charter": "HRS-Team",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "HRS 6th Dan考核\nSync:Forever BPM:149.98 \nFlow:メズマライザー BPM:185 \nPattern:Heart Function BPM:185\nHRS交流群：1106507620",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/029f44e5-f7c5-4a85-bc35-7bdc548962fc",
+      "preview": "https://phira.5wyxi.com/files/6185f7b0-a99d-41ae-946b-ba766b2ada68",
+      "file": "https://phira.5wyxi.com/files/f99cfa20-cc55-4267-ad99-c902fe2114b9",
+      "uploader": 2460897,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "6",
+        "Dan",
+        "plain"
+      ],
+      "rating": 0.70983166,
+      "ratingCount": 2,
+      "created": "2026-06-16T12:45:47.142817Z",
+      "updated": "2026-06-16T12:45:47.142817Z",
+      "chartUpdated": "2026-06-16T12:45:47.142817Z"
+    },
+    {
+      "id": 61118,
+      "name": "Heart Function",
+      "level": "Pattern",
+      "difficulty": 6.5999985,
+      "charter": "HRS-Team",
+      "composer": "O2i3",
+      "illustrator": "",
+      "description": "HRS-Lv.6-Pattern单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2d173627-970c-4f71-a1c2-0423df13f39e",
+      "preview": "https://phira.5wyxi.com/files/85c85b55-7e7e-4699-8356-58e23435a601",
+      "file": "https://phira.5wyxi.com/files/82edf49a-3f2a-4b28-999f-edaeff356d64",
+      "uploader": 2460897,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "6",
+        "Pattern",
+        "瞬",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 2,
+      "created": "2026-06-16T12:13:15.668071Z",
+      "updated": "2026-06-16T12:13:15.668071Z",
+      "chartUpdated": "2026-06-16T12:13:15.668071Z"
+    },
+    {
+      "id": 61117,
+      "name": "メズマライザー",
+      "level": "Flow",
+      "difficulty": 6.1999993,
+      "charter": "HRS-Team",
+      "composer": "サツキ（feat.初音ミク·重音テト）",
+      "illustrator": "",
+      "description": "HRS-Lv.6-Flow单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4435b775-a020-4d14-8f81-bd9693978860",
+      "preview": "https://phira.5wyxi.com/files/1bfc2b6a-9327-471e-9fbb-559e4a972e59",
+      "file": "https://phira.5wyxi.com/files/d3620977-e2ae-4459-b9e2-3db107d2d803",
+      "uploader": 2460897,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "6",
+        "Flow",
+        "幻",
+        "plain"
+      ],
+      "rating": 0.8423025,
+      "ratingCount": 5,
+      "created": "2026-06-16T12:13:07.655145Z",
+      "updated": "2026-06-16T12:13:07.655145Z",
+      "chartUpdated": "2026-06-16T12:13:07.655145Z"
+    },
+    {
+      "id": 61116,
+      "name": "Forever",
+      "level": "Sync",
+      "difficulty": 6.2999997,
+      "charter": "HRS-Team",
+      "composer": "OOST_ vs. The_wooden",
+      "illustrator": "",
+      "description": "HRS-Lv.6-Sync单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7a601c55-fcae-40e7-8d1c-1fbcbb8248e4",
+      "preview": "https://phira.5wyxi.com/files/dbb7a850-d65a-4f21-aaa4-95547f54d3a6",
+      "file": "https://phira.5wyxi.com/files/8c2bc870-d3b0-4298-9f66-d190d3d83a8f",
+      "uploader": 2460897,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "6",
+        "Sync",
+        "协",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 2,
+      "created": "2026-06-16T12:13:00.641984Z",
+      "updated": "2026-06-16T12:13:00.641984Z",
+      "chartUpdated": "2026-06-16T12:13:00.641984Z"
+    },
     {
       "id": 61003,
       "name": "time machine",
@@ -23,8 +150,8 @@
         "耐",
         "plain"
       ],
-      "rating": 0.87915784,
-      "ratingCount": 51,
+      "rating": 0.8641303,
+      "ratingCount": 83,
       "created": "2026-06-14T13:34:28.668403Z",
       "updated": "2026-06-14T13:34:28.668403Z",
       "chartUpdated": "2026-06-14T13:34:28.668403Z"
@@ -49,8 +176,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7840579,
-      "ratingCount": 3,
+      "rating": 0.7762669,
+      "ratingCount": 5,
       "created": "2026-06-14T05:54:39.030539Z",
       "updated": "2026-06-14T05:54:39.030539Z",
       "chartUpdated": "2026-06-14T05:54:39.030539Z"
@@ -75,8 +202,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.898995,
-      "ratingCount": 22,
+      "rating": 0.9015497,
+      "ratingCount": 29,
       "created": "2026-06-13T17:47:04.436391Z",
       "updated": "2026-06-13T17:47:04.436391Z",
       "chartUpdated": "2026-06-13T17:47:04.436391Z"
@@ -132,8 +259,8 @@
         "锚键",
         "plain"
       ],
-      "rating": 0.8418272,
-      "ratingCount": 7,
+      "rating": 0.85378945,
+      "ratingCount": 8,
       "created": "2026-06-12T09:48:26.329355Z",
       "updated": "2026-06-12T09:48:26.329355Z",
       "chartUpdated": "2026-06-12T09:48:26.329355Z"
@@ -158,8 +285,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89997387,
-      "ratingCount": 20,
+      "rating": 0.91697127,
+      "ratingCount": 25,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
@@ -189,8 +316,8 @@
         "读谱",
         "plain"
       ],
-      "rating": 0.8533043,
-      "ratingCount": 7,
+      "rating": 0.85721785,
+      "ratingCount": 8,
       "created": "2026-06-06T11:02:17.231241Z",
       "updated": "2026-06-09T12:56:03.108458Z",
       "chartUpdated": "2026-06-09T12:56:03.108458Z"
@@ -244,8 +371,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8817029,
-      "ratingCount": 10,
+      "rating": 0.86560535,
+      "ratingCount": 12,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
@@ -270,8 +397,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93924654,
-      "ratingCount": 192,
+      "rating": 0.94661504,
+      "ratingCount": 241,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
@@ -297,8 +424,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.9289311,
-      "ratingCount": 129,
+      "rating": 0.935805,
+      "ratingCount": 139,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -349,8 +476,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82313347,
-      "ratingCount": 9,
+      "rating": 0.82834965,
+      "ratingCount": 10,
       "created": "2026-06-08T06:50:40.547358Z",
       "updated": "2026-06-08T06:50:40.547358Z",
       "chartUpdated": "2026-06-08T06:50:40.547358Z"
@@ -375,8 +502,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8472228,
-      "ratingCount": 40,
+      "rating": 0.85064447,
+      "ratingCount": 41,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -403,8 +530,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.86026895,
-      "ratingCount": 181,
+      "rating": 0.8547505,
+      "ratingCount": 198,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -459,8 +586,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8336699,
-      "ratingCount": 6,
+      "rating": 0.84718174,
+      "ratingCount": 7,
       "created": "2026-06-08T03:26:11.798751Z",
       "updated": "2026-06-08T03:26:11.798751Z",
       "chartUpdated": "2026-06-08T03:26:11.798751Z"
@@ -543,8 +670,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92980057,
-      "ratingCount": 31,
+      "rating": 0.93174237,
+      "ratingCount": 32,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -569,8 +696,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.755949,
-      "ratingCount": 2,
+      "rating": 0.82156867,
+      "ratingCount": 8,
       "created": "2026-06-06T16:32:44.281401Z",
       "updated": "2026-06-06T16:32:44.281401Z",
       "chartUpdated": "2026-06-06T16:32:44.281401Z"
@@ -659,8 +786,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.93661743,
-      "ratingCount": 143,
+      "rating": 0.9365773,
+      "ratingCount": 146,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -718,115 +845,6 @@
       "created": "2026-06-06T06:13:47.318509Z",
       "updated": "2026-06-06T06:13:47.318509Z",
       "chartUpdated": "2026-06-06T06:13:47.318509Z"
-    },
-    {
-      "id": 60079,
-      "name": "speculation",
-      "level": "AT Lv.16",
-      "difficulty": 16.0,
-      "charter": "BaDu0NwN",
-      "composer": "ZAQUVA",
-      "illustrator": "",
-      "description": "本人上传\n纪念款谱面",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/38138c05-98aa-46e0-8f2c-ec819f499400",
-      "preview": "https://phira.5wyxi.com/files/a4bab3ab-ca37-454e-8285-748898f2fcfc",
-      "file": "https://phira.5wyxi.com/files/262a29ce-5366-4fe7-9c34-98e2ea3d9332",
-      "uploader": 2395660,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.813199,
-      "ratingCount": 21,
-      "created": "2026-06-06T06:13:37.137996Z",
-      "updated": "2026-06-06T06:13:37.137996Z",
-      "chartUpdated": "2026-06-06T06:13:37.137996Z"
-    },
-    {
-      "id": 60077,
-      "name": "踏浪",
-      "level": "无轨 Lv.15",
-      "difficulty": 15.499999,
-      "charter": "BaDu0NwN",
-      "composer": "左宏元 feat.徐怀钰",
-      "illustrator": "",
-      "description": "本人上传\n踏浪好听",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3fe24c3e-4d64-45bc-9e19-c4df899c51a7",
-      "preview": "https://phira.5wyxi.com/files/b3537823-0c24-448e-9412-e72a16723ee4",
-      "file": "https://phira.5wyxi.com/files/a9a3a2e0-c98e-46c4-9214-7a5523fde4a3",
-      "uploader": 2395660,
-      "tags": [
-        "叠键",
-        "劲爆拍砖",
-        "plain"
-      ],
-      "rating": 0.84140044,
-      "ratingCount": 246,
-      "created": "2026-06-06T06:08:24.814080Z",
-      "updated": "2026-06-06T06:08:24.814080Z",
-      "chartUpdated": "2026-06-06T06:08:24.814080Z"
-    },
-    {
-      "id": 60076,
-      "name": "勾指起誓",
-      "level": "无轨 Lv.15",
-      "difficulty": 15.499999,
-      "charter": "BaDu0NwN",
-      "composer": "ilem 洛天依",
-      "illustrator": "",
-      "description": "本人上传\n洛天依好听",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f5982774-c618-45a0-9dbe-30a6a812e261",
-      "preview": "https://phira.5wyxi.com/files/ce94903f-7300-406c-b91b-d6f6018fd140",
-      "file": "https://phira.5wyxi.com/files/d738c007-1ca4-4209-afe2-e1967dd06165",
-      "uploader": 2395660,
-      "tags": [
-        "面",
-        "plain"
-      ],
-      "rating": 0.90728664,
-      "ratingCount": 248,
-      "created": "2026-06-06T06:08:16.181968Z",
-      "updated": "2026-06-06T06:08:16.181968Z",
-      "chartUpdated": "2026-06-06T06:08:16.181968Z"
-    },
-    {
-      "id": 60073,
-      "name": "Love Para feat. Hatsune Miku",
-      "level": "AT Lv.18",
-      "difficulty": 18.300007,
-      "charter": "BaDu0NwN",
-      "composer": "DECO27",
-      "illustrator": "",
-      "description": "本人上传\ndeco是神",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0d9823f5-4d35-453e-ad12-4a4c65097214",
-      "preview": "https://phira.5wyxi.com/files/bfaa87c9-1dae-4dbb-b027-28c948e6c69b",
-      "file": "https://phira.5wyxi.com/files/120c14f7-92c3-4d41-828a-0b911b09d811",
-      "uploader": 2215177,
-      "tags": [
-        "高难",
-        "劲爆拍砖",
-        "plain"
-      ],
-      "rating": 0.85063225,
-      "ratingCount": 36,
-      "created": "2026-06-06T05:57:11.478255Z",
-      "updated": "2026-06-06T05:57:11.478255Z",
-      "chartUpdated": "2026-06-06T05:57:11.478255Z"
     }
   ]
 }
