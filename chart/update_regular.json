@@ -1,6 +1,85 @@
 {
-  "count": 8769,
+  "count": 8762,
   "results": [
+    {
+      "id": 60823,
+      "name": "トキメキ☆ボムラッシュ",
+      "level": "IN Lv.14",
+      "difficulty": 14.400002,
+      "charter": "Night",
+      "composer": "corok-Bb",
+      "illustrator": "",
+      "description": "\n",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/182eab9c-a2a3-4d57-b866-e85cbf423aee",
+      "preview": "https://phira.5wyxi.com/files/895d59d7-7dfb-4c33-9721-4d37b6101c71",
+      "file": "https://phira.5wyxi.com/files/7df3b26d-7ef2-42fd-bc35-dbe1230cae3b",
+      "uploader": 570620,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8579677,
+      "ratingCount": 14,
+      "created": "2026-06-13T11:18:03.767331Z",
+      "updated": "2026-06-16T17:35:56.338863Z",
+      "chartUpdated": "2026-06-13T11:18:03.767331Z"
+    },
+    {
+      "id": 59759,
+      "name": "All Eyes on Me",
+      "level": "IN Lv.14",
+      "difficulty": 14.400002,
+      "charter": "My Star Anis",
+      "composer": "T.T.STAR",
+      "illustrator": "",
+      "description": "本人上传\n\r\n萌萌双指谱\r\n2026.6.2 修改部分内容",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/f7306bd4-6b7f-4cca-98f0-3d6fd06cc36c",
+      "preview": "https://phira.5wyxi.com/files/1bb0de82-5214-402f-a181-2e9212c14179",
+      "file": "https://phira.5wyxi.com/files/b1eab1b2-dc55-4d8d-8a0c-b9d4392abd35",
+      "uploader": 540194,
+      "tags": [
+        "NIKKE",
+        "regular"
+      ],
+      "rating": 0.9248354,
+      "ratingCount": 265,
+      "created": "2026-06-02T02:30:16.002389Z",
+      "updated": "2026-06-16T15:33:30.310649Z",
+      "chartUpdated": "2026-06-02T15:30:22.116907Z"
+    },
+    {
+      "id": 61101,
+      "name": "Tempest",
+      "level": "IN Lv.15",
+      "difficulty": 15.900001,
+      "charter": "方胜远",
+      "composer": "Plum",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/c18a4878-cfe2-4bf5-9aaf-e0c10b45d006",
+      "preview": "https://phira.5wyxi.com/files/3c20328c-5d7b-4e1d-a7c3-30daef6c4be7",
+      "file": "https://phira.5wyxi.com/files/2742e238-c6fc-465c-b9ee-669c75ecc016",
+      "uploader": 1132404,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.92468816,
+      "ratingCount": 79,
+      "created": "2026-06-16T08:55:16.096345Z",
+      "updated": "2026-06-16T09:55:54.605547Z",
+      "chartUpdated": "2026-06-16T08:55:16.096345Z"
+    },
     {
       "id": 60952,
       "name": "差不多得了",
@@ -21,8 +100,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91782165,
-      "ratingCount": 192,
+      "rating": 0.9249288,
+      "ratingCount": 297,
       "created": "2026-06-14T07:59:50.294678Z",
       "updated": "2026-06-15T15:53:03.994403Z",
       "chartUpdated": "2026-06-15T15:53:03.994403Z"
@@ -47,8 +126,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.822334,
-      "ratingCount": 27,
+      "rating": 0.8665153,
+      "ratingCount": 62,
       "created": "2026-06-14T06:14:31.905237Z",
       "updated": "2026-06-15T15:08:31.932828Z",
       "chartUpdated": "2026-06-14T06:14:31.905237Z"
@@ -66,15 +145,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/82189fd0-a5c6-457a-bc4c-0bdead6f42e9",
-      "preview": "https://api.phira.cn/files/db8714a5-932b-4a50-a8ba-ddcad8499b06",
-      "file": "https://api.phira.cn/files/1d4185cb-b0c3-4220-a7c6-48e21cdd9a18",
+      "illustration": "https://phira.5wyxi.com/files/82189fd0-a5c6-457a-bc4c-0bdead6f42e9",
+      "preview": "https://phira.5wyxi.com/files/db8714a5-932b-4a50-a8ba-ddcad8499b06",
+      "file": "https://phira.5wyxi.com/files/1d4185cb-b0c3-4220-a7c6-48e21cdd9a18",
       "uploader": 96859,
       "tags": [
         "regular"
       ],
-      "rating": 0.9097368,
-      "ratingCount": 0,
+      "rating": 0.9466261,
+      "ratingCount": 890,
       "created": "2026-06-15T14:35:41.107848Z",
       "updated": "2026-06-15T14:35:41.107848Z",
       "chartUpdated": "2026-06-15T14:35:41.107848Z"
@@ -100,37 +179,11 @@
         "4K",
         "regular"
       ],
-      "rating": 0.8778362,
-      "ratingCount": 6,
+      "rating": 0.9018721,
+      "ratingCount": 30,
       "created": "2026-06-15T13:43:59.442214Z",
       "updated": "2026-06-15T13:43:59.442214Z",
       "chartUpdated": "2026-06-15T13:43:59.442214Z"
-    },
-    {
-      "id": 53900,
-      "name": "Keep Going",
-      "level": "IN Lv.14",
-      "difficulty": 14.300005,
-      "charter": "KiN0_DBDWZ",
-      "composer": "ChakYoun9",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/83ac529d-0cee-4253-b0ee-d16555e98611",
-      "preview": "https://phira.5wyxi.com/files/c999cdca-d691-4d8f-9708-7dd969eed21d",
-      "file": "https://phira.5wyxi.com/files/d7fe8e5f-37a8-4d44-83c2-0e5768f62671",
-      "uploader": 1922452,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9335474,
-      "ratingCount": 512,
-      "created": "2026-03-07T01:57:15.359984Z",
-      "updated": "2026-06-15T12:09:37.695962Z",
-      "chartUpdated": "2026-03-07T01:57:15.359984Z"
     },
     {
       "id": 61048,
@@ -152,8 +205,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94766706,
-      "ratingCount": 322,
+      "rating": 0.9520846,
+      "ratingCount": 968,
       "created": "2026-06-15T10:45:11.568582Z",
       "updated": "2026-06-15T10:45:11.568582Z",
       "chartUpdated": "2026-06-15T10:45:11.568582Z"
@@ -178,8 +231,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9510585,
-      "ratingCount": 525,
+      "rating": 0.95350575,
+      "ratingCount": 696,
       "created": "2026-06-13T08:08:12.793234Z",
       "updated": "2026-06-15T10:20:07.826583Z",
       "chartUpdated": "2026-06-13T08:08:12.793234Z"
@@ -205,8 +258,8 @@
         "轻多指",
         "regular"
       ],
-      "rating": 0.8906802,
-      "ratingCount": 91,
+      "rating": 0.8958725,
+      "ratingCount": 123,
       "created": "2026-06-10T15:23:57.359379Z",
       "updated": "2026-06-15T10:05:36.240897Z",
       "chartUpdated": "2026-06-10T15:23:57.359379Z"
@@ -231,8 +284,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.945079,
-      "ratingCount": 135,
+      "rating": 0.9466127,
+      "ratingCount": 396,
       "created": "2026-06-15T08:48:16.694852Z",
       "updated": "2026-06-15T08:48:16.694852Z",
       "chartUpdated": "2026-06-15T08:48:16.694852Z"
@@ -257,8 +310,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9127901,
-      "ratingCount": 285,
+      "rating": 0.9122026,
+      "ratingCount": 312,
       "created": "2026-05-24T14:44:59.933216Z",
       "updated": "2026-06-15T04:30:06.761345Z",
       "chartUpdated": "2026-05-24T14:44:59.933216Z"
@@ -283,8 +336,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8442927,
-      "ratingCount": 106,
+      "rating": 0.84013426,
+      "ratingCount": 118,
       "created": "2026-05-21T15:42:42.777250Z",
       "updated": "2026-06-14T12:50:07.346089Z",
       "chartUpdated": "2026-06-14T12:26:56.412434Z"
@@ -309,8 +362,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8729228,
-      "ratingCount": 45,
+      "rating": 0.87707937,
+      "ratingCount": 49,
       "created": "2026-06-14T12:25:57.136344Z",
       "updated": "2026-06-14T12:25:57.136344Z",
       "chartUpdated": "2026-06-14T12:25:57.136344Z"
@@ -336,8 +389,8 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.91749156,
-      "ratingCount": 55,
+      "rating": 0.9233543,
+      "ratingCount": 89,
       "created": "2026-06-14T12:23:49.786193Z",
       "updated": "2026-06-14T12:23:49.786193Z",
       "chartUpdated": "2026-06-14T12:23:49.786193Z"
@@ -362,8 +415,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84984374,
-      "ratingCount": 42,
+      "rating": 0.86393255,
+      "ratingCount": 64,
       "created": "2026-06-14T11:31:38.847567Z",
       "updated": "2026-06-14T11:31:38.847567Z",
       "chartUpdated": "2026-06-14T11:31:38.847567Z"
@@ -388,8 +441,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.934978,
-      "ratingCount": 440,
+      "rating": 0.9351232,
+      "ratingCount": 456,
       "created": "2026-04-03T01:44:50.168830Z",
       "updated": "2026-06-14T07:39:34.936965Z",
       "chartUpdated": "2026-06-14T07:39:34.936965Z"
@@ -415,8 +468,8 @@
         "双指",
         "regular"
       ],
-      "rating": 0.82436824,
-      "ratingCount": 8,
+      "rating": 0.8528082,
+      "ratingCount": 16,
       "created": "2026-06-14T06:16:04.129083Z",
       "updated": "2026-06-14T06:16:04.129083Z",
       "chartUpdated": "2026-06-14T06:16:04.129083Z"
@@ -441,8 +494,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8965301,
-      "ratingCount": 902,
+      "rating": 0.89687145,
+      "ratingCount": 914,
       "created": "2025-04-12T10:07:52.755918Z",
       "updated": "2026-06-14T06:06:10.452341Z",
       "chartUpdated": "2026-04-04T19:28:11.437598Z"
@@ -467,8 +520,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9026807,
-      "ratingCount": 127,
+      "rating": 0.9031117,
+      "ratingCount": 147,
       "created": "2026-06-13T15:43:11.882916Z",
       "updated": "2026-06-14T04:40:25.248146Z",
       "chartUpdated": "2026-06-13T15:43:11.882916Z"
@@ -493,8 +546,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8668192,
-      "ratingCount": 71,
+      "rating": 0.86946785,
+      "ratingCount": 75,
       "created": "2026-06-07T06:25:35.146171Z",
       "updated": "2026-06-14T04:15:38.314885Z",
       "chartUpdated": "2026-06-13T14:05:45.813435Z"
@@ -519,8 +572,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.958423,
-      "ratingCount": 2568,
+      "rating": 0.95871055,
+      "ratingCount": 3819,
       "created": "2026-06-14T02:49:36.045334Z",
       "updated": "2026-06-14T02:49:36.045334Z",
       "chartUpdated": "2026-06-14T02:49:36.045334Z"
@@ -545,8 +598,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90480965,
-      "ratingCount": 122,
+      "rating": 0.91620994,
+      "ratingCount": 155,
       "created": "2026-06-13T15:10:54.632481Z",
       "updated": "2026-06-13T15:10:54.632481Z",
       "chartUpdated": "2026-06-13T15:10:54.632481Z"
@@ -573,8 +626,8 @@
         "躲在超市后门吸烟的二人",
         "regular"
       ],
-      "rating": 0.94762754,
-      "ratingCount": 5979,
+      "rating": 0.94663155,
+      "ratingCount": 7383,
       "created": "2026-06-13T09:53:44.915217Z",
       "updated": "2026-06-13T14:33:03.747783Z",
       "chartUpdated": "2026-06-13T09:53:44.915217Z"
@@ -602,8 +655,8 @@
         "歌词故事板",
         "regular"
       ],
-      "rating": 0.94039804,
-      "ratingCount": 16480,
+      "rating": 0.9404631,
+      "ratingCount": 16969,
       "created": "2026-05-29T02:18:35.248207Z",
       "updated": "2026-06-13T14:31:04.222680Z",
       "chartUpdated": "2026-06-02T08:49:48.726791Z"
@@ -628,8 +681,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89477754,
-      "ratingCount": 382,
+      "rating": 0.8923244,
+      "ratingCount": 387,
       "created": "2025-06-02T01:44:41.968666Z",
       "updated": "2026-06-13T11:16:48.558181Z",
       "chartUpdated": "2025-06-02T01:44:41.968666Z"
@@ -654,8 +707,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92138934,
-      "ratingCount": 177,
+      "rating": 0.92483926,
+      "ratingCount": 194,
       "created": "2026-05-24T10:47:16.363999Z",
       "updated": "2026-06-13T10:27:59.470115Z",
       "chartUpdated": "2026-05-24T10:47:16.363999Z"
@@ -681,8 +734,8 @@
         "华语流行",
         "regular"
       ],
-      "rating": 0.91874033,
-      "ratingCount": 1306,
+      "rating": 0.9191989,
+      "ratingCount": 1555,
       "created": "2026-06-12T14:21:16.945871Z",
       "updated": "2026-06-13T07:08:07.640931Z",
       "chartUpdated": "2026-06-13T07:08:07.640931Z"
@@ -707,8 +760,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9357825,
-      "ratingCount": 279,
+      "rating": 0.93529195,
+      "ratingCount": 292,
       "created": "2026-04-25T05:33:15.741644Z",
       "updated": "2026-06-13T05:55:17.912306Z",
       "chartUpdated": "2026-06-13T05:55:17.912306Z"
@@ -733,63 +786,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9147404,
-      "ratingCount": 468,
+      "rating": 0.9156581,
+      "ratingCount": 478,
       "created": "2024-05-02T06:15:52.791305Z",
       "updated": "2026-06-13T05:19:31.590202Z",
       "chartUpdated": "2026-06-13T05:19:31.590202Z"
-    },
-    {
-      "id": 51130,
-      "name": "流萤之森",
-      "level": "IN Lv.14",
-      "difficulty": 14.300001,
-      "charter": "小泡芙Furina",
-      "composer": "Namibia",
-      "illustrator": "",
-      "description": "新人初谱喵 本人上传                    有效线数:1 表演线数:7                    ———————————————写在后面:本曲原制作人为Namibia 其于2021.11.24制作《流萤之森》并发布 音乐人“天逸”于2025.8.4盗取Namibia的《流萤之森》并上传至各平台 本人现已举报各平台的“天逸”账号及所有违规歌曲 请大大明察",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/426857fd-a2b2-4434-ace7-323987c8d4b0",
-      "preview": "https://phira.5wyxi.com/files/d5762ec5-524f-4c3d-af4a-27d362340d6a",
-      "file": "https://phira.5wyxi.com/files/d6f9c2a1-5fc1-44c6-b2c3-f870d49d8ac3",
-      "uploader": 1003054,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93990767,
-      "ratingCount": 1369,
-      "created": "2026-01-09T21:31:44.913443Z",
-      "updated": "2026-06-13T04:33:59.552954Z",
-      "chartUpdated": "2026-01-09T21:31:44.913443Z"
-    },
-    {
-      "id": 52316,
-      "name": "Mado",
-      "level": "SP Lv.?",
-      "difficulty": 16.000002,
-      "charter": "是苏沐不是s马",
-      "composer": "Fellsius",
-      "illustrator": "",
-      "description": "谱面预览:BV1fGcMzgEej\n谱师：@是苏沐不是s马 \n用线数:38\n事件数:14718",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/7bcadc00-e4e2-44c0-bb76-247007f45d76",
-      "preview": "https://phira.5wyxi.com/files/757bf470-7e69-4e41-abd4-7cb5d0d1dce4",
-      "file": "https://phira.5wyxi.com/files/64f5a5f1-a885-489b-8c8d-8a525a9e1db7",
-      "uploader": 1977226,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9452454,
-      "ratingCount": 245,
-      "created": "2026-02-09T09:53:17.283230Z",
-      "updated": "2026-06-13T02:03:39.826007Z",
-      "chartUpdated": "2026-06-13T02:03:39.826007Z"
     }
   ]
 }
