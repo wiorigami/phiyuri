@@ -1,5 +1,5 @@
 {
-  "count": 3055,
+  "count": 3054,
   "results": [
     {
       "id": 61122,
@@ -26,8 +26,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.70983166,
-      "ratingCount": 2,
+      "rating": 0.8087592,
+      "ratingCount": 17,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
       "chartUpdated": "2026-06-16T12:45:47.142817Z"
@@ -58,8 +58,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 2,
+      "rating": 0.8257282,
+      "ratingCount": 4,
       "created": "2026-06-16T12:13:15.668071Z",
       "updated": "2026-06-16T12:13:15.668071Z",
       "chartUpdated": "2026-06-16T12:13:15.668071Z"
@@ -90,8 +90,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
+      "rating": 0.91717315,
+      "ratingCount": 152,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
       "chartUpdated": "2026-06-16T12:13:07.655145Z"
@@ -122,8 +122,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 2,
+      "rating": 0.9369595,
+      "ratingCount": 48,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
       "chartUpdated": "2026-06-16T12:13:00.641984Z"
@@ -150,8 +150,8 @@
         "耐",
         "plain"
       ],
-      "rating": 0.8641303,
-      "ratingCount": 83,
+      "rating": 0.851613,
+      "ratingCount": 110,
       "created": "2026-06-14T13:34:28.668403Z",
       "updated": "2026-06-14T13:34:28.668403Z",
       "chartUpdated": "2026-06-14T13:34:28.668403Z"
@@ -202,8 +202,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9015497,
-      "ratingCount": 29,
+      "rating": 0.90971357,
+      "ratingCount": 32,
       "created": "2026-06-13T17:47:04.436391Z",
       "updated": "2026-06-13T17:47:04.436391Z",
       "chartUpdated": "2026-06-13T17:47:04.436391Z"
@@ -228,8 +228,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8596817,
-      "ratingCount": 70,
+      "rating": 0.8626762,
+      "ratingCount": 73,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-13T01:34:18.229771Z",
       "chartUpdated": "2026-06-06T09:17:57.902452Z"
@@ -285,8 +285,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91697127,
-      "ratingCount": 25,
+      "rating": 0.91970974,
+      "ratingCount": 26,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
@@ -345,8 +345,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.85580784,
-      "ratingCount": 44,
+      "rating": 0.86505085,
+      "ratingCount": 48,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
       "chartUpdated": "2026-05-19T04:40:17.003465Z"
@@ -397,8 +397,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94661504,
-      "ratingCount": 241,
+      "rating": 0.94629806,
+      "ratingCount": 273,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
@@ -424,8 +424,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.935805,
-      "ratingCount": 139,
+      "rating": 0.9389086,
+      "ratingCount": 151,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -502,8 +502,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85064447,
-      "ratingCount": 41,
+      "rating": 0.8579595,
+      "ratingCount": 44,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -530,8 +530,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8547505,
-      "ratingCount": 198,
+      "rating": 0.8549903,
+      "ratingCount": 219,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -586,8 +586,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.84718174,
-      "ratingCount": 7,
+      "rating": 0.85873795,
+      "ratingCount": 8,
       "created": "2026-06-08T03:26:11.798751Z",
       "updated": "2026-06-08T03:26:11.798751Z",
       "chartUpdated": "2026-06-08T03:26:11.798751Z"
@@ -670,8 +670,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93174237,
-      "ratingCount": 32,
+      "rating": 0.93358094,
+      "ratingCount": 33,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -696,8 +696,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82156867,
-      "ratingCount": 8,
+      "rating": 0.83422947,
+      "ratingCount": 9,
       "created": "2026-06-06T16:32:44.281401Z",
       "updated": "2026-06-06T16:32:44.281401Z",
       "chartUpdated": "2026-06-06T16:32:44.281401Z"
@@ -786,8 +786,8 @@
         "DestEnd",
         "plain"
       ],
-      "rating": 0.9365773,
-      "ratingCount": 146,
+      "rating": 0.9393756,
+      "ratingCount": 150,
       "created": "2026-06-04T08:57:54.180940Z",
       "updated": "2026-06-06T07:44:54.807935Z",
       "chartUpdated": "2026-06-06T07:00:56.690572Z"
@@ -814,8 +814,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.81043315,
-      "ratingCount": 26,
+      "rating": 0.81330204,
+      "ratingCount": 27,
       "created": "2026-06-06T06:17:29.232127Z",
       "updated": "2026-06-06T06:17:29.232127Z",
       "chartUpdated": "2026-06-06T06:17:29.232127Z"
