@@ -1,30 +1,135 @@
 {
-  "count": 8762,
+  "count": 8760,
   "results": [
     {
-      "id": 60823,
-      "name": "トキメキ☆ボムラッシュ",
-      "level": "IN Lv.14",
-      "difficulty": 14.400002,
-      "charter": "Night",
-      "composer": "corok-Bb",
+      "id": 50283,
+      "name": "靈",
+      "level": "IN Lv.16+",
+      "difficulty": 16.6,
+      "charter": "靈",
+      "composer": "MYTK",
       "illustrator": "",
-      "description": "\n",
+      "description": "改谱了，嗯对，哔站太懒了没发，",
       "ranked": false,
       "reviewed": false,
       "stable": false,
       "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/182eab9c-a2a3-4d57-b866-e85cbf423aee",
-      "preview": "https://phira.5wyxi.com/files/895d59d7-7dfb-4c33-9721-4d37b6101c71",
-      "file": "https://phira.5wyxi.com/files/7df3b26d-7ef2-42fd-bc35-dbe1230cae3b",
+      "illustration": "https://api.phira.cn/files/8c1d871a-0201-436e-8c7b-ad8bf2e416d0",
+      "preview": "https://api.phira.cn/files/b59cd817-0fd7-413e-bc03-8e2df3985b39",
+      "file": "https://api.phira.cn/files/6b0ee618-6670-402c-8489-329eda259e5f",
+      "uploader": 1410738,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.96216863,
+      "ratingCount": 1383,
+      "created": "2025-12-17T12:15:33.356864Z",
+      "updated": "2026-06-18T03:33:37.480791Z",
+      "chartUpdated": "2025-12-17T12:15:33.356864Z"
+    },
+    {
+      "id": 61176,
+      "name": "Highscore(Short ver.)",
+      "level": "EZ Lv.4",
+      "difficulty": 4.000001,
+      "charter": "YSTAR-T",
+      "composer": "Panda Eyes&Teminite",
+      "illustrator": "",
+      "description": "谱师本人上传\n新手上路计划#9\n协作：@246835#2012218\n全站最简单Highscore\n定数：4.0\n更新延迟+31ms",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/88ca4df2-b244-4fa6-9387-41fa41ae9681",
+      "preview": "https://phira.5wyxi.com/files/4ea6b545-f960-4f81-b977-ef911ff29212",
+      "file": "https://phira.5wyxi.com/files/5d035e8d-110a-4aa9-9103-feb3d6192648",
+      "uploader": 1213694,
+      "tags": [
+        "新手",
+        "regular"
+      ],
+      "rating": 0.90562445,
+      "ratingCount": 127,
+      "created": "2026-06-17T10:29:16.327846Z",
+      "updated": "2026-06-17T11:44:30.308910Z",
+      "chartUpdated": "2026-06-17T10:29:16.327846Z"
+    },
+    {
+      "id": 26478,
+      "name": "THE MUZZLE FACING",
+      "level": "IN Lv.16",
+      "difficulty": 16.2,
+      "charter": "阿瑞_Resonance",
+      "composer": "かめりあ",
+      "illustrator": "",
+      "description": "谱师b站：阿瑞_-Resonance-_\n\n感谢A水老师的建议！\n\n\n2026.6.17\n修改部分配置",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/205da10a-7a45-46db-94e4-f4c57e11159c",
+      "preview": "https://phira.5wyxi.com/files/fa390a42-7bfc-4f93-a24e-51a31b2d4f8f",
+      "file": "https://phira.5wyxi.com/files/98f48e91-6ec7-452e-8478-61671016e656",
+      "uploader": 565722,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.93319476,
+      "ratingCount": 457,
+      "created": "2024-08-18T01:06:13.135982Z",
+      "updated": "2026-06-17T10:47:25.205667Z",
+      "chartUpdated": "2026-06-17T10:47:25.205667Z"
+    },
+    {
+      "id": 54712,
+      "name": "Hello (BPM) 2026",
+      "level": "AT Lv.16",
+      "difficulty": 16.9,
+      "charter": "FY_亚当 & 是技不是辑",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "新人二谱\n\n作者： \n    @FY_亚当\n    @是技不是辑#1785150 （做谱协助）\n\n谱面预览：BV1DPXhBvE8t\n\n目前已翻新，保留旧版，新版将在后续上传网盘",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0ff67325-49ac-4669-914d-a11f8961b9a0",
+      "preview": "https://phira.5wyxi.com/files/019ff66c-1de0-4f94-b0e7-b99d91ccdeac",
+      "file": "https://phira.5wyxi.com/files/f2ddb7df-0abe-477a-a936-be4634b7f845",
+      "uploader": 1299470,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9092414,
+      "ratingCount": 510,
+      "created": "2026-03-29T04:58:03.247521Z",
+      "updated": "2026-06-17T06:15:47.834147Z",
+      "chartUpdated": "2026-03-29T23:38:12.717833Z"
+    },
+    {
+      "id": 60823,
+      "name": "トキメキ☆ボムラッシュ(corok Remix)",
+      "level": "IN Lv.14",
+      "difficulty": 14.400002,
+      "charter": "Night(Tenta Brella user)",
+      "composer": "corok-Bb",
+      "illustrator": "",
+      "description": "\n本人上传\nBiliBili:BV1SFE96mEhb\n",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/babe1a5c-be27-47ce-bd3b-1771da74e0ec",
+      "preview": "https://phira.5wyxi.com/files/2c140248-2760-4fa7-afdc-59b8a6a67ba4",
+      "file": "https://phira.5wyxi.com/files/681623a9-8b10-4357-8208-d6a1fc2fc91f",
       "uploader": 570620,
       "tags": [
         "regular"
       ],
-      "rating": 0.8579677,
-      "ratingCount": 14,
+      "rating": 0.8992355,
+      "ratingCount": 37,
       "created": "2026-06-13T11:18:03.767331Z",
-      "updated": "2026-06-16T17:35:56.338863Z",
+      "updated": "2026-06-17T05:51:43.856495Z",
       "chartUpdated": "2026-06-13T11:18:03.767331Z"
     },
     {
@@ -48,8 +153,8 @@
         "NIKKE",
         "regular"
       ],
-      "rating": 0.9248354,
-      "ratingCount": 265,
+      "rating": 0.9234784,
+      "ratingCount": 309,
       "created": "2026-06-02T02:30:16.002389Z",
       "updated": "2026-06-16T15:33:30.310649Z",
       "chartUpdated": "2026-06-02T15:30:22.116907Z"
@@ -74,8 +179,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92468816,
-      "ratingCount": 79,
+      "rating": 0.9306989,
+      "ratingCount": 137,
       "created": "2026-06-16T08:55:16.096345Z",
       "updated": "2026-06-16T09:55:54.605547Z",
       "chartUpdated": "2026-06-16T08:55:16.096345Z"
@@ -100,8 +205,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9249288,
-      "ratingCount": 297,
+      "rating": 0.92643076,
+      "ratingCount": 341,
       "created": "2026-06-14T07:59:50.294678Z",
       "updated": "2026-06-15T15:53:03.994403Z",
       "chartUpdated": "2026-06-15T15:53:03.994403Z"
@@ -126,8 +231,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8665153,
-      "ratingCount": 62,
+      "rating": 0.88347924,
+      "ratingCount": 85,
       "created": "2026-06-14T06:14:31.905237Z",
       "updated": "2026-06-15T15:08:31.932828Z",
       "chartUpdated": "2026-06-14T06:14:31.905237Z"
@@ -152,8 +257,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9466261,
-      "ratingCount": 890,
+      "rating": 0.94218165,
+      "ratingCount": 1649,
       "created": "2026-06-15T14:35:41.107848Z",
       "updated": "2026-06-15T14:35:41.107848Z",
       "chartUpdated": "2026-06-15T14:35:41.107848Z"
@@ -179,8 +284,8 @@
         "4K",
         "regular"
       ],
-      "rating": 0.9018721,
-      "ratingCount": 30,
+      "rating": 0.89698446,
+      "ratingCount": 46,
       "created": "2026-06-15T13:43:59.442214Z",
       "updated": "2026-06-15T13:43:59.442214Z",
       "chartUpdated": "2026-06-15T13:43:59.442214Z"
@@ -205,8 +310,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9520846,
-      "ratingCount": 968,
+      "rating": 0.95095205,
+      "ratingCount": 1330,
       "created": "2026-06-15T10:45:11.568582Z",
       "updated": "2026-06-15T10:45:11.568582Z",
       "chartUpdated": "2026-06-15T10:45:11.568582Z"
@@ -231,8 +336,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95350575,
-      "ratingCount": 696,
+      "rating": 0.95402884,
+      "ratingCount": 798,
       "created": "2026-06-13T08:08:12.793234Z",
       "updated": "2026-06-15T10:20:07.826583Z",
       "chartUpdated": "2026-06-13T08:08:12.793234Z"
@@ -258,8 +363,8 @@
         "轻多指",
         "regular"
       ],
-      "rating": 0.8958725,
-      "ratingCount": 123,
+      "rating": 0.90094006,
+      "ratingCount": 140,
       "created": "2026-06-10T15:23:57.359379Z",
       "updated": "2026-06-15T10:05:36.240897Z",
       "chartUpdated": "2026-06-10T15:23:57.359379Z"
@@ -284,8 +389,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9466127,
-      "ratingCount": 396,
+      "rating": 0.9504276,
+      "ratingCount": 598,
       "created": "2026-06-15T08:48:16.694852Z",
       "updated": "2026-06-15T08:48:16.694852Z",
       "chartUpdated": "2026-06-15T08:48:16.694852Z"
@@ -300,9 +405,9 @@
       "illustrator": "",
       "description": "谱师本人上传\nB站预览视频：https://b23.tv/aDFMKzL\n抖音预览视频：https://v.douyin.com/lOLvHUCWklg/ 08/09 :9pm Y@m.dA cnd:/ \n视频号预览视频：https://weixin.qq.com/sph/A6bMqAqiLh",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
+      "stableRequest": false,
       "illustration": "https://phira.5wyxi.com/files/bf1227d4-267f-4391-89dd-fb835498bb1f",
       "preview": "https://phira.5wyxi.com/files/0d59fae1-f07d-4f8b-affd-546b8caf416f",
       "file": "https://phira.5wyxi.com/files/f2d079a2-0500-46f3-a500-351c2b8763ae",
@@ -310,8 +415,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9122026,
-      "ratingCount": 312,
+      "rating": 0.9111473,
+      "ratingCount": 340,
       "created": "2026-05-24T14:44:59.933216Z",
       "updated": "2026-06-15T04:30:06.761345Z",
       "chartUpdated": "2026-05-24T14:44:59.933216Z"
@@ -336,8 +441,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84013426,
-      "ratingCount": 118,
+      "rating": 0.84091884,
+      "ratingCount": 130,
       "created": "2026-05-21T15:42:42.777250Z",
       "updated": "2026-06-14T12:50:07.346089Z",
       "chartUpdated": "2026-06-14T12:26:56.412434Z"
@@ -362,38 +467,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87707937,
-      "ratingCount": 49,
+      "rating": 0.88043004,
+      "ratingCount": 55,
       "created": "2026-06-14T12:25:57.136344Z",
       "updated": "2026-06-14T12:25:57.136344Z",
       "chartUpdated": "2026-06-14T12:25:57.136344Z"
-    },
-    {
-      "id": 60990,
-      "name": "Glide Through A Sky",
-      "level": "HD Lv.10",
-      "difficulty": 10.500002,
-      "charter": "SK-YS-URI",
-      "composer": "Dashydesu",
-      "illustrator": "",
-      "description": "谱师本人上传\r\n曲师画师同一人\n追加 HD 难度\r\n定数10.5 \r\n物量488\r\n视频：BV1JAfcBjEsx",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/00126ce9-12f6-4547-8067-95d0180f05ca",
-      "preview": "https://phira.5wyxi.com/files/7c348891-ba96-4864-bd1a-7d99aebfd907",
-      "file": "https://phira.5wyxi.com/files/108946fa-fbff-469e-a9ba-49529bc61031",
-      "uploader": 1213694,
-      "tags": [
-        "Opentaiko",
-        "regular"
-      ],
-      "rating": 0.9233543,
-      "ratingCount": 89,
-      "created": "2026-06-14T12:23:49.786193Z",
-      "updated": "2026-06-14T12:23:49.786193Z",
-      "chartUpdated": "2026-06-14T12:23:49.786193Z"
     },
     {
       "id": 60978,
@@ -415,8 +493,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86393255,
-      "ratingCount": 64,
+      "rating": 0.8631112,
+      "ratingCount": 81,
       "created": "2026-06-14T11:31:38.847567Z",
       "updated": "2026-06-14T11:31:38.847567Z",
       "chartUpdated": "2026-06-14T11:31:38.847567Z"
@@ -441,8 +519,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9351232,
-      "ratingCount": 456,
+      "rating": 0.9348829,
+      "ratingCount": 467,
       "created": "2026-04-03T01:44:50.168830Z",
       "updated": "2026-06-14T07:39:34.936965Z",
       "chartUpdated": "2026-06-14T07:39:34.936965Z"
@@ -468,8 +546,8 @@
         "双指",
         "regular"
       ],
-      "rating": 0.8528082,
-      "ratingCount": 16,
+      "rating": 0.8606145,
+      "ratingCount": 22,
       "created": "2026-06-14T06:16:04.129083Z",
       "updated": "2026-06-14T06:16:04.129083Z",
       "chartUpdated": "2026-06-14T06:16:04.129083Z"
@@ -494,8 +572,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89687145,
-      "ratingCount": 914,
+      "rating": 0.8973724,
+      "ratingCount": 918,
       "created": "2025-04-12T10:07:52.755918Z",
       "updated": "2026-06-14T06:06:10.452341Z",
       "chartUpdated": "2026-04-04T19:28:11.437598Z"
@@ -520,8 +598,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9031117,
-      "ratingCount": 147,
+      "rating": 0.89862984,
+      "ratingCount": 160,
       "created": "2026-06-13T15:43:11.882916Z",
       "updated": "2026-06-14T04:40:25.248146Z",
       "chartUpdated": "2026-06-13T15:43:11.882916Z"
@@ -546,8 +624,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86946785,
-      "ratingCount": 75,
+      "rating": 0.8698549,
+      "ratingCount": 76,
       "created": "2026-06-07T06:25:35.146171Z",
       "updated": "2026-06-14T04:15:38.314885Z",
       "chartUpdated": "2026-06-13T14:05:45.813435Z"
@@ -572,8 +650,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95871055,
-      "ratingCount": 3819,
+      "rating": 0.95910853,
+      "ratingCount": 4966,
       "created": "2026-06-14T02:49:36.045334Z",
       "updated": "2026-06-14T02:49:36.045334Z",
       "chartUpdated": "2026-06-14T02:49:36.045334Z"
@@ -598,8 +676,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91620994,
-      "ratingCount": 155,
+      "rating": 0.91320735,
+      "ratingCount": 195,
       "created": "2026-06-13T15:10:54.632481Z",
       "updated": "2026-06-13T15:10:54.632481Z",
       "chartUpdated": "2026-06-13T15:10:54.632481Z"
@@ -626,8 +704,8 @@
         "躲在超市后门吸烟的二人",
         "regular"
       ],
-      "rating": 0.94663155,
-      "ratingCount": 7383,
+      "rating": 0.9458105,
+      "ratingCount": 8616,
       "created": "2026-06-13T09:53:44.915217Z",
       "updated": "2026-06-13T14:33:03.747783Z",
       "chartUpdated": "2026-06-13T09:53:44.915217Z"
@@ -655,8 +733,8 @@
         "歌词故事板",
         "regular"
       ],
-      "rating": 0.9404631,
-      "ratingCount": 16969,
+      "rating": 0.9405215,
+      "ratingCount": 17424,
       "created": "2026-05-29T02:18:35.248207Z",
       "updated": "2026-06-13T14:31:04.222680Z",
       "chartUpdated": "2026-06-02T08:49:48.726791Z"
@@ -681,8 +759,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8923244,
-      "ratingCount": 387,
+      "rating": 0.8909933,
+      "ratingCount": 389,
       "created": "2025-06-02T01:44:41.968666Z",
       "updated": "2026-06-13T11:16:48.558181Z",
       "chartUpdated": "2025-06-02T01:44:41.968666Z"
@@ -707,90 +785,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92483926,
-      "ratingCount": 194,
+      "rating": 0.92350334,
+      "ratingCount": 202,
       "created": "2026-05-24T10:47:16.363999Z",
       "updated": "2026-06-13T10:27:59.470115Z",
       "chartUpdated": "2026-05-24T10:47:16.363999Z"
-    },
-    {
-      "id": 60709,
-      "name": "DNA",
-      "level": "IN Lv.13",
-      "difficulty": 13.200001,
-      "charter": "D/N/A",
-      "composer": "BY2",
-      "illustrator": "",
-      "description": "谱师本人上传\nC-POP 区添加一张谱面\n物量 607\n定数 13.4→13.2\n节奏大师段修复原官谱段迷惑手序\n部分错误手序修复",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f2f6515e-36b1-4af3-8436-27a4a1738a70",
-      "preview": "https://phira.5wyxi.com/files/b9052496-7a9a-44a0-ae21-495e1adab516",
-      "file": "https://phira.5wyxi.com/files/2388d374-86bb-46b6-988f-669bdb2c8081",
-      "uploader": 1213694,
-      "tags": [
-        "华语流行",
-        "regular"
-      ],
-      "rating": 0.9191989,
-      "ratingCount": 1555,
-      "created": "2026-06-12T14:21:16.945871Z",
-      "updated": "2026-06-13T07:08:07.640931Z",
-      "chartUpdated": "2026-06-13T07:08:07.640931Z"
-    },
-    {
-      "id": 57046,
-      "name": "エタニクル",
-      "level": "IN Lv.14",
-      "difficulty": 14.1,
-      "charter": "あの夏に連れて行ってください",
-      "composer": "ASCA / Key",
-      "illustrator": "",
-      "description": "本曲为Key社最新发售的视觉小说《anemoi》的op曲 谱面系本人上传 b站视频BV1NFoLBZE1E 请大家都去玩这部作品！",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/0ee4c15a-e90c-47ed-82a1-765c0452a225",
-      "preview": "https://phira.5wyxi.com/files/225732de-33f8-48bc-bb07-4eedcd25f748",
-      "file": "https://phira.5wyxi.com/files/88b26f86-993a-494c-a714-08fb8f727b96",
-      "uploader": 1075789,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93529195,
-      "ratingCount": 292,
-      "created": "2026-04-25T05:33:15.741644Z",
-      "updated": "2026-06-13T05:55:17.912306Z",
-      "chartUpdated": "2026-06-13T05:55:17.912306Z"
-    },
-    {
-      "id": 19228,
-      "name": "すべてが幻になった後で",
-      "level": "AT Lv.18",
-      "difficulty": 18.500006,
-      "charter": "【Π✪Ц】",
-      "composer": "かめりあ・超機装幻楽隊",
-      "illustrator": "",
-      "description": "4，5，6k混合，高难，这首歌好听，我想有点疯狂了有点发颠写得\nb站视频BV1fi421C7s3\n定数更改17.6→18.5\n优化了一下后半段配置",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ca4b2c59-b668-4486-b664-37edd8a03fa4",
-      "preview": "https://phira.5wyxi.com/files/2f84b661-ab10-489c-a36d-8a74fc21a3c3",
-      "file": "https://phira.5wyxi.com/files/ed5e3e64-e05c-4339-a98b-1cafa58445e4",
-      "uploader": 93670,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9156581,
-      "ratingCount": 478,
-      "created": "2024-05-02T06:15:52.791305Z",
-      "updated": "2026-06-13T05:19:31.590202Z",
-      "chartUpdated": "2026-06-13T05:19:31.590202Z"
     }
   ]
 }

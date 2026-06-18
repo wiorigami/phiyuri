@@ -13,11 +13,11 @@
   "name": "Berrymelody Cut",
   "preview": "https://phira.5wyxi.com/files/0d59fae1-f07d-4f8b-affd-546b8caf416f",
   "ranked": false,
-  "rating": 0.9122026,
-  "ratingCount": 312,
-  "reviewed": false,
+  "rating": 0.9111473,
+  "ratingCount": 340,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
