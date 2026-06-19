@@ -13,14 +13,14 @@
   "name": "はやくにげなきゃ",
   "preview": "https://phira.5wyxi.com/files/5f0677e1-adda-4157-9d88-036cfb055b96",
   "ranked": false,
-  "rating": 0.9493448,
-  "ratingCount": 607,
-  "reviewed": true,
+  "rating": 0.9431668,
+  "ratingCount": 1041,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-15T08:48:16.694852Z",
+  "updated": "2026-06-18T15:04:08.315416Z",
   "uploader": 683941
 }

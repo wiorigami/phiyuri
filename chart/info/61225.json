@@ -1,0 +1,27 @@
+{
+  "chartUpdated": "2026-06-18T06:17:00.549993Z",
+  "charter": "YSTAR-T",
+  "composer": "9C",
+  "created": "2026-06-18T03:18:08.019798Z",
+  "description": "谱师本人上传\n流速8.5-9.5［较慢］\n定数:13.8（+0.4）\r\n6.18日更新\r\n优化手序，combo数704",
+  "difficulty": 13.800003,
+  "file": "https://phira.5wyxi.com/files/89e84c05-5f8b-45b3-a654-03e4eb1a97b2",
+  "id": 61225,
+  "illustration": "https://phira.5wyxi.com/files/0d4ff46a-bd14-4618-8ac5-7bfae6272afb",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "Katharsis",
+  "preview": "https://phira.5wyxi.com/files/4a5b3a5b-c190-4715-9c15-66246402947f",
+  "ranked": false,
+  "rating": 0.8897995,
+  "ratingCount": 36,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-06-18T06:17:00.549993Z",
+  "uploader": 1213694
+}

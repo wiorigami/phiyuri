@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-06-17T13:48:17.494893Z",
+  "charter": "QW345_",
+  "composer": "Function Phantom",
+  "created": "2026-05-30T15:13:45.726509Z",
+  "description": "新人初谱\n制作总时长约3星期\n事件数约一万\nnote约2500\n物量1500\n遇事不决标14。\n\n\n\n一改已完成\n修复了：\n尾杀判定线挡眼\n喵斯段判定bug\nRYCEAM不知名双押\n谱面模拟器段部分瑕疵\n解方程段判定线倾斜\n优化：\n部分排键（尽管你看不出来\n背谱段色块提前显示",
+  "difficulty": 14.900002,
+  "file": "https://phira.5wyxi.com/files/7c2551ae-7c0d-40dd-a7e8-61c5d94eccb6",
+  "id": 59552,
+  "illustration": "https://phira.5wyxi.com/files/a50ac294-e6a5-46ed-a614-36c97ee229c6",
+  "illustrator": "",
+  "level": "IN Lv.14",
+  "name": "Algebra",
+  "preview": "https://phira.5wyxi.com/files/2b9ffe93-5bca-4c01-8fa5-b289d924f602",
+  "ranked": false,
+  "rating": 0.8856195,
+  "ratingCount": 67,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-17T13:48:17.494893Z",
+  "uploader": 2247362
+}

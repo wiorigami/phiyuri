@@ -13,11 +13,11 @@
   "name": "Tempest",
   "preview": "https://phira.5wyxi.com/files/3c20328c-5d7b-4e1d-a7c3-30daef6c4be7",
   "ranked": false,
-  "rating": 0.9306989,
-  "ratingCount": 140,
-  "reviewed": false,
+  "rating": 0.9370228,
+  "ratingCount": 195,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
