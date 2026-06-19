@@ -1,5 +1,5 @@
 {
-  "count": 168,
+  "count": 167,
   "results": [
     {
       "id": 56993,
@@ -21,8 +21,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8230165,
-      "ratingCount": 34,
+      "rating": 0.8287598,
+      "ratingCount": 39,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -47,40 +47,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.878136,
-      "ratingCount": 48,
+      "rating": 0.8804534,
+      "ratingCount": 49,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
-    },
-    {
-      "id": 55101,
-      "name": "命日",
-      "level": "SP Lv.▋▋",
-      "difficulty": 10.0,
-      "charter": "SukidaQwQ",
-      "composer": "LeaF",
-      "illustrator": "",
-      "description": "b站/抖音：SukidaQwQ\n观赏谱\n【此谱可能诱发光敏癫痫！请谨慎游玩，如有不适请退出游玩，本人不负任何责任！】\n随便做的，勿喷\n\n命日-LeaF",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b8f63f26-bcd5-4803-aeca-76ff339a3303",
-      "preview": "https://phira.5wyxi.com/files/7ed1656d-2d9d-4b14-9db1-eac494593649",
-      "file": "https://phira.5wyxi.com/files/eb981bf5-5c0d-437a-b602-40305020ca60",
-      "uploader": 1885165,
-      "tags": [
-        "观赏谱",
-        "命日",
-        "LeaF",
-        "visual"
-      ],
-      "rating": 0.78542054,
-      "ratingCount": 77,
-      "created": "2026-04-05T13:14:27.813066Z",
-      "updated": "2026-04-05T13:14:27.813066Z",
-      "chartUpdated": "2026-04-05T13:14:27.813066Z"
     },
     {
       "id": 54884,
@@ -128,8 +99,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8935735,
-      "ratingCount": 535,
+      "rating": 0.89313775,
+      "ratingCount": 538,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -264,8 +235,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8311478,
-      "ratingCount": 81,
+      "rating": 0.8266574,
+      "ratingCount": 84,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -292,8 +263,8 @@
         "创意",
         "visual"
       ],
-      "rating": 0.9055629,
-      "ratingCount": 79,
+      "rating": 0.90657187,
+      "ratingCount": 82,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
       "chartUpdated": "2026-02-10T06:56:11.788757Z"
@@ -321,8 +292,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9408854,
-      "ratingCount": 341,
+      "rating": 0.94105804,
+      "ratingCount": 352,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -488,8 +459,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82518566,
-      "ratingCount": 80,
+      "rating": 0.82933795,
+      "ratingCount": 82,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -541,8 +512,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.95258224,
-      "ratingCount": 368,
+      "rating": 0.9529651,
+      "ratingCount": 371,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
@@ -619,8 +590,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8512205,
-      "ratingCount": 137,
+      "rating": 0.85229003,
+      "ratingCount": 138,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
       "chartUpdated": "2025-11-28T13:26:52.363537Z"
@@ -671,8 +642,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9467719,
-      "ratingCount": 129,
+      "rating": 0.94364303,
+      "ratingCount": 130,
       "created": "2025-11-16T11:01:11.506983Z",
       "updated": "2025-11-16T11:01:11.506983Z",
       "chartUpdated": "2025-11-16T11:01:11.506983Z"
@@ -723,8 +694,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.964519,
-      "ratingCount": 2076,
+      "rating": 0.9643544,
+      "ratingCount": 2098,
       "created": "2025-11-08T03:06:05.755676Z",
       "updated": "2025-11-08T03:06:05.755676Z",
       "chartUpdated": "2025-11-08T03:06:05.755676Z"
@@ -751,8 +722,8 @@
         "观赏",
         "visual"
       ],
-      "rating": 0.9752501,
-      "ratingCount": 4384,
+      "rating": 0.9749185,
+      "ratingCount": 4413,
       "created": "2025-11-05T15:19:44.272431Z",
       "updated": "2025-11-06T13:25:56.785787Z",
       "chartUpdated": "2025-11-06T13:25:56.785787Z"
@@ -782,8 +753,8 @@
         "高难",
         "visual"
       ],
-      "rating": 0.9048428,
-      "ratingCount": 56,
+      "rating": 0.89636743,
+      "ratingCount": 57,
       "created": "2025-10-08T05:39:20.982544Z",
       "updated": "2025-10-08T05:39:20.982544Z",
       "chartUpdated": "2025-10-08T05:39:20.982544Z"
@@ -813,6 +784,32 @@
       "created": "2025-08-29T10:38:33.924712Z",
       "updated": "2025-08-29T10:38:33.924712Z",
       "chartUpdated": "2025-08-29T10:38:33.924712Z"
+    },
+    {
+      "id": 45436,
+      "name": "disturЬancе, fear, doubt, hopelessness, setback, self-infliction, tireness, emotional torment",
+      "level": "Desperate",
+      "difficulty": 0.0,
+      "charter": "LTYKH",
+      "composer": "KYURO3",
+      "illustrator": "",
+      "description": "Watch only.Sorry.\n\nB站：Red_五重Reveal",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ef567670-5f59-40d7-aa76-8b304ab443fa",
+      "preview": "https://phira.5wyxi.com/files/1ed33d49-3243-4b71-9a3a-1e22b87a9f1e",
+      "file": "https://phira.5wyxi.com/files/4b1b90b8-f03c-42f6-bc30-ca4f5e9e6c9f",
+      "uploader": 2410,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.7767467,
+      "ratingCount": 41,
+      "created": "2025-08-22T12:55:53.408076Z",
+      "updated": "2025-08-22T12:55:53.408076Z",
+      "chartUpdated": "2025-08-22T12:55:53.408076Z"
     }
   ]
 }
