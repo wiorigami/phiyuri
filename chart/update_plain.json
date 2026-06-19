@@ -2,6 +2,84 @@
   "count": 3054,
   "results": [
     {
+      "id": 61312,
+      "name": "CO5M1C R4ILR0AD",
+      "level": "6K Insane Lv.25",
+      "difficulty": 25.0,
+      "charter": "YMEA",
+      "composer": "kanone",
+      "illustrator": "",
+      "description": "写的第一张6K谱\n谱子有很多小问题我懒得改了\n不感谢@GT_一只起飞仔#32162 的神秘字幕（因为有入盗传我谱面所以帮忙填下字幕效果有点？！弱？！）\n\n后面忘了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7ffabce3-2aa0-41a8-8069-2df7ae17f3d7",
+      "preview": "https://phira.5wyxi.com/files/5d7d6a9a-05ca-49f9-9b71-8f1f4a48b51f",
+      "file": "https://phira.5wyxi.com/files/77fb9b24-9d92-47a6-a5f8-b48b713b51f7",
+      "uploader": 2463217,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.87922835,
+      "ratingCount": 11,
+      "created": "2026-06-18T14:29:35.305056Z",
+      "updated": "2026-06-18T14:29:35.305056Z",
+      "chartUpdated": "2026-06-18T14:29:35.305056Z"
+    },
+    {
+      "id": 61310,
+      "name": "CO5M1C R4ILR0AD",
+      "level": "4K SV Lv.26",
+      "difficulty": 26.0,
+      "charter": "YMEA X Lage",
+      "composer": "kanone",
+      "illustrator": "",
+      "description": "SV警告！！\nSV警告！！\nSV警告！！\n重要事说三遍\n\n回来有空了我再传一个无SV版的\n\n快手 x DY 洋漫YMEA\n\n2026.6.18\n坏消息无SV版给我搞没了\n所以滚去重传了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/dfc0e939-4753-4cbc-af1a-bb6f96771e29",
+      "preview": "https://phira.5wyxi.com/files/5d0c1a04-a1b1-42d5-90f5-55e7c5904c37",
+      "file": "https://phira.5wyxi.com/files/ef6c1637-a9e3-4b01-a83c-8e742f884559",
+      "uploader": 2463217,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8805559,
+      "ratingCount": 18,
+      "created": "2026-06-18T14:23:06.797253Z",
+      "updated": "2026-06-18T14:23:06.797253Z",
+      "chartUpdated": "2026-06-18T14:23:06.797253Z"
+    },
+    {
+      "id": 61252,
+      "name": "Dextroy",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "美女+集美",
+      "composer": "MonstDeath",
+      "illustrator": "",
+      "description": "@-666js-#49670\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7bab9757-fe6b-447e-856f-33b8aabbc1ec",
+      "preview": "https://phira.5wyxi.com/files/738f2ae6-2c07-47c1-8cd2-f9a66268dfcb",
+      "file": "https://phira.5wyxi.com/files/cf28c8c0-dba2-4bf9-8732-06a3a9f97d51",
+      "uploader": 289906,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.83321184,
+      "ratingCount": 4,
+      "created": "2026-06-18T07:43:33.156445Z",
+      "updated": "2026-06-18T07:43:33.156445Z",
+      "chartUpdated": "2026-06-18T07:43:33.156445Z"
+    },
+    {
       "id": 61122,
       "name": "HRS~ 6th Dan~",
       "level": "Dan Lv.6",
@@ -26,8 +104,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8087592,
-      "ratingCount": 17,
+      "rating": 0.86714196,
+      "ratingCount": 50,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
       "chartUpdated": "2026-06-16T12:45:47.142817Z"
@@ -58,8 +136,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8257282,
-      "ratingCount": 4,
+      "rating": 0.856128,
+      "ratingCount": 6,
       "created": "2026-06-16T12:13:15.668071Z",
       "updated": "2026-06-16T12:13:15.668071Z",
       "chartUpdated": "2026-06-16T12:13:15.668071Z"
@@ -90,8 +168,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.91717315,
-      "ratingCount": 152,
+      "rating": 0.92090195,
+      "ratingCount": 464,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
       "chartUpdated": "2026-06-16T12:13:07.655145Z"
@@ -122,8 +200,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.9369595,
-      "ratingCount": 48,
+      "rating": 0.9204659,
+      "ratingCount": 108,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
       "chartUpdated": "2026-06-16T12:13:00.641984Z"
@@ -150,8 +228,8 @@
         "耐",
         "plain"
       ],
-      "rating": 0.851613,
-      "ratingCount": 110,
+      "rating": 0.84140515,
+      "ratingCount": 145,
       "created": "2026-06-14T13:34:28.668403Z",
       "updated": "2026-06-14T13:34:28.668403Z",
       "chartUpdated": "2026-06-14T13:34:28.668403Z"
@@ -176,8 +254,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7762669,
-      "ratingCount": 5,
+      "rating": 0.8045665,
+      "ratingCount": 7,
       "created": "2026-06-14T05:54:39.030539Z",
       "updated": "2026-06-14T05:54:39.030539Z",
       "chartUpdated": "2026-06-14T05:54:39.030539Z"
@@ -202,8 +280,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90971357,
-      "ratingCount": 32,
+      "rating": 0.9031567,
+      "ratingCount": 36,
       "created": "2026-06-13T17:47:04.436391Z",
       "updated": "2026-06-13T17:47:04.436391Z",
       "chartUpdated": "2026-06-13T17:47:04.436391Z"
@@ -228,8 +306,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8626762,
-      "ratingCount": 73,
+      "rating": 0.8644668,
+      "ratingCount": 74,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-13T01:34:18.229771Z",
       "chartUpdated": "2026-06-06T09:17:57.902452Z"
@@ -285,8 +363,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91970974,
-      "ratingCount": 26,
+      "rating": 0.9222759,
+      "ratingCount": 27,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
       "chartUpdated": "2026-06-09T13:37:57.443413Z"
@@ -316,8 +394,8 @@
         "读谱",
         "plain"
       ],
-      "rating": 0.85721785,
-      "ratingCount": 8,
+      "rating": 0.8673144,
+      "ratingCount": 9,
       "created": "2026-06-06T11:02:17.231241Z",
       "updated": "2026-06-09T12:56:03.108458Z",
       "chartUpdated": "2026-06-09T12:56:03.108458Z"
@@ -371,8 +449,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86560535,
-      "ratingCount": 12,
+      "rating": 0.8731278,
+      "ratingCount": 13,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
       "chartUpdated": "2026-06-09T06:21:45.829896Z"
@@ -397,8 +475,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94629806,
-      "ratingCount": 273,
+      "rating": 0.94910604,
+      "ratingCount": 327,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
@@ -424,8 +502,8 @@
         "osu",
         "plain"
       ],
-      "rating": 0.9389086,
-      "ratingCount": 151,
+      "rating": 0.9393052,
+      "ratingCount": 168,
       "created": "2026-06-09T01:59:21.186525Z",
       "updated": "2026-06-09T01:59:21.186525Z",
       "chartUpdated": "2026-06-09T01:59:21.186525Z"
@@ -502,8 +580,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8579595,
-      "ratingCount": 44,
+      "rating": 0.8608821,
+      "ratingCount": 45,
       "created": "2026-06-08T06:50:11.688290Z",
       "updated": "2026-06-08T06:50:11.688290Z",
       "chartUpdated": "2026-06-08T06:50:11.688290Z"
@@ -530,8 +608,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8549903,
-      "ratingCount": 219,
+      "rating": 0.8539096,
+      "ratingCount": 243,
       "created": "2026-06-08T06:03:15.685038Z",
       "updated": "2026-06-08T06:03:15.685038Z",
       "chartUpdated": "2026-06-08T06:03:15.685038Z"
@@ -558,8 +636,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.88823944,
-      "ratingCount": 18,
+      "rating": 0.87432206,
+      "ratingCount": 20,
       "created": "2026-06-08T03:26:53.567788Z",
       "updated": "2026-06-08T03:26:53.567788Z",
       "chartUpdated": "2026-06-08T03:26:53.567788Z"
@@ -586,8 +664,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.85873795,
-      "ratingCount": 8,
+      "rating": 0.86872774,
+      "ratingCount": 9,
       "created": "2026-06-08T03:26:11.798751Z",
       "updated": "2026-06-08T03:26:11.798751Z",
       "chartUpdated": "2026-06-08T03:26:11.798751Z"
@@ -614,8 +692,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.89146924,
-      "ratingCount": 16,
+      "rating": 0.8931042,
+      "ratingCount": 18,
       "created": "2026-06-08T03:25:19.073113Z",
       "updated": "2026-06-08T03:25:19.073113Z",
       "chartUpdated": "2026-06-08T03:25:19.073113Z"
@@ -644,8 +722,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.85966545,
-      "ratingCount": 14,
+      "rating": 0.86388797,
+      "ratingCount": 16,
       "created": "2026-06-07T14:03:10.966091Z",
       "updated": "2026-06-07T14:03:10.966091Z",
       "chartUpdated": "2026-06-07T14:03:10.966091Z"
@@ -670,8 +748,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93358094,
-      "ratingCount": 33,
+      "rating": 0.9361983,
+      "ratingCount": 36,
       "created": "2026-06-05T14:45:42.484525Z",
       "updated": "2026-06-07T02:49:32.328296Z",
       "chartUpdated": "2026-06-06T16:40:03.654341Z"
@@ -696,8 +774,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83422947,
-      "ratingCount": 9,
+      "rating": 0.8393835,
+      "ratingCount": 14,
       "created": "2026-06-06T16:32:44.281401Z",
       "updated": "2026-06-06T16:32:44.281401Z",
       "chartUpdated": "2026-06-06T16:32:44.281401Z"
@@ -758,93 +836,11 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.87448096,
-      "ratingCount": 21,
+      "rating": 0.85704345,
+      "ratingCount": 22,
       "created": "2026-05-24T14:15:45.191159Z",
       "updated": "2026-06-06T11:15:33.285347Z",
       "chartUpdated": "2026-06-06T11:15:33.285347Z"
-    },
-    {
-      "id": 59882,
-      "name": "4K DestEnd Dan",
-      "level": "4K Course (Marathon)",
-      "difficulty": 5.0000005,
-      "charter": "mengxin",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "DestEnd战队4K普通考核\n难度（Regular-5）\n入队标准：98.07\n谱师：mxxmw\n曲绘：Anxiety\n※考核群1046951546\n抱歉大家因为对音的问题重传了一遍，真的很对不起。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d27b73ce-0b52-4fe6-808e-867c84f1a246",
-      "preview": "https://phira.5wyxi.com/files/b624a731-e80f-4c27-be33-7463a08400a5",
-      "file": "https://phira.5wyxi.com/files/48d07fa2-80b1-4647-84f0-5ad22436fa42",
-      "uploader": 1985191,
-      "tags": [
-        "4K",
-        "DestEnd",
-        "plain"
-      ],
-      "rating": 0.9393756,
-      "ratingCount": 150,
-      "created": "2026-06-04T08:57:54.180940Z",
-      "updated": "2026-06-06T07:44:54.807935Z",
-      "chartUpdated": "2026-06-06T07:00:56.690572Z"
-    },
-    {
-      "id": 60082,
-      "name": "Kizuato",
-      "level": "神 Lv.18",
-      "difficulty": 18.0,
-      "charter": "BaDu0NwN",
-      "composer": "REDALiCE",
-      "illustrator": "",
-      "description": "本人上传哈哈哈\n小红好听",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fceac478-88c3-4762-9aa5-723a38e71f81",
-      "preview": "https://phira.5wyxi.com/files/6ac0ff02-a3dc-4430-9cb9-8786e51e6a6e",
-      "file": "https://phira.5wyxi.com/files/369e57f6-0da2-439e-8133-7285ba943403",
-      "uploader": 2395660,
-      "tags": [
-        "无理",
-        "高难",
-        "plain"
-      ],
-      "rating": 0.81330204,
-      "ratingCount": 27,
-      "created": "2026-06-06T06:17:29.232127Z",
-      "updated": "2026-06-06T06:17:29.232127Z",
-      "chartUpdated": "2026-06-06T06:17:29.232127Z"
-    },
-    {
-      "id": 60080,
-      "name": "The Lost Dedicated",
-      "level": "Lv.17",
-      "difficulty": 17.300001,
-      "charter": "BaDu0NwN",
-      "composer": "YST",
-      "illustrator": "",
-      "description": "本人上传\n老谱新传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/37ea5461-57b5-4890-a3fb-0b856f86881f",
-      "preview": "https://phira.5wyxi.com/files/a010a311-74f7-40b1-b987-9dbd1d608cef",
-      "file": "https://phira.5wyxi.com/files/98bcd343-8e60-4360-84bc-5a4511eac542",
-      "uploader": 2395660,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.789542,
-      "ratingCount": 14,
-      "created": "2026-06-06T06:13:47.318509Z",
-      "updated": "2026-06-06T06:13:47.318509Z",
-      "chartUpdated": "2026-06-06T06:13:47.318509Z"
     }
   ]
 }
