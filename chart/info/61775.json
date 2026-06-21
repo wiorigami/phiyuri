@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-06-20T16:46:54.493421Z",
+  "charter": "Seachannel",
+  "composer": "fuluca",
+  "created": "2026-06-20T16:46:54.493421Z",
+  "description": null,
+  "difficulty": 14.0,
+  "file": "https://phira.5wyxi.com/files/7943208f-69a1-4dbc-b309-f926ac1b1b9a",
+  "id": 61775,
+  "illustration": "https://phira.5wyxi.com/files/c3aced56-0160-4ad2-9045-9fa1905a6207",
+  "illustrator": "",
+  "level": "夏夜 Lv.14",
+  "name": "activity log",
+  "preview": "https://phira.5wyxi.com/files/c900ef55-8da1-43f3-8c75-253140d9fa09",
+  "ranked": false,
+  "rating": 0.8571556,
+  "ratingCount": 17,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-06-20T23:50:03.617999Z",
+  "uploader": 336285
+}

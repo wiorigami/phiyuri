@@ -1,0 +1,27 @@
+{
+  "chartUpdated": "2026-06-20T09:43:32.346857Z",
+  "charter": "GET READY",
+  "composer": "Underscore",
+  "created": "2026-06-20T03:20:34.718581Z",
+  "description": "谱师本人上传\n谱面重写+回归\n定数15.2\n物量:700→682\n取消红+黄",
+  "difficulty": 15.200001,
+  "file": "https://phira.5wyxi.com/files/b72e4e74-2020-4688-b453-f1766f1c3674",
+  "id": 61616,
+  "illustration": "https://phira.5wyxi.com/files/76026ad4-556d-48f8-bf01-d80b860dc37b",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "GET REAL (Game Size)",
+  "preview": "https://phira.5wyxi.com/files/4b6daa85-5d58-4ba6-a028-0ba5d7823b2b",
+  "ranked": false,
+  "rating": 0.9100188,
+  "ratingCount": 76,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-06-20T09:43:32.346857Z",
+  "uploader": 1213694
+}
