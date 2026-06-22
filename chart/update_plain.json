@@ -2,6 +2,32 @@
   "count": 3060,
   "results": [
     {
+      "id": 61825,
+      "name": "玄都涅槃",
+      "level": "4k（lv18）1dan",
+      "difficulty": 1.0,
+      "charter": "冷影",
+      "composer": "赤天游狐",
+      "illustrator": "",
+      "description": "awa，是冷影第一个由自己单独制作的谱，也算是小进步吧，此谱配置2dan，但难度仅有1，是新人4k适合游玩的程度，还请各位玩的开心。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/f4fa7a6f-9953-4f96-9e86-82ef32b4d80a",
+      "preview": "https://api.phira.cn/files/4930eb3d-ecb5-49b3-8676-f9bbb900e4c7",
+      "file": "https://api.phira.cn/files/78846958-aa10-499f-8204-4efe166f0173",
+      "uploader": 1673757,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.91104174,
+      "ratingCount": 0,
+      "created": "2026-06-21T04:01:15.744270Z",
+      "updated": "2026-06-21T04:01:15.744270Z",
+      "chartUpdated": "2026-06-21T04:01:15.744270Z"
+    },
+    {
       "id": 61703,
       "name": "MONTAGEM ALQUIMIA",
       "level": "4K Lv.17",
@@ -21,7 +47,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.89460504,
       "ratingCount": 0,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
@@ -47,7 +73,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8813705,
+      "rating": 0.8640732,
       "ratingCount": 13,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
@@ -74,7 +100,7 @@
         "6K",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.80552316,
       "ratingCount": 1,
       "created": "2026-06-19T16:17:10.089411Z",
       "updated": "2026-06-19T16:17:10.089411Z",
@@ -106,7 +132,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8641803,
+      "rating": 0.8801934,
       "ratingCount": 5,
       "created": "2026-06-19T03:16:13.082637Z",
       "updated": "2026-06-19T03:16:13.082637Z",
@@ -133,7 +159,7 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.840337,
+      "rating": 0.86130065,
       "ratingCount": 3,
       "created": "2026-06-18T19:51:45.793157Z",
       "updated": "2026-06-18T19:51:45.793157Z",
@@ -164,7 +190,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.83638084,
+      "rating": 0.85295576,
       "ratingCount": 7,
       "created": "2026-06-18T16:49:12.619164Z",
       "updated": "2026-06-18T16:49:12.619164Z",
@@ -196,7 +222,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8626042,
+      "rating": 0.867245,
       "ratingCount": 8,
       "created": "2026-06-18T16:47:01.153913Z",
       "updated": "2026-06-18T16:47:01.153913Z",
@@ -228,7 +254,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.79625374,
+      "rating": 0.8156982,
       "ratingCount": 4,
       "created": "2026-06-18T16:46:53.502030Z",
       "updated": "2026-06-18T16:46:53.502030Z",
@@ -260,7 +286,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8745728,
+      "rating": 0.89356345,
       "ratingCount": 8,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
@@ -286,7 +312,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90638644,
+      "rating": 0.909465,
       "ratingCount": 36,
       "created": "2026-06-18T14:29:35.305056Z",
       "updated": "2026-06-18T14:29:35.305056Z",
@@ -312,7 +338,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92033553,
+      "rating": 0.92298466,
       "ratingCount": 66,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
@@ -367,7 +393,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8809181,
+      "rating": 0.89030135,
       "ratingCount": 25,
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
@@ -401,6 +427,32 @@
       "chartUpdated": "2026-06-17T14:50:39.732863Z"
     },
     {
+      "id": 61149,
+      "name": "バカみたいに",
+      "level": "4K Hyper Lv.21",
+      "difficulty": 19.0,
+      "charter": "YMEA",
+      "composer": "カササギ（柿崎ユウタ）",
+      "illustrator": "",
+      "description": "2025.12.22\n库存，懒得改了\nKS x DY：YMEA\n\n2026.6.2\n我去，这歌咋火了？",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/bd247da9-07b6-4ec3-ada9-99b921086319",
+      "preview": "https://api.phira.cn/files/ba753095-4644-4369-9bb9-9448da357779",
+      "file": "https://api.phira.cn/files/bb43b33d-8754-4a50-b292-819ad2dab85a",
+      "uploader": 2463217,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.83944565,
+      "ratingCount": 0,
+      "created": "2026-06-17T03:43:59.136182Z",
+      "updated": "2026-06-17T03:43:59.136182Z",
+      "chartUpdated": "2026-06-17T03:43:59.136182Z"
+    },
+    {
       "id": 61122,
       "name": "HRS~ 6th Dan~",
       "level": "Dan Lv.6",
@@ -425,7 +477,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8671632,
+      "rating": 0.87157434,
       "ratingCount": 68,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
@@ -457,7 +509,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8673144,
+      "rating": 0.8761231,
       "ratingCount": 8,
       "created": "2026-06-16T12:13:15.668071Z",
       "updated": "2026-06-16T12:13:15.668071Z",
@@ -489,7 +541,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.9061823,
+      "rating": 0.9063578,
       "ratingCount": 971,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
@@ -521,39 +573,11 @@
         "协",
         "plain"
       ],
-      "rating": 0.90395415,
+      "rating": 0.897685,
       "ratingCount": 205,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
       "chartUpdated": "2026-06-16T12:13:00.641984Z"
-    },
-    {
-      "id": 61003,
-      "name": "time machine",
-      "level": "弱切 Lv.21",
-      "difficulty": 5.5,
-      "charter": "TrikalineINF",
-      "composer": "aren park",
-      "illustrator": "",
-      "description": "第三张谱，比较长哦",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a7a09567-21cd-405e-b8b3-677a322019e6",
-      "preview": "https://phira.5wyxi.com/files/60c75a8c-038e-4a96-9cc2-1a5ae55649d1",
-      "file": "https://phira.5wyxi.com/files/b4f0812e-5326-458f-9773-2d1c95804554",
-      "uploader": 1526157,
-      "tags": [
-        "4K",
-        "耐",
-        "plain"
-      ],
-      "rating": 0.8128743,
-      "ratingCount": 207,
-      "created": "2026-06-14T13:34:28.668403Z",
-      "updated": "2026-06-14T13:34:28.668403Z",
-      "chartUpdated": "2026-06-14T13:34:28.668403Z"
     },
     {
       "id": 60931,
@@ -601,7 +625,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9055174,
+      "rating": 0.9077665,
       "ratingCount": 37,
       "created": "2026-06-13T17:47:04.436391Z",
       "updated": "2026-06-13T17:47:04.436391Z",
@@ -655,7 +679,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.84653085,
+      "rating": 0.8825509,
       "ratingCount": 5,
       "created": "2026-06-12T16:11:57.933615Z",
       "updated": "2026-06-12T16:11:57.933615Z",
@@ -712,7 +736,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9217865,
+      "rating": 0.91242844,
       "ratingCount": 33,
       "created": "2026-06-09T13:37:57.443413Z",
       "updated": "2026-06-09T13:37:57.443413Z",
@@ -772,7 +796,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8700134,
+      "rating": 0.8739353,
       "ratingCount": 57,
       "created": "2026-05-19T04:40:17.003465Z",
       "updated": "2026-06-09T10:48:21.450121Z",
@@ -798,7 +822,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8731278,
+      "rating": 0.89146924,
       "ratingCount": 13,
       "created": "2026-06-09T06:21:45.829896Z",
       "updated": "2026-06-09T06:21:45.829896Z",
@@ -824,38 +848,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9499239,
+      "rating": 0.9507114,
       "ratingCount": 394,
       "created": "2026-06-09T03:57:19.814797Z",
       "updated": "2026-06-09T03:57:19.814797Z",
       "chartUpdated": "2026-06-09T03:57:19.814797Z"
-    },
-    {
-      "id": 60455,
-      "name": "Primordial Complex",
-      "level": "4K Future Lv.29",
-      "difficulty": 20.0,
-      "charter": "Sayu_92",
-      "composer": "celtix",
-      "illustrator": "",
-      "description": "『如此温暖而又壮丽啊。\n我发誓，他们真的对我低语着，让我回家去。』\n『但我希望能多待一会儿……！』\n『我会信任他们，因为他们也信任我，让我来找到他们。』\n\n发布谱面内容请注明谱师信息谢谢喵",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f8dbfa67-1d7c-4f87-901f-bb4acd6dbc6c",
-      "preview": "https://phira.5wyxi.com/files/cfd9a374-fefb-41e5-902e-0c02326a32db",
-      "file": "https://phira.5wyxi.com/files/75b290d4-4e37-4aff-928a-f63db7b60772",
-      "uploader": 310197,
-      "tags": [
-        "osu",
-        "plain"
-      ],
-      "rating": 0.9428081,
-      "ratingCount": 180,
-      "created": "2026-06-09T01:59:21.186525Z",
-      "updated": "2026-06-09T01:59:21.186525Z",
-      "chartUpdated": "2026-06-09T01:59:21.186525Z"
     }
   ]
 }
