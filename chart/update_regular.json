@@ -1,6 +1,114 @@
 {
-  "count": 8764,
+  "count": 8768,
   "results": [
+    {
+      "id": 60607,
+      "name": "Anti You",
+      "level": "IN Lv.14",
+      "difficulty": 14.799992,
+      "charter": "一个一个普通人",
+      "composer": "Chinozo",
+      "illustrator": "",
+      "description": "本人上传，b站@一个一个普通人_\n铺子视频链接：https://b23.tv/JJ73DCq",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/f1a4af47-1729-43f4-b044-238fb5493dcc",
+      "preview": "https://api.phira.cn/files/ba9df13c-053c-4444-ac7e-179dc316817e",
+      "file": "https://api.phira.cn/files/3b81f11b-5f31-4ba4-9146-52d7ccce8709",
+      "uploader": 435464,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.88054436,
+      "ratingCount": 3,
+      "created": "2026-06-11T08:06:46.290232Z",
+      "updated": "2026-06-22T23:53:23.265770Z",
+      "chartUpdated": "2026-06-11T08:06:46.290232Z"
+    },
+    {
+      "id": 1849,
+      "name": "Setsuna",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "Aurora RG",
+      "composer": "Kirara Magic",
+      "illustrator": "",
+      "description": "",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/14838b00-9fc8-477b-ad35-350e46a56055",
+      "preview": "https://api.phira.cn/files/74cc2d46-e64c-4989-b028-956d1d40b657",
+      "file": "https://api.phira.cn/files/069e8683-7eba-4ff9-91c3-13256bfdf664",
+      "uploader": 18354,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9103172,
+      "ratingCount": 383,
+      "created": "2023-05-13T07:21:08.616898Z",
+      "updated": "2026-06-22T14:06:26.919283Z",
+      "chartUpdated": "2023-05-13T07:21:08.616898Z"
+    },
+    {
+      "id": 62008,
+      "name": "……已至",
+      "level": "直面魂灵·16",
+      "difficulty": 16.0,
+      "charter": "终点——",
+      "composer": "塞壬唱片-MSR/秋田真典",
+      "illustrator": "",
+      "description": "原生日作，因为原谱投到phira上才发现有两处露馅，遂重投awa。质量不算太好，关注谱师包子UwU（哔哩哔哩）谢谢喵owo",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/d4daae40-e299-45e1-82ab-644fa2d97988",
+      "preview": "https://api.phira.cn/files/a7edee26-4df6-4789-b9ce-32ed5256bed5",
+      "file": "https://api.phira.cn/files/66b31e36-99a6-49f3-8cd5-b4b38f11604a",
+      "uploader": 1120205,
+      "tags": [
+        "明日方舟",
+        "萨卡兹",
+        "阿米娅",
+        "regular"
+      ],
+      "rating": 0.79426795,
+      "ratingCount": 0,
+      "created": "2026-06-22T10:58:10.766038Z",
+      "updated": "2026-06-22T10:58:10.766038Z",
+      "chartUpdated": "2026-06-22T10:58:10.766038Z"
+    },
+    {
+      "id": 61959,
+      "name": "g.r.i.s",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "g.r.i.s & g.r.i.s",
+      "composer": "Infinite Rain. (Dashydesu + Taichenko)",
+      "illustrator": "",
+      "description": "谱师本人上传\r\n协作者@枫瑞纳RTEscade#6759\n（修改）\r\nVideo:\r\nhttps://www.youtube.com/watch?v=JXJpvKw3sDo\r\n定数:16.0\r\n物量:1320\r\n??????????????????",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/c26a9ce5-59c6-4be4-bbf7-13b3594a27d9",
+      "preview": "https://api.phira.cn/files/ea1eb668-ed0b-4cea-a2b6-011e0f1b494b",
+      "file": "https://api.phira.cn/files/4e12c549-4ff8-4dd8-8cf9-c51bffc46323",
+      "uploader": 1213694,
+      "tags": [
+        "Opentaiko",
+        "regular"
+      ],
+      "rating": 0.9137067,
+      "ratingCount": 0,
+      "created": "2026-06-22T01:19:55.357429Z",
+      "updated": "2026-06-22T01:19:55.357429Z",
+      "chartUpdated": "2026-06-22T01:19:55.357429Z"
+    },
     {
       "id": 58645,
       "name": "[line:θ]",
@@ -21,11 +129,37 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.879918,
+      "rating": 0.8576344,
       "ratingCount": 69,
       "created": "2026-05-18T07:25:56.995458Z",
       "updated": "2026-06-21T23:12:01.509001Z",
       "chartUpdated": "2026-06-21T05:06:49.118037Z"
+    },
+    {
+      "id": 61954,
+      "name": "Vivop",
+      "level": "IN Lv.15",
+      "difficulty": 15.800003,
+      "charter": "Pigeeeeeon",
+      "composer": "Empty old City",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/29440abe-04c0-4981-a3be-dcec0ccdcafb",
+      "preview": "https://api.phira.cn/files/a87e4ec6-55d0-4ddc-a7cf-8cced647c61a",
+      "file": "https://api.phira.cn/files/da910a1c-9482-4200-ba7b-81347a273e25",
+      "uploader": 202,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.81710285,
+      "ratingCount": 0,
+      "created": "2026-06-21T23:01:26.718377Z",
+      "updated": "2026-06-21T23:01:26.718377Z",
+      "chartUpdated": "2026-06-21T23:01:26.718377Z"
     },
     {
       "id": 60939,
@@ -48,11 +182,38 @@
         "双指",
         "regular"
       ],
-      "rating": 0.8469523,
+      "rating": 0.8466789,
       "ratingCount": 40,
       "created": "2026-06-14T06:16:04.129083Z",
       "updated": "2026-06-21T14:19:40.102172Z",
       "chartUpdated": "2026-06-14T06:16:04.129083Z"
+    },
+    {
+      "id": 61896,
+      "name": "アダチ・レイ (feat. 足立レイ)",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "孙志有   外号",
+      "composer": "佐藤 ちなみに&足立レイ",
+      "illustrator": "",
+      "description": "本谱耗时两天制作\n————————————————————\n音乐：ダチ・レイ (feat. 足立レイ)\np主：佐藤 ちなみに\n歌姬：足立零\n本谱制作：孙志有  外号\n本谱协作者：@孙子有内号#2009444\n——————————————————————————\n感谢游玩！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/3ba2141d-a478-409f-a817-891812c07456",
+      "preview": "https://api.phira.cn/files/43ce40f5-5fa3-45c5-addb-3cf5b9a07004",
+      "file": "https://api.phira.cn/files/d5bcfa6a-66b9-47eb-b14d-7af7afba0ea2",
+      "uploader": 1773065,
+      "tags": [
+        "足立零",
+        "regular"
+      ],
+      "rating": 0.9135304,
+      "ratingCount": 0,
+      "created": "2026-06-21T11:00:06.980542Z",
+      "updated": "2026-06-21T11:00:06.980542Z",
+      "chartUpdated": "2026-06-21T11:00:06.980542Z"
     },
     {
       "id": 61881,
@@ -74,7 +235,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93357515,
+      "rating": 0.9309356,
       "ratingCount": 0,
       "created": "2026-06-21T09:23:32.996128Z",
       "updated": "2026-06-21T09:23:32.996128Z",
@@ -100,7 +261,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95319086,
+      "rating": 0.95065933,
       "ratingCount": 0,
       "created": "2026-06-21T06:16:59.168705Z",
       "updated": "2026-06-21T06:16:59.168705Z",
@@ -128,7 +289,7 @@
         "术力口",
         "regular"
       ],
-      "rating": 0.948283,
+      "rating": 0.9477114,
       "ratingCount": 0,
       "created": "2026-05-22T11:34:01.366076Z",
       "updated": "2026-06-21T03:57:19.190195Z",
@@ -154,7 +315,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7193635,
+      "rating": 0.7211018,
       "ratingCount": 132,
       "created": "2026-06-01T07:54:36.390163Z",
       "updated": "2026-06-21T00:44:18.243600Z",
@@ -180,7 +341,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.70316786,
+      "rating": 0.7774389,
       "ratingCount": 0,
       "created": "2026-06-21T00:09:33.133596Z",
       "updated": "2026-06-21T00:09:33.133596Z",
@@ -206,7 +367,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87922,
+      "rating": 0.87856793,
       "ratingCount": 0,
       "created": "2026-06-20T16:46:54.493421Z",
       "updated": "2026-06-20T23:50:03.617999Z",
@@ -238,7 +399,7 @@
         "多指",
         "regular"
       ],
-      "rating": 0.874558,
+      "rating": 0.8792066,
       "ratingCount": 9,
       "created": "2026-06-20T15:15:39.678043Z",
       "updated": "2026-06-20T16:43:24.603260Z",
@@ -264,7 +425,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9368462,
+      "rating": 0.9346639,
       "ratingCount": 0,
       "created": "2026-06-18T16:41:35.985688Z",
       "updated": "2026-06-20T10:46:39.954896Z",
@@ -292,7 +453,7 @@
         "还原",
         "regular"
       ],
-      "rating": 0.9646623,
+      "rating": 0.961995,
       "ratingCount": 150,
       "created": "2026-02-07T14:56:35.625544Z",
       "updated": "2026-06-20T09:57:05.485341Z",
@@ -319,7 +480,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9092443,
+      "rating": 0.90875703,
       "ratingCount": 0,
       "created": "2026-06-20T03:20:34.718581Z",
       "updated": "2026-06-20T09:43:32.346857Z",
@@ -345,7 +506,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94590616,
+      "rating": 0.9429379,
       "ratingCount": 0,
       "created": "2026-06-20T08:29:10.263979Z",
       "updated": "2026-06-20T08:29:10.263979Z",
@@ -371,7 +532,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86214167,
+      "rating": 0.8632064,
       "ratingCount": 70,
       "created": "2026-06-20T03:03:08.114186Z",
       "updated": "2026-06-20T03:03:08.114186Z",
@@ -397,7 +558,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8094847,
+      "rating": 0.80864227,
       "ratingCount": 0,
       "created": "2026-01-26T10:57:21.953938Z",
       "updated": "2026-06-20T02:38:06.286799Z",
@@ -423,11 +584,38 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.848829,
+      "rating": 0.8438047,
       "ratingCount": 32,
       "created": "2026-06-20T01:01:10.835652Z",
       "updated": "2026-06-20T01:01:10.835652Z",
       "chartUpdated": "2026-06-20T01:01:10.835652Z"
+    },
+    {
+      "id": 61599,
+      "name": "ブルアカ 7th TV",
+      "level": "IN Lv.15",
+      "difficulty": 15.200001,
+      "charter": "7th Aminos",
+      "composer": "Yostar",
+      "illustrator": "",
+      "description": "是谱师本人上传\n哈哈，端午的时候，写了一张谱\n大家玩吧！谱师已AP\nB站:阿米诺斯_阿米诺斯\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/a1d76f3d-bc53-47aa-a869-4c172caf415d",
+      "preview": "https://api.phira.cn/files/d25c7933-ee52-444a-a139-8cf266dd4092",
+      "file": "https://api.phira.cn/files/9d76d9db-4bea-445f-94dc-886e4d8994e8",
+      "uploader": 180864,
+      "tags": [
+        "蔚蓝档案",
+        "regular"
+      ],
+      "rating": 0.9206588,
+      "ratingCount": 0,
+      "created": "2026-06-20T00:23:57.570564Z",
+      "updated": "2026-06-20T00:23:57.570564Z",
+      "chartUpdated": "2026-06-20T00:23:57.570564Z"
     },
     {
       "id": 58561,
@@ -449,7 +637,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7917969,
+      "rating": 0.78767866,
       "ratingCount": 23,
       "created": "2026-05-17T05:38:19.914908Z",
       "updated": "2026-06-19T22:12:05.338247Z",
@@ -475,7 +663,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91919047,
+      "rating": 0.918662,
       "ratingCount": 103,
       "created": "2026-06-19T19:34:59.067065Z",
       "updated": "2026-06-19T19:34:59.067065Z",
@@ -501,7 +689,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9227368,
+      "rating": 0.9248341,
       "ratingCount": 80,
       "created": "2026-06-19T14:09:32.501953Z",
       "updated": "2026-06-19T14:09:32.501953Z",
@@ -527,7 +715,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8780013,
+      "rating": 0.87237686,
       "ratingCount": 308,
       "created": "2026-06-19T12:12:36.968780Z",
       "updated": "2026-06-19T12:12:36.968780Z",
@@ -553,7 +741,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9300202,
+      "rating": 0.9271677,
       "ratingCount": 95,
       "created": "2026-06-19T09:57:02.212650Z",
       "updated": "2026-06-19T09:57:02.212650Z",
@@ -584,7 +772,7 @@
         "亚哈",
         "regular"
       ],
-      "rating": 0.90026706,
+      "rating": 0.8980831,
       "ratingCount": 199,
       "created": "2026-04-18T05:16:59.359420Z",
       "updated": "2026-06-19T09:31:42.787400Z",
@@ -610,193 +798,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9111124,
+      "rating": 0.9089798,
       "ratingCount": 296,
       "created": "2026-03-21T13:27:36.350082Z",
       "updated": "2026-06-19T07:39:41.789577Z",
       "chartUpdated": "2026-03-21T13:27:36.350082Z"
-    },
-    {
-      "id": 47091,
-      "name": "Come Here Tonight",
-      "level": "IN Lv.13",
-      "difficulty": 13.200001,
-      "charter": "h2oYue",
-      "composer": "N_dog",
-      "illustrator": "",
-      "description": "本人上传 b站：BV1t2nPzFEkF",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/4a18015f-e387-4cb8-bea6-23f0169796d9",
-      "preview": "https://phira.5wyxi.com/files/18eccf8d-4fef-4111-aeb0-739b85bd1ce0",
-      "file": "https://phira.5wyxi.com/files/6cf5c12a-e552-46e4-93c4-7632c2f090d4",
-      "uploader": 15744,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9249726,
-      "ratingCount": 421,
-      "created": "2025-09-22T14:46:57.824667Z",
-      "updated": "2026-06-19T04:42:48.684633Z",
-      "chartUpdated": "2026-06-18T13:54:51.431358Z"
-    },
-    {
-      "id": 61397,
-      "name": "Highscore(short ver.)",
-      "level": "Legacy Lv.15",
-      "difficulty": 15.900003,
-      "charter": "High Miku&High XieChara",
-      "composer": "Panda Eyes&Teminite",
-      "illustrator": "",
-      "description": "速写\n谱师：我与@XieChara#92123 协作者\n感谢游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/94d89051-c8c8-46b9-b90e-096a8edfb5bf",
-      "preview": "https://phira.5wyxi.com/files/1c04e8d9-9f54-43b8-b6e2-a1f5c8fbe954",
-      "file": "https://phira.5wyxi.com/files/f7581b59-9063-4cbb-8695-47f0b0158f8f",
-      "uploader": 828795,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.85959125,
-      "ratingCount": 58,
-      "created": "2026-06-19T03:16:17.328348Z",
-      "updated": "2026-06-19T03:16:17.328348Z",
-      "chartUpdated": "2026-06-19T03:16:17.328348Z"
-    },
-    {
-      "id": 61329,
-      "name": "You've Got Mail !",
-      "level": "IN  Lv.15",
-      "difficulty": 15.0,
-      "charter": " ✉",
-      "composer": "Phantoskii",
-      "illustrator": "",
-      "description": "hello，这是我独立制作的第三张谱子，鸽了那么久主要还是因为大学生活太忙了（悲）这张谱子准确来说并不算好，而且还很水，主要是用来练习排键的谱子，手感不太敢保证很好嘤。\n视频链接（b站）:BV1gP7Q6VE1s",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f3523f60-4dc3-4535-98dc-5bb8e2ecf842",
-      "preview": "https://phira.5wyxi.com/files/2c4aec61-7c8d-4c2e-873b-6a60a2250b89",
-      "file": "https://phira.5wyxi.com/files/a202e25f-9e4e-4ed7-84de-6a6795655d5c",
-      "uploader": 61473,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.927179,
-      "ratingCount": 55,
-      "created": "2026-06-18T15:48:46.998385Z",
-      "updated": "2026-06-18T15:48:46.998385Z",
-      "chartUpdated": "2026-06-18T15:48:46.998385Z"
-    },
-    {
-      "id": 61044,
-      "name": "はやくにげなきゃ",
-      "level": "IN Lv.15",
-      "difficulty": 15.800003,
-      "charter": "tikkit",
-      "composer": "佐藤ちなみに",
-      "illustrator": "",
-      "description": "b站：祈梦Tii\n谱面预览：BV1htJg6YEJA\n（可在视频评论区留言你的意见和建议哦）\n\n定数｜15.8\n物量｜969\n耗时｜2d\n写谱时长｜20h\n事件数｜11500\n\n速写！（20小时好像也不是很速…）\n\n整首一共塞了两段较难的点划硬抗配置，请做好心理准备……\n\n总之，我只是为了热度而来的（表演用了很多公式扫线…但是确实很适合这一首啊！（坏笑）\n\n这一张完全是独立制作（终于没有友情出演了（？）\n\n希望你能玩的尽兴\n\n（小声）（对了，如果喜欢这张谱面的话请来b站支持我！关注祈梦Tii谢谢喵～）",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/ae77647a-b527-4db2-8d1c-5b00aad9f621",
-      "preview": "https://phira.5wyxi.com/files/5f0677e1-adda-4157-9d88-036cfb055b96",
-      "file": "https://phira.5wyxi.com/files/312192e4-a7bc-4ef3-b471-d920d38c0b8e",
-      "uploader": 683941,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93724126,
-      "ratingCount": 1439,
-      "created": "2026-06-15T08:48:16.694852Z",
-      "updated": "2026-06-18T15:04:08.315416Z",
-      "chartUpdated": "2026-06-15T08:48:16.694852Z"
-    },
-    {
-      "id": 60244,
-      "name": "Next Level",
-      "level": "IN Lv.15?",
-      "difficulty": 15.900001,
-      "charter": "Next LPI",
-      "composer": "shadow_bling",
-      "illustrator": "",
-      "description": "本人上传\n哔哩哔哩: @LPI_\n\n2026/6/8：削弱了2nddrop段，修改一部分手感差的地方\n\n2026/6/13：再次削弱1stdrop段和2nddrop段\n\n\n\n\n山东板栗是神。。。",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/310d061a-2c98-4979-b9c3-4bef2f287fe6",
-      "preview": "https://phira.5wyxi.com/files/9d4fdd76-5944-4e2c-95b2-1322a5644ca1",
-      "file": "https://phira.5wyxi.com/files/5556125b-cee9-4746-be03-1136c39ca7cb",
-      "uploader": 7084,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.85586137,
-      "ratingCount": 95,
-      "created": "2026-06-07T06:25:35.146171Z",
-      "updated": "2026-06-18T14:46:12.237106Z",
-      "chartUpdated": "2026-06-13T14:05:45.813435Z"
-    },
-    {
-      "id": 61318,
-      "name": "Crush the Dystopia",
-      "level": "HD  Lv.13",
-      "difficulty": 13.700003,
-      "charter": "Ex1stenS -respect for W&U&G-",
-      "composer": "MintJam vs Masahiro “Godspeed” Aoki",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2030ed40-6191-48ad-bc03-439cf8a726dc",
-      "preview": "https://phira.5wyxi.com/files/526f3c5a-abe0-416a-a811-cf0f1680343a",
-      "file": "https://phira.5wyxi.com/files/3997782f-fc9f-414e-9fa5-d06633da5463",
-      "uploader": 1503,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9209531,
-      "ratingCount": 34,
-      "created": "2026-06-18T14:46:05.889087Z",
-      "updated": "2026-06-18T14:46:05.889087Z",
-      "chartUpdated": "2026-06-18T14:46:05.889087Z"
-    },
-    {
-      "id": 61259,
-      "name": "Threat - Outskirts",
-      "level": "IN Lv.15",
-      "difficulty": 15.3,
-      "charter": "小__鹿",
-      "composer": "James Primate",
-      "illustrator": "",
-      "description": "本人上传，曲绘也是我本人画的\n自己做了第一个谱，如果感觉有点史请谅解\n可能以后会改谱\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/002ea0f8-3ed0-4d37-9a7a-f07d5f41910d",
-      "preview": "https://phira.5wyxi.com/files/7603668a-0806-4c02-9fca-d458ad2dfc9f",
-      "file": "https://phira.5wyxi.com/files/f10f0ba6-ab86-4feb-bc6d-04eae7d6cbf4",
-      "uploader": 1736815,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8445268,
-      "ratingCount": 16,
-      "created": "2026-06-18T08:59:35.311965Z",
-      "updated": "2026-06-18T13:46:22.362237Z",
-      "chartUpdated": "2026-06-18T08:59:35.311965Z"
     }
   ]
 }
