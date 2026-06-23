@@ -1,6 +1,32 @@
 {
-  "count": 659,
+  "count": 660,
   "results": [
+    {
+      "id": 61747,
+      "name": "If You Care",
+      "level": "SP Lv.?",
+      "difficulty": 10.0,
+      "charter": "Parssce",
+      "composer": "akiaura,LONOWN,DJ Pointless",
+      "illustrator": "",
+      "description": "名称和b站相同，本人创作上传\n这是新sp系列的第三张谱，集成了很多好玩的配置\n\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/eeaac2f6-f161-4baa-bf42-7869ff416922",
+      "preview": "https://api.phira.cn/files/65a00a14-074d-4ba0-9ae2-942359331ee6",
+      "file": "https://api.phira.cn/files/4cddfbc5-de78-4485-903c-c8b457a401fb",
+      "uploader": 17820,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-06-20T14:20:00.970999Z",
+      "updated": "2026-06-20T14:20:00.970999Z",
+      "chartUpdated": "2026-06-20T14:20:00.970999Z"
+    },
     {
       "id": 60748,
       "name": "看我超级搭路",
@@ -22,7 +48,7 @@
         "Minecraft",
         "troll"
       ],
-      "rating": 0.9412652,
+      "rating": 0.9386742,
       "ratingCount": 1947,
       "created": "2026-06-13T02:21:27.077415Z",
       "updated": "2026-06-13T02:21:27.077415Z",
@@ -48,7 +74,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7944511,
+      "rating": 0.79242176,
       "ratingCount": 2244,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -103,7 +129,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9310442,
+      "rating": 0.9292752,
       "ratingCount": 138,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -129,7 +155,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7508688,
+      "rating": 0.7535425,
       "ratingCount": 354,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -155,7 +181,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8063788,
+      "rating": 0.805482,
       "ratingCount": 1151,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -181,7 +207,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9185949,
+      "rating": 0.9169084,
       "ratingCount": 206,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -207,7 +233,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.78056574,
+      "rating": 0.78002745,
       "ratingCount": 127,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -233,7 +259,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7310708,
+      "rating": 0.7269216,
       "ratingCount": 45,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -313,7 +339,7 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.9131849,
+      "rating": 0.9111722,
       "ratingCount": 583,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
@@ -341,7 +367,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.95720214,
+      "rating": 0.95777524,
       "ratingCount": 69,
       "created": "2026-04-11T12:30:15.846877Z",
       "updated": "2026-04-11T12:30:15.846877Z",
@@ -369,7 +395,7 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.9301279,
+      "rating": 0.9300253,
       "ratingCount": 562,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
@@ -395,7 +421,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.900521,
+      "rating": 0.9005589,
       "ratingCount": 1125,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
@@ -422,7 +448,7 @@
         "神圣之谱",
         "troll"
       ],
-      "rating": 0.85945296,
+      "rating": 0.8588954,
       "ratingCount": 1442,
       "created": "2026-04-05T00:29:18.191159Z",
       "updated": "2026-04-05T00:29:18.191159Z",
@@ -582,7 +608,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9001722,
+      "rating": 0.90002644,
       "ratingCount": 617,
       "created": "2026-03-30T13:48:31.572823Z",
       "updated": "2026-03-30T13:48:31.572823Z",
@@ -608,7 +634,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85695153,
+      "rating": 0.8565837,
       "ratingCount": 3993,
       "created": "2025-01-12T02:40:20.178132Z",
       "updated": "2026-03-21T02:27:46.280939Z",
@@ -660,7 +686,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8522273,
+      "rating": 0.85069263,
       "ratingCount": 246,
       "created": "2026-03-14T14:00:41.921700Z",
       "updated": "2026-03-14T14:00:41.921700Z",
@@ -686,7 +712,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83755714,
+      "rating": 0.8379725,
       "ratingCount": 142,
       "created": "2025-09-21T10:50:46.140609Z",
       "updated": "2026-03-12T13:26:44.685741Z",
@@ -740,7 +766,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.93860817,
+      "rating": 0.938494,
       "ratingCount": 1078,
       "created": "2026-03-02T07:27:25.461636Z",
       "updated": "2026-03-02T07:27:25.461636Z",
@@ -771,37 +797,11 @@
         "招笑",
         "troll"
       ],
-      "rating": 0.90351266,
+      "rating": 0.9017171,
       "ratingCount": 324,
       "created": "2026-03-01T05:26:04.007449Z",
       "updated": "2026-03-01T05:26:04.007449Z",
       "chartUpdated": "2026-03-01T05:26:04.007449Z"
-    },
-    {
-      "id": 53651,
-      "name": "牵丝戏（神兔小P Remix）",
-      "level": "AT Lv.16.4",
-      "difficulty": 16.400003,
-      "charter": "ldth",
-      "composer": "银临&Aki阿杰",
-      "illustrator": "",
-      "description": "这个已经很用心的改过了，但是貌似还是不太好，好像还把别人看笑了，所以传整活区试试，求高抬贵手\n中间的黄键都是fake假键，不需要打",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/49998ca2-adb9-41bd-a0be-a3e27959491e",
-      "preview": "https://phira.5wyxi.com/files/b3608640-c1be-4dec-a4a1-fa72158063fb",
-      "file": "https://phira.5wyxi.com/files/3a4a7f85-6495-4eed-864f-4f3389362c71",
-      "uploader": 2114166,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.88435364,
-      "ratingCount": 312,
-      "created": "2026-03-01T05:12:25.823931Z",
-      "updated": "2026-03-01T05:12:25.823931Z",
-      "chartUpdated": "2026-03-01T05:12:25.823931Z"
     }
   ]
 }
