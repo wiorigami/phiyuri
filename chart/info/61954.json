@@ -13,14 +13,14 @@
   "name": "Vivop",
   "preview": "https://phira.5wyxi.com/files/a87e4ec6-55d0-4ddc-a7cf-8cced647c61a",
   "ranked": false,
-  "rating": 0.81710285,
-  "ratingCount": 14,
-  "reviewed": true,
+  "rating": 0.85100394,
+  "ratingCount": 45,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-21T23:01:26.718377Z",
+  "updated": "2026-06-23T11:50:59.270412Z",
   "uploader": 202
 }
