@@ -1,6 +1,63 @@
 {
-  "count": 3065,
+  "count": 3063,
   "results": [
+    {
+      "id": 62161,
+      "name": "From The Start",
+      "level": "5K Normal Lv.19",
+      "difficulty": 19.0,
+      "charter": "N_neo",
+      "composer": "Laufey",
+      "illustrator": "",
+      "description": "谱师：N_neo\n制谱时长：5d\n制谱净时长：13h\n\n谱师本人上传，非转谱。\n\n延迟有点吃不准，最好自行调整哦。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/5e994c82-096d-4e8b-a95d-e0412aa0bfc4",
+      "preview": "https://api.phira.cn/files/afd71671-a465-4063-9ba1-5ba3d426e873",
+      "file": "https://api.phira.cn/files/b725156d-c64d-4791-89bc-be346935f0f0",
+      "uploader": 1142877,
+      "tags": [
+        "5k",
+        "plain"
+      ],
+      "rating": 0.87457204,
+      "ratingCount": 0,
+      "created": "2026-06-23T11:03:49.092979Z",
+      "updated": "2026-06-23T11:03:49.092979Z",
+      "chartUpdated": "2026-06-23T11:03:49.092979Z"
+    },
+    {
+      "id": 62072,
+      "name": "Unlimited Hyperlink",
+      "level": "UL Lv.18",
+      "difficulty": 18.1,
+      "charter": "ZincMeteor vs Rakio",
+      "composer": "kobaryo",
+      "illustrator": "",
+      "description": "与@ZincMeteor梓弭#142987 （合作）合作的多指键盘谱面，希望大家喜欢。\n新人初谱\n谱师已99.7",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/69be9486-2c57-4f43-b7c6-aec3fe944ccf",
+      "preview": "https://api.phira.cn/files/08b65471-8f10-40bb-b6e6-7a923c8418db",
+      "file": "https://api.phira.cn/files/99b2d21f-bca1-4d8b-b402-b224bba22543",
+      "uploader": 675828,
+      "tags": [
+        "多指",
+        "4K",
+        "6K",
+        "键盘",
+        "plain"
+      ],
+      "rating": 0.9007121,
+      "ratingCount": 0,
+      "created": "2026-06-22T17:55:06.040286Z",
+      "updated": "2026-06-22T17:55:06.040286Z",
+      "chartUpdated": "2026-06-22T17:55:06.040286Z"
+    },
     {
       "id": 61974,
       "name": "Crystallized",
@@ -21,7 +78,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9007121,
+      "rating": 0.9453694,
       "ratingCount": 0,
       "created": "2026-06-22T04:19:54.795597Z",
       "updated": "2026-06-22T04:19:54.795597Z",
@@ -47,7 +104,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9140378,
+      "rating": 0.9127546,
       "ratingCount": 0,
       "created": "2026-06-21T04:01:15.744270Z",
       "updated": "2026-06-21T04:01:15.744270Z",
@@ -73,7 +130,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91261137,
+      "rating": 0.9177225,
       "ratingCount": 0,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
@@ -99,7 +156,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84386843,
+      "rating": 0.84087104,
       "ratingCount": 13,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
@@ -127,7 +184,7 @@
         "laur",
         "plain"
       ],
-      "rating": 0.83321184,
+      "rating": 0.88063943,
       "ratingCount": 0,
       "created": "2026-06-20T04:32:18.570763Z",
       "updated": "2026-06-20T04:32:18.570763Z",
@@ -180,7 +237,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79426795,
+      "rating": 0.80071205,
       "ratingCount": 0,
       "created": "2026-06-19T16:11:29.499164Z",
       "updated": "2026-06-19T16:11:29.499164Z",
@@ -212,7 +269,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8929139,
+      "rating": 0.89833695,
       "ratingCount": 5,
       "created": "2026-06-19T03:16:13.082637Z",
       "updated": "2026-06-19T03:16:13.082637Z",
@@ -270,7 +327,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.88743305,
+      "rating": 0.8928644,
       "ratingCount": 7,
       "created": "2026-06-18T16:49:12.619164Z",
       "updated": "2026-06-18T16:49:12.619164Z",
@@ -302,7 +359,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8875884,
+      "rating": 0.90395874,
       "ratingCount": 8,
       "created": "2026-06-18T16:47:01.153913Z",
       "updated": "2026-06-18T16:47:01.153913Z",
@@ -366,37 +423,11 @@
         "协",
         "plain"
       ],
-      "rating": 0.903384,
+      "rating": 0.9118217,
       "ratingCount": 8,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
       "chartUpdated": "2026-06-18T16:46:44.891447Z"
-    },
-    {
-      "id": 61312,
-      "name": "CO5M1C R4ILR0AD",
-      "level": "6K Insane Lv.25",
-      "difficulty": 25.0,
-      "charter": "YMEA",
-      "composer": "kanone",
-      "illustrator": "",
-      "description": "写的第一张6K谱\n谱子有很多小问题我懒得改了\n不感谢@GT_一只起飞仔#32162 的神秘字幕（因为有入盗传我谱面所以帮忙填下字幕效果有点？！弱？！）\n\n后面忘了",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7ffabce3-2aa0-41a8-8069-2df7ae17f3d7",
-      "preview": "https://phira.5wyxi.com/files/5d7d6a9a-05ca-49f9-9b71-8f1f4a48b51f",
-      "file": "https://phira.5wyxi.com/files/77fb9b24-9d92-47a6-a5f8-b48b713b51f7",
-      "uploader": 2463217,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9156046,
-      "ratingCount": 36,
-      "created": "2026-06-18T14:29:35.305056Z",
-      "updated": "2026-06-18T14:29:35.305056Z",
-      "chartUpdated": "2026-06-18T14:29:35.305056Z"
     },
     {
       "id": 61310,
@@ -418,7 +449,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93123484,
+      "rating": 0.9269921,
       "ratingCount": 66,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
@@ -447,7 +478,7 @@
         "ju1uoisgay",
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.8423025,
       "ratingCount": 1,
       "created": "2026-06-18T11:15:12.778547Z",
       "updated": "2026-06-18T11:15:12.778547Z",
@@ -473,7 +504,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8913796,
+      "rating": 0.89657253,
       "ratingCount": 25,
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
@@ -499,7 +530,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.8660852,
       "ratingCount": 0,
       "created": "2026-06-17T17:32:42.112219Z",
       "updated": "2026-06-17T17:32:42.112219Z",
@@ -526,7 +557,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.8257282,
       "ratingCount": 1,
       "created": "2026-06-17T14:50:39.732863Z",
       "updated": "2026-06-17T14:50:39.732863Z",
@@ -552,7 +583,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82499236,
+      "rating": 0.8533043,
       "ratingCount": 0,
       "created": "2026-06-17T09:46:58.552158Z",
       "updated": "2026-06-17T09:46:58.552158Z",
@@ -583,7 +614,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.87641454,
+      "rating": 0.8779478,
       "ratingCount": 68,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
@@ -615,7 +646,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8761231,
+      "rating": 0.8779753,
       "ratingCount": 8,
       "created": "2026-06-16T12:13:15.668071Z",
       "updated": "2026-06-16T12:13:15.668071Z",
@@ -647,7 +678,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.90583324,
+      "rating": 0.90471226,
       "ratingCount": 971,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
@@ -679,7 +710,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8945799,
+      "rating": 0.89138466,
       "ratingCount": 205,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
@@ -785,7 +816,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.879081,
+      "rating": 0.891981,
       "ratingCount": 5,
       "created": "2026-06-12T16:11:57.933615Z",
       "updated": "2026-06-12T16:11:57.933615Z",
@@ -816,37 +847,11 @@
         "锚键",
         "plain"
       ],
-      "rating": 0.86685157,
+      "rating": 0.86922884,
       "ratingCount": 8,
       "created": "2026-06-12T09:48:26.329355Z",
       "updated": "2026-06-12T09:48:26.329355Z",
       "chartUpdated": "2026-06-12T09:48:26.329355Z"
-    },
-    {
-      "id": 60502,
-      "name": "Hello (BPM) 2026",
-      "level": "ADOFAI U18(UQ4)",
-      "difficulty": 20.0,
-      "charter": "Entity_303-E3（adofai轨道设计：Alpha）",
-      "composer": "かめりあ(Camellia)",
-      "illustrator": "",
-      "description": "原创adofai手法，adofai转谱的削弱版，16键和脚键部分用黄键送了，理论正常人可以AP（可能比2025略难~）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/aec34de3-4c46-40e7-9cc3-4583eb4d5577",
-      "preview": "https://phira.5wyxi.com/files/1ea24408-02d0-4956-b65e-dca89fcc4c1f",
-      "file": "https://phira.5wyxi.com/files/513dd21e-2849-4ed6-8f46-a68fcbd28095",
-      "uploader": 1677765,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.91242844,
-      "ratingCount": 33,
-      "created": "2026-06-09T13:37:57.443413Z",
-      "updated": "2026-06-09T13:37:57.443413Z",
-      "chartUpdated": "2026-06-09T13:37:57.443413Z"
     }
   ]
 }
