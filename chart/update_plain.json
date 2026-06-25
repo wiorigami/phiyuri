@@ -1,5 +1,5 @@
 {
-  "count": 3063,
+  "count": 3064,
   "results": [
     {
       "id": 62161,
@@ -14,16 +14,16 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/5e994c82-096d-4e8b-a95d-e0412aa0bfc4",
-      "preview": "https://api.phira.cn/files/afd71671-a465-4063-9ba1-5ba3d426e873",
-      "file": "https://api.phira.cn/files/b725156d-c64d-4791-89bc-be346935f0f0",
+      "illustration": "https://phira.5wyxi.com/files/5e994c82-096d-4e8b-a95d-e0412aa0bfc4",
+      "preview": "https://phira.5wyxi.com/files/afd71671-a465-4063-9ba1-5ba3d426e873",
+      "file": "https://phira.5wyxi.com/files/b725156d-c64d-4791-89bc-be346935f0f0",
       "uploader": 1142877,
       "tags": [
         "5k",
         "plain"
       ],
-      "rating": 0.87457204,
-      "ratingCount": 0,
+      "rating": 0.8981395,
+      "ratingCount": 196,
       "created": "2026-06-23T11:03:49.092979Z",
       "updated": "2026-06-23T11:03:49.092979Z",
       "chartUpdated": "2026-06-23T11:03:49.092979Z"
@@ -41,9 +41,9 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/69be9486-2c57-4f43-b7c6-aec3fe944ccf",
-      "preview": "https://api.phira.cn/files/08b65471-8f10-40bb-b6e6-7a923c8418db",
-      "file": "https://api.phira.cn/files/99b2d21f-bca1-4d8b-b402-b224bba22543",
+      "illustration": "https://phira.5wyxi.com/files/69be9486-2c57-4f43-b7c6-aec3fe944ccf",
+      "preview": "https://phira.5wyxi.com/files/08b65471-8f10-40bb-b6e6-7a923c8418db",
+      "file": "https://phira.5wyxi.com/files/99b2d21f-bca1-4d8b-b402-b224bba22543",
       "uploader": 675828,
       "tags": [
         "多指",
@@ -52,8 +52,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.9007121,
-      "ratingCount": 0,
+      "rating": 0.9085166,
+      "ratingCount": 28,
       "created": "2026-06-22T17:55:06.040286Z",
       "updated": "2026-06-22T17:55:06.040286Z",
       "chartUpdated": "2026-06-22T17:55:06.040286Z"
@@ -71,15 +71,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/8b1635d3-314d-4027-84be-3c6db9e2169d",
-      "preview": "https://api.phira.cn/files/a7138d8e-6e2d-4a03-817e-7406e75371d3",
-      "file": "https://api.phira.cn/files/c892e7b9-7420-4466-af84-08ba158c9480",
+      "illustration": "https://phira.5wyxi.com/files/8b1635d3-314d-4027-84be-3c6db9e2169d",
+      "preview": "https://phira.5wyxi.com/files/a7138d8e-6e2d-4a03-817e-7406e75371d3",
+      "file": "https://phira.5wyxi.com/files/c892e7b9-7420-4466-af84-08ba158c9480",
       "uploader": 2463217,
       "tags": [
         "plain"
       ],
-      "rating": 0.9453694,
-      "ratingCount": 0,
+      "rating": 0.9447674,
+      "ratingCount": 83,
       "created": "2026-06-22T04:19:54.795597Z",
       "updated": "2026-06-22T04:19:54.795597Z",
       "chartUpdated": "2026-06-22T04:19:54.795597Z"
@@ -97,15 +97,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/f4fa7a6f-9953-4f96-9e86-82ef32b4d80a",
-      "preview": "https://api.phira.cn/files/4930eb3d-ecb5-49b3-8676-f9bbb900e4c7",
-      "file": "https://api.phira.cn/files/78846958-aa10-499f-8204-4efe166f0173",
+      "illustration": "https://phira.5wyxi.com/files/f4fa7a6f-9953-4f96-9e86-82ef32b4d80a",
+      "preview": "https://phira.5wyxi.com/files/4930eb3d-ecb5-49b3-8676-f9bbb900e4c7",
+      "file": "https://phira.5wyxi.com/files/78846958-aa10-499f-8204-4efe166f0173",
       "uploader": 1673757,
       "tags": [
         "plain"
       ],
-      "rating": 0.9127546,
-      "ratingCount": 0,
+      "rating": 0.9158216,
+      "ratingCount": 103,
       "created": "2026-06-21T04:01:15.744270Z",
       "updated": "2026-06-21T04:01:15.744270Z",
       "chartUpdated": "2026-06-21T04:01:15.744270Z"
@@ -123,15 +123,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/91faa954-2b68-41c0-ae4d-04db65ad9252",
-      "preview": "https://api.phira.cn/files/28671d16-86d2-4734-bc84-1ded6ffc8efc",
-      "file": "https://api.phira.cn/files/d5bcfc08-5133-4d8e-92b9-3a0d2081731f",
+      "illustration": "https://phira.5wyxi.com/files/91faa954-2b68-41c0-ae4d-04db65ad9252",
+      "preview": "https://phira.5wyxi.com/files/28671d16-86d2-4734-bc84-1ded6ffc8efc",
+      "file": "https://phira.5wyxi.com/files/d5bcfc08-5133-4d8e-92b9-3a0d2081731f",
       "uploader": 848665,
       "tags": [
         "plain"
       ],
-      "rating": 0.9177225,
-      "ratingCount": 0,
+      "rating": 0.8996429,
+      "ratingCount": 228,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
       "chartUpdated": "2026-06-20T11:18:03.235836Z"
@@ -149,15 +149,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/29cfeaf9-eced-4343-80eb-ecb3f607a6a5",
-      "preview": "https://api.phira.cn/files/89c23999-6cf7-4550-b3a9-a0274c8a1dd8",
-      "file": "https://api.phira.cn/files/0fd4c6f2-072c-4625-9638-b7f004ea54c9",
+      "illustration": "https://phira.5wyxi.com/files/29cfeaf9-eced-4343-80eb-ecb3f607a6a5",
+      "preview": "https://phira.5wyxi.com/files/89c23999-6cf7-4550-b3a9-a0274c8a1dd8",
+      "file": "https://phira.5wyxi.com/files/0fd4c6f2-072c-4625-9638-b7f004ea54c9",
       "uploader": 1673757,
       "tags": [
         "plain"
       ],
-      "rating": 0.84087104,
-      "ratingCount": 13,
+      "rating": 0.8330406,
+      "ratingCount": 107,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
       "chartUpdated": "2026-06-20T04:40:24.421039Z"
@@ -175,17 +175,17 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/1a89ea29-faf7-4264-9672-842a25e03fbc",
-      "preview": "https://api.phira.cn/files/1190f759-b300-45b8-8164-4d340d8b4520",
-      "file": "https://api.phira.cn/files/93d00195-8fd7-49e8-be99-cd483c549b5a",
+      "illustration": "https://phira.5wyxi.com/files/1a89ea29-faf7-4264-9672-842a25e03fbc",
+      "preview": "https://phira.5wyxi.com/files/1190f759-b300-45b8-8164-4d340d8b4520",
+      "file": "https://phira.5wyxi.com/files/93d00195-8fd7-49e8-be99-cd483c549b5a",
       "uploader": 1309237,
       "tags": [
         "adofai",
         "laur",
         "plain"
       ],
-      "rating": 0.88063943,
-      "ratingCount": 0,
+      "rating": 0.8806625,
+      "ratingCount": 19,
       "created": "2026-06-20T04:32:18.570763Z",
       "updated": "2026-06-20T04:32:18.570763Z",
       "chartUpdated": "2026-06-20T04:32:18.570763Z"
@@ -212,7 +212,7 @@
         "plain"
       ],
       "rating": 0.80552316,
-      "ratingCount": 1,
+      "ratingCount": 3,
       "created": "2026-06-19T16:17:10.089411Z",
       "updated": "2026-06-19T16:17:10.089411Z",
       "chartUpdated": "2026-06-19T16:17:10.089411Z"
@@ -230,15 +230,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/2cc178a6-db51-4238-b836-e84eb2100362",
-      "preview": "https://api.phira.cn/files/7a760218-c694-49be-bc08-993734b6aa17",
-      "file": "https://api.phira.cn/files/0d25cf77-4a62-4efd-8ef8-c9c01166b291",
+      "illustration": "https://phira.5wyxi.com/files/2cc178a6-db51-4238-b836-e84eb2100362",
+      "preview": "https://phira.5wyxi.com/files/7a760218-c694-49be-bc08-993734b6aa17",
+      "file": "https://phira.5wyxi.com/files/0d25cf77-4a62-4efd-8ef8-c9c01166b291",
       "uploader": 1634798,
       "tags": [
         "plain"
       ],
-      "rating": 0.80071205,
-      "ratingCount": 0,
+      "rating": 0.85789365,
+      "ratingCount": 18,
       "created": "2026-06-19T16:11:29.499164Z",
       "updated": "2026-06-19T16:11:29.499164Z",
       "chartUpdated": "2026-06-19T16:11:29.499164Z"
@@ -270,7 +270,7 @@
         "plain"
       ],
       "rating": 0.89833695,
-      "ratingCount": 5,
+      "ratingCount": 15,
       "created": "2026-06-19T03:16:13.082637Z",
       "updated": "2026-06-19T03:16:13.082637Z",
       "chartUpdated": "2026-06-19T03:16:13.082637Z"
@@ -296,8 +296,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8801934,
-      "ratingCount": 3,
+      "rating": 0.88159287,
+      "ratingCount": 13,
       "created": "2026-06-18T19:51:45.793157Z",
       "updated": "2026-06-18T19:51:45.793157Z",
       "chartUpdated": "2026-06-18T19:51:45.793157Z"
@@ -328,7 +328,7 @@
         "plain"
       ],
       "rating": 0.8928644,
-      "ratingCount": 7,
+      "ratingCount": 24,
       "created": "2026-06-18T16:49:12.619164Z",
       "updated": "2026-06-18T16:49:12.619164Z",
       "chartUpdated": "2026-06-18T16:49:12.619164Z"
@@ -360,7 +360,7 @@
         "plain"
       ],
       "rating": 0.90395874,
-      "ratingCount": 8,
+      "ratingCount": 23,
       "created": "2026-06-18T16:47:01.153913Z",
       "updated": "2026-06-18T16:47:01.153913Z",
       "chartUpdated": "2026-06-18T16:47:01.153913Z"
@@ -392,7 +392,7 @@
         "plain"
       ],
       "rating": 0.8297642,
-      "ratingCount": 4,
+      "ratingCount": 7,
       "created": "2026-06-18T16:46:53.502030Z",
       "updated": "2026-06-18T16:46:53.502030Z",
       "chartUpdated": "2026-06-18T16:46:53.502030Z"
@@ -423,8 +423,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.9118217,
-      "ratingCount": 8,
+      "rating": 0.9145961,
+      "ratingCount": 25,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
       "chartUpdated": "2026-06-18T16:46:44.891447Z"
@@ -449,8 +449,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9269921,
-      "ratingCount": 66,
+      "rating": 0.93036836,
+      "ratingCount": 149,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
       "chartUpdated": "2026-06-18T14:23:06.797253Z"
@@ -479,7 +479,7 @@
         "plain"
       ],
       "rating": 0.8423025,
-      "ratingCount": 1,
+      "ratingCount": 5,
       "created": "2026-06-18T11:15:12.778547Z",
       "updated": "2026-06-18T11:15:12.778547Z",
       "chartUpdated": "2026-06-18T11:15:12.778547Z"
@@ -504,8 +504,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89657253,
-      "ratingCount": 25,
+      "rating": 0.89669883,
+      "ratingCount": 41,
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
       "chartUpdated": "2026-06-18T07:43:33.156445Z"
@@ -523,15 +523,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/29f7cef3-8ff9-4c63-b86c-59af4802f96c",
-      "preview": "https://api.phira.cn/files/8dc6ac93-a49b-4432-bbe0-0c95c6f53c59",
-      "file": "https://api.phira.cn/files/c4123d75-0e0d-4bf3-ab0a-e26a19122b27",
+      "illustration": "https://phira.5wyxi.com/files/29f7cef3-8ff9-4c63-b86c-59af4802f96c",
+      "preview": "https://phira.5wyxi.com/files/8dc6ac93-a49b-4432-bbe0-0c95c6f53c59",
+      "file": "https://phira.5wyxi.com/files/c4123d75-0e0d-4bf3-ab0a-e26a19122b27",
       "uploader": 729009,
       "tags": [
         "plain"
       ],
-      "rating": 0.8660852,
-      "ratingCount": 0,
+      "rating": 0.9094515,
+      "ratingCount": 25,
       "created": "2026-06-17T17:32:42.112219Z",
       "updated": "2026-06-17T17:32:42.112219Z",
       "chartUpdated": "2026-06-17T17:32:42.112219Z"
@@ -558,7 +558,7 @@
         "plain"
       ],
       "rating": 0.8257282,
-      "ratingCount": 1,
+      "ratingCount": 4,
       "created": "2026-06-17T14:50:39.732863Z",
       "updated": "2026-06-17T14:50:39.732863Z",
       "chartUpdated": "2026-06-17T14:50:39.732863Z"
@@ -576,15 +576,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/4dba4fd7-270c-4c55-bbf2-82162069fbd9",
-      "preview": "https://api.phira.cn/files/29af7dab-0b72-4553-aa45-4cc0c0396431",
-      "file": "https://api.phira.cn/files/cee3c6b7-9798-40d8-a0a5-0d60a056766c",
+      "illustration": "https://phira.5wyxi.com/files/4dba4fd7-270c-4c55-bbf2-82162069fbd9",
+      "preview": "https://phira.5wyxi.com/files/29af7dab-0b72-4553-aa45-4cc0c0396431",
+      "file": "https://phira.5wyxi.com/files/cee3c6b7-9798-40d8-a0a5-0d60a056766c",
       "uploader": 729009,
       "tags": [
         "plain"
       ],
-      "rating": 0.8533043,
-      "ratingCount": 0,
+      "rating": 0.8929139,
+      "ratingCount": 14,
       "created": "2026-06-17T09:46:58.552158Z",
       "updated": "2026-06-17T09:46:58.552158Z",
       "chartUpdated": "2026-06-17T09:46:58.552158Z"
@@ -615,7 +615,7 @@
         "plain"
       ],
       "rating": 0.8779478,
-      "ratingCount": 68,
+      "ratingCount": 78,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
       "chartUpdated": "2026-06-16T12:45:47.142817Z"
@@ -646,8 +646,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8779753,
-      "ratingCount": 8,
+      "rating": 0.89161366,
+      "ratingCount": 13,
       "created": "2026-06-16T12:13:15.668071Z",
       "updated": "2026-06-16T12:13:15.668071Z",
       "chartUpdated": "2026-06-16T12:13:15.668071Z"
@@ -678,8 +678,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.90471226,
-      "ratingCount": 971,
+      "rating": 0.90627354,
+      "ratingCount": 2076,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
       "chartUpdated": "2026-06-16T12:13:07.655145Z"
@@ -710,11 +710,39 @@
         "协",
         "plain"
       ],
-      "rating": 0.89138466,
-      "ratingCount": 205,
+      "rating": 0.8936167,
+      "ratingCount": 493,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
       "chartUpdated": "2026-06-16T12:13:00.641984Z"
+    },
+    {
+      "id": 61003,
+      "name": "time machine",
+      "level": "弱切 Lv.21",
+      "difficulty": 5.5,
+      "charter": "TrikalineINF",
+      "composer": "aren park",
+      "illustrator": "",
+      "description": "第三张谱，比较长哦",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a7a09567-21cd-405e-b8b3-677a322019e6",
+      "preview": "https://phira.5wyxi.com/files/60c75a8c-038e-4a96-9cc2-1a5ae55649d1",
+      "file": "https://phira.5wyxi.com/files/b4f0812e-5326-458f-9773-2d1c95804554",
+      "uploader": 1526157,
+      "tags": [
+        "4K",
+        "耐",
+        "plain"
+      ],
+      "rating": 0.81776464,
+      "ratingCount": 253,
+      "created": "2026-06-14T13:34:28.668403Z",
+      "updated": "2026-06-14T13:34:28.668403Z",
+      "chartUpdated": "2026-06-14T13:34:28.668403Z"
     },
     {
       "id": 60931,
@@ -737,7 +765,7 @@
         "plain"
       ],
       "rating": 0.8368764,
-      "ratingCount": 8,
+      "ratingCount": 10,
       "created": "2026-06-14T05:54:39.030539Z",
       "updated": "2026-06-14T05:54:39.030539Z",
       "chartUpdated": "2026-06-14T05:54:39.030539Z"
@@ -762,8 +790,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9155251,
-      "ratingCount": 37,
+      "rating": 0.91897947,
+      "ratingCount": 45,
       "created": "2026-06-13T17:47:04.436391Z",
       "updated": "2026-06-13T17:47:04.436391Z",
       "chartUpdated": "2026-06-13T17:47:04.436391Z"
@@ -789,7 +817,7 @@
         "plain"
       ],
       "rating": 0.8679112,
-      "ratingCount": 75,
+      "ratingCount": 76,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-13T01:34:18.229771Z",
       "chartUpdated": "2026-06-06T09:17:57.902452Z"
@@ -816,42 +844,11 @@
         "叠",
         "plain"
       ],
-      "rating": 0.891981,
-      "ratingCount": 5,
+      "rating": 0.87880147,
+      "ratingCount": 21,
       "created": "2026-06-12T16:11:57.933615Z",
       "updated": "2026-06-12T16:11:57.933615Z",
       "chartUpdated": "2026-06-12T16:11:57.933615Z"
-    },
-    {
-      "id": 60678,
-      "name": "c.s.q.n.",
-      "level": "Absence Lv.15",
-      "difficulty": 17.7,
-      "charter": "TEC109",
-      "composer": "Aoi",
-      "illustrator": "",
-      "description": "本人上传\n503/2100，97.65%\n平平无奇的一张\n双指高难谱面，多指谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5bcf8a55-ccac-48a2-96b0-f785c433cc4b",
-      "preview": "https://phira.5wyxi.com/files/97240984-a6b3-489d-8028-7579e60291f7",
-      "file": "https://phira.5wyxi.com/files/c2d9157b-d3dd-4aef-b83c-2b86fce44348",
-      "uploader": 2398941,
-      "tags": [
-        "DFC",
-        "双指",
-        "叠",
-        "爆发",
-        "锚键",
-        "plain"
-      ],
-      "rating": 0.86922884,
-      "ratingCount": 8,
-      "created": "2026-06-12T09:48:26.329355Z",
-      "updated": "2026-06-12T09:48:26.329355Z",
-      "chartUpdated": "2026-06-12T09:48:26.329355Z"
     }
   ]
 }
