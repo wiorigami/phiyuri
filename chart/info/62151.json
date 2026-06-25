@@ -13,11 +13,11 @@
   "name": "ビビデバ",
   "preview": "https://phira.5wyxi.com/files/2e441c1b-0d95-4f9e-950f-3486366cc6c2",
   "ranked": false,
-  "rating": 0.87421036,
-  "ratingCount": 91,
-  "reviewed": false,
+  "rating": 0.89839673,
+  "ratingCount": 214,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
