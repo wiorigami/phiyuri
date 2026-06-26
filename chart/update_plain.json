@@ -1,6 +1,35 @@
 {
-  "count": 3064,
+  "count": 3063,
   "results": [
+    {
+      "id": 61278,
+      "name": "Vibro Ju1uo Dan",
+      "level": "Vibro Lv.Ju1uo",
+      "difficulty": 9.0999975,
+      "charter": "Lovely_Ju1uo",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "本人上传\n微波聚落蛋震撼来袭！\nControl: Fragmentation1.05x----(183.75bpm)\nDense: Anybody can find love(except you.)1.3x----(249.1489bpm)\nDurable: Angel Dust1.1x----(187bpm)\n修改Fragmentation倍速及排键，修改天使尘排键",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8caeb35b-b32f-4d56-a62e-7658124710b8",
+      "preview": "https://phira.5wyxi.com/files/fa6647d3-2213-4119-bba7-5896f4dec299",
+      "file": "https://phira.5wyxi.com/files/a13b950e-ed64-4eca-b798-aad450eef958",
+      "uploader": 2374541,
+      "tags": [
+        "vibro",
+        "4k",
+        "ju1uoisgay",
+        "plain"
+      ],
+      "rating": 0.8678234,
+      "ratingCount": 7,
+      "created": "2026-06-18T11:15:12.778547Z",
+      "updated": "2026-06-25T03:29:20.897515Z",
+      "chartUpdated": "2026-06-25T03:29:20.897515Z"
+    },
     {
       "id": 62161,
       "name": "From The Start",
@@ -22,8 +51,8 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8981395,
-      "ratingCount": 196,
+      "rating": 0.8823398,
+      "ratingCount": 312,
       "created": "2026-06-23T11:03:49.092979Z",
       "updated": "2026-06-23T11:03:49.092979Z",
       "chartUpdated": "2026-06-23T11:03:49.092979Z"
@@ -52,8 +81,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.9085166,
-      "ratingCount": 28,
+      "rating": 0.91105515,
+      "ratingCount": 40,
       "created": "2026-06-22T17:55:06.040286Z",
       "updated": "2026-06-22T17:55:06.040286Z",
       "chartUpdated": "2026-06-22T17:55:06.040286Z"
@@ -78,8 +107,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9447674,
-      "ratingCount": 83,
+      "rating": 0.94450325,
+      "ratingCount": 113,
       "created": "2026-06-22T04:19:54.795597Z",
       "updated": "2026-06-22T04:19:54.795597Z",
       "chartUpdated": "2026-06-22T04:19:54.795597Z"
@@ -104,8 +133,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9158216,
-      "ratingCount": 103,
+      "rating": 0.9146066,
+      "ratingCount": 126,
       "created": "2026-06-21T04:01:15.744270Z",
       "updated": "2026-06-21T04:01:15.744270Z",
       "chartUpdated": "2026-06-21T04:01:15.744270Z"
@@ -130,8 +159,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8996429,
-      "ratingCount": 228,
+      "rating": 0.8938193,
+      "ratingCount": 282,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
       "chartUpdated": "2026-06-20T11:18:03.235836Z"
@@ -156,8 +185,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8330406,
-      "ratingCount": 107,
+      "rating": 0.835118,
+      "ratingCount": 112,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
       "chartUpdated": "2026-06-20T04:40:24.421039Z"
@@ -184,8 +213,8 @@
         "laur",
         "plain"
       ],
-      "rating": 0.8806625,
-      "ratingCount": 19,
+      "rating": 0.8817841,
+      "ratingCount": 22,
       "created": "2026-06-20T04:32:18.570763Z",
       "updated": "2026-06-20T04:32:18.570763Z",
       "chartUpdated": "2026-06-20T04:32:18.570763Z"
@@ -237,8 +266,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85789365,
-      "ratingCount": 18,
+      "rating": 0.85942674,
+      "ratingCount": 25,
       "created": "2026-06-19T16:11:29.499164Z",
       "updated": "2026-06-19T16:11:29.499164Z",
       "chartUpdated": "2026-06-19T16:11:29.499164Z"
@@ -296,8 +325,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.88159287,
-      "ratingCount": 13,
+      "rating": 0.8907115,
+      "ratingCount": 17,
       "created": "2026-06-18T19:51:45.793157Z",
       "updated": "2026-06-18T19:51:45.793157Z",
       "chartUpdated": "2026-06-18T19:51:45.793157Z"
@@ -359,8 +388,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.90395874,
-      "ratingCount": 23,
+      "rating": 0.91049916,
+      "ratingCount": 25,
       "created": "2026-06-18T16:47:01.153913Z",
       "updated": "2026-06-18T16:47:01.153913Z",
       "chartUpdated": "2026-06-18T16:47:01.153913Z"
@@ -391,8 +420,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8297642,
-      "ratingCount": 7,
+      "rating": 0.84266,
+      "ratingCount": 8,
       "created": "2026-06-18T16:46:53.502030Z",
       "updated": "2026-06-18T16:46:53.502030Z",
       "chartUpdated": "2026-06-18T16:46:53.502030Z"
@@ -423,8 +452,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.9145961,
-      "ratingCount": 25,
+      "rating": 0.9200514,
+      "ratingCount": 27,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
       "chartUpdated": "2026-06-18T16:46:44.891447Z"
@@ -449,40 +478,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93036836,
-      "ratingCount": 149,
+      "rating": 0.93050754,
+      "ratingCount": 156,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
       "chartUpdated": "2026-06-18T14:23:06.797253Z"
-    },
-    {
-      "id": 61278,
-      "name": "Vibro Ju1uo Dan",
-      "level": "Vibro Lv.Ju1uo",
-      "difficulty": 9.0999975,
-      "charter": "Lovely_Ju1uo",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本人上传\n微波聚落蛋震撼来袭！\nControl: fragmentation----(175bpm)\nDense: Anybody can find love(except you.)1.3x----(249.1489bpm)\nStamina: Angel Dust1.1x----(187bpm)",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c0a9f587-5788-4ce0-9fc3-72bdefed313b",
-      "preview": "https://phira.5wyxi.com/files/eab36aa3-ae2b-4965-bbd5-710339534a07",
-      "file": "https://phira.5wyxi.com/files/91ed95f4-8c3a-47a0-859f-e8b790e5e490",
-      "uploader": 2374541,
-      "tags": [
-        "vibro",
-        "4k",
-        "ju1uoisgay",
-        "plain"
-      ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
-      "created": "2026-06-18T11:15:12.778547Z",
-      "updated": "2026-06-18T11:15:12.778547Z",
-      "chartUpdated": "2026-06-18T11:15:12.778547Z"
     },
     {
       "id": 61252,
@@ -504,8 +504,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89669883,
-      "ratingCount": 41,
+      "rating": 0.8989513,
+      "ratingCount": 42,
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
       "chartUpdated": "2026-06-18T07:43:33.156445Z"
@@ -530,8 +530,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9094515,
-      "ratingCount": 25,
+      "rating": 0.9181381,
+      "ratingCount": 37,
       "created": "2026-06-17T17:32:42.112219Z",
       "updated": "2026-06-17T17:32:42.112219Z",
       "chartUpdated": "2026-06-17T17:32:42.112219Z"
@@ -583,8 +583,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8929139,
-      "ratingCount": 14,
+      "rating": 0.902731,
+      "ratingCount": 21,
       "created": "2026-06-17T09:46:58.552158Z",
       "updated": "2026-06-17T09:46:58.552158Z",
       "chartUpdated": "2026-06-17T09:46:58.552158Z"
@@ -614,8 +614,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8779478,
-      "ratingCount": 78,
+      "rating": 0.87446314,
+      "ratingCount": 81,
       "created": "2026-06-16T12:45:47.142817Z",
       "updated": "2026-06-16T12:45:47.142817Z",
       "chartUpdated": "2026-06-16T12:45:47.142817Z"
@@ -678,8 +678,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.90627354,
-      "ratingCount": 2076,
+      "rating": 0.9076098,
+      "ratingCount": 2278,
       "created": "2026-06-16T12:13:07.655145Z",
       "updated": "2026-06-16T12:13:07.655145Z",
       "chartUpdated": "2026-06-16T12:13:07.655145Z"
@@ -710,8 +710,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.8936167,
-      "ratingCount": 493,
+      "rating": 0.89370966,
+      "ratingCount": 533,
       "created": "2026-06-16T12:13:00.641984Z",
       "updated": "2026-06-16T12:13:00.641984Z",
       "chartUpdated": "2026-06-16T12:13:00.641984Z"
@@ -738,8 +738,8 @@
         "耐",
         "plain"
       ],
-      "rating": 0.81776464,
-      "ratingCount": 253,
+      "rating": 0.8187392,
+      "ratingCount": 263,
       "created": "2026-06-14T13:34:28.668403Z",
       "updated": "2026-06-14T13:34:28.668403Z",
       "chartUpdated": "2026-06-14T13:34:28.668403Z"
@@ -764,8 +764,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8368764,
-      "ratingCount": 10,
+      "rating": 0.8470873,
+      "ratingCount": 11,
       "created": "2026-06-14T05:54:39.030539Z",
       "updated": "2026-06-14T05:54:39.030539Z",
       "chartUpdated": "2026-06-14T05:54:39.030539Z"
@@ -816,8 +816,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8679112,
-      "ratingCount": 76,
+      "rating": 0.8683126,
+      "ratingCount": 77,
       "created": "2026-06-06T09:17:57.902452Z",
       "updated": "2026-06-13T01:34:18.229771Z",
       "chartUpdated": "2026-06-06T09:17:57.902452Z"
