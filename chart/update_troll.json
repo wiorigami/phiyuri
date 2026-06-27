@@ -1,5 +1,5 @@
 {
-  "count": 663,
+  "count": 662,
   "results": [
     {
       "id": 61747,
@@ -21,8 +21,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8381394,
-      "ratingCount": 15,
+      "rating": 0.8255814,
+      "ratingCount": 17,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
@@ -49,8 +49,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9634293,
-      "ratingCount": 209,
+      "rating": 0.96314406,
+      "ratingCount": 210,
       "created": "2026-02-07T14:56:35.625544Z",
       "updated": "2026-06-20T09:57:05.485341Z",
       "chartUpdated": "2026-02-07T14:56:35.625544Z"
@@ -76,8 +76,8 @@
         "Minecraft",
         "troll"
       ],
-      "rating": 0.93387175,
-      "ratingCount": 15680,
+      "rating": 0.93242395,
+      "ratingCount": 17640,
       "created": "2026-06-13T02:21:27.077415Z",
       "updated": "2026-06-13T02:21:27.077415Z",
       "chartUpdated": "2026-06-13T02:21:27.077415Z"
@@ -102,8 +102,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7881266,
-      "ratingCount": 3276,
+      "rating": 0.7886872,
+      "ratingCount": 3461,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -130,8 +130,8 @@
         "纵连",
         "troll"
       ],
-      "rating": 0.91645026,
-      "ratingCount": 37,
+      "rating": 0.91615033,
+      "ratingCount": 38,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
       "chartUpdated": "2026-06-07T12:21:29.348521Z"
@@ -156,11 +156,37 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.74070513,
-      "ratingCount": 7,
+      "rating": 0.75754917,
+      "ratingCount": 10,
       "created": "2026-06-03T17:52:18.327223Z",
       "updated": "2026-06-03T17:52:18.327223Z",
       "chartUpdated": "2026-06-03T17:52:18.327223Z"
+    },
+    {
+      "id": 58838,
+      "name": "SOFA AWAY",
+      "level": "SOFA Lv. AWAY",
+      "difficulty": 10.0,
+      "charter": "SAWA AWAY",
+      "composer": "M/D/J/R",
+      "illustrator": "",
+      "description": "小时候刚拿到rpe花15分钟写着玩的，不用太认真XwX。                                                                本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0ffcd3c4-54a8-4ded-9d88-c5f2c166e798",
+      "preview": "https://phira.5wyxi.com/files/1304e7aa-4db0-41ad-8ee9-714f476f25af",
+      "file": "https://phira.5wyxi.com/files/157b2cec-6bee-4b37-bdbe-0781368e190d",
+      "uploader": 1336708,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.82647336,
+      "ratingCount": 18,
+      "created": "2026-05-22T15:09:41.771882Z",
+      "updated": "2026-05-22T15:09:41.771882Z",
+      "chartUpdated": "2026-05-22T15:09:41.771882Z"
     },
     {
       "id": 58259,
@@ -183,8 +209,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.933904,
-      "ratingCount": 212,
+      "rating": 0.9331895,
+      "ratingCount": 230,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -209,8 +235,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.756906,
-      "ratingCount": 396,
+      "rating": 0.75771934,
+      "ratingCount": 406,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
@@ -235,8 +261,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8062335,
-      "ratingCount": 1188,
+      "rating": 0.8057631,
+      "ratingCount": 1196,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
       "chartUpdated": "2026-05-04T07:00:01.181555Z"
@@ -261,8 +287,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9176824,
-      "ratingCount": 212,
+      "rating": 0.91844213,
+      "ratingCount": 215,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
@@ -287,8 +313,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9640882,
-      "ratingCount": 243,
+      "rating": 0.9604252,
+      "ratingCount": 333,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -313,8 +339,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7835616,
-      "ratingCount": 145,
+      "rating": 0.7840796,
+      "ratingCount": 148,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
@@ -339,8 +365,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.74381936,
-      "ratingCount": 60,
+      "rating": 0.7556449,
+      "ratingCount": 63,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
       "chartUpdated": "2026-04-20T11:21:03.671434Z"
@@ -365,8 +391,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8591501,
-      "ratingCount": 95,
+      "rating": 0.8585946,
+      "ratingCount": 96,
       "created": "2026-04-06T10:27:15.869511Z",
       "updated": "2026-04-18T16:41:21.792059Z",
       "chartUpdated": "2026-04-06T10:27:15.869511Z"
@@ -391,8 +417,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85850793,
-      "ratingCount": 113,
+      "rating": 0.8558236,
+      "ratingCount": 114,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
       "chartUpdated": "2026-04-18T03:36:17.744941Z"
@@ -419,8 +445,8 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.91057116,
-      "ratingCount": 597,
+      "rating": 0.90941,
+      "ratingCount": 599,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
@@ -475,8 +501,8 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.9305802,
-      "ratingCount": 592,
+      "rating": 0.9291375,
+      "ratingCount": 603,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
@@ -501,8 +527,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89965194,
-      "ratingCount": 1199,
+      "rating": 0.9005738,
+      "ratingCount": 1213,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
       "chartUpdated": "2026-04-11T02:47:02.705037Z"
@@ -528,8 +554,8 @@
         "神圣之谱",
         "troll"
       ],
-      "rating": 0.8577827,
-      "ratingCount": 1498,
+      "rating": 0.8578294,
+      "ratingCount": 1504,
       "created": "2026-04-05T00:29:18.191159Z",
       "updated": "2026-04-05T00:29:18.191159Z",
       "chartUpdated": "2026-04-05T00:29:18.191159Z"
@@ -554,8 +580,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9136472,
-      "ratingCount": 90,
+      "rating": 0.9090993,
+      "ratingCount": 92,
       "created": "2026-04-03T11:48:28.880907Z",
       "updated": "2026-04-03T11:48:28.880907Z",
       "chartUpdated": "2026-04-03T11:48:28.880907Z"
@@ -610,8 +636,8 @@
         "0thPecJam",
         "troll"
       ],
-      "rating": 0.894493,
-      "ratingCount": 143,
+      "rating": 0.895252,
+      "ratingCount": 145,
       "created": "2026-03-31T18:48:24.785421Z",
       "updated": "2026-03-31T18:48:24.785421Z",
       "chartUpdated": "2026-03-31T18:48:24.785421Z"
@@ -688,8 +714,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89972764,
-      "ratingCount": 638,
+      "rating": 0.8997486,
+      "ratingCount": 643,
       "created": "2026-03-30T13:48:31.572823Z",
       "updated": "2026-03-30T13:48:31.572823Z",
       "chartUpdated": "2026-03-30T13:48:31.572823Z"
@@ -714,8 +740,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8561915,
-      "ratingCount": 4071,
+      "rating": 0.8560678,
+      "ratingCount": 4086,
       "created": "2025-01-12T02:40:20.178132Z",
       "updated": "2026-03-21T02:27:46.280939Z",
       "chartUpdated": "2025-01-12T02:40:20.178132Z"
@@ -740,8 +766,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.92635363,
-      "ratingCount": 86,
+      "rating": 0.9250795,
+      "ratingCount": 87,
       "created": "2026-02-27T03:21:05.621399Z",
       "updated": "2026-03-20T02:02:49.312735Z",
       "chartUpdated": "2026-02-27T03:21:05.621399Z"
@@ -766,37 +792,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8479948,
-      "ratingCount": 267,
+      "rating": 0.8485862,
+      "ratingCount": 272,
       "created": "2026-03-14T14:00:41.921700Z",
       "updated": "2026-03-14T14:00:41.921700Z",
       "chartUpdated": "2026-03-14T14:00:41.921700Z"
-    },
-    {
-      "id": 47063,
-      "name": "You Suffer",
-      "level": "SP LV.1",
-      "difficulty": 1.9000002,
-      "charter": "123",
-      "composer": "nin",
-      "illustrator": "",
-      "description": "谱师本人上传\n第一次写谱，写得很史（？",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d442a942-c7d9-422d-9c06-582083b8c0c9",
-      "preview": "https://phira.5wyxi.com/files/1dc44c75-6cff-4c87-bf27-613401ac5336",
-      "file": "https://phira.5wyxi.com/files/08399015-394a-450b-af24-003ccff47be7",
-      "uploader": 1850237,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.83510494,
-      "ratingCount": 149,
-      "created": "2025-09-21T10:50:46.140609Z",
-      "updated": "2026-03-12T13:26:44.685741Z",
-      "chartUpdated": "2025-09-21T10:50:46.140609Z"
     }
   ]
 }
