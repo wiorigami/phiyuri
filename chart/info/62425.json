@@ -13,11 +13,11 @@
   "name": "MOBILYS",
   "preview": "https://phira.5wyxi.com/files/79ab2f78-456a-4925-91d1-3cb7acb22884",
   "ranked": false,
-  "rating": 0.86051667,
-  "ratingCount": 36,
-  "reviewed": false,
+  "rating": 0.79632115,
+  "ratingCount": 132,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

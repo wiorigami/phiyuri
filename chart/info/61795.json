@@ -13,14 +13,14 @@
   "name": "macro.wav",
   "preview": "https://phira.5wyxi.com/files/59ac3c5c-5267-4cf4-9789-b5c1c306eeef",
   "ranked": false,
-  "rating": 0.8055154,
-  "ratingCount": 40,
-  "reviewed": true,
+  "rating": 0.8040979,
+  "ratingCount": 61,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-21T00:09:33.133596Z",
+  "updated": "2026-06-27T10:09:58.453964Z",
   "uploader": 500275
 }

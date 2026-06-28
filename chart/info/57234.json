@@ -13,14 +13,14 @@
   "name": "CALL OF THE HEIGHTS",
   "preview": "https://phira.5wyxi.com/files/f16c1d21-0715-4a38-9259-dd4f646c8126",
   "ranked": false,
-  "rating": 0.76974595,
-  "ratingCount": 7,
-  "reviewed": true,
+  "rating": 0.8831379,
+  "ratingCount": 43,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-25T11:01:03.772603Z",
+  "updated": "2026-06-28T02:33:59.975443Z",
   "uploader": 614143
 }
