@@ -1,6 +1,119 @@
 {
-  "count": 3068,
+  "count": 3077,
   "results": [
+    {
+      "id": 61331,
+      "name": "SEISHUN://NO_HACKlNG",
+      "level": "AT",
+      "difficulty": 18.000002,
+      "charter": "句句qwq vs shly",
+      "composer": "takehirotei",
+      "illustrator": "",
+      "description": "@句句qwq#12401\n@深海鲈鱼#214000\n\nENJOY",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/fa1eeadb-d6af-4f76-983e-e84c91ba0bca",
+      "preview": "https://phira.5wyxi.com/files/f8da21d3-bb12-4cd2-aa60-88b53ead23b8",
+      "file": "https://phira.5wyxi.com/files/b2887a65-2c8f-46c6-adc3-e2ed2d34fcb7",
+      "uploader": 12401,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8900347,
+      "ratingCount": 16,
+      "created": "2026-06-18T16:09:59.638246Z",
+      "updated": "2026-06-28T03:52:45.938900Z",
+      "chartUpdated": "2026-06-18T16:09:59.638246Z"
+    },
+    {
+      "id": 62868,
+      "name": "BRACE FOR FRICKING IMPACT",
+      "level": "S1mple Lv.13",
+      "difficulty": 13.0,
+      "charter": "zzzb",
+      "composer": "かめりあ",
+      "illustrator": "",
+      "description": "@汁汁汁白\n速写了一张叠",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/60bd45ef-0cd1-4536-ae44-1a41865025ca",
+      "preview": "https://phira.5wyxi.com/files/0ad6fe84-5475-4363-bf12-938b810ef918",
+      "file": "https://phira.5wyxi.com/files/f96f78c9-31dc-4fb7-83e1-3255ebdb7312",
+      "uploader": 1637093,
+      "tags": [
+        "dfc",
+        "双指",
+        "叠",
+        "plain"
+      ],
+      "rating": 0.8732863,
+      "ratingCount": 9,
+      "created": "2026-06-27T16:41:54.935236Z",
+      "updated": "2026-06-27T16:41:54.935236Z",
+      "chartUpdated": "2026-06-27T16:41:54.935236Z"
+    },
+    {
+      "id": 62746,
+      "name": "Fragmentation(1.05x)",
+      "level": "Vibro Lv.87",
+      "difficulty": 87.0,
+      "charter": "Lovely_HuTao VS Ju1uo",
+      "composer": "Luze",
+      "illustrator": "",
+      "description": "本人上传\nbpm183.74",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e4fed0ff-308c-4c09-96bb-d0f9a8d83934",
+      "preview": "https://phira.5wyxi.com/files/5cdd1a09-3bc0-422d-a7d0-e9ead0ac93e4",
+      "file": "https://phira.5wyxi.com/files/0dde8780-92b8-4065-b1f6-47ab766e3718",
+      "uploader": 432532,
+      "tags": [
+        "4k",
+        "vibro",
+        "plain"
+      ],
+      "rating": 0.83194417,
+      "ratingCount": 12,
+      "created": "2026-06-27T08:45:07.215799Z",
+      "updated": "2026-06-27T08:45:07.215799Z",
+      "chartUpdated": "2026-06-27T08:45:07.215799Z"
+    },
+    {
+      "id": 62718,
+      "name": "Battle R41D",
+      "level": "4K Lv.26",
+      "difficulty": 16.700003,
+      "charter": "7",
+      "composer": "Se-U-Ra",
+      "illustrator": "",
+      "description": "新人初谱，Blophy官方谱师，B站搜索水汽7喵，无重名，请多多支持喵，因为上传谱面原曲绘有问题，因此自己画了一个，有点丑，能看就行()\n(此曲剪辑通过wildcanyon完成)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0e3b7743-8e1d-4e40-983a-197309752527",
+      "preview": "https://phira.5wyxi.com/files/3954a443-3841-43cf-8bde-5dc3a342460f",
+      "file": "https://phira.5wyxi.com/files/997c8843-ac8e-4343-a29f-c1b720e97587",
+      "uploader": 2175103,
+      "tags": [
+        "4K",
+        "键盘",
+        "切",
+        "技",
+        "plain"
+      ],
+      "rating": 0.8815307,
+      "ratingCount": 83,
+      "created": "2026-06-27T06:55:07.055646Z",
+      "updated": "2026-06-27T06:55:07.055646Z",
+      "chartUpdated": "2026-06-27T06:55:07.055646Z"
+    },
     {
       "id": 62581,
       "name": "初音狂奏曲第01番「彗惺」 (feat. 初音ミク)",
@@ -21,11 +134,38 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8491948,
-      "ratingCount": 8,
+      "rating": 0.89222944,
+      "ratingCount": 101,
       "created": "2026-06-26T13:28:34.489340Z",
       "updated": "2026-06-26T13:28:34.489340Z",
       "chartUpdated": "2026-06-26T13:28:34.489340Z"
+    },
+    {
+      "id": 62552,
+      "name": "Avataar ~Reincarnation of Kalpa~",
+      "level": "AT Lv.17",
+      "difficulty": 18.0,
+      "charter": "并点点",
+      "composer": "Scarlette a.k.a CrYmson",
+      "illustrator": "",
+      "description": "本人上传，使用malody slide模式制作",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9cee4b4b-a217-4c63-bc17-3963fa5547f0",
+      "preview": "https://phira.5wyxi.com/files/41e02357-d735-49d6-8f34-463997091606",
+      "file": "https://phira.5wyxi.com/files/495fed84-c44d-432d-8133-a275ef060786",
+      "uploader": 4433,
+      "tags": [
+        "高难",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-06-26T10:58:12.654520Z",
+      "updated": "2026-06-26T10:58:12.654520Z",
+      "chartUpdated": "2026-06-26T10:58:12.654520Z"
     },
     {
       "id": 62396,
@@ -47,8 +187,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85074544,
-      "ratingCount": 8,
+      "rating": 0.87724817,
+      "ratingCount": 15,
       "created": "2026-06-25T11:20:48.249354Z",
       "updated": "2026-06-25T11:20:48.249354Z",
       "chartUpdated": "2026-06-25T11:20:48.249354Z"
@@ -83,6 +223,34 @@
       "chartUpdated": "2026-06-25T03:29:20.897515Z"
     },
     {
+      "id": 62331,
+      "name": "Meta-Mysteria",
+      "level": "MT Lv.17",
+      "difficulty": 17.400002,
+      "charter": "Rakio vs ZincMeteor",
+      "composer": "DJ Noriken",
+      "illustrator": "",
+      "description": "与@ZENITH_UZQueen#675828（合作）的合作双指谱面，希望大家喜欢咪\n谱师本人上传\n—————————\nUZ：负责了摸鱼和睡觉\nZM：负责了在谱面上画画",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c7af47dd-bad3-4a68-9435-6f564cb5d40c",
+      "preview": "https://phira.5wyxi.com/files/ded1bc4f-eae5-4ff8-b82d-828245543bb3",
+      "file": "https://phira.5wyxi.com/files/ee012888-a56c-4227-83bf-86de21e5ed26",
+      "uploader": 142987,
+      "tags": [
+        "双指",
+        "简单",
+        "plain"
+      ],
+      "rating": 0.93233,
+      "ratingCount": 21,
+      "created": "2026-06-24T17:47:18.613700Z",
+      "updated": "2026-06-24T17:47:18.613700Z",
+      "chartUpdated": "2026-06-24T17:47:18.613700Z"
+    },
+    {
       "id": 62256,
       "name": "BUZZ CUTZ",
       "level": "Phosphenes Lv.17",
@@ -102,8 +270,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.78719807,
-      "ratingCount": 7,
+      "rating": 0.82950646,
+      "ratingCount": 10,
       "created": "2026-06-24T09:47:37.744935Z",
       "updated": "2026-06-24T09:47:37.744935Z",
       "chartUpdated": "2026-06-24T09:47:37.744935Z"
@@ -128,8 +296,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81567323,
-      "ratingCount": 4,
+      "rating": 0.89492923,
+      "ratingCount": 11,
       "created": "2026-06-24T03:33:21.196176Z",
       "updated": "2026-06-24T03:33:21.196176Z",
       "chartUpdated": "2026-06-24T03:33:21.196176Z"
@@ -155,8 +323,8 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8767012,
-      "ratingCount": 429,
+      "rating": 0.8671403,
+      "ratingCount": 648,
       "created": "2026-06-23T11:03:49.092979Z",
       "updated": "2026-06-23T11:03:49.092979Z",
       "chartUpdated": "2026-06-23T11:03:49.092979Z"
@@ -185,8 +353,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.90019625,
-      "ratingCount": 51,
+      "rating": 0.8873727,
+      "ratingCount": 59,
       "created": "2026-06-22T17:55:06.040286Z",
       "updated": "2026-06-22T17:55:06.040286Z",
       "chartUpdated": "2026-06-22T17:55:06.040286Z"
@@ -211,8 +379,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9436918,
-      "ratingCount": 141,
+      "rating": 0.9362416,
+      "ratingCount": 178,
       "created": "2026-06-22T04:19:54.795597Z",
       "updated": "2026-06-22T04:19:54.795597Z",
       "chartUpdated": "2026-06-22T04:19:54.795597Z"
@@ -240,8 +408,8 @@
         "BroJack",
         "plain"
       ],
-      "rating": 0.86019063,
-      "ratingCount": 7,
+      "rating": 0.9116919,
+      "ratingCount": 14,
       "created": "2026-06-21T08:53:46.402569Z",
       "updated": "2026-06-21T08:53:46.402569Z",
       "chartUpdated": "2026-06-21T08:53:46.402569Z"
@@ -266,8 +434,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9114628,
-      "ratingCount": 143,
+      "rating": 0.91701686,
+      "ratingCount": 165,
       "created": "2026-06-21T04:01:15.744270Z",
       "updated": "2026-06-21T04:01:15.744270Z",
       "chartUpdated": "2026-06-21T04:01:15.744270Z"
@@ -292,8 +460,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89609534,
-      "ratingCount": 321,
+      "rating": 0.90251005,
+      "ratingCount": 383,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
       "chartUpdated": "2026-06-20T11:18:03.235836Z"
@@ -318,8 +486,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8336736,
-      "ratingCount": 116,
+      "rating": 0.8409537,
+      "ratingCount": 122,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
       "chartUpdated": "2026-06-20T04:40:24.421039Z"
@@ -346,8 +514,8 @@
         "laur",
         "plain"
       ],
-      "rating": 0.8938751,
-      "ratingCount": 25,
+      "rating": 0.9093728,
+      "ratingCount": 30,
       "created": "2026-06-20T04:32:18.570763Z",
       "updated": "2026-06-20T04:32:18.570763Z",
       "chartUpdated": "2026-06-20T04:32:18.570763Z"
@@ -373,8 +541,8 @@
         "6K",
         "plain"
       ],
-      "rating": 0.80552316,
-      "ratingCount": 3,
+      "rating": 0.8257282,
+      "ratingCount": 4,
       "created": "2026-06-19T16:17:10.089411Z",
       "updated": "2026-06-19T16:17:10.089411Z",
       "chartUpdated": "2026-06-19T16:17:10.089411Z"
@@ -399,8 +567,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84709024,
-      "ratingCount": 30,
+      "rating": 0.8482683,
+      "ratingCount": 34,
       "created": "2026-06-19T16:11:29.499164Z",
       "updated": "2026-06-19T16:11:29.499164Z",
       "chartUpdated": "2026-06-19T16:11:29.499164Z"
@@ -431,8 +599,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.90325046,
-      "ratingCount": 16,
+      "rating": 0.91900337,
+      "ratingCount": 20,
       "created": "2026-06-19T03:16:13.082637Z",
       "updated": "2026-06-19T03:16:13.082637Z",
       "chartUpdated": "2026-06-19T03:16:13.082637Z"
@@ -458,8 +626,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8955453,
-      "ratingCount": 18,
+      "rating": 0.8861709,
+      "ratingCount": 20,
       "created": "2026-06-18T19:51:45.793157Z",
       "updated": "2026-06-18T19:51:45.793157Z",
       "chartUpdated": "2026-06-18T19:51:45.793157Z"
@@ -489,8 +657,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.9004457,
-      "ratingCount": 28,
+      "rating": 0.90677035,
+      "ratingCount": 33,
       "created": "2026-06-18T16:49:12.619164Z",
       "updated": "2026-06-18T16:49:12.619164Z",
       "chartUpdated": "2026-06-18T16:49:12.619164Z"
@@ -521,8 +689,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.9131713,
-      "ratingCount": 27,
+      "rating": 0.9105527,
+      "ratingCount": 31,
       "created": "2026-06-18T16:47:01.153913Z",
       "updated": "2026-06-18T16:47:01.153913Z",
       "chartUpdated": "2026-06-18T16:47:01.153913Z"
@@ -553,8 +721,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.84266,
-      "ratingCount": 8,
+      "rating": 0.8635027,
+      "ratingCount": 10,
       "created": "2026-06-18T16:46:53.502030Z",
       "updated": "2026-06-18T16:46:53.502030Z",
       "chartUpdated": "2026-06-18T16:46:53.502030Z"
@@ -585,37 +753,11 @@
         "协",
         "plain"
       ],
-      "rating": 0.92705584,
-      "ratingCount": 30,
+      "rating": 0.9303973,
+      "ratingCount": 33,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
       "chartUpdated": "2026-06-18T16:46:44.891447Z"
-    },
-    {
-      "id": 61331,
-      "name": "SEISHUN://NO_HACKlNG",
-      "level": "AT",
-      "difficulty": 18.000002,
-      "charter": "句句qwq vs shly",
-      "composer": "takehirotei",
-      "illustrator": "",
-      "description": "@句句qwq#12401\n@深海鲈鱼#214000\n\nENJOY",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fa1eeadb-d6af-4f76-983e-e84c91ba0bca",
-      "preview": "https://phira.5wyxi.com/files/f8da21d3-bb12-4cd2-aa60-88b53ead23b8",
-      "file": "https://phira.5wyxi.com/files/b2887a65-2c8f-46c6-adc3-e2ed2d34fcb7",
-      "uploader": 12401,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.79625374,
-      "ratingCount": 4,
-      "created": "2026-06-18T16:09:59.638246Z",
-      "updated": "2026-06-18T16:09:59.638246Z",
-      "chartUpdated": "2026-06-18T16:09:59.638246Z"
     },
     {
       "id": 61310,
@@ -637,8 +779,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9332594,
-      "ratingCount": 164,
+      "rating": 0.9329067,
+      "ratingCount": 173,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
       "chartUpdated": "2026-06-18T14:23:06.797253Z"
@@ -663,8 +805,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9031584,
-      "ratingCount": 45,
+      "rating": 0.89381987,
+      "ratingCount": 46,
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
       "chartUpdated": "2026-06-18T07:43:33.156445Z"
@@ -689,159 +831,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9223695,
-      "ratingCount": 46,
+      "rating": 0.93540484,
+      "ratingCount": 63,
       "created": "2026-06-17T17:32:42.112219Z",
       "updated": "2026-06-17T17:32:42.112219Z",
       "chartUpdated": "2026-06-17T17:32:42.112219Z"
-    },
-    {
-      "id": 61200,
-      "name": "Dan ~ Journey to the Center of the Earth ~ [noname's DFC]",
-      "level": "Dan Lv.14",
-      "difficulty": 14.0,
-      "charter": "noname",
-      "composer": "Various Artsists",
-      "illustrator": "",
-      "description": "@noname大大#18912（chart）\n边缘acc=96.07\n过段acc=97.64\n后光acc=98.82\n击破acc=99.61\n全段drag 1950/8171",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6596aaf1-188e-44b9-adbf-659ff866ac77",
-      "preview": "https://phira.5wyxi.com/files/b80ba9b8-7b9c-4dc9-94b2-03d7d62d0033",
-      "file": "https://phira.5wyxi.com/files/dd0b12d2-db5e-462b-8637-ea4009dea7ef",
-      "uploader": 1834467,
-      "tags": [
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
-      "created": "2026-06-17T14:50:39.732863Z",
-      "updated": "2026-06-17T14:50:39.732863Z",
-      "chartUpdated": "2026-06-17T14:50:39.732863Z"
-    },
-    {
-      "id": 61173,
-      "name": "MTMTM",
-      "level": "4K  lv.17",
-      "difficulty": 17.0,
-      "charter": "小雨",
-      "composer": "TAK/Vo.初音ミク",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4dba4fd7-270c-4c55-bbf2-82162069fbd9",
-      "preview": "https://phira.5wyxi.com/files/29af7dab-0b72-4553-aa45-4cc0c0396431",
-      "file": "https://phira.5wyxi.com/files/cee3c6b7-9798-40d8-a0a5-0d60a056766c",
-      "uploader": 729009,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9127271,
-      "ratingCount": 25,
-      "created": "2026-06-17T09:46:58.552158Z",
-      "updated": "2026-06-17T09:46:58.552158Z",
-      "chartUpdated": "2026-06-17T09:46:58.552158Z"
-    },
-    {
-      "id": 61122,
-      "name": "HRS~ 6th Dan~",
-      "level": "Dan Lv.6",
-      "difficulty": 6.0000005,
-      "charter": "HRS-Team",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "HRS 6th Dan考核\nSync:Forever BPM:149.98 \nFlow:メズマライザー BPM:185 \nPattern:Heart Function BPM:185\nHRS交流群：1106507620",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/029f44e5-f7c5-4a85-bc35-7bdc548962fc",
-      "preview": "https://phira.5wyxi.com/files/6185f7b0-a99d-41ae-946b-ba766b2ada68",
-      "file": "https://phira.5wyxi.com/files/f99cfa20-cc55-4267-ad99-c902fe2114b9",
-      "uploader": 2460897,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "6",
-        "Dan",
-        "plain"
-      ],
-      "rating": 0.8731792,
-      "ratingCount": 83,
-      "created": "2026-06-16T12:45:47.142817Z",
-      "updated": "2026-06-16T12:45:47.142817Z",
-      "chartUpdated": "2026-06-16T12:45:47.142817Z"
-    },
-    {
-      "id": 61118,
-      "name": "Heart Function",
-      "level": "Pattern",
-      "difficulty": 6.5999985,
-      "charter": "HRS-Team",
-      "composer": "O2i3",
-      "illustrator": "",
-      "description": "HRS-Lv.6-Pattern单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2d173627-970c-4f71-a1c2-0423df13f39e",
-      "preview": "https://phira.5wyxi.com/files/85c85b55-7e7e-4699-8356-58e23435a601",
-      "file": "https://phira.5wyxi.com/files/82edf49a-3f2a-4b28-999f-edaeff356d64",
-      "uploader": 2460897,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "6",
-        "Pattern",
-        "瞬",
-        "plain"
-      ],
-      "rating": 0.89161366,
-      "ratingCount": 13,
-      "created": "2026-06-16T12:13:15.668071Z",
-      "updated": "2026-06-16T12:13:15.668071Z",
-      "chartUpdated": "2026-06-16T12:13:15.668071Z"
-    },
-    {
-      "id": 61117,
-      "name": "メズマライザー",
-      "level": "Flow",
-      "difficulty": 6.1999993,
-      "charter": "HRS-Team",
-      "composer": "サツキ（feat.初音ミク·重音テト）",
-      "illustrator": "",
-      "description": "HRS-Lv.6-Flow单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4435b775-a020-4d14-8f81-bd9693978860",
-      "preview": "https://phira.5wyxi.com/files/1bfc2b6a-9327-471e-9fbb-559e4a972e59",
-      "file": "https://phira.5wyxi.com/files/d3620977-e2ae-4459-b9e2-3db107d2d803",
-      "uploader": 2460897,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "6",
-        "Flow",
-        "幻",
-        "plain"
-      ],
-      "rating": 0.9076765,
-      "ratingCount": 2548,
-      "created": "2026-06-16T12:13:07.655145Z",
-      "updated": "2026-06-16T12:13:07.655145Z",
-      "chartUpdated": "2026-06-16T12:13:07.655145Z"
     }
   ]
 }
