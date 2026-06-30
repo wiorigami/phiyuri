@@ -1,5 +1,5 @@
 {
-  "count": 3077,
+  "count": 3079,
   "results": [
     {
       "id": 61331,
@@ -21,8 +21,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8900347,
-      "ratingCount": 16,
+      "rating": 0.91145295,
+      "ratingCount": 23,
       "created": "2026-06-18T16:09:59.638246Z",
       "updated": "2026-06-28T03:52:45.938900Z",
       "chartUpdated": "2026-06-18T16:09:59.638246Z"
@@ -50,8 +50,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8732863,
-      "ratingCount": 9,
+      "rating": 0.8851201,
+      "ratingCount": 21,
       "created": "2026-06-27T16:41:54.935236Z",
       "updated": "2026-06-27T16:41:54.935236Z",
       "chartUpdated": "2026-06-27T16:41:54.935236Z"
@@ -108,8 +108,8 @@
         "技",
         "plain"
       ],
-      "rating": 0.8815307,
-      "ratingCount": 83,
+      "rating": 0.88227487,
+      "ratingCount": 115,
       "created": "2026-06-27T06:55:07.055646Z",
       "updated": "2026-06-27T06:55:07.055646Z",
       "chartUpdated": "2026-06-27T06:55:07.055646Z"
@@ -134,8 +134,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89222944,
-      "ratingCount": 101,
+      "rating": 0.8819105,
+      "ratingCount": 142,
       "created": "2026-06-26T13:28:34.489340Z",
       "updated": "2026-06-26T13:28:34.489340Z",
       "chartUpdated": "2026-06-26T13:28:34.489340Z"
@@ -161,8 +161,8 @@
         "高难",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.80391383,
+      "ratingCount": 9,
       "created": "2026-06-26T10:58:12.654520Z",
       "updated": "2026-06-26T10:58:12.654520Z",
       "chartUpdated": "2026-06-26T10:58:12.654520Z"
@@ -187,8 +187,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87724817,
-      "ratingCount": 15,
+      "rating": 0.8831772,
+      "ratingCount": 16,
       "created": "2026-06-25T11:20:48.249354Z",
       "updated": "2026-06-25T11:20:48.249354Z",
       "chartUpdated": "2026-06-25T11:20:48.249354Z"
@@ -216,8 +216,8 @@
         "ju1uoisgay",
         "plain"
       ],
-      "rating": 0.8778362,
-      "ratingCount": 8,
+      "rating": 0.88649786,
+      "ratingCount": 9,
       "created": "2026-06-18T11:15:12.778547Z",
       "updated": "2026-06-25T03:29:20.897515Z",
       "chartUpdated": "2026-06-25T03:29:20.897515Z"
@@ -244,8 +244,8 @@
         "简单",
         "plain"
       ],
-      "rating": 0.93233,
-      "ratingCount": 21,
+      "rating": 0.9372921,
+      "ratingCount": 23,
       "created": "2026-06-24T17:47:18.613700Z",
       "updated": "2026-06-24T17:47:18.613700Z",
       "chartUpdated": "2026-06-24T17:47:18.613700Z"
@@ -270,8 +270,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82950646,
-      "ratingCount": 10,
+      "rating": 0.84388316,
+      "ratingCount": 12,
       "created": "2026-06-24T09:47:37.744935Z",
       "updated": "2026-06-24T09:47:37.744935Z",
       "chartUpdated": "2026-06-24T09:47:37.744935Z"
@@ -296,8 +296,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89492923,
-      "ratingCount": 11,
+      "rating": 0.90235233,
+      "ratingCount": 14,
       "created": "2026-06-24T03:33:21.196176Z",
       "updated": "2026-06-24T03:33:21.196176Z",
       "chartUpdated": "2026-06-24T03:33:21.196176Z"
@@ -323,11 +323,42 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8671403,
-      "ratingCount": 648,
+      "rating": 0.86906314,
+      "ratingCount": 721,
       "created": "2026-06-23T11:03:49.092979Z",
       "updated": "2026-06-23T11:03:49.092979Z",
       "chartUpdated": "2026-06-23T11:03:49.092979Z"
+    },
+    {
+      "id": 62082,
+      "name": "廿",
+      "level": "4k-εDan",
+      "difficulty": 0.0,
+      "charter": "StaFcol",
+      "composer": "DJ TECHNORCH",
+      "illustrator": "",
+      "description": "160bpm八分切！！\n4小时速写\n已上传osu社区\nb站:StaFcol\n谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/42d0cb50-a02e-44fa-9e82-0603a11d62e2",
+      "preview": "https://phira.5wyxi.com/files/b57b883d-4262-4326-9795-f3f07cb59441",
+      "file": "https://phira.5wyxi.com/files/cf45f107-8374-4263-ad83-8a49b9b73c4f",
+      "uploader": 14050,
+      "tags": [
+        "切",
+        "stream",
+        "stamina",
+        "4k",
+        "epsilon",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-06-22T20:33:42.763571Z",
+      "updated": "2026-06-22T20:33:42.763571Z",
+      "chartUpdated": "2026-06-22T20:33:42.763571Z"
     },
     {
       "id": 62072,
@@ -353,8 +384,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8873727,
-      "ratingCount": 59,
+      "rating": 0.88810515,
+      "ratingCount": 62,
       "created": "2026-06-22T17:55:06.040286Z",
       "updated": "2026-06-22T17:55:06.040286Z",
       "chartUpdated": "2026-06-22T17:55:06.040286Z"
@@ -379,8 +410,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9362416,
-      "ratingCount": 178,
+      "rating": 0.9387532,
+      "ratingCount": 187,
       "created": "2026-06-22T04:19:54.795597Z",
       "updated": "2026-06-22T04:19:54.795597Z",
       "chartUpdated": "2026-06-22T04:19:54.795597Z"
@@ -408,8 +439,8 @@
         "BroJack",
         "plain"
       ],
-      "rating": 0.9116919,
-      "ratingCount": 14,
+      "rating": 0.92396104,
+      "ratingCount": 17,
       "created": "2026-06-21T08:53:46.402569Z",
       "updated": "2026-06-21T08:53:46.402569Z",
       "chartUpdated": "2026-06-21T08:53:46.402569Z"
@@ -434,8 +465,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91701686,
-      "ratingCount": 165,
+      "rating": 0.9163566,
+      "ratingCount": 170,
       "created": "2026-06-21T04:01:15.744270Z",
       "updated": "2026-06-21T04:01:15.744270Z",
       "chartUpdated": "2026-06-21T04:01:15.744270Z"
@@ -460,8 +491,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90251005,
-      "ratingCount": 383,
+      "rating": 0.903765,
+      "ratingCount": 398,
       "created": "2026-06-20T11:18:03.235836Z",
       "updated": "2026-06-20T11:18:03.235836Z",
       "chartUpdated": "2026-06-20T11:18:03.235836Z"
@@ -486,8 +517,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8409537,
-      "ratingCount": 122,
+      "rating": 0.84281796,
+      "ratingCount": 126,
       "created": "2026-06-20T04:40:24.421039Z",
       "updated": "2026-06-20T04:40:24.421039Z",
       "chartUpdated": "2026-06-20T04:40:24.421039Z"
@@ -514,8 +545,8 @@
         "laur",
         "plain"
       ],
-      "rating": 0.9093728,
-      "ratingCount": 30,
+      "rating": 0.9166909,
+      "ratingCount": 33,
       "created": "2026-06-20T04:32:18.570763Z",
       "updated": "2026-06-20T04:32:18.570763Z",
       "chartUpdated": "2026-06-20T04:32:18.570763Z"
@@ -567,8 +598,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8482683,
-      "ratingCount": 34,
+      "rating": 0.85268295,
+      "ratingCount": 37,
       "created": "2026-06-19T16:11:29.499164Z",
       "updated": "2026-06-19T16:11:29.499164Z",
       "chartUpdated": "2026-06-19T16:11:29.499164Z"
@@ -599,8 +630,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.91900337,
-      "ratingCount": 20,
+      "rating": 0.9251345,
+      "ratingCount": 22,
       "created": "2026-06-19T03:16:13.082637Z",
       "updated": "2026-06-19T03:16:13.082637Z",
       "chartUpdated": "2026-06-19T03:16:13.082637Z"
@@ -626,8 +657,8 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8861709,
-      "ratingCount": 20,
+      "rating": 0.880864,
+      "ratingCount": 22,
       "created": "2026-06-18T19:51:45.793157Z",
       "updated": "2026-06-18T19:51:45.793157Z",
       "chartUpdated": "2026-06-18T19:51:45.793157Z"
@@ -721,8 +752,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8635027,
-      "ratingCount": 10,
+      "rating": 0.87203705,
+      "ratingCount": 11,
       "created": "2026-06-18T16:46:53.502030Z",
       "updated": "2026-06-18T16:46:53.502030Z",
       "chartUpdated": "2026-06-18T16:46:53.502030Z"
@@ -753,8 +784,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.9303973,
-      "ratingCount": 33,
+      "rating": 0.9322229,
+      "ratingCount": 34,
       "created": "2026-06-18T16:46:44.891447Z",
       "updated": "2026-06-18T16:46:44.891447Z",
       "chartUpdated": "2026-06-18T16:46:44.891447Z"
@@ -779,8 +810,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9329067,
-      "ratingCount": 173,
+      "rating": 0.93328774,
+      "ratingCount": 174,
       "created": "2026-06-18T14:23:06.797253Z",
       "updated": "2026-06-18T14:23:06.797253Z",
       "chartUpdated": "2026-06-18T14:23:06.797253Z"
@@ -810,32 +841,6 @@
       "created": "2026-06-18T07:43:33.156445Z",
       "updated": "2026-06-18T07:43:33.156445Z",
       "chartUpdated": "2026-06-18T07:43:33.156445Z"
-    },
-    {
-      "id": 61213,
-      "name": "Disorder",
-      "level": "4K  Lv.27",
-      "difficulty": 27.0,
-      "charter": "小雨",
-      "composer": "HyuN",
-      "illustrator": "",
-      "description": "本人上传，使用malody制作，好听就写了，我主要还是写ma谱的，phi的都是转谱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/29f7cef3-8ff9-4c63-b86c-59af4802f96c",
-      "preview": "https://phira.5wyxi.com/files/8dc6ac93-a49b-4432-bbe0-0c95c6f53c59",
-      "file": "https://phira.5wyxi.com/files/c4123d75-0e0d-4bf3-ab0a-e26a19122b27",
-      "uploader": 729009,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.93540484,
-      "ratingCount": 63,
-      "created": "2026-06-17T17:32:42.112219Z",
-      "updated": "2026-06-17T17:32:42.112219Z",
-      "chartUpdated": "2026-06-17T17:32:42.112219Z"
     }
   ]
 }
