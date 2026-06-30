@@ -13,11 +13,11 @@
   "name": "Future Downloader",
   "preview": "https://phira.5wyxi.com/files/d3693ad6-4c15-4504-b52e-5f16eb1e4257",
   "ranked": false,
-  "rating": 0.9389222,
-  "ratingCount": 128,
-  "reviewed": false,
+  "rating": 0.9389018,
+  "ratingCount": 181,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
