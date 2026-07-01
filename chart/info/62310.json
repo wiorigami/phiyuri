@@ -13,15 +13,15 @@
   "name": "Regression",
   "preview": "https://phira.5wyxi.com/files/18f51812-4a77-410a-b857-5be97401fa14",
   "ranked": false,
-  "rating": 0.94883615,
-  "ratingCount": 371,
-  "reviewed": true,
+  "rating": 0.95063597,
+  "ratingCount": 1303,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "崩坏",
     "regular"
   ],
-  "updated": "2026-06-24T15:37:22.184538Z",
+  "updated": "2026-06-30T16:55:09.697463Z",
   "uploader": 1414230
 }
