@@ -13,11 +13,11 @@
   "name": "Secret Illumination",
   "preview": "https://phira.5wyxi.com/files/7848c4db-234a-498b-95d4-b922723973dc",
   "ranked": false,
-  "rating": 0.90925753,
-  "ratingCount": 251,
-  "reviewed": false,
+  "rating": 0.91120535,
+  "ratingCount": 287,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

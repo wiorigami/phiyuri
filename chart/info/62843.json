@@ -13,11 +13,11 @@
   "name": "Execution Clap",
   "preview": "https://phira.5wyxi.com/files/68f986e2-d6ff-499e-b388-b44c7949dae9",
   "ranked": false,
-  "rating": 0.94611335,
-  "ratingCount": 1834,
-  "reviewed": false,
+  "rating": 0.9439336,
+  "ratingCount": 2782,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

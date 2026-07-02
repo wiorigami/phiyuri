@@ -13,14 +13,14 @@
   "name": "蒼天",
   "preview": "https://phira.5wyxi.com/files/876e9915-327e-41ff-a889-5d960b304b18",
   "ranked": false,
-  "rating": 0.89161366,
-  "ratingCount": 13,
-  "reviewed": true,
+  "rating": 0.9205947,
+  "ratingCount": 76,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-26T05:41:58.965583Z",
+  "updated": "2026-07-01T11:00:53.802650Z",
   "uploader": 1348525
 }

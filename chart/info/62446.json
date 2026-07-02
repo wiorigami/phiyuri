@@ -13,14 +13,14 @@
   "name": "Dream Away feat. Yukacco",
   "preview": "https://phira.5wyxi.com/files/3479ce32-4d63-4781-a0b4-cb18fb0b078c",
   "ranked": false,
-  "rating": 0.8893589,
-  "ratingCount": 189,
-  "reviewed": true,
+  "rating": 0.91172224,
+  "ratingCount": 261,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-25T15:41:46.765671Z",
+  "updated": "2026-07-02T01:51:43.299406Z",
   "uploader": 96647
 }

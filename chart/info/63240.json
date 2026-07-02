@@ -13,11 +13,11 @@
   "name": "numb numb",
   "preview": "https://phira.5wyxi.com/files/bc659c4b-1ef6-4301-b736-49b54959a483",
   "ranked": false,
-  "rating": 0.9533221,
-  "ratingCount": 282,
-  "reviewed": false,
+  "rating": 0.9583926,
+  "ratingCount": 467,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
