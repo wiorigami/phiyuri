@@ -13,11 +13,11 @@
   "name": "Spark!e",
   "preview": "https://phira.5wyxi.com/files/9664ad6f-4f0b-4caf-a1d0-cf20796e5e3c",
   "ranked": false,
-  "rating": 0.843288,
-  "ratingCount": 27,
-  "reviewed": false,
+  "rating": 0.8653238,
+  "ratingCount": 54,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
