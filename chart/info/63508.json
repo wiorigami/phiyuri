@@ -13,14 +13,14 @@
   "name": "crystallized",
   "preview": "https://phira.5wyxi.com/files/8640febf-b927-4e98-9dc5-10a64209f2ad",
   "ranked": false,
-  "rating": 0.84580696,
-  "ratingCount": 22,
-  "reviewed": true,
+  "rating": 0.84363407,
+  "ratingCount": 43,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-01T16:29:50.249468Z",
+  "updated": "2026-07-03T15:38:41.347590Z",
   "uploader": 167894
 }
