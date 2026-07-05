@@ -13,14 +13,14 @@
   "name": "Kwik Flip | YTPMV",
   "preview": "https://phira.5wyxi.com/files/799c714d-8af5-4b5b-b986-b2106d04fe89",
   "ranked": false,
-  "rating": 0.8734402,
-  "ratingCount": 23,
-  "reviewed": true,
+  "rating": 0.9223761,
+  "ratingCount": 140,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-02T05:12:32.321145Z",
+  "updated": "2026-07-04T05:39:33.077071Z",
   "uploader": 605509
 }

@@ -13,14 +13,14 @@
   "name": "Alfheim's Faith",
   "preview": "https://phira.5wyxi.com/files/72c14a0e-de4f-4c55-b3ff-d8e28c86a02a",
   "ranked": false,
-  "rating": 0.9252891,
-  "ratingCount": 174,
-  "reviewed": true,
+  "rating": 0.9250477,
+  "ratingCount": 247,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-01T01:37:49.199247Z",
+  "updated": "2026-07-04T15:45:21.577003Z",
   "uploader": 1302968
 }

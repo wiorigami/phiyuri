@@ -13,14 +13,14 @@
   "name": "Styx 257",
   "preview": "https://phira.5wyxi.com/files/a78964b4-97fa-423a-a966-54527b618537",
   "ranked": false,
-  "rating": 0.8136116,
-  "ratingCount": 14,
-  "reviewed": true,
+  "rating": 0.8431904,
+  "ratingCount": 44,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-28T03:27:24.765242Z",
+  "updated": "2026-07-04T10:32:00.477663Z",
   "uploader": 423037
 }

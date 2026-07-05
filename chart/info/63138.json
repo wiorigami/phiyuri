@@ -13,11 +13,11 @@
   "name": "STARDUST",
   "preview": "https://phira.5wyxi.com/files/afdf39cc-f425-4a0b-ab08-d6a134830c91",
   "ranked": false,
-  "rating": 0.89055115,
-  "ratingCount": 30,
-  "reviewed": true,
+  "rating": 0.8707645,
+  "ratingCount": 164,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "特效",
     "常规",
@@ -26,6 +26,6 @@
     "双指",
     "regular"
   ],
-  "updated": "2026-06-29T12:15:53.619050Z",
+  "updated": "2026-07-04T04:45:05.132657Z",
   "uploader": 1294187
 }
