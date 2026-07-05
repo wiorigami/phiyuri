@@ -1,6 +1,58 @@
 {
-  "count": 666,
+  "count": 669,
   "results": [
+    {
+      "id": 63997,
+      "name": "沟槽的美芬",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "YMEA&Lage&Pumpkin",
+      "composer": "王泽华Official",
+      "illustrator": "",
+      "description": "Kards金曲 & Kards金谱\n本来想写故事版的，懒得写了\n我的谱子被两个人改了两次，我感觉我太厉害了\nB站BV号（求支持）：\nBV1DpMw6yEsr\n@Lage#852606\n@南瓜58#482405\n@YMEA洋漫#5238\n\n快手 x 抖音 洋漫YMEA\n沟槽的冰岛人",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/1a3c17c4-4fff-48ad-a39b-cfd0ee07b40e",
+      "preview": "https://api.phira.cn/files/c3fb6a8a-0ef9-4ca1-9de7-92232e638d57",
+      "file": "https://api.phira.cn/files/053d86b4-fd8a-452c-b5db-3d26e08c0cc7",
+      "uploader": 2618148,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.9094428,
+      "ratingCount": 0,
+      "created": "2026-07-04T10:48:06.359493Z",
+      "updated": "2026-07-04T10:48:06.359493Z",
+      "chartUpdated": "2026-07-04T10:48:06.359493Z"
+    },
+    {
+      "id": 63893,
+      "name": "爹系男友喜欢吗",
+      "level": "AT Lv.22",
+      "difficulty": 16.0,
+      "charter": "份系谱师喜欢吗(MeowHell)",
+      "composer": "-Fewoi",
+      "illustrator": "",
+      "description": "B站关注 @梦幻不限量 喵～\n五星好评喵～\n本人上传喵～",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/c74bd5ad-f202-42b9-9aea-a9cbfe020384",
+      "preview": "https://api.phira.cn/files/f52a5730-f476-488e-a7ea-1f7764866c2c",
+      "file": "https://api.phira.cn/files/f73acdb3-6c18-41b5-8c0f-ed0ec4c094f3",
+      "uploader": 15214,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.89657974,
+      "ratingCount": 0,
+      "created": "2026-07-04T03:42:04.066332Z",
+      "updated": "2026-07-04T03:42:04.066332Z",
+      "chartUpdated": "2026-07-04T03:42:04.066332Z"
+    },
     {
       "id": 63695,
       "name": "哦去，我被老每的那撒追踪了",
@@ -22,8 +74,8 @@
         "无畏契约",
         "troll"
       ],
-      "rating": 0.90382516,
-      "ratingCount": 2056,
+      "rating": 0.8978691,
+      "ratingCount": 2295,
       "created": "2026-07-02T17:34:19.684286Z",
       "updated": "2026-07-02T17:34:19.684286Z",
       "chartUpdated": "2026-07-02T17:34:19.684286Z"
@@ -48,8 +100,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7669704,
-      "ratingCount": 3,
+      "rating": 0.79493296,
+      "ratingCount": 19,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -75,8 +127,8 @@
         "无畏契约",
         "troll"
       ],
-      "rating": 0.90932053,
-      "ratingCount": 9605,
+      "rating": 0.9097679,
+      "ratingCount": 9824,
       "created": "2026-06-26T05:48:25.148645Z",
       "updated": "2026-06-26T05:48:25.148645Z",
       "chartUpdated": "2026-06-26T05:48:25.148645Z"
@@ -101,8 +153,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.87786496,
-      "ratingCount": 3693,
+      "rating": 0.8784553,
+      "ratingCount": 3791,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
       "chartUpdated": "2026-06-24T05:20:29.857028Z"
@@ -127,8 +179,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8129925,
-      "ratingCount": 31,
+      "rating": 0.8178738,
+      "ratingCount": 32,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
@@ -155,7 +207,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9614129,
+      "rating": 0.9615876,
       "ratingCount": 217,
       "created": "2026-02-07T14:56:35.625544Z",
       "updated": "2026-06-20T09:57:05.485341Z",
@@ -182,8 +234,8 @@
         "Minecraft",
         "troll"
       ],
-      "rating": 0.92863697,
-      "ratingCount": 32304,
+      "rating": 0.928095,
+      "ratingCount": 32560,
       "created": "2026-06-13T02:21:27.077415Z",
       "updated": "2026-06-13T02:21:27.077415Z",
       "chartUpdated": "2026-06-13T02:21:27.077415Z"
@@ -208,8 +260,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7874816,
-      "ratingCount": 4683,
+      "rating": 0.7881002,
+      "ratingCount": 4690,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -262,7 +314,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7508099,
+      "rating": 0.73493034,
       "ratingCount": 13,
       "created": "2026-06-03T17:52:18.327223Z",
       "updated": "2026-06-03T17:52:18.327223Z",
@@ -288,8 +340,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8666956,
-      "ratingCount": 230,
+      "rating": 0.8688005,
+      "ratingCount": 233,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
       "chartUpdated": "2026-05-22T15:09:41.771882Z"
@@ -314,8 +366,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7455714,
-      "ratingCount": 4,
+      "rating": 0.8883088,
+      "ratingCount": 16,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -341,8 +393,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.92911476,
-      "ratingCount": 324,
+      "rating": 0.9195184,
+      "ratingCount": 330,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -367,8 +419,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75461656,
-      "ratingCount": 467,
+      "rating": 0.7540921,
+      "ratingCount": 468,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
@@ -393,8 +445,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8062181,
-      "ratingCount": 1249,
+      "rating": 0.8051499,
+      "ratingCount": 1251,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
       "chartUpdated": "2026-05-04T07:00:01.181555Z"
@@ -419,7 +471,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9145876,
+      "rating": 0.914899,
       "ratingCount": 226,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -445,8 +497,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94829977,
-      "ratingCount": 934,
+      "rating": 0.9507351,
+      "ratingCount": 947,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -471,8 +523,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76931065,
-      "ratingCount": 176,
+      "rating": 0.7783028,
+      "ratingCount": 181,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
@@ -549,7 +601,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.86850196,
+      "rating": 0.8652764,
       "ratingCount": 144,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -577,8 +629,8 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.90761626,
-      "ratingCount": 623,
+      "rating": 0.90788186,
+      "ratingCount": 625,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
@@ -633,8 +685,8 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.9258496,
-      "ratingCount": 647,
+      "rating": 0.9247239,
+      "ratingCount": 648,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
@@ -659,8 +711,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9002827,
-      "ratingCount": 1328,
+      "rating": 0.8999337,
+      "ratingCount": 1329,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
       "chartUpdated": "2026-04-11T02:47:02.705037Z"
@@ -686,8 +738,8 @@
         "神圣之谱",
         "troll"
       ],
-      "rating": 0.8534426,
-      "ratingCount": 1589,
+      "rating": 0.85190076,
+      "ratingCount": 1591,
       "created": "2026-04-05T00:29:18.191159Z",
       "updated": "2026-04-05T00:29:18.191159Z",
       "chartUpdated": "2026-04-05T00:29:18.191159Z"
@@ -712,7 +764,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89506286,
+      "rating": 0.8959872,
       "ratingCount": 110,
       "created": "2026-04-03T11:48:28.880907Z",
       "updated": "2026-04-03T11:48:28.880907Z",
@@ -746,59 +798,6 @@
       "created": "2026-04-03T07:59:38.648865Z",
       "updated": "2026-04-03T07:59:38.648865Z",
       "chartUpdated": "2026-04-03T07:59:38.648865Z"
-    },
-    {
-      "id": 54840,
-      "name": "明珠塔变成了防御塔的样子",
-      "level": "SP Lv.?",
-      "difficulty": 0.0,
-      "charter": "饮茶丶火柴人",
-      "composer": "咆哮丶土拨鼠",
-      "illustrator": "",
-      "description": "本来是DCC4参赛谱，等不及了拿去参加PJ0了。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/478980a8-7e28-47d7-8a76-a4bfd07ee5fd",
-      "preview": "https://phira.5wyxi.com/files/26219118-8257-4398-bff6-bc4c6cb25fcc",
-      "file": "https://phira.5wyxi.com/files/ffc15ebb-a441-4574-9563-a25abb884f1a",
-      "uploader": 812953,
-      "tags": [
-        "0thPecJam",
-        "troll"
-      ],
-      "rating": 0.8907313,
-      "ratingCount": 175,
-      "created": "2026-03-31T18:48:24.785421Z",
-      "updated": "2026-03-31T18:48:24.785421Z",
-      "chartUpdated": "2026-03-31T18:48:24.785421Z"
-    },
-    {
-      "id": 54833,
-      "name": "WRAITH.",
-      "level": "不知道难度",
-      "difficulty": 16.300001,
-      "charter": "风铃音符 vs. AmAtrue aka. 霓影 & 铃羽 with. 时零 @句",
-      "composer": "7xbi",
-      "illustrator": "",
-      "description": "算是一个失败的创新吧，我还有很多需要学习的地方。也是我头一次尝试特化sv，把很多的想法都融了进去。\n当时是看了BV1VW8vzUEUU之后就想试着自己写一个，所以很多配置都能在那里找到原型。这次也是借着愚人节的机会发出来(应该不会被喷的很吧555)\n特别鸣谢：使用malody制作配置，使用@起名钉子户 的Malody2Phigros进行转谱，使用@TG铁锅炖大鹅 的TPhi Editor制作特效等内容。\n本人上传。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f8d6c7f6-c84b-41e8-895c-a5dab72e7baa",
-      "preview": "https://phira.5wyxi.com/files/1f827b12-6f5d-4ef7-bfb4-86bef6f9962c",
-      "file": "https://phira.5wyxi.com/files/e389f3c7-172f-42b1-9ab0-64762e5d2ae4",
-      "uploader": 153302,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.80549145,
-      "ratingCount": 11,
-      "created": "2026-03-31T16:07:52.806561Z",
-      "updated": "2026-03-31T16:07:52.806561Z",
-      "chartUpdated": "2026-03-31T16:07:52.806561Z"
     }
   ]
 }
