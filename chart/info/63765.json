@@ -13,14 +13,14 @@
   "name": "选择你的宽带",
   "preview": "https://phira.5wyxi.com/files/f56ce0c2-d244-4cf6-bd1a-07a0f6ae54dd",
   "ranked": false,
-  "rating": 0.8460428,
-  "ratingCount": 20,
-  "reviewed": true,
+  "rating": 0.83274966,
+  "ratingCount": 53,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],
-  "updated": "2026-07-03T07:26:44.412701Z",
+  "updated": "2026-07-04T12:58:08.194835Z",
   "uploader": 1259251
 }
