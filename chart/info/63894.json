@@ -13,11 +13,11 @@
   "name": "さよなら異世界の旅",
   "preview": "https://phira.5wyxi.com/files/8ccd4e0b-3884-4114-8c4f-a1cf58ef02ec",
   "ranked": false,
-  "rating": 0.9268165,
-  "ratingCount": 43,
-  "reviewed": false,
+  "rating": 0.8813705,
+  "ratingCount": 102,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

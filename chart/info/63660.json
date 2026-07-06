@@ -13,14 +13,14 @@
   "name": "雑踏、僕らの街",
   "preview": "https://phira.5wyxi.com/files/2b49a21a-7188-4ab5-968d-a7cee99b4203",
   "ranked": false,
-  "rating": 0.8383333,
-  "ratingCount": 26,
-  "reviewed": true,
+  "rating": 0.86469644,
+  "ratingCount": 119,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-02T13:39:45.063837Z",
+  "updated": "2026-07-05T13:03:02.138967Z",
   "uploader": 1409304
 }

@@ -13,11 +13,11 @@
   "name": "Next Level",
   "preview": "https://phira.5wyxi.com/files/e7a8e9e9-aea8-4c9a-83da-75a6078ad533",
   "ranked": false,
-  "rating": 0.8574579,
-  "ratingCount": 153,
-  "reviewed": false,
+  "rating": 0.86280966,
+  "ratingCount": 159,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

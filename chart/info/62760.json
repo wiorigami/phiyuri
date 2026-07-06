@@ -13,14 +13,14 @@
   "name": "EMOMOMO",
   "preview": "https://phira.5wyxi.com/files/7e092b59-0b9a-46f2-8a05-5f0a03a0e910",
   "ranked": false,
-  "rating": 0.87342733,
-  "ratingCount": 72,
-  "reviewed": true,
+  "rating": 0.8877547,
+  "ratingCount": 113,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-27T09:35:23.576020Z",
+  "updated": "2026-07-05T18:24:40.230560Z",
   "uploader": 255184
 }
