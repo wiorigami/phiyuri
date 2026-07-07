@@ -1,0 +1,28 @@
+{
+  "chartUpdated": "2026-07-06T09:16:17.553560Z",
+  "charter": "TariR",
+  "composer": "わかどり",
+  "created": "2026-07-06T03:58:08.446255Z",
+  "description": null,
+  "difficulty": 15.1,
+  "file": "https://phira.5wyxi.com/files/058a447d-e53f-4b07-a175-35733b02fc8f",
+  "id": 64416,
+  "illustration": "https://phira.5wyxi.com/files/a1deda6f-e41d-4fdb-bfc6-6ccb033f9ef5",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "NightTheater",
+  "preview": "https://phira.5wyxi.com/files/ca7ee1b6-2379-4f7b-aa17-f8fc3868c4d4",
+  "ranked": false,
+  "rating": 0.89516884,
+  "ratingCount": 108,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "わかどり",
+    "NightTheater",
+    "regular"
+  ],
+  "updated": "2026-07-06T09:16:17.553560Z",
+  "uploader": 1527240
+}

@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-06-08T04:31:12.881167Z",
+  "charter": "666",
+  "composer": "ZUN",
+  "created": "2026-06-08T04:31:12.881167Z",
+  "description": null,
+  "difficulty": 14.999999,
+  "file": "https://phira.5wyxi.com/files/b4875357-b086-4829-a527-0f8f71559a80",
+  "id": 60358,
+  "illustration": "https://phira.5wyxi.com/files/7056de19-b560-4eda-a190-02d54c5dde76",
+  "illustrator": "",
+  "level": "15",
+  "name": "月まで届け、不死の煙",
+  "preview": "https://phira.5wyxi.com/files/a5452618-2e8f-44ef-8e0d-8139dc17e68c",
+  "ranked": false,
+  "rating": 0.71266747,
+  "ratingCount": 19,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-06T14:26:37.093806Z",
+  "uploader": 2414243
+}

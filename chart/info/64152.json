@@ -13,14 +13,14 @@
   "name": "痴人说梦",
   "preview": "https://phira.5wyxi.com/files/bb38052e-e8a2-4463-9bbc-e618cf0b7661",
   "ranked": false,
-  "rating": 0.9178392,
-  "ratingCount": 528,
-  "reviewed": true,
+  "rating": 0.91476965,
+  "ratingCount": 832,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-05T05:29:42.857313Z",
+  "updated": "2026-07-06T13:00:25.408337Z",
   "uploader": 1299470
 }
