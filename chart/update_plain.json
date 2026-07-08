@@ -1,6 +1,32 @@
 {
-  "count": 3090,
+  "count": 3097,
   "results": [
+    {
+      "id": 64478,
+      "name": "Overdrive",
+      "level": "ture 麻黑肉",
+      "difficulty": 18.6,
+      "charter": "ZEN_SGOD_ITH",
+      "composer": "Mahiro",
+      "illustrator": "",
+      "description": "S神/狐狸暑期谱面专辑 第一张\n@S神#87478（饲养）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/2a5802c9-3851-4176-aed4-de326d798547",
+      "preview": "https://api.phira.cn/files/5c39e293-079a-470d-9655-803d85765e24",
+      "file": "https://api.phira.cn/files/a1d63234-9834-4e48-9c3b-278d494cd549",
+      "uploader": 1786329,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-07-06T08:36:42.899995Z",
+      "updated": "2026-07-06T08:36:42.899995Z",
+      "chartUpdated": "2026-07-06T08:36:42.899995Z"
+    },
     {
       "id": 64344,
       "name": "HRS ~ 1st Dan ~ ",
@@ -26,8 +52,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.884407,
-      "ratingCount": 23,
+      "rating": 0.8836684,
+      "ratingCount": 40,
       "created": "2026-07-05T15:13:47.687368Z",
       "updated": "2026-07-05T15:13:47.687368Z",
       "chartUpdated": "2026-07-05T15:13:47.687368Z"
@@ -58,8 +84,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.89492923,
-      "ratingCount": 11,
+      "rating": 0.87987447,
+      "ratingCount": 12,
       "created": "2026-07-05T15:05:48.018442Z",
       "updated": "2026-07-05T15:05:48.018442Z",
       "chartUpdated": "2026-07-05T15:05:48.018442Z"
@@ -90,8 +116,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.86155546,
-      "ratingCount": 12,
+      "rating": 0.88666964,
+      "ratingCount": 14,
       "created": "2026-07-05T15:05:40.426219Z",
       "updated": "2026-07-05T15:05:40.426219Z",
       "chartUpdated": "2026-07-05T15:05:40.426219Z"
@@ -148,8 +174,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9420532,
-      "ratingCount": 11302,
+      "rating": 0.9420267,
+      "ratingCount": 11409,
       "created": "2025-07-22T13:04:07.026500Z",
       "updated": "2026-07-05T12:08:11.008644Z",
       "chartUpdated": "2025-07-22T13:04:07.026500Z"
@@ -174,8 +200,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9171675,
-      "ratingCount": 267,
+      "rating": 0.91726774,
+      "ratingCount": 300,
       "created": "2026-07-04T23:32:54.198032Z",
       "updated": "2026-07-04T23:32:54.198032Z",
       "chartUpdated": "2026-07-04T23:32:54.198032Z"
@@ -200,8 +226,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8152785,
-      "ratingCount": 69,
+      "rating": 0.82357264,
+      "ratingCount": 72,
       "created": "2026-07-03T07:26:44.412701Z",
       "updated": "2026-07-04T12:58:08.194835Z",
       "chartUpdated": "2026-07-03T07:26:44.412701Z"
@@ -228,7 +254,7 @@
         "无理",
         "plain"
       ],
-      "rating": 0.81940204,
+      "rating": 0.8096756,
       "ratingCount": 28,
       "created": "2026-07-03T16:24:30.187467Z",
       "updated": "2026-07-03T16:24:30.187467Z",
@@ -255,8 +281,8 @@
         "Minecraft",
         "plain"
       ],
-      "rating": 0.754746,
-      "ratingCount": 21,
+      "rating": 0.7642095,
+      "ratingCount": 22,
       "created": "2026-07-03T16:23:38.624917Z",
       "updated": "2026-07-03T16:23:38.624917Z",
       "chartUpdated": "2026-07-03T16:23:38.624917Z"
@@ -307,8 +333,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8603336,
-      "ratingCount": 10,
+      "rating": 0.8736301,
+      "ratingCount": 11,
       "created": "2026-07-02T03:26:45.867585Z",
       "updated": "2026-07-02T03:26:45.867585Z",
       "chartUpdated": "2026-07-02T03:26:45.867585Z"
@@ -333,8 +359,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91072375,
-      "ratingCount": 1852,
+      "rating": 0.9101916,
+      "ratingCount": 1951,
       "created": "2026-06-30T08:58:21.485510Z",
       "updated": "2026-06-30T08:58:21.485510Z",
       "chartUpdated": "2026-06-30T08:58:21.485510Z"
@@ -359,8 +385,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9085452,
-      "ratingCount": 178,
+      "rating": 0.9104877,
+      "ratingCount": 181,
       "created": "2026-06-29T18:49:48.927282Z",
       "updated": "2026-06-29T18:49:48.927282Z",
       "chartUpdated": "2026-06-29T18:49:48.927282Z"
@@ -385,7 +411,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8748875,
+      "rating": 0.87245476,
       "ratingCount": 19,
       "created": "2026-06-29T11:01:15.498443Z",
       "updated": "2026-06-29T11:01:15.498443Z",
@@ -411,7 +437,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94644713,
+      "rating": 0.94478935,
       "ratingCount": 47,
       "created": "2026-06-29T04:42:53.328493Z",
       "updated": "2026-06-29T04:42:53.328493Z",
@@ -437,8 +463,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8638386,
-      "ratingCount": 10,
+      "rating": 0.88765514,
+      "ratingCount": 11,
       "created": "2026-06-28T08:46:21.715859Z",
       "updated": "2026-06-28T08:46:21.715859Z",
       "chartUpdated": "2026-06-28T08:46:21.715859Z"
@@ -463,7 +489,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94536626,
+      "rating": 0.9462104,
       "ratingCount": 60,
       "created": "2026-06-18T16:09:59.638246Z",
       "updated": "2026-06-28T03:52:45.938900Z",
@@ -492,8 +518,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.86279,
-      "ratingCount": 44,
+      "rating": 0.8767679,
+      "ratingCount": 47,
       "created": "2026-06-27T16:41:54.935236Z",
       "updated": "2026-06-27T16:41:54.935236Z",
       "chartUpdated": "2026-06-27T16:41:54.935236Z"
@@ -520,7 +546,7 @@
         "vibro",
         "plain"
       ],
-      "rating": 0.8677577,
+      "rating": 0.8719892,
       "ratingCount": 26,
       "created": "2026-06-27T08:45:07.215799Z",
       "updated": "2026-06-27T08:45:07.215799Z",
@@ -550,8 +576,8 @@
         "技",
         "plain"
       ],
-      "rating": 0.8890671,
-      "ratingCount": 240,
+      "rating": 0.89177203,
+      "ratingCount": 244,
       "created": "2026-06-27T06:55:07.055646Z",
       "updated": "2026-06-27T06:55:07.055646Z",
       "chartUpdated": "2026-06-27T06:55:07.055646Z"
@@ -576,8 +602,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87979656,
-      "ratingCount": 272,
+      "rating": 0.8828784,
+      "ratingCount": 277,
       "created": "2026-06-26T13:28:34.489340Z",
       "updated": "2026-06-26T13:28:34.489340Z",
       "chartUpdated": "2026-06-26T13:28:34.489340Z"
@@ -629,7 +655,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9085467,
+      "rating": 0.9138902,
       "ratingCount": 28,
       "created": "2026-06-25T11:20:48.249354Z",
       "updated": "2026-06-25T11:20:48.249354Z",
@@ -658,7 +684,7 @@
         "ju1uoisgay",
         "plain"
       ],
-      "rating": 0.8690693,
+      "rating": 0.8768094,
       "ratingCount": 11,
       "created": "2026-06-18T11:15:12.778547Z",
       "updated": "2026-06-25T03:29:20.897515Z",
@@ -686,7 +712,7 @@
         "简单",
         "plain"
       ],
-      "rating": 0.932901,
+      "rating": 0.9348123,
       "ratingCount": 30,
       "created": "2026-06-24T17:47:18.613700Z",
       "updated": "2026-06-24T17:47:18.613700Z",
@@ -712,7 +738,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87006164,
+      "rating": 0.8741002,
       "ratingCount": 27,
       "created": "2026-06-24T09:47:37.744935Z",
       "updated": "2026-06-24T09:47:37.744935Z",
@@ -738,7 +764,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92710996,
+      "rating": 0.92365,
       "ratingCount": 25,
       "created": "2026-06-24T03:33:21.196176Z",
       "updated": "2026-06-24T03:33:21.196176Z",
@@ -765,8 +791,8 @@
         "5k",
         "plain"
       ],
-      "rating": 0.87487215,
-      "ratingCount": 1083,
+      "rating": 0.87388325,
+      "ratingCount": 1087,
       "created": "2026-06-23T11:03:49.092979Z",
       "updated": "2026-06-23T11:03:49.092979Z",
       "chartUpdated": "2026-06-23T11:03:49.092979Z"
@@ -801,36 +827,6 @@
       "created": "2026-06-22T20:33:42.763571Z",
       "updated": "2026-06-22T20:33:42.763571Z",
       "chartUpdated": "2026-06-22T20:33:42.763571Z"
-    },
-    {
-      "id": 62072,
-      "name": "Unlimited Hyperlink",
-      "level": "UL Lv.18",
-      "difficulty": 18.1,
-      "charter": "ZincMeteor vs Rakio",
-      "composer": "kobaryo",
-      "illustrator": "",
-      "description": "与@ZincMeteor梓弭#142987 （合作）合作的多指键盘谱面，希望大家喜欢。\n新人初谱\n谱师已99.7",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/69be9486-2c57-4f43-b7c6-aec3fe944ccf",
-      "preview": "https://phira.5wyxi.com/files/08b65471-8f10-40bb-b6e6-7a923c8418db",
-      "file": "https://phira.5wyxi.com/files/99b2d21f-bca1-4d8b-b402-b224bba22543",
-      "uploader": 675828,
-      "tags": [
-        "多指",
-        "4K",
-        "6K",
-        "键盘",
-        "plain"
-      ],
-      "rating": 0.8935231,
-      "ratingCount": 75,
-      "created": "2026-06-22T17:55:06.040286Z",
-      "updated": "2026-06-22T17:55:06.040286Z",
-      "chartUpdated": "2026-06-22T17:55:06.040286Z"
     }
   ]
 }
