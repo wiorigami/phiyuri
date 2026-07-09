@@ -13,14 +13,14 @@
   "name": "Rhythmos Ananke",
   "preview": "https://phira.5wyxi.com/files/b273e4d2-3712-44ee-9483-5079e18e12c2",
   "ranked": false,
-  "rating": 0.80396324,
-  "ratingCount": 8,
-  "reviewed": true,
+  "rating": 0.87387437,
+  "ratingCount": 74,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-20T04:45:03.934263Z",
+  "updated": "2026-07-08T11:01:30.317595Z",
   "uploader": 61958
 }
