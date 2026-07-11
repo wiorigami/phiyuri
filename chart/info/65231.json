@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-07-09T09:35:08.499357Z",
+  "charter": "DDD",
+  "composer": "KARUT/ARForest",
+  "created": "2026-07-09T09:35:08.499357Z",
+  "description": null,
+  "difficulty": 15.799999,
+  "file": "https://phira.5wyxi.com/files/2dc6daa1-fb0a-4fae-976f-8654644583a1",
+  "id": 65231,
+  "illustration": "https://phira.5wyxi.com/files/b321b905-9347-4735-94fb-3e213836a0bb",
+  "illustrator": "",
+  "level": "IN Lv.15",
+  "name": "Glitch Street (ARForest Remix)",
+  "preview": "https://phira.5wyxi.com/files/0bfc9d11-66f9-42a9-9f32-055949cd9b83",
+  "ranked": false,
+  "rating": 0.85985935,
+  "ratingCount": 23,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-07-09T09:35:08.499357Z",
+  "uploader": 683322
+}

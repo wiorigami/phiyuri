@@ -1,0 +1,28 @@
+{
+  "chartUpdated": "2026-07-10T23:51:37.674747Z",
+  "charter": "YSTAR-T(Yami)",
+  "composer": "sparxe",
+  "created": "2026-07-10T01:49:07.639953Z",
+  "description": "谱师本人上传\nComma的IN版本\n物量 888\n定数：15.8→16.0\n修改爆发段",
+  "difficulty": 16.0,
+  "file": "https://phira.5wyxi.com/files/24b91330-d7c5-4e17-8036-2de22a092ef3",
+  "id": 65371,
+  "illustration": "https://phira.5wyxi.com/files/73c90791-8e8f-453a-8a81-bd41c6c94399",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Comma, ～ 意味ト構造ノ分離",
+  "preview": "https://phira.5wyxi.com/files/6ff30ec6-7cce-4a87-b567-27802ddeb209",
+  "ranked": false,
+  "rating": 0.85970294,
+  "ratingCount": 32,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "OSU",
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-07-10T23:51:37.674747Z",
+  "uploader": 1213694
+}
