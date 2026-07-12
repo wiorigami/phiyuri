@@ -13,14 +13,14 @@
   "name": "PUPA",
   "preview": "https://phira.5wyxi.com/files/67e8d9f8-9400-4431-a54c-921d628d604d",
   "ranked": false,
-  "rating": 0.90640587,
-  "ratingCount": 42,
-  "reviewed": true,
+  "rating": 0.8600486,
+  "ratingCount": 102,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-10T05:59:14.726833Z",
+  "updated": "2026-07-11T08:25:25.465074Z",
   "uploader": 6232
 }

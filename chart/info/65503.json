@@ -13,14 +13,14 @@
   "name": "ぼくらの16bit戦争",
   "preview": "https://phira.5wyxi.com/files/e7000676-1899-4c0d-8975-916e453af64c",
   "ranked": false,
-  "rating": 0.76758695,
-  "ratingCount": 2,
-  "reviewed": true,
+  "rating": 0.92003393,
+  "ratingCount": 75,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-10T17:09:12.000562Z",
+  "updated": "2026-07-11T03:47:50.576273Z",
   "uploader": 1106117
 }

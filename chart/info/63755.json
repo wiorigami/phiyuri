@@ -13,14 +13,14 @@
   "name": "°F",
   "preview": "https://phira.5wyxi.com/files/62f0c9b4-244b-4510-8226-88eb6aa515ec",
   "ranked": false,
-  "rating": 0.888907,
-  "ratingCount": 26,
-  "reviewed": true,
+  "rating": 0.9115895,
+  "ratingCount": 130,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-03T06:14:55.287958Z",
+  "updated": "2026-07-11T17:38:10.525652Z",
   "uploader": 165742
 }
