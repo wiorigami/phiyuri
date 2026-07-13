@@ -13,14 +13,14 @@
   "name": "caesura.",
   "preview": "https://phira.5wyxi.com/files/788687f0-0799-4087-b2cd-cbb8eb89ef8e",
   "ranked": false,
-  "rating": 0.87851703,
-  "ratingCount": 77,
-  "reviewed": true,
+  "rating": 0.8507535,
+  "ratingCount": 112,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-10T06:57:57.175299Z",
+  "updated": "2026-07-12T18:07:55.412666Z",
   "uploader": 2849368
 }
