@@ -1,6 +1,32 @@
 {
-  "count": 167,
+  "count": 168,
   "results": [
+    {
+      "id": 66015,
+      "name": "Dance with Silence",
+      "level": "SP Lv.?",
+      "difficulty": 0.0,
+      "charter": "-_Yihan_-",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "Dance with Silence\n作曲：かめりあ\n谱面：-_Yihan_-\n难度：SP Lv.?",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/c94accef-f24d-44b3-9171-a41575d10f78",
+      "preview": "https://api.phira.cn/files/e010fc61-f52b-4271-b7ff-c78c9cb55813",
+      "file": "https://api.phira.cn/files/0ba8b9cc-a84f-4702-931c-8098c36f6c65",
+      "uploader": 742623,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.72826827,
+      "ratingCount": 0,
+      "created": "2026-07-12T14:52:02.432223Z",
+      "updated": "2026-07-12T14:52:02.432223Z",
+      "chartUpdated": "2026-07-12T14:52:02.432223Z"
+    },
     {
       "id": 61743,
       "name": "Villain Virus",
@@ -21,8 +47,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8815581,
-      "ratingCount": 72,
+      "rating": 0.88605475,
+      "ratingCount": 76,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
       "chartUpdated": "2026-06-20T14:05:15.124654Z"
@@ -47,8 +73,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8116867,
-      "ratingCount": 103,
+      "rating": 0.81413037,
+      "ratingCount": 105,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -73,8 +99,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8891231,
-      "ratingCount": 73,
+      "rating": 0.8945991,
+      "ratingCount": 75,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -99,8 +125,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8128105,
-      "ratingCount": 207,
+      "rating": 0.80539393,
+      "ratingCount": 211,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -125,8 +151,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8869152,
-      "ratingCount": 647,
+      "rating": 0.8861317,
+      "ratingCount": 653,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -153,7 +179,7 @@
         "双指",
         "visual"
       ],
-      "rating": 0.8656016,
+      "rating": 0.86972535,
       "ratingCount": 14,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-03-03T06:49:21.192811Z",
@@ -179,7 +205,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87665164,
+      "rating": 0.8775799,
       "ratingCount": 130,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
@@ -235,7 +261,7 @@
         "特效",
         "visual"
       ],
-      "rating": 0.78328645,
+      "rating": 0.7871947,
       "ratingCount": 108,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
@@ -261,8 +287,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82973844,
-      "ratingCount": 167,
+      "rating": 0.83461684,
+      "ratingCount": 170,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -290,7 +316,7 @@
         "visual"
       ],
       "rating": 0.90332055,
-      "ratingCount": 100,
+      "ratingCount": 101,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
       "chartUpdated": "2026-02-10T06:56:11.788757Z"
@@ -318,8 +344,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.93895113,
-      "ratingCount": 509,
+      "rating": 0.9394682,
+      "ratingCount": 515,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -403,8 +429,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.7351471,
-      "ratingCount": 346,
+      "rating": 0.7354041,
+      "ratingCount": 353,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -488,8 +514,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.85427433,
-      "ratingCount": 91,
+      "rating": 0.85582197,
+      "ratingCount": 92,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
       "chartUpdated": "2026-01-09T15:29:00.998126Z"
@@ -514,8 +540,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81843525,
-      "ratingCount": 106,
+      "rating": 0.8132941,
+      "ratingCount": 107,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -567,7 +593,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9492662,
+      "rating": 0.94950783,
       "ratingCount": 418,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -593,8 +619,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7774645,
-      "ratingCount": 251,
+      "rating": 0.77808553,
+      "ratingCount": 256,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -620,7 +646,7 @@
         "visual"
       ],
       "rating": 0.89797074,
-      "ratingCount": 192,
+      "ratingCount": 194,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -645,7 +671,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8479642,
+      "rating": 0.847669,
       "ratingCount": 151,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
@@ -671,8 +697,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88018185,
-      "ratingCount": 38,
+      "rating": 0.8829128,
+      "ratingCount": 39,
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
@@ -697,8 +723,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9364177,
-      "ratingCount": 137,
+      "rating": 0.9366231,
+      "ratingCount": 138,
       "created": "2025-11-16T11:01:11.506983Z",
       "updated": "2025-11-16T11:01:11.506983Z",
       "chartUpdated": "2025-11-16T11:01:11.506983Z"
@@ -723,8 +749,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81335396,
-      "ratingCount": 111,
+      "rating": 0.81662196,
+      "ratingCount": 112,
       "created": "2025-11-16T01:44:43.045246Z",
       "updated": "2025-11-16T01:44:43.045246Z",
       "chartUpdated": "2025-11-16T01:44:43.045246Z"
@@ -749,8 +775,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9638208,
-      "ratingCount": 2504,
+      "rating": 0.9640153,
+      "ratingCount": 2513,
       "created": "2025-11-08T03:06:05.755676Z",
       "updated": "2025-11-08T03:06:05.755676Z",
       "chartUpdated": "2025-11-08T03:06:05.755676Z"
@@ -777,42 +803,11 @@
         "观赏",
         "visual"
       ],
-      "rating": 0.9741891,
-      "ratingCount": 4873,
+      "rating": 0.97415614,
+      "ratingCount": 4882,
       "created": "2025-11-05T15:19:44.272431Z",
       "updated": "2025-11-06T13:25:56.785787Z",
       "chartUpdated": "2025-11-06T13:25:56.785787Z"
-    },
-    {
-      "id": 47876,
-      "name": "finorza",
-      "level": "Speed Lv.Final",
-      "difficulty": 20.0,
-      "charter": "殇儿",
-      "composer": "Camellia",
-      "illustrator": "",
-      "description": "双指的终点。。。\n\n谱师本人上传\n这是以dfc名义写的观赏谱。。。\n\n\n\n\n采音真的很爽，建议开打击音效",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/216952f9-0041-44c8-a0e3-0ca864a9dad4",
-      "preview": "https://phira.5wyxi.com/files/0396a0b5-6ba4-4cbd-9ebe-39d95d32959c",
-      "file": "https://phira.5wyxi.com/files/372e2df0-c9e5-414b-8008-30217d7fe331",
-      "uploader": 1946424,
-      "tags": [
-        "dfc",
-        "双指",
-        "玉米粒吃不下去",
-        "无理",
-        "高难",
-        "visual"
-      ],
-      "rating": 0.902779,
-      "ratingCount": 62,
-      "created": "2025-10-08T05:39:20.982544Z",
-      "updated": "2025-10-08T05:39:20.982544Z",
-      "chartUpdated": "2025-10-08T05:39:20.982544Z"
     }
   ]
 }
