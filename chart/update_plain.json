@@ -1,5 +1,5 @@
 {
-  "count": 3123,
+  "count": 3126,
   "results": [
     {
       "id": 66076,
@@ -14,19 +14,48 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/9c744c5f-0331-40fd-9022-1403c1395812",
-      "preview": "https://api.phira.cn/files/4bfef604-1a61-468d-bc49-a493585fb2fc",
-      "file": "https://api.phira.cn/files/d4c9be71-54f1-43e3-95e8-4cbfd5a5c2e1",
+      "illustration": "https://phira.5wyxi.com/files/9c744c5f-0331-40fd-9022-1403c1395812",
+      "preview": "https://phira.5wyxi.com/files/4bfef604-1a61-468d-bc49-a493585fb2fc",
+      "file": "https://phira.5wyxi.com/files/d4c9be71-54f1-43e3-95e8-4cbfd5a5c2e1",
       "uploader": 2238291,
       "tags": [
         "想吃掉我的非人少女",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.87535435,
+      "ratingCount": 4,
       "created": "2026-07-12T21:24:16.404714Z",
       "updated": "2026-07-12T21:24:16.404714Z",
       "chartUpdated": "2026-07-12T21:24:16.404714Z"
+    },
+    {
+      "id": 66010,
+      "name": "翠杜",
+      "level": "Lv.13+",
+      "difficulty": 10.0,
+      "charter": "眠りにつくコッコダ",
+      "composer": "庭師/Aoi",
+      "illustrator": "",
+      "description": "本人上传\n这个脆肚有点冰。。。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/aa3012fe-9e22-473a-8530-f7f70709b6f9",
+      "preview": "https://phira.5wyxi.com/files/20ab7dd7-1779-4e02-917c-864a9dea5f75",
+      "file": "https://phira.5wyxi.com/files/65ebbbde-0658-4040-8baa-49504a3c8d9b",
+      "uploader": 266256,
+      "tags": [
+        "4K",
+        "翠杜",
+        "Rotaeno",
+        "plain"
+      ],
+      "rating": 0.736441,
+      "ratingCount": 1,
+      "created": "2026-07-12T14:15:36.712888Z",
+      "updated": "2026-07-12T14:15:36.712888Z",
+      "chartUpdated": "2026-07-12T14:15:36.712888Z"
     },
     {
       "id": 65919,
@@ -48,8 +77,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90338284,
-      "ratingCount": 18,
+      "rating": 0.8435367,
+      "ratingCount": 70,
       "created": "2026-07-12T07:46:13.880952Z",
       "updated": "2026-07-12T07:46:13.880952Z",
       "chartUpdated": "2026-07-12T07:46:13.880952Z"
@@ -74,8 +103,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.78361493,
-      "ratingCount": 3,
+      "rating": 0.841769,
+      "ratingCount": 12,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
       "chartUpdated": "2026-07-12T06:51:59.766789Z"
@@ -100,8 +129,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.871319,
-      "ratingCount": 8,
+      "rating": 0.8624394,
+      "ratingCount": 17,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
       "chartUpdated": "2026-07-12T06:51:53.687644Z"
@@ -126,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8038576,
-      "ratingCount": 0,
+      "rating": 0.80803025,
+      "ratingCount": 7,
       "created": "2026-07-12T06:50:52.215286Z",
       "updated": "2026-07-12T06:50:52.215286Z",
       "chartUpdated": "2026-07-12T06:50:52.215286Z"
@@ -156,8 +185,8 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.8879031,
-      "ratingCount": 9,
+      "rating": 0.940651,
+      "ratingCount": 18,
       "created": "2026-07-12T05:58:17.742446Z",
       "updated": "2026-07-12T05:58:17.742446Z",
       "chartUpdated": "2026-07-12T05:58:17.742446Z"
@@ -192,6 +221,32 @@
       "chartUpdated": "2026-07-12T04:23:38.568736Z"
     },
     {
+      "id": 65830,
+      "name": "Apollo",
+      "level": "4K Lv.29",
+      "difficulty": 10.0,
+      "charter": "nwn凝望",
+      "composer": "TJ.hangneil",
+      "illustrator": "",
+      "description": "谱师本人上传，三个小时速写谱，差不多是全采音，后面很难了，望通过",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/ff3b453f-eca9-4cda-9bc4-f6e64da869e2",
+      "preview": "https://api.phira.cn/files/7c757aa3-45ee-4966-aad0-292984be5997",
+      "file": "https://api.phira.cn/files/7909a80c-d8c2-4b09-b556-b4244f9a1aea",
+      "uploader": 1257674,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8773435,
+      "ratingCount": 0,
+      "created": "2026-07-12T00:57:39.837175Z",
+      "updated": "2026-07-12T00:57:39.837175Z",
+      "chartUpdated": "2026-07-12T00:57:39.837175Z"
+    },
+    {
       "id": 65674,
       "name": "Le Porteur d'Ombre",
       "level": "AT Lv.18",
@@ -215,8 +270,8 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.7939669,
-      "ratingCount": 2,
+      "rating": 0.8109021,
+      "ratingCount": 16,
       "created": "2026-07-11T10:15:05.646033Z",
       "updated": "2026-07-11T10:15:05.646033Z",
       "chartUpdated": "2026-07-11T10:15:05.646033Z"
@@ -241,8 +296,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9379376,
-      "ratingCount": 135,
+      "rating": 0.9363015,
+      "ratingCount": 136,
       "created": "2025-08-31T04:08:32.490997Z",
       "updated": "2026-07-10T13:36:34.623471Z",
       "chartUpdated": "2025-08-31T04:08:32.490997Z"
@@ -260,15 +315,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/bc0fdd76-667c-4cea-aae7-f245c3c924ae",
-      "preview": "https://api.phira.cn/files/e6a0f14b-d155-4213-9257-3132bcc07784",
-      "file": "https://api.phira.cn/files/1ee72a34-dd51-4c96-8069-639d0fc21167",
+      "illustration": "https://phira.5wyxi.com/files/bc0fdd76-667c-4cea-aae7-f245c3c924ae",
+      "preview": "https://phira.5wyxi.com/files/e6a0f14b-d155-4213-9257-3132bcc07784",
+      "file": "https://phira.5wyxi.com/files/1ee72a34-dd51-4c96-8069-639d0fc21167",
       "uploader": 18354,
       "tags": [
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.85480666,
+      "ratingCount": 5,
       "created": "2026-07-10T04:47:50.203746Z",
       "updated": "2026-07-10T04:47:50.203746Z",
       "chartUpdated": "2026-07-10T04:47:50.203746Z"
@@ -319,8 +374,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95874804,
-      "ratingCount": 179,
+      "rating": 0.95831275,
+      "ratingCount": 184,
       "created": "2025-08-22T19:40:50.912032Z",
       "updated": "2026-07-09T03:06:42.971257Z",
       "chartUpdated": "2025-08-22T19:40:50.912032Z"
@@ -345,8 +400,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87762994,
-      "ratingCount": 17,
+      "rating": 0.86549556,
+      "ratingCount": 19,
       "created": "2026-07-08T15:37:02.619991Z",
       "updated": "2026-07-08T15:37:02.619991Z",
       "chartUpdated": "2026-07-08T15:37:02.619991Z"
@@ -371,8 +426,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93090147,
-      "ratingCount": 21,
+      "rating": 0.9333441,
+      "ratingCount": 23,
       "created": "2026-07-08T13:43:10.623710Z",
       "updated": "2026-07-08T13:43:10.623710Z",
       "chartUpdated": "2026-07-08T13:43:10.623710Z"
@@ -398,8 +453,8 @@
         "哈基米",
         "plain"
       ],
-      "rating": 0.9073477,
-      "ratingCount": 26,
+      "rating": 0.9166519,
+      "ratingCount": 30,
       "created": "2026-07-08T13:35:05.694415Z",
       "updated": "2026-07-08T13:35:05.694415Z",
       "chartUpdated": "2026-07-08T13:35:05.694415Z"
@@ -430,8 +485,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.893975,
-      "ratingCount": 12,
+      "rating": 0.90421164,
+      "ratingCount": 14,
       "created": "2026-07-08T08:55:15.399798Z",
       "updated": "2026-07-08T08:55:15.399798Z",
       "chartUpdated": "2026-07-08T08:55:15.399798Z"
@@ -461,8 +516,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.856128,
-      "ratingCount": 6,
+      "rating": 0.8778362,
+      "ratingCount": 7,
       "created": "2026-07-08T08:39:07.777928Z",
       "updated": "2026-07-08T08:39:07.777928Z",
       "chartUpdated": "2026-07-08T08:39:07.777928Z"
@@ -493,8 +548,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.710918,
-      "ratingCount": 7,
+      "rating": 0.75941306,
+      "ratingCount": 8,
       "created": "2026-07-08T08:39:02.661504Z",
       "updated": "2026-07-08T08:39:02.661504Z",
       "chartUpdated": "2026-07-08T08:39:02.661504Z"
@@ -557,8 +612,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 5,
+      "rating": 0.8258486,
+      "ratingCount": 6,
       "created": "2026-07-08T08:38:51.758158Z",
       "updated": "2026-07-08T08:38:51.758158Z",
       "chartUpdated": "2026-07-08T08:38:51.758158Z"
@@ -584,11 +639,37 @@
         "6K",
         "plain"
       ],
-      "rating": 0.84363073,
-      "ratingCount": 9,
+      "rating": 0.85401,
+      "ratingCount": 10,
       "created": "2026-07-08T05:46:02.180137Z",
       "updated": "2026-07-08T05:46:02.180137Z",
       "chartUpdated": "2026-07-08T05:46:02.180137Z"
+    },
+    {
+      "id": 64783,
+      "name": "ロストワンの号哭",
+      "level": "4K Jack Lv.38",
+      "difficulty": 10.0,
+      "charter": "伊川木对子",
+      "composer": "Neru/鏡音リン",
+      "illustrator": "",
+      "description": "160bpm子弹叠，参考难度e2，物量4112\n这个入传的谱都是专项练习谱，很难p而且难度较高，考虑到不会打难度已经标的很虚高了补药给我打半颗星了口牙（伤心）\n愿你打完叠力…爆发力有所提升",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/1c61c9f1-1673-40c2-9b6d-92f700d46778",
+      "preview": "https://api.phira.cn/files/36ba520a-3674-4580-bb28-ed81f16c7a01",
+      "file": "https://api.phira.cn/files/edb449df-4e97-42e8-80e5-4411721bd1a3",
+      "uploader": 2204792,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8423025,
+      "ratingCount": 0,
+      "created": "2026-07-07T15:33:11.697868Z",
+      "updated": "2026-07-07T15:33:11.697868Z",
+      "chartUpdated": "2026-07-07T15:33:11.697868Z"
     },
     {
       "id": 64752,
@@ -610,8 +691,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8955453,
-      "ratingCount": 18,
+      "rating": 0.9163212,
+      "ratingCount": 21,
       "created": "2026-07-07T13:07:51.707429Z",
       "updated": "2026-07-07T13:07:51.707429Z",
       "chartUpdated": "2026-07-07T13:07:51.707429Z"
@@ -636,7 +717,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.668341,
+      "rating": 0.69116676,
       "ratingCount": 7,
       "created": "2026-07-06T21:59:28.775222Z",
       "updated": "2026-07-06T21:59:28.775222Z",
@@ -662,8 +743,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92536944,
-      "ratingCount": 83,
+      "rating": 0.92588276,
+      "ratingCount": 89,
       "created": "2026-07-06T19:58:32.114114Z",
       "updated": "2026-07-06T19:58:32.114114Z",
       "chartUpdated": "2026-07-06T19:58:32.114114Z"
@@ -688,8 +769,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91442657,
-      "ratingCount": 433,
+      "rating": 0.91541517,
+      "ratingCount": 448,
       "created": "2026-07-04T23:36:34.877496Z",
       "updated": "2026-07-06T13:45:28.403278Z",
       "chartUpdated": "2026-07-04T23:36:34.877496Z"
@@ -745,107 +826,11 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8925751,
-      "ratingCount": 238,
+      "rating": 0.8956069,
+      "ratingCount": 243,
       "created": "2026-07-05T15:13:47.687368Z",
       "updated": "2026-07-05T15:13:47.687368Z",
       "chartUpdated": "2026-07-05T15:13:47.687368Z"
-    },
-    {
-      "id": 64341,
-      "name": "Dark Shadows",
-      "level": "Pattern",
-      "difficulty": 1.7000002,
-      "charter": "HRS-Team",
-      "composer": "KARUT",
-      "illustrator": "",
-      "description": "HRS-Lv.1-Pattern单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e44e99a0-05c0-446d-a1a7-64f0964d3578",
-      "preview": "https://phira.5wyxi.com/files/6887007c-4f39-45ec-83a6-6ad522a32b12",
-      "file": "https://phira.5wyxi.com/files/15cd6a75-718b-47ee-b5d5-a38893e252ea",
-      "uploader": 2764605,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "1",
-        "Pattern",
-        "瞬",
-        "plain"
-      ],
-      "rating": 0.8812265,
-      "ratingCount": 21,
-      "created": "2026-07-05T15:05:48.018442Z",
-      "updated": "2026-07-05T15:05:48.018442Z",
-      "chartUpdated": "2026-07-05T15:05:48.018442Z"
-    },
-    {
-      "id": 64340,
-      "name": "Glitch Street",
-      "level": "Flow",
-      "difficulty": 1.8000001,
-      "charter": "HRS-Team",
-      "composer": "KARUT",
-      "illustrator": "",
-      "description": "HRS-Lv.1-Flow单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9aac4eb1-55f1-426b-940f-966b5bb6f487",
-      "preview": "https://phira.5wyxi.com/files/ac673513-6833-42fc-a0e4-4195f82e6f94",
-      "file": "https://phira.5wyxi.com/files/27e249c7-75f7-482e-9d18-8962cc0049a0",
-      "uploader": 2764605,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "1",
-        "Flow",
-        "幻",
-        "plain"
-      ],
-      "rating": 0.9024941,
-      "ratingCount": 26,
-      "created": "2026-07-05T15:05:40.426219Z",
-      "updated": "2026-07-05T15:05:40.426219Z",
-      "chartUpdated": "2026-07-05T15:05:40.426219Z"
-    },
-    {
-      "id": 64339,
-      "name": "system all green",
-      "level": "Sync",
-      "difficulty": 1.2,
-      "charter": "HRS-Team",
-      "composer": "KARUT",
-      "illustrator": "",
-      "description": "HRS-Lv.1-Sync单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c33618f0-2f61-40a5-90b0-b1f1d9855ebb",
-      "preview": "https://phira.5wyxi.com/files/768be8a4-5775-49db-a2dd-ff8f156aff55",
-      "file": "https://phira.5wyxi.com/files/fbb1eee9-ca4f-4acf-b34b-5b4a50437079",
-      "uploader": 2764605,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "1",
-        "Sync",
-        "协",
-        "plain"
-      ],
-      "rating": 0.8824499,
-      "ratingCount": 15,
-      "created": "2026-07-05T15:05:32.014141Z",
-      "updated": "2026-07-05T15:05:32.014141Z",
-      "chartUpdated": "2026-07-05T15:05:32.014141Z"
     }
   ]
 }
