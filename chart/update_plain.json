@@ -1,6 +1,58 @@
 {
-  "count": 3126,
+  "count": 3128,
   "results": [
+    {
+      "id": 66349,
+      "name": "晴雪～sakuRain",
+      "level": "4k Lv.21",
+      "difficulty": 10.0,
+      "charter": "洛年耶耶",
+      "composer": "B.R.I",
+      "illustrator": "",
+      "description": "晴雪好听awa\n部分采音参考舞立方官谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/f410aef8-5d77-44a8-ae22-0bd99984c72f",
+      "preview": "https://api.phira.cn/files/6ccb8ccd-8ffc-4b61-b470-d34d015faa30",
+      "file": "https://api.phira.cn/files/5c8e66a7-3aec-496f-90e1-0606b2175999",
+      "uploader": 1667803,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.88127744,
+      "ratingCount": 0,
+      "created": "2026-07-13T19:21:44.357463Z",
+      "updated": "2026-07-13T19:21:44.357463Z",
+      "chartUpdated": "2026-07-13T19:21:44.357463Z"
+    },
+    {
+      "id": 66339,
+      "name": "StarryWarth",
+      "level": "4k Lv.28",
+      "difficulty": 10.0,
+      "charter": "洛年耶耶",
+      "composer": "理p",
+      "illustrator": "",
+      "description": "第一次写4k，部分采音参考舞立方，写了挺久的一张谱\n后面长条故意写的有点卡手，尾杀增难度说是（？",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/843f9ac6-5782-484d-8540-dd6f6aa5f06c",
+      "preview": "https://api.phira.cn/files/3d33449a-b3a5-42de-b171-e0c0963f026c",
+      "file": "https://api.phira.cn/files/699b89d8-d87a-40b1-bbaa-f7d56da4e80c",
+      "uploader": 1667803,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.86130065,
+      "ratingCount": 0,
+      "created": "2026-07-13T17:20:44.506997Z",
+      "updated": "2026-07-13T17:20:44.506997Z",
+      "chartUpdated": "2026-07-13T17:20:44.506997Z"
+    },
     {
       "id": 66076,
       "name": "贄-nie-",
@@ -22,11 +74,37 @@
         "想吃掉我的非人少女",
         "plain"
       ],
-      "rating": 0.87535435,
+      "rating": 0.919441,
       "ratingCount": 4,
       "created": "2026-07-12T21:24:16.404714Z",
       "updated": "2026-07-12T21:24:16.404714Z",
       "chartUpdated": "2026-07-12T21:24:16.404714Z"
+    },
+    {
+      "id": 66061,
+      "name": "きゅうくらりん",
+      "level": "#Ugly Monster#",
+      "difficulty": 0.0,
+      "charter": "\"Commited Suic1d3\"",
+      "composer": "いよわ",
+      "illustrator": "",
+      "description": "本人上传，b站 NECA_\n污染社区来了，这谱也能算完成，所以顺手的事。\n个人目前对这谱面的评分是0/10，所以大伙也尽管打低分。我估计能到3.8差不多了。\n对谱面中所有的排列都不满意。\n如果你注意看，你会发现有些东西从一开始就在了，只不过你忽略了它，或者是没有注意到它。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/cc6d2edf-78d9-481d-a66d-c1d9183f2f48",
+      "preview": "https://api.phira.cn/files/50597c4f-b00a-46d9-b35f-7df1a4f0ca4e",
+      "file": "https://api.phira.cn/files/90d7c6a9-c76c-40a7-8e06-d3435ecbaf25",
+      "uploader": 679160,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8971811,
+      "ratingCount": 416,
+      "created": "2026-07-12T18:39:52.018731Z",
+      "updated": "2026-07-12T18:39:52.018731Z",
+      "chartUpdated": "2026-07-12T18:39:52.018731Z"
     },
     {
       "id": 66010,
@@ -51,7 +129,7 @@
         "Rotaeno",
         "plain"
       ],
-      "rating": 0.736441,
+      "rating": 0.8112681,
       "ratingCount": 1,
       "created": "2026-07-12T14:15:36.712888Z",
       "updated": "2026-07-12T14:15:36.712888Z",
@@ -77,7 +155,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8435367,
+      "rating": 0.848017,
       "ratingCount": 70,
       "created": "2026-07-12T07:46:13.880952Z",
       "updated": "2026-07-12T07:46:13.880952Z",
@@ -103,7 +181,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.841769,
+      "rating": 0.8496384,
       "ratingCount": 12,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
@@ -129,7 +207,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8624394,
+      "rating": 0.8857315,
       "ratingCount": 17,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
@@ -155,7 +233,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80803025,
+      "rating": 0.7979442,
       "ratingCount": 7,
       "created": "2026-07-12T06:50:52.215286Z",
       "updated": "2026-07-12T06:50:52.215286Z",
@@ -185,7 +263,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.940651,
+      "rating": 0.94352895,
       "ratingCount": 18,
       "created": "2026-07-12T05:58:17.742446Z",
       "updated": "2026-07-12T05:58:17.742446Z",
@@ -214,7 +292,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.80656886,
+      "rating": 0.8533043,
       "ratingCount": 4,
       "created": "2026-07-12T04:23:38.568736Z",
       "updated": "2026-07-12T04:23:38.568736Z",
@@ -240,7 +318,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8773435,
+      "rating": 0.9113041,
       "ratingCount": 0,
       "created": "2026-07-12T00:57:39.837175Z",
       "updated": "2026-07-12T00:57:39.837175Z",
@@ -270,7 +348,7 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.8109021,
+      "rating": 0.81503296,
       "ratingCount": 16,
       "created": "2026-07-11T10:15:05.646033Z",
       "updated": "2026-07-11T10:15:05.646033Z",
@@ -322,7 +400,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85480666,
+      "rating": 0.84704685,
       "ratingCount": 5,
       "created": "2026-07-10T04:47:50.203746Z",
       "updated": "2026-07-10T04:47:50.203746Z",
@@ -348,7 +426,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8038576,
+      "rating": 0.8198189,
       "ratingCount": 6,
       "created": "2026-07-09T13:39:20.562414Z",
       "updated": "2026-07-09T13:39:20.562414Z",
@@ -374,7 +452,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95831275,
+      "rating": 0.95801485,
       "ratingCount": 184,
       "created": "2025-08-22T19:40:50.912032Z",
       "updated": "2026-07-09T03:06:42.971257Z",
@@ -453,7 +531,7 @@
         "哈基米",
         "plain"
       ],
-      "rating": 0.9166519,
+      "rating": 0.9267538,
       "ratingCount": 30,
       "created": "2026-07-08T13:35:05.694415Z",
       "updated": "2026-07-08T13:35:05.694415Z",
@@ -485,7 +563,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.90421164,
+      "rating": 0.91639763,
       "ratingCount": 14,
       "created": "2026-07-08T08:55:15.399798Z",
       "updated": "2026-07-08T08:55:15.399798Z",
@@ -516,7 +594,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8778362,
+      "rating": 0.8940588,
       "ratingCount": 7,
       "created": "2026-07-08T08:39:07.777928Z",
       "updated": "2026-07-08T08:39:07.777928Z",
@@ -612,7 +690,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8258486,
+      "rating": 0.8137344,
       "ratingCount": 6,
       "created": "2026-07-08T08:38:51.758158Z",
       "updated": "2026-07-08T08:38:51.758158Z",
@@ -639,7 +717,7 @@
         "6K",
         "plain"
       ],
-      "rating": 0.85401,
+      "rating": 0.871224,
       "ratingCount": 10,
       "created": "2026-07-08T05:46:02.180137Z",
       "updated": "2026-07-08T05:46:02.180137Z",
@@ -665,7 +743,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.8317302,
       "ratingCount": 0,
       "created": "2026-07-07T15:33:11.697868Z",
       "updated": "2026-07-07T15:33:11.697868Z",
@@ -691,7 +769,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9163212,
+      "rating": 0.92500794,
       "ratingCount": 21,
       "created": "2026-07-07T13:07:51.707429Z",
       "updated": "2026-07-07T13:07:51.707429Z",
@@ -717,7 +795,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.69116676,
+      "rating": 0.68227017,
       "ratingCount": 7,
       "created": "2026-07-06T21:59:28.775222Z",
       "updated": "2026-07-06T21:59:28.775222Z",
@@ -743,94 +821,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92588276,
+      "rating": 0.9269082,
       "ratingCount": 89,
       "created": "2026-07-06T19:58:32.114114Z",
       "updated": "2026-07-06T19:58:32.114114Z",
       "chartUpdated": "2026-07-06T19:58:32.114114Z"
-    },
-    {
-      "id": 64140,
-      "name": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
-      "level": "AT Lv.16",
-      "difficulty": 16.400002,
-      "charter": "铭丘_@",
-      "composer": "ピノキオピー/初音ミク/重音テト",
-      "illustrator": "",
-      "description": "反响最大的一个谱（？\n所以就传了\n记得关注快手和B站",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1c568133-6e94-4ff2-9378-acf75b1bdb7d",
-      "preview": "https://phira.5wyxi.com/files/80af9dd3-bcb9-4108-baae-de8b990af0f4",
-      "file": "https://phira.5wyxi.com/files/ba023acd-bb07-48a8-aead-838efa697034",
-      "uploader": 101520,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.91541517,
-      "ratingCount": 448,
-      "created": "2026-07-04T23:36:34.877496Z",
-      "updated": "2026-07-06T13:45:28.403278Z",
-      "chartUpdated": "2026-07-04T23:36:34.877496Z"
-    },
-    {
-      "id": 64478,
-      "name": "Overdrive",
-      "level": "ture 麻黑肉",
-      "difficulty": 18.6,
-      "charter": "ZEN_SGOD_ITH",
-      "composer": "Mahiro",
-      "illustrator": "",
-      "description": "S神/狐狸暑期谱面专辑 第一张\n@S神#87478（饲养）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2a5802c9-3851-4176-aed4-de326d798547",
-      "preview": "https://phira.5wyxi.com/files/5c39e293-079a-470d-9655-803d85765e24",
-      "file": "https://phira.5wyxi.com/files/a1d63234-9834-4e48-9c3b-278d494cd549",
-      "uploader": 1786329,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.80351174,
-      "ratingCount": 9,
-      "created": "2026-07-06T08:36:42.899995Z",
-      "updated": "2026-07-06T08:36:42.899995Z",
-      "chartUpdated": "2026-07-06T08:36:42.899995Z"
-    },
-    {
-      "id": 64344,
-      "name": "HRS ~ 1st Dan ~ ",
-      "level": "Dan Lv.1",
-      "difficulty": 1.0000001,
-      "charter": "HRS-Team",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "HRS 1st Dan 考核\n中间这段有神秘词传不上去遂改之\nHRS交流群：1106507620",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fdc4b21f-350a-4537-b88f-d1d69b6795b3",
-      "preview": "https://phira.5wyxi.com/files/4f738eb7-0b5a-45de-9248-59418f547788",
-      "file": "https://phira.5wyxi.com/files/974d8170-2ed8-4c92-aab9-cd16441e4140",
-      "uploader": 2764605,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "1",
-        "Dan",
-        "plain"
-      ],
-      "rating": 0.8956069,
-      "ratingCount": 243,
-      "created": "2026-07-05T15:13:47.687368Z",
-      "updated": "2026-07-05T15:13:47.687368Z",
-      "chartUpdated": "2026-07-05T15:13:47.687368Z"
     }
   ]
 }
