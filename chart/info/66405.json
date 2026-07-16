@@ -13,14 +13,14 @@
   "name": "なんもねえ",
   "preview": "https://phira.5wyxi.com/files/46dc702c-804b-45f2-ac9c-c046e6d5932f",
   "ranked": false,
-  "rating": 0.7803841,
-  "ratingCount": 2,
-  "reviewed": true,
+  "rating": 0.91651493,
+  "ratingCount": 170,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-14T04:40:33.303587Z",
+  "updated": "2026-07-15T02:48:55.097880Z",
   "uploader": 1813623
 }
