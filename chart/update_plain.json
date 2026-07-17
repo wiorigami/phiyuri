@@ -1,5 +1,5 @@
 {
-  "count": 3133,
+  "count": 3140,
   "results": [
     {
       "id": 56590,
@@ -21,11 +21,169 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9261659,
+      "rating": 0.9349576,
       "ratingCount": 0,
       "created": "2026-04-18T08:22:32.416430Z",
       "updated": "2026-07-15T02:47:10.193544Z",
       "chartUpdated": "2026-04-18T08:22:32.416430Z"
+    },
+    {
+      "id": 66443,
+      "name": "Break Through The Barrier",
+      "level": "Flow",
+      "difficulty": 12.1,
+      "charter": "HRS-Team",
+      "composer": "lixound",
+      "illustrator": "",
+      "description": "HRS-Lv.12-Flow练习曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/4b317269-ae47-4939-817e-b0a6be152ba4",
+      "preview": "https://api.phira.cn/files/a46a31b5-3d60-4570-b61f-63c25f51ee85",
+      "file": "https://api.phira.cn/files/d9871f42-108e-427d-83d9-5e9b1210e655",
+      "uploader": 2916891,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "12",
+        "Flow",
+        "幻",
+        "plain"
+      ],
+      "rating": 0.6780685,
+      "ratingCount": 0,
+      "created": "2026-07-14T06:30:46.321293Z",
+      "updated": "2026-07-14T06:30:46.321293Z",
+      "chartUpdated": "2026-07-14T06:30:46.321293Z"
+    },
+    {
+      "id": 66437,
+      "name": "Ex-Otogibanashi (Anime ver.)",
+      "level": "Pattern",
+      "difficulty": 13.500002,
+      "charter": "HRS-Team",
+      "composer": "ryo (supercell),かぐや(cv.夏吉ゆうこ),月見ヤチヨ(cv.早見沙織)",
+      "illustrator": "",
+      "description": "HRS-Lv.不知道-Pattern单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/6b36b57c-aadd-4ad3-a7df-92c7e8dd6147",
+      "preview": "https://api.phira.cn/files/593efa8d-5f85-4886-acfb-33c1202c7ef6",
+      "file": "https://api.phira.cn/files/db412637-99cb-4716-a559-708da05844d7",
+      "uploader": 2916891,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "Pattern",
+        "瞬",
+        "plain"
+      ],
+      "rating": 0.73692036,
+      "ratingCount": 0,
+      "created": "2026-07-14T06:13:27.071534Z",
+      "updated": "2026-07-14T06:13:27.071534Z",
+      "chartUpdated": "2026-07-14T06:13:27.071534Z"
+    },
+    {
+      "id": 66424,
+      "name": "HRS ~ 13th Dan ~",
+      "level": "Dan Lv.13",
+      "difficulty": 13.0,
+      "charter": "HRS-Team",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "HRS 13th Dan 考核\nSync:Flashdance BPM:130\nFlow:えれくとりっく・えんじぇぅ(1.05x) BPM:157.5\nPattern:Ex-Otogibanashi (Anime ver.) BPM:190\nHRS交流群：1106507620",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/5c31ff03-02bc-4eb8-bc41-d4f897a431a1",
+      "preview": "https://api.phira.cn/files/5114ef82-579b-4fc2-a15e-acf42d9cf339",
+      "file": "https://api.phira.cn/files/50b5d179-c29a-4aa8-b74c-f44961733fa0",
+      "uploader": 2916891,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "13",
+        "Dan",
+        "plain"
+      ],
+      "rating": 0.80552316,
+      "ratingCount": 0,
+      "created": "2026-07-14T05:34:15.239766Z",
+      "updated": "2026-07-14T05:34:15.239766Z",
+      "chartUpdated": "2026-07-14T05:34:15.239766Z"
+    },
+    {
+      "id": 66415,
+      "name": "えれくとりっく・えんじぇぅ",
+      "level": "Flow",
+      "difficulty": 13.300013,
+      "charter": "HRS-Team",
+      "composer": "ヤスオP",
+      "illustrator": "",
+      "description": "HRS-Lv.13-Flow单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/3763e800-22e4-4a32-ae01-687cbb1860e3",
+      "preview": "https://api.phira.cn/files/a37a903a-d908-424b-bb1a-80fdaf2fdc0f",
+      "file": "https://api.phira.cn/files/b35be3ca-12ce-40cc-9c2b-37b67dd2cb19",
+      "uploader": 2916891,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "13",
+        "Flow",
+        "幻",
+        "plain"
+      ],
+      "rating": 0.7702763,
+      "ratingCount": 0,
+      "created": "2026-07-14T05:21:07.444525Z",
+      "updated": "2026-07-14T05:21:07.444525Z",
+      "chartUpdated": "2026-07-14T05:21:07.444525Z"
+    },
+    {
+      "id": 66411,
+      "name": "Flashdance",
+      "level": "Sync",
+      "difficulty": 13.6,
+      "charter": "HRS-Team",
+      "composer": "litmus*",
+      "illustrator": "",
+      "description": "HRS-Lv.13-Sync单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/5f518acf-c3b6-4781-9196-1733f6142d5b",
+      "preview": "https://api.phira.cn/files/05864e46-a28d-4d54-a5aa-9dcebe62b2fe",
+      "file": "https://api.phira.cn/files/624dbfe2-0831-48b8-a04f-7f54d4b42a69",
+      "uploader": 2916891,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "13",
+        "Sync",
+        "协",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-07-14T05:05:50.226692Z",
+      "updated": "2026-07-14T05:05:50.226692Z",
+      "chartUpdated": "2026-07-14T05:05:50.226692Z"
     },
     {
       "id": 66373,
@@ -48,7 +206,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.85378945,
+      "rating": 0.87517625,
       "ratingCount": 0,
       "created": "2026-07-14T02:33:30.036363Z",
       "updated": "2026-07-14T02:33:30.036363Z",
@@ -74,7 +232,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91547793,
+      "rating": 0.9315038,
       "ratingCount": 17,
       "created": "2026-07-13T19:21:44.357463Z",
       "updated": "2026-07-13T19:21:44.357463Z",
@@ -100,7 +258,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8670597,
+      "rating": 0.8754843,
       "ratingCount": 10,
       "created": "2026-07-13T17:20:44.506997Z",
       "updated": "2026-07-13T17:20:44.506997Z",
@@ -126,7 +284,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8254478,
+      "rating": 0.90750694,
       "ratingCount": 0,
       "created": "2026-07-13T12:22:37.212575Z",
       "updated": "2026-07-13T12:22:37.212575Z",
@@ -153,7 +311,7 @@
         "稻叶昙",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8678234,
       "ratingCount": 0,
       "created": "2026-07-13T10:11:35.093616Z",
       "updated": "2026-07-13T10:11:35.093616Z",
@@ -180,7 +338,7 @@
         "想吃掉我的非人少女",
         "plain"
       ],
-      "rating": 0.91675824,
+      "rating": 0.92822677,
       "ratingCount": 70,
       "created": "2026-07-12T21:24:16.404714Z",
       "updated": "2026-07-12T21:24:16.404714Z",
@@ -206,7 +364,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8980401,
+      "rating": 0.9005762,
       "ratingCount": 520,
       "created": "2026-07-12T18:39:52.018731Z",
       "updated": "2026-07-12T18:39:52.018731Z",
@@ -261,7 +419,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8578925,
+      "rating": 0.8565426,
       "ratingCount": 163,
       "created": "2026-07-12T07:46:13.880952Z",
       "updated": "2026-07-12T07:46:13.880952Z",
@@ -287,7 +445,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8480378,
+      "rating": 0.8561241,
       "ratingCount": 18,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
@@ -313,7 +471,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8876065,
+      "rating": 0.8964839,
       "ratingCount": 27,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
@@ -339,7 +497,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82128173,
+      "rating": 0.82933104,
       "ratingCount": 10,
       "created": "2026-07-12T06:50:52.215286Z",
       "updated": "2026-07-12T06:50:52.215286Z",
@@ -369,7 +527,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.94587636,
+      "rating": 0.94896835,
       "ratingCount": 26,
       "created": "2026-07-12T05:58:17.742446Z",
       "updated": "2026-07-12T05:58:17.742446Z",
@@ -424,7 +582,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90735203,
+      "rating": 0.9100734,
       "ratingCount": 22,
       "created": "2026-07-12T00:57:39.837175Z",
       "updated": "2026-07-12T00:57:39.837175Z",
@@ -454,7 +612,7 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.8210097,
+      "rating": 0.83187956,
       "ratingCount": 26,
       "created": "2026-07-11T10:15:05.646033Z",
       "updated": "2026-07-11T10:15:05.646033Z",
@@ -484,7 +642,7 @@
         "dump",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.76018816,
       "ratingCount": 0,
       "created": "2026-07-10T23:11:05.076768Z",
       "updated": "2026-07-10T23:11:05.076768Z",
@@ -510,7 +668,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9352742,
+      "rating": 0.936556,
       "ratingCount": 141,
       "created": "2025-08-31T04:08:32.490997Z",
       "updated": "2026-07-10T13:36:34.623471Z",
@@ -536,7 +694,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8487057,
+      "rating": 0.86245346,
       "ratingCount": 16,
       "created": "2026-07-10T04:47:50.203746Z",
       "updated": "2026-07-10T04:47:50.203746Z",
@@ -588,7 +746,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9588567,
+      "rating": 0.9598627,
       "ratingCount": 193,
       "created": "2025-08-22T19:40:50.912032Z",
       "updated": "2026-07-09T03:06:42.971257Z",
@@ -667,170 +825,11 @@
         "哈基米",
         "plain"
       ],
-      "rating": 0.9172839,
+      "rating": 0.9170253,
       "ratingCount": 43,
       "created": "2026-07-08T13:35:05.694415Z",
       "updated": "2026-07-08T13:35:05.694415Z",
       "chartUpdated": "2026-07-08T13:35:05.694415Z"
-    },
-    {
-      "id": 64930,
-      "name": "コレカラ",
-      "level": "Flow",
-      "difficulty": 11.900007,
-      "charter": "HRS-Team",
-      "composer": "Machico",
-      "illustrator": "",
-      "description": "HRS-Lv.11-Flow练习曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/14e5022d-ed03-436a-9c13-2ec4b46052de",
-      "preview": "https://phira.5wyxi.com/files/ca430683-6dec-4492-aab9-8b63653029a5",
-      "file": "https://phira.5wyxi.com/files/619e7c77-9bb7-4fc6-9cae-e48f6252f21f",
-      "uploader": 2815373,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "11",
-        "Flow",
-        "幻",
-        "plain"
-      ],
-      "rating": 0.91981286,
-      "ratingCount": 19,
-      "created": "2026-07-08T08:55:15.399798Z",
-      "updated": "2026-07-08T08:55:15.399798Z",
-      "chartUpdated": "2026-07-08T08:55:15.399798Z"
-    },
-    {
-      "id": 64921,
-      "name": "HRS ~ 16th Dan ~ ",
-      "level": "Dan",
-      "difficulty": 16.0,
-      "charter": "HRS-Team",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "HRS 16th Dan 考核\nSync:M.O.P.E.-333 BPM:333\nFlow:Zealous Hearts(Rayark Edit) BPM:200\nPattern:Chronomia 1.05x BPM:238.35\nHRS交流群：1106507620",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3b17f8e5-1e49-4a5a-a6be-1eaf113b772e",
-      "preview": "https://phira.5wyxi.com/files/936d4122-ab83-4754-988b-cbe64625749b",
-      "file": "https://phira.5wyxi.com/files/6ca0b47c-2d21-46e3-9368-080e74a54882",
-      "uploader": 2815373,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "16",
-        "Dan",
-        "plain"
-      ],
-      "rating": 0.8940588,
-      "ratingCount": 10,
-      "created": "2026-07-08T08:39:07.777928Z",
-      "updated": "2026-07-08T08:39:07.777928Z",
-      "chartUpdated": "2026-07-08T08:39:07.777928Z"
-    },
-    {
-      "id": 64920,
-      "name": "Chronomia 1.05x",
-      "level": "Pattern",
-      "difficulty": 16.000004,
-      "charter": "HRS-Team",
-      "composer": "Lime",
-      "illustrator": "",
-      "description": "HRS-Lv.16-Pattern单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/97fe1442-a010-41a0-a57c-a55dccfc3cd0",
-      "preview": "https://phira.5wyxi.com/files/7d62f260-d0ae-4ce2-a120-5b66bbebbdf2",
-      "file": "https://phira.5wyxi.com/files/918cd89a-2ddb-4f44-9109-d49bc9c12c12",
-      "uploader": 2815373,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "16",
-        "Pattern",
-        "瞬",
-        "plain"
-      ],
-      "rating": 0.7738369,
-      "ratingCount": 11,
-      "created": "2026-07-08T08:39:02.661504Z",
-      "updated": "2026-07-08T08:39:02.661504Z",
-      "chartUpdated": "2026-07-08T08:39:02.661504Z"
-    },
-    {
-      "id": 64919,
-      "name": "Zealous Hearts(Rayark Edit)",
-      "level": "Flow",
-      "difficulty": 16.000002,
-      "charter": "HRS-Team",
-      "composer": "Zekk",
-      "illustrator": "",
-      "description": "HRS-Lv.16-Flow单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8b985bdb-996d-4b98-8e69-61202ba52c6a",
-      "preview": "https://phira.5wyxi.com/files/a2e819a7-ae7b-4ee4-a4f3-e9d351acb0b2",
-      "file": "https://phira.5wyxi.com/files/9c5581c5-0b2b-4703-9583-dbac982be8e7",
-      "uploader": 2815373,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "16",
-        "Flow",
-        "幻",
-        "plain"
-      ],
-      "rating": 0.80552316,
-      "ratingCount": 3,
-      "created": "2026-07-08T08:38:57.342624Z",
-      "updated": "2026-07-08T08:38:57.342624Z",
-      "chartUpdated": "2026-07-08T08:38:57.342624Z"
-    },
-    {
-      "id": 64918,
-      "name": "M.O.P.E.-333",
-      "level": "Sync",
-      "difficulty": 16.0,
-      "charter": "HRS-Team",
-      "composer": "Quree",
-      "illustrator": "",
-      "description": "HRS-Lv.16-Sync单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d44a9358-4553-441c-8cd3-434b571b8125",
-      "preview": "https://phira.5wyxi.com/files/c86ec165-bc4f-4714-b98c-fabeea22693f",
-      "file": "https://phira.5wyxi.com/files/00f47b8a-f9fb-472f-9b3a-917b45883e88",
-      "uploader": 2815373,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "16",
-        "Sync",
-        "协",
-        "plain"
-      ],
-      "rating": 0.8137344,
-      "ratingCount": 8,
-      "created": "2026-07-08T08:38:51.758158Z",
-      "updated": "2026-07-08T08:38:51.758158Z",
-      "chartUpdated": "2026-07-08T08:38:51.758158Z"
     }
   ]
 }
