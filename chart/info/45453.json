@@ -13,11 +13,11 @@
   "name": "Stronghold",
   "preview": "https://phira.5wyxi.com/files/8d6d66bf-1ba1-4d74-941a-17372cd117d6",
   "ranked": false,
-  "rating": 0.9598627,
-  "ratingCount": 202,
-  "reviewed": false,
+  "rating": 0.95908254,
+  "ratingCount": 207,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "plain"
   ],
