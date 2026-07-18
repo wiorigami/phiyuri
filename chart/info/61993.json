@@ -13,11 +13,11 @@
   "name": "Night Drawmers",
   "preview": "https://phira.5wyxi.com/files/7bd383b9-dd01-4772-9d19-b109bf2ff4b4",
   "ranked": false,
-  "rating": 0.9470323,
-  "ratingCount": 329,
-  "reviewed": false,
+  "rating": 0.9462321,
+  "ratingCount": 364,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
