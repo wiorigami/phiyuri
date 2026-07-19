@@ -1,0 +1,30 @@
+{
+  "chartUpdated": "2026-07-17T13:58:02.397298Z",
+  "charter": "KX-Dorago",
+  "composer": "Tatsunoshin x Juggernaut.",
+  "created": "2026-07-17T13:58:02.397298Z",
+  "description": "该谱面为 WSRT x 云梦杯 比赛供谱\n首次登场于S区半决赛\n\n谱师本人上传\n合作谱师：\n@Kamoi#165742",
+  "difficulty": 16.400002,
+  "file": "https://phira.5wyxi.com/files/8755c1e3-41be-4ca3-80ec-d28853546599",
+  "id": 67290,
+  "illustration": "https://phira.5wyxi.com/files/4eb6604b-5c29-4955-b263-ffd58eb68cdb",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "El-Dorago",
+  "preview": "https://phira.5wyxi.com/files/8ebba9cc-7def-49ff-a3dc-c5d4e96ec7a5",
+  "ranked": false,
+  "rating": 0.8945554,
+  "ratingCount": 59,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "WSRTx云梦杯",
+    "沉坠破晓",
+    "云梦杯",
+    "WSRT",
+    "regular"
+  ],
+  "updated": "2026-07-18T03:32:46.382936Z",
+  "uploader": 17698
+}

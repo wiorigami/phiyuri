@@ -13,14 +13,14 @@
   "name": "Swift Swing",
   "preview": "https://phira.5wyxi.com/files/f3d8de90-af1d-4b02-a426-5036e7ee82ef",
   "ranked": false,
-  "rating": 0.8520663,
-  "ratingCount": 10,
-  "reviewed": true,
+  "rating": 0.9157065,
+  "ratingCount": 87,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-17T15:15:58.699850Z",
+  "updated": "2026-07-18T15:19:40.216318Z",
   "uploader": 1851767
 }

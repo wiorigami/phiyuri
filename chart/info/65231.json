@@ -13,14 +13,14 @@
   "name": "Glitch Street (ARForest Remix)",
   "preview": "https://phira.5wyxi.com/files/0bfc9d11-66f9-42a9-9f32-055949cd9b83",
   "ranked": false,
-  "rating": 0.85985935,
-  "ratingCount": 23,
-  "reviewed": true,
+  "rating": 0.872766,
+  "ratingCount": 76,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-09T09:35:08.499357Z",
+  "updated": "2026-07-18T03:34:09.038138Z",
   "uploader": 683322
 }

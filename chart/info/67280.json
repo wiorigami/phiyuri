@@ -13,14 +13,14 @@
   "name": "Climax",
   "preview": "https://phira.5wyxi.com/files/c65627c0-8856-4582-bcb8-521185b15368",
   "ranked": false,
-  "rating": 0.9131992,
-  "ratingCount": 26,
-  "reviewed": true,
+  "rating": 0.9184753,
+  "ratingCount": 152,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-17T13:21:45.197798Z",
+  "updated": "2026-07-18T02:48:56.141601Z",
   "uploader": 165742
 }
