@@ -13,11 +13,11 @@
   "name": "妄想哀歌 (feat. 初音ミク & 可不)",
   "preview": "https://phira.5wyxi.com/files/79f56ab9-e945-4b12-8b51-c910455b1475",
   "ranked": false,
-  "rating": 0.91716254,
-  "ratingCount": 192,
-  "reviewed": true,
+  "rating": 0.9363553,
+  "ratingCount": 997,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "术曲",
     "耐力",
@@ -25,6 +25,6 @@
     "初音未来",
     "regular"
   ],
-  "updated": "2026-07-05T08:13:24.566063Z",
+  "updated": "2026-07-20T00:11:11.040626Z",
   "uploader": 1855126
 }

@@ -13,11 +13,11 @@
   "name": "求&影",
   "preview": "https://phira.5wyxi.com/files/4648d737-a8c9-4d8c-8730-a8d3182cf7e7",
   "ranked": false,
-  "rating": 0.91780156,
-  "ratingCount": 957,
-  "reviewed": false,
+  "rating": 0.9115125,
+  "ratingCount": 1359,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

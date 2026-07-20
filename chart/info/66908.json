@@ -13,11 +13,11 @@
   "name": "Moonfall - 大月墜落狂想",
   "preview": "https://phira.5wyxi.com/files/7d34b36d-78e9-4b01-9e45-68ce55c44b0a",
   "ranked": false,
-  "rating": 0.88119465,
-  "ratingCount": 199,
-  "reviewed": false,
+  "rating": 0.8682429,
+  "ratingCount": 294,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
