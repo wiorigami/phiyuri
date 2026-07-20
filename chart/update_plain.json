@@ -1,6 +1,32 @@
 {
-  "count": 3146,
+  "count": 3144,
   "results": [
+    {
+      "id": 67756,
+      "name": "Recollect（Re.从零开始的异世界生活 第四季 TV开头曲）",
+      "level": "4k IN Lv.18",
+      "difficulty": 20.0,
+      "charter": "tankcatcat",
+      "composer": "鈴木このみ、Ashnikko",
+      "illustrator": "",
+      "description": "新人谱\n音乐:Recollect（Re.从零开始的异世界生活 第四季 TV开头曲）\n由谱师tankcatcat本人自制\n可能做的不是很好，还请理解。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/7d013f55-2b01-4881-bd88-cdb696c32a48",
+      "preview": "https://api.phira.cn/files/e56a72d6-dae1-4515-bc6d-43e5712fd026",
+      "file": "https://api.phira.cn/files/eb168172-bf6c-4744-af01-1ae895e6b460",
+      "uploader": 2298625,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.76758695,
+      "ratingCount": 0,
+      "created": "2026-07-19T13:08:17.906692Z",
+      "updated": "2026-07-19T13:08:17.906692Z",
+      "chartUpdated": "2026-07-19T13:08:17.906692Z"
+    },
     {
       "id": 67450,
       "name": "Sphere",
@@ -9,14 +35,14 @@
       "charter": "Post \"Centripetal\"",
       "composer": "Creo",
       "illustrator": "",
-      "description": "本人上传 DRAG 978/3200\n标准分 97.83\n梦离杯半决赛标杆其一\n梦离杯详细信息：b站@TEC空城\n双指高难谱面，多指谨慎游玩",
+      "description": "本人上传 DRAG 976/3156\n标准分 97.83\n梦离杯半决赛标杆其一\n梦离杯详细信息：b站@TEC空城\n双指高难谱面，多指谨慎游玩",
       "ranked": false,
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/a191f551-3228-4ae2-a2c8-d151a67d988d",
-      "preview": "https://api.phira.cn/files/14a9dd76-15fa-4778-998c-86efe4740324",
-      "file": "https://api.phira.cn/files/f4830f8b-1ef9-4c3a-8424-a3f4ac7c1cea",
+      "illustration": "https://api.phira.cn/files/67003cf7-7c66-4faa-8e30-42aef764a049",
+      "preview": "https://api.phira.cn/files/a17ff155-ded8-42d6-8dec-05ead18afa00",
+      "file": "https://api.phira.cn/files/c6c1c627-1aa8-45be-822b-76c52cb3a3b1",
       "uploader": 2398941,
       "tags": [
         "DFC",
@@ -29,8 +55,8 @@
       "rating": null,
       "ratingCount": 0,
       "created": "2026-07-18T08:05:47.892027Z",
-      "updated": "2026-07-18T08:05:47.892027Z",
-      "chartUpdated": "2026-07-18T08:05:47.892027Z"
+      "updated": "2026-07-19T07:07:20.473637Z",
+      "chartUpdated": "2026-07-19T07:07:20.473637Z"
     },
     {
       "id": 67448,
@@ -56,7 +82,7 @@
         "耐力",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7803841,
       "ratingCount": 0,
       "created": "2026-07-18T08:01:16.193662Z",
       "updated": "2026-07-18T08:01:16.193662Z",
@@ -85,7 +111,7 @@
         "高难",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.87991786,
       "ratingCount": 0,
       "created": "2026-07-17T17:57:46.982931Z",
       "updated": "2026-07-17T17:57:46.982931Z",
@@ -111,7 +137,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.910336,
+      "rating": 0.91919726,
       "ratingCount": 21,
       "created": "2026-07-09T07:01:24.847587Z",
       "updated": "2026-07-17T11:02:44.392237Z",
@@ -137,7 +163,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95305055,
+      "rating": 0.95594865,
       "ratingCount": 88,
       "created": "2026-07-13T12:22:00.740935Z",
       "updated": "2026-07-17T10:59:45.393805Z",
@@ -163,7 +189,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8390191,
       "ratingCount": 0,
       "created": "2026-07-17T03:44:58.517803Z",
       "updated": "2026-07-17T03:44:58.517803Z",
@@ -189,7 +215,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9087931,
+      "rating": 0.9120846,
       "ratingCount": 12,
       "created": "2026-07-16T08:34:58.378750Z",
       "updated": "2026-07-16T08:34:58.378750Z",
@@ -215,7 +241,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.919323,
+      "rating": 0.9228178,
       "ratingCount": 75,
       "created": "2026-04-18T08:22:32.416430Z",
       "updated": "2026-07-15T02:47:10.193544Z",
@@ -247,7 +273,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.7813641,
+      "rating": 0.7967601,
       "ratingCount": 10,
       "created": "2026-07-14T06:30:46.321293Z",
       "updated": "2026-07-14T06:30:46.321293Z",
@@ -278,7 +304,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8532415,
+      "rating": 0.8726745,
       "ratingCount": 15,
       "created": "2026-07-14T06:13:27.071534Z",
       "updated": "2026-07-14T06:13:27.071534Z",
@@ -309,7 +335,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8781344,
+      "rating": 0.8836672,
       "ratingCount": 9,
       "created": "2026-07-14T05:34:15.239766Z",
       "updated": "2026-07-14T05:34:15.239766Z",
@@ -341,7 +367,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8258486,
+      "rating": 0.8690693,
       "ratingCount": 7,
       "created": "2026-07-14T05:21:07.444525Z",
       "updated": "2026-07-14T05:21:07.444525Z",
@@ -400,7 +426,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.87485445,
+      "rating": 0.881508,
       "ratingCount": 13,
       "created": "2026-07-14T02:33:30.036363Z",
       "updated": "2026-07-14T02:33:30.036363Z",
@@ -426,7 +452,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90333885,
+      "rating": 0.90250057,
       "ratingCount": 141,
       "created": "2026-07-13T19:21:44.357463Z",
       "updated": "2026-07-13T19:21:44.357463Z",
@@ -452,7 +478,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8825607,
+      "rating": 0.8859364,
       "ratingCount": 95,
       "created": "2026-07-13T17:20:44.506997Z",
       "updated": "2026-07-13T17:20:44.506997Z",
@@ -478,7 +504,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8258486,
+      "rating": 0.7987521,
       "ratingCount": 7,
       "created": "2026-07-13T12:24:34.062820Z",
       "updated": "2026-07-13T12:24:34.062820Z",
@@ -504,7 +530,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9140613,
+      "rating": 0.9195813,
       "ratingCount": 44,
       "created": "2026-07-13T12:22:37.212575Z",
       "updated": "2026-07-13T12:22:37.212575Z",
@@ -531,7 +557,7 @@
         "稻叶昙",
         "plain"
       ],
-      "rating": 0.8778362,
+      "rating": 0.88649786,
       "ratingCount": 8,
       "created": "2026-07-13T10:11:35.093616Z",
       "updated": "2026-07-13T10:11:35.093616Z",
@@ -557,7 +583,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89822555,
+      "rating": 0.8989764,
       "ratingCount": 795,
       "created": "2026-07-12T18:39:52.018731Z",
       "updated": "2026-07-12T18:39:52.018731Z",
@@ -586,7 +612,7 @@
         "Rotaeno",
         "plain"
       ],
-      "rating": 0.8773345,
+      "rating": 0.88392746,
       "ratingCount": 16,
       "created": "2026-07-12T14:15:36.712888Z",
       "updated": "2026-07-12T14:15:36.712888Z",
@@ -612,7 +638,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85298693,
+      "rating": 0.85453415,
       "ratingCount": 280,
       "created": "2026-07-12T07:46:13.880952Z",
       "updated": "2026-07-12T07:46:13.880952Z",
@@ -638,7 +664,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8507258,
+      "rating": 0.8650733,
       "ratingCount": 24,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
@@ -664,7 +690,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89792824,
+      "rating": 0.9063286,
       "ratingCount": 41,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
@@ -690,7 +716,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82933104,
+      "rating": 0.8444878,
       "ratingCount": 16,
       "created": "2026-07-12T06:50:52.215286Z",
       "updated": "2026-07-12T06:50:52.215286Z",
@@ -720,7 +746,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.9574989,
+      "rating": 0.9584929,
       "ratingCount": 36,
       "created": "2026-07-12T05:58:17.742446Z",
       "updated": "2026-07-12T05:58:17.742446Z",
@@ -775,7 +801,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9230144,
+      "rating": 0.9186008,
       "ratingCount": 52,
       "created": "2026-07-12T00:57:39.837175Z",
       "updated": "2026-07-12T00:57:39.837175Z",
@@ -805,41 +831,11 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.8377757,
+      "rating": 0.84421575,
       "ratingCount": 32,
       "created": "2026-07-11T10:15:05.646033Z",
       "updated": "2026-07-11T10:15:05.646033Z",
       "chartUpdated": "2026-07-11T10:15:05.646033Z"
-    },
-    {
-      "id": 65530,
-      "name": "Submerged City",
-      "level": "4k Lv.Hybrid",
-      "difficulty": 17.2,
-      "charter": "LeionTha",
-      "composer": "DJ Raisei feat. noeric",
-      "illustrator": "",
-      "description": "osu评级:8.06*\n实际难度:beta+ ln12\n—————————————————\n后一次更新了，osu那边感觉摸得差不多了（",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/166036af-21f2-4f22-8345-2a1fa9762b21",
-      "preview": "https://phira.5wyxi.com/files/08e8cd34-9d04-4bd2-9753-11759d0f074f",
-      "file": "https://phira.5wyxi.com/files/a0ad2bc2-bb6e-4260-a3fb-d207113572f5",
-      "uploader": 8644,
-      "tags": [
-        "longnote",
-        "hybrid",
-        "4k",
-        "dump",
-        "plain"
-      ],
-      "rating": 0.8608197,
-      "ratingCount": 14,
-      "created": "2026-07-10T23:11:05.076768Z",
-      "updated": "2026-07-10T23:11:05.076768Z",
-      "chartUpdated": "2026-07-10T23:11:05.076768Z"
     }
   ]
 }
