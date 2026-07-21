@@ -13,14 +13,14 @@
   "name": "分からない",
   "preview": "https://phira.5wyxi.com/files/be6b6fa0-c4c6-42f6-8a31-89bcbd6689f7",
   "ranked": false,
-  "rating": 0.8818557,
-  "ratingCount": 38,
-  "reviewed": true,
+  "rating": 0.86545444,
+  "ratingCount": 106,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-16T12:40:54.030881Z",
+  "updated": "2026-07-20T15:56:21.555409Z",
   "uploader": 2849368
 }
