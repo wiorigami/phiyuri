@@ -1,6 +1,137 @@
 {
-  "count": 3144,
+  "count": 3145,
   "results": [
+    {
+      "id": 68030,
+      "name": "MEGALOVANIA(Camellia Remix)",
+      "level": "5K Final Lv.46",
+      "difficulty": 46.0,
+      "charter": "N_neo",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "谱师：N_neo\n制谱时长：29d\n制谱净时长：42h\n\n谱师本人上传，非转谱。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/98021fec-bd3e-4c3c-b200-ae9c1e64f81c",
+      "preview": "https://api.phira.cn/files/03e16e88-da1e-40b6-a904-53b57cf705c7",
+      "file": "https://api.phira.cn/files/fe8d04e0-5d77-408a-8c2b-0b2875cbe035",
+      "uploader": 1142877,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.70983166,
+      "ratingCount": 0,
+      "created": "2026-07-20T15:22:50.196643Z",
+      "updated": "2026-07-20T15:22:50.196643Z",
+      "chartUpdated": "2026-07-20T15:22:50.196643Z"
+    },
+    {
+      "id": 67997,
+      "name": "大地の閾を探して",
+      "level": "Mercifully",
+      "difficulty": 0.0,
+      "charter": "！该账号已被封禁！",
+      "composer": "かめりあ",
+      "illustrator": "",
+      "description": "本人上传，因为私心换了封面。BV1cmkqGtE3V",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/79145feb-01cf-4794-a2a4-288c54d28111",
+      "preview": "https://api.phira.cn/files/af53139e-f72d-45ab-a0aa-79eada558792",
+      "file": "https://api.phira.cn/files/82ca2d87-135d-4f15-ae04-c824a6d6fc94",
+      "uploader": 52912,
+      "tags": [
+        "fgo",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-07-20T13:18:33.840261Z",
+      "updated": "2026-07-20T13:18:33.840261Z",
+      "chartUpdated": "2026-07-20T13:18:33.840261Z"
+    },
+    {
+      "id": 56297,
+      "name": "あのね（Connect the World）",
+      "level": "4k Lv.28",
+      "difficulty": 17.300001,
+      "charter": "Shidora喵",
+      "composer": "ナナツカゼ（PIKASONIC&nakotanmaru）",
+      "illustrator": "",
+      "description": "第一次写切以外的\n祝玩的开心！\n（求过审  咱的谱已经半年没过审了，，，）",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/dcb3aeac-20a3-4a48-9633-83e2f8dd898d",
+      "preview": "https://api.phira.cn/files/fdadb657-8346-4259-9cd3-8c631cd1bf9a",
+      "file": "https://api.phira.cn/files/1f7d035b-732c-44d3-b8a7-b5ea379e5199",
+      "uploader": 205118,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.9146992,
+      "ratingCount": 0,
+      "created": "2026-04-14T04:41:55.989626Z",
+      "updated": "2026-07-20T12:39:34.714109Z",
+      "chartUpdated": "2026-04-14T04:41:55.989626Z"
+    },
+    {
+      "id": 67858,
+      "name": "it brings back memories. though there was nothing in those days, \"nothingness\" was still there.",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "赤夜",
+      "composer": "samebeam",
+      "illustrator": "",
+      "description": "这是未削弱的，我觉得挺好玩就上传了喵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/d2753353-403b-4cf8-a47e-2ea99ab3aaeb",
+      "preview": "https://api.phira.cn/files/b04cadbc-7ca5-45a6-ac81-95c48b365290",
+      "file": "https://api.phira.cn/files/8112cb0a-8e25-4796-b7a9-a99ac6463e77",
+      "uploader": 562438,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.870769,
+      "ratingCount": 0,
+      "created": "2026-07-20T03:16:35.001550Z",
+      "updated": "2026-07-20T03:16:35.001550Z",
+      "chartUpdated": "2026-07-20T03:16:35.001550Z"
+    },
+    {
+      "id": 48807,
+      "name": "Secret Illumination",
+      "level": "4k.Lv22",
+      "difficulty": 22.0,
+      "charter": "叶秋分",
+      "composer": "yooh",
+      "illustrator": "",
+      "description": "这是我第一次写谱，就纯配置，因为那些花花的都还不会，尽管这样简单，可我还是写了好久，还不怎么好，但是还是想斗胆发发",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/264c1150-d613-4957-826c-1054c34159c4",
+      "preview": "https://phira.5wyxi.com/files/77232b3c-9b86-4e88-9d34-fb0d043e2656",
+      "file": "https://phira.5wyxi.com/files/801e953a-822e-4ade-9467-539c43c4eebb",
+      "uploader": 488979,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.88753647,
+      "ratingCount": 129,
+      "created": "2025-11-06T17:34:27.176330Z",
+      "updated": "2026-07-20T02:41:41.304175Z",
+      "chartUpdated": "2025-11-06T17:34:27.176330Z"
+    },
     {
       "id": 67756,
       "name": "Recollect（Re.从零开始的异世界生活 第四季 TV开头曲）",
@@ -14,15 +145,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/7d013f55-2b01-4881-bd88-cdb696c32a48",
-      "preview": "https://api.phira.cn/files/e56a72d6-dae1-4515-bc6d-43e5712fd026",
-      "file": "https://api.phira.cn/files/eb168172-bf6c-4744-af01-1ae895e6b460",
+      "illustration": "https://phira.5wyxi.com/files/7d013f55-2b01-4881-bd88-cdb696c32a48",
+      "preview": "https://phira.5wyxi.com/files/e56a72d6-dae1-4515-bc6d-43e5712fd026",
+      "file": "https://phira.5wyxi.com/files/eb168172-bf6c-4744-af01-1ae895e6b460",
       "uploader": 2298625,
       "tags": [
         "plain"
       ],
-      "rating": 0.76758695,
-      "ratingCount": 0,
+      "rating": 0.8320498,
+      "ratingCount": 6,
       "created": "2026-07-19T13:08:17.906692Z",
       "updated": "2026-07-19T13:08:17.906692Z",
       "chartUpdated": "2026-07-19T13:08:17.906692Z"
@@ -40,9 +171,9 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/67003cf7-7c66-4faa-8e30-42aef764a049",
-      "preview": "https://api.phira.cn/files/a17ff155-ded8-42d6-8dec-05ead18afa00",
-      "file": "https://api.phira.cn/files/c6c1c627-1aa8-45be-822b-76c52cb3a3b1",
+      "illustration": "https://phira.5wyxi.com/files/67003cf7-7c66-4faa-8e30-42aef764a049",
+      "preview": "https://phira.5wyxi.com/files/a17ff155-ded8-42d6-8dec-05ead18afa00",
+      "file": "https://phira.5wyxi.com/files/c6c1c627-1aa8-45be-822b-76c52cb3a3b1",
       "uploader": 2398941,
       "tags": [
         "DFC",
@@ -52,8 +183,8 @@
         "爆发",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.80552316,
+      "ratingCount": 2,
       "created": "2026-07-18T08:05:47.892027Z",
       "updated": "2026-07-19T07:07:20.473637Z",
       "chartUpdated": "2026-07-19T07:07:20.473637Z"
@@ -71,9 +202,9 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/de47b77e-7514-4c28-b8a8-724ed185cf91",
-      "preview": "https://api.phira.cn/files/869ae96c-de68-4b75-8c93-c68d115d6ad7",
-      "file": "https://api.phira.cn/files/ccc25452-3c98-4c0e-9b32-fd22e4e02811",
+      "illustration": "https://phira.5wyxi.com/files/de47b77e-7514-4c28-b8a8-724ed185cf91",
+      "preview": "https://phira.5wyxi.com/files/869ae96c-de68-4b75-8c93-c68d115d6ad7",
+      "file": "https://phira.5wyxi.com/files/ccc25452-3c98-4c0e-9b32-fd22e4e02811",
       "uploader": 2075137,
       "tags": [
         "双指",
@@ -82,8 +213,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 0,
+      "rating": 0.80552316,
+      "ratingCount": 3,
       "created": "2026-07-18T08:01:16.193662Z",
       "updated": "2026-07-18T08:01:16.193662Z",
       "chartUpdated": "2026-07-18T08:01:16.193662Z"
@@ -101,9 +232,9 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/bc258b08-69e8-4ed4-bde5-be6df2fbcaf6",
-      "preview": "https://api.phira.cn/files/8d106599-8487-4d59-8674-1562f36afaed",
-      "file": "https://api.phira.cn/files/a1da1232-5b9c-4fd8-88cb-d97020551050",
+      "illustration": "https://phira.5wyxi.com/files/bc258b08-69e8-4ed4-bde5-be6df2fbcaf6",
+      "preview": "https://phira.5wyxi.com/files/8d106599-8487-4d59-8674-1562f36afaed",
+      "file": "https://phira.5wyxi.com/files/a1da1232-5b9c-4fd8-88cb-d97020551050",
       "uploader": 253256,
       "tags": [
         "AT19",
@@ -111,8 +242,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.87991786,
-      "ratingCount": 0,
+      "rating": 0.907659,
+      "ratingCount": 13,
       "created": "2026-07-17T17:57:46.982931Z",
       "updated": "2026-07-17T17:57:46.982931Z",
       "chartUpdated": "2026-07-17T17:57:46.982931Z"
@@ -137,8 +268,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91919726,
-      "ratingCount": 21,
+      "rating": 0.9286325,
+      "ratingCount": 27,
       "created": "2026-07-09T07:01:24.847587Z",
       "updated": "2026-07-17T11:02:44.392237Z",
       "chartUpdated": "2026-07-09T07:01:24.847587Z"
@@ -163,8 +294,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95594865,
-      "ratingCount": 88,
+      "rating": 0.957561,
+      "ratingCount": 165,
       "created": "2026-07-13T12:22:00.740935Z",
       "updated": "2026-07-17T10:59:45.393805Z",
       "chartUpdated": "2026-07-13T12:22:00.740935Z"
@@ -189,8 +320,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8390191,
-      "ratingCount": 0,
+      "rating": 0.8504025,
+      "ratingCount": 9,
       "created": "2026-07-17T03:44:58.517803Z",
       "updated": "2026-07-17T03:44:58.517803Z",
       "chartUpdated": "2026-07-17T03:44:58.517803Z"
@@ -215,8 +346,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9120846,
-      "ratingCount": 12,
+      "rating": 0.91775864,
+      "ratingCount": 85,
       "created": "2026-07-16T08:34:58.378750Z",
       "updated": "2026-07-16T08:34:58.378750Z",
       "chartUpdated": "2026-07-16T08:34:58.378750Z"
@@ -241,8 +372,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9228178,
-      "ratingCount": 75,
+      "rating": 0.9230536,
+      "ratingCount": 86,
       "created": "2026-04-18T08:22:32.416430Z",
       "updated": "2026-07-15T02:47:10.193544Z",
       "chartUpdated": "2026-04-18T08:22:32.416430Z"
@@ -273,8 +404,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.7967601,
-      "ratingCount": 10,
+      "rating": 0.8238317,
+      "ratingCount": 17,
       "created": "2026-07-14T06:30:46.321293Z",
       "updated": "2026-07-14T06:30:46.321293Z",
       "chartUpdated": "2026-07-14T06:30:46.321293Z"
@@ -304,8 +435,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8726745,
-      "ratingCount": 15,
+      "rating": 0.8958274,
+      "ratingCount": 19,
       "created": "2026-07-14T06:13:27.071534Z",
       "updated": "2026-07-14T06:13:27.071534Z",
       "chartUpdated": "2026-07-14T06:13:27.071534Z"
@@ -335,8 +466,8 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8836672,
-      "ratingCount": 9,
+      "rating": 0.8892873,
+      "ratingCount": 16,
       "created": "2026-07-14T05:34:15.239766Z",
       "updated": "2026-07-14T05:34:15.239766Z",
       "chartUpdated": "2026-07-14T05:34:15.239766Z"
@@ -367,8 +498,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8690693,
-      "ratingCount": 7,
+      "rating": 0.8768094,
+      "ratingCount": 11,
       "created": "2026-07-14T05:21:07.444525Z",
       "updated": "2026-07-14T05:21:07.444525Z",
       "chartUpdated": "2026-07-14T05:21:07.444525Z"
@@ -399,8 +530,8 @@
         "协",
         "plain"
       ],
-      "rating": 0.8176735,
-      "ratingCount": 5,
+      "rating": 0.8336699,
+      "ratingCount": 6,
       "created": "2026-07-14T05:05:50.226692Z",
       "updated": "2026-07-14T05:05:50.226692Z",
       "chartUpdated": "2026-07-14T05:05:50.226692Z"
@@ -427,7 +558,7 @@
         "plain"
       ],
       "rating": 0.881508,
-      "ratingCount": 13,
+      "ratingCount": 14,
       "created": "2026-07-14T02:33:30.036363Z",
       "updated": "2026-07-14T02:33:30.036363Z",
       "chartUpdated": "2026-07-14T02:33:30.036363Z"
@@ -452,8 +583,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90250057,
-      "ratingCount": 141,
+      "rating": 0.9009062,
+      "ratingCount": 178,
       "created": "2026-07-13T19:21:44.357463Z",
       "updated": "2026-07-13T19:21:44.357463Z",
       "chartUpdated": "2026-07-13T19:21:44.357463Z"
@@ -478,8 +609,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8859364,
-      "ratingCount": 95,
+      "rating": 0.8881948,
+      "ratingCount": 105,
       "created": "2026-07-13T17:20:44.506997Z",
       "updated": "2026-07-13T17:20:44.506997Z",
       "chartUpdated": "2026-07-13T17:20:44.506997Z"
@@ -504,8 +635,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7987521,
-      "ratingCount": 7,
+      "rating": 0.8026801,
+      "ratingCount": 9,
       "created": "2026-07-13T12:24:34.062820Z",
       "updated": "2026-07-13T12:24:34.062820Z",
       "chartUpdated": "2026-07-13T12:24:34.062820Z"
@@ -530,8 +661,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9195813,
-      "ratingCount": 44,
+      "rating": 0.9195255,
+      "ratingCount": 56,
       "created": "2026-07-13T12:22:37.212575Z",
       "updated": "2026-07-13T12:22:37.212575Z",
       "chartUpdated": "2026-07-13T12:22:37.212575Z"
@@ -557,8 +688,8 @@
         "稻叶昙",
         "plain"
       ],
-      "rating": 0.88649786,
-      "ratingCount": 8,
+      "rating": 0.9007121,
+      "ratingCount": 11,
       "created": "2026-07-13T10:11:35.093616Z",
       "updated": "2026-07-13T10:11:35.093616Z",
       "chartUpdated": "2026-07-13T10:11:35.093616Z"
@@ -583,8 +714,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8989764,
-      "ratingCount": 795,
+      "rating": 0.8997594,
+      "ratingCount": 861,
       "created": "2026-07-12T18:39:52.018731Z",
       "updated": "2026-07-12T18:39:52.018731Z",
       "chartUpdated": "2026-07-12T18:39:52.018731Z"
@@ -612,8 +743,8 @@
         "Rotaeno",
         "plain"
       ],
-      "rating": 0.88392746,
-      "ratingCount": 16,
+      "rating": 0.8900297,
+      "ratingCount": 19,
       "created": "2026-07-12T14:15:36.712888Z",
       "updated": "2026-07-12T14:15:36.712888Z",
       "chartUpdated": "2026-07-12T14:15:36.712888Z"
@@ -638,8 +769,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85453415,
-      "ratingCount": 280,
+      "rating": 0.85168326,
+      "ratingCount": 289,
       "created": "2026-07-12T07:46:13.880952Z",
       "updated": "2026-07-12T07:46:13.880952Z",
       "chartUpdated": "2026-07-12T07:46:13.880952Z"
@@ -664,8 +795,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8650733,
-      "ratingCount": 24,
+      "rating": 0.8627804,
+      "ratingCount": 27,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
       "chartUpdated": "2026-07-12T06:51:59.766789Z"
@@ -691,151 +822,10 @@
         "plain"
       ],
       "rating": 0.9063286,
-      "ratingCount": 41,
+      "ratingCount": 47,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
       "chartUpdated": "2026-07-12T06:51:53.687644Z"
-    },
-    {
-      "id": 65905,
-      "name": "Signal",
-      "level": "4K Lv.28",
-      "difficulty": 10.0,
-      "charter": "MoG",
-      "composer": "rejection feat. Such",
-      "illustrator": "",
-      "description": "2026.4.4 完成。\n叠+乱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c325beca-7d12-48c4-aa79-cc788dc08335",
-      "preview": "https://phira.5wyxi.com/files/2e5ca264-87fb-4066-806b-94187fcf7094",
-      "file": "https://phira.5wyxi.com/files/ab1f7357-94a8-4897-8c44-8112be0ecc86",
-      "uploader": 686189,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8444878,
-      "ratingCount": 16,
-      "created": "2026-07-12T06:50:52.215286Z",
-      "updated": "2026-07-12T06:50:52.215286Z",
-      "chartUpdated": "2026-07-12T06:50:52.215286Z"
-    },
-    {
-      "id": 65888,
-      "name": "DFC DestEnd EX Dan                    ",
-      "level": "Dan Lv.13",
-      "difficulty": 13.0,
-      "charter": "Anxiety/Jiuwenzi/NKSV",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本段位为DestEnd战队的DFC精英考核段位\nDestEnd考核群：1046951546\n加入战队且通过本段位可以领取专属精美头像喵\n边缘标准为96.45\n过段标准为97.87\n后光标准为98.93\n击破标准为99.64\n感谢游玩～",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7b8f70aa-6a4a-47a1-ae43-650503ac7257",
-      "preview": "https://phira.5wyxi.com/files/a867b3e8-af26-48f8-baac-2d12af9aa3ce",
-      "file": "https://phira.5wyxi.com/files/b4a90412-531c-4683-bb70-11a62f14b663",
-      "uploader": 1470361,
-      "tags": [
-        "DFC",
-        "DestEnd",
-        "Extra",
-        "gamma",
-        "plain"
-      ],
-      "rating": 0.9584929,
-      "ratingCount": 36,
-      "created": "2026-07-12T05:58:17.742446Z",
-      "updated": "2026-07-12T05:58:17.742446Z",
-      "chartUpdated": "2026-07-12T05:58:17.742446Z"
-    },
-    {
-      "id": 65860,
-      "name": "DFC Grand Tourer Extra Dan",
-      "level": "Dan Lv.15+",
-      "difficulty": 15.700001,
-      "charter": "GT_TEC空城",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本人上传\n双指高难段位，多指谨慎游玩\nDFC Grand Tourer Extra Dan\nDrag总比：21.732%(1626/7482)\n过段标准：97.59%（stacc97%）\n后光标准：98.79%（stacc98.5%）\n\n单曲信息\n\n乱\n曲名：Wander of Thought(cut)\n难度：15.5\n时长：100s\n物量：999\nBPM：145\nDrag占比：6.21%\nid：52661\n\n叠\n曲名：Everyday\n时长：165s\n难度：15.5\n物量：2804\nBPM：174\nDrag占比：24.64%\nid：54290\n\n技\n曲名：Sidestep(cut)\n时长：130s\n难度：15.9\n物量：1653\nBPM：165\nDrag占比：30.73%\nid: 53742\n\n切\n曲名：PEDAL TO THE METAL\n时长：144s\n难度：15.6\n物量：2026\nBPM：260\nDrag占比：18.02%\nid: 53922",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/872ae5cc-f985-4f6b-9b1b-c96468bbfbb9",
-      "preview": "https://phira.5wyxi.com/files/361e7472-1a16-4451-96cc-e2e085e7f840",
-      "file": "https://phira.5wyxi.com/files/68edcc07-f450-41b1-aee3-f4f9a3a7821d",
-      "uploader": 2398941,
-      "tags": [
-        "DFC",
-        "双指",
-        "段位",
-        "plain"
-      ],
-      "rating": 0.8533043,
-      "ratingCount": 7,
-      "created": "2026-07-12T04:23:38.568736Z",
-      "updated": "2026-07-12T04:23:38.568736Z",
-      "chartUpdated": "2026-07-12T04:23:38.568736Z"
-    },
-    {
-      "id": 65830,
-      "name": "Apollo",
-      "level": "4K Lv.29",
-      "difficulty": 10.0,
-      "charter": "nwn凝望",
-      "composer": "TJ.hangneil",
-      "illustrator": "",
-      "description": "谱师本人上传，三个小时速写谱，差不多是全采音，后面很难了，望通过",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ff3b453f-eca9-4cda-9bc4-f6e64da869e2",
-      "preview": "https://phira.5wyxi.com/files/7c757aa3-45ee-4966-aad0-292984be5997",
-      "file": "https://phira.5wyxi.com/files/7909a80c-d8c2-4b09-b556-b4244f9a1aea",
-      "uploader": 1257674,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9186008,
-      "ratingCount": 52,
-      "created": "2026-07-12T00:57:39.837175Z",
-      "updated": "2026-07-12T00:57:39.837175Z",
-      "chartUpdated": "2026-07-12T00:57:39.837175Z"
-    },
-    {
-      "id": 65674,
-      "name": "Le Porteur d'Ombre",
-      "level": "AT Lv.18",
-      "difficulty": 18.500002,
-      "charter": "绿豆",
-      "composer": "黒皇帝 feat.AKA",
-      "illustrator": "",
-      "description": "ZENITH战队谱师组公募\n†―万古永夜落幕，城中人初见黎明―†\n这个句子是我用豆包写的。\n物量：2068\n音乐名：Le Porteur d'Ombre\n曲师：黒皇帝feat.AKA\n定数：18.5？\n谱师：绿豆\n------谱师废话------\n：老板给我来碗忘情牛肉面。（划掉）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/80c90fc4-b34f-4566-ba25-5d9689e8978e",
-      "preview": "https://phira.5wyxi.com/files/738d6d37-cbcc-4f26-84cd-64b80173bd7b",
-      "file": "https://phira.5wyxi.com/files/d420a721-6a37-446a-9b21-5a20e4238789",
-      "uploader": 262857,
-      "tags": [
-        "Orzmic",
-        "5k",
-        "6k",
-        "无轨",
-        "plain"
-      ],
-      "rating": 0.84421575,
-      "ratingCount": 32,
-      "created": "2026-07-11T10:15:05.646033Z",
-      "updated": "2026-07-11T10:15:05.646033Z",
-      "chartUpdated": "2026-07-11T10:15:05.646033Z"
     }
   ]
 }
