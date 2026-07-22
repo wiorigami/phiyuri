@@ -13,14 +13,14 @@
   "name": "Nirvana",
   "preview": "https://phira.5wyxi.com/files/4ddddc99-968f-405b-b381-90eeb25ccb86",
   "ranked": false,
-  "rating": 0.8453477,
-  "ratingCount": 10,
-  "reviewed": true,
+  "rating": 0.85335135,
+  "ratingCount": 131,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-08T13:56:03.202711Z",
+  "updated": "2026-07-21T14:35:39.163714Z",
   "uploader": 544355
 }
