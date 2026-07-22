@@ -1,6 +1,33 @@
 {
-  "count": 3145,
+  "count": 3143,
   "results": [
+    {
+      "id": 67997,
+      "name": "大地の閾を探して",
+      "level": "Mercifully",
+      "difficulty": 0.0,
+      "charter": "！该账号已被封禁！",
+      "composer": "かめりあ",
+      "illustrator": "",
+      "description": "本人上传，因为私心换了封面。BV1cmkqGtE3V",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/39e6a83e-f194-4d47-9be5-304f27e754a7",
+      "preview": "https://api.phira.cn/files/7680abae-fe54-43a8-8597-d4a38f6807a3",
+      "file": "https://api.phira.cn/files/4d775503-4380-4420-90b5-18a111f80177",
+      "uploader": 52912,
+      "tags": [
+        "fgo",
+        "plain"
+      ],
+      "rating": 0.7622974,
+      "ratingCount": 0,
+      "created": "2026-07-20T13:18:33.840261Z",
+      "updated": "2026-07-21T06:57:20.636482Z",
+      "chartUpdated": "2026-07-20T13:18:33.840261Z"
+    },
     {
       "id": 68030,
       "name": "MEGALOVANIA(Camellia Remix)",
@@ -21,38 +48,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.70983166,
+      "rating": 0.8385693,
       "ratingCount": 0,
       "created": "2026-07-20T15:22:50.196643Z",
       "updated": "2026-07-20T15:22:50.196643Z",
       "chartUpdated": "2026-07-20T15:22:50.196643Z"
-    },
-    {
-      "id": 67997,
-      "name": "大地の閾を探して",
-      "level": "Mercifully",
-      "difficulty": 0.0,
-      "charter": "！该账号已被封禁！",
-      "composer": "かめりあ",
-      "illustrator": "",
-      "description": "本人上传，因为私心换了封面。BV1cmkqGtE3V",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/79145feb-01cf-4794-a2a4-288c54d28111",
-      "preview": "https://api.phira.cn/files/af53139e-f72d-45ab-a0aa-79eada558792",
-      "file": "https://api.phira.cn/files/82ca2d87-135d-4f15-ae04-c824a6d6fc94",
-      "uploader": 52912,
-      "tags": [
-        "fgo",
-        "plain"
-      ],
-      "rating": 0.7803841,
-      "ratingCount": 0,
-      "created": "2026-07-20T13:18:33.840261Z",
-      "updated": "2026-07-20T13:18:33.840261Z",
-      "chartUpdated": "2026-07-20T13:18:33.840261Z"
     },
     {
       "id": 56297,
@@ -74,7 +74,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9146992,
+      "rating": 0.93625176,
       "ratingCount": 0,
       "created": "2026-04-14T04:41:55.989626Z",
       "updated": "2026-07-20T12:39:34.714109Z",
@@ -100,7 +100,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.870769,
+      "rating": 0.9116919,
       "ratingCount": 0,
       "created": "2026-07-20T03:16:35.001550Z",
       "updated": "2026-07-20T03:16:35.001550Z",
@@ -126,7 +126,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88753647,
+      "rating": 0.88788486,
       "ratingCount": 129,
       "created": "2025-11-06T17:34:27.176330Z",
       "updated": "2026-07-20T02:41:41.304175Z",
@@ -152,7 +152,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8320498,
+      "rating": 0.8462554,
       "ratingCount": 6,
       "created": "2026-07-19T13:08:17.906692Z",
       "updated": "2026-07-19T13:08:17.906692Z",
@@ -183,7 +183,7 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.8257282,
       "ratingCount": 2,
       "created": "2026-07-18T08:05:47.892027Z",
       "updated": "2026-07-19T07:07:20.473637Z",
@@ -213,7 +213,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.81567323,
       "ratingCount": 3,
       "created": "2026-07-18T08:01:16.193662Z",
       "updated": "2026-07-18T08:01:16.193662Z",
@@ -242,7 +242,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.907659,
+      "rating": 0.91157955,
       "ratingCount": 13,
       "created": "2026-07-17T17:57:46.982931Z",
       "updated": "2026-07-17T17:57:46.982931Z",
@@ -268,7 +268,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9286325,
+      "rating": 0.9325781,
       "ratingCount": 27,
       "created": "2026-07-09T07:01:24.847587Z",
       "updated": "2026-07-17T11:02:44.392237Z",
@@ -294,7 +294,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.957561,
+      "rating": 0.95674205,
       "ratingCount": 165,
       "created": "2026-07-13T12:22:00.740935Z",
       "updated": "2026-07-17T10:59:45.393805Z",
@@ -320,7 +320,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8504025,
+      "rating": 0.876253,
       "ratingCount": 9,
       "created": "2026-07-17T03:44:58.517803Z",
       "updated": "2026-07-17T03:44:58.517803Z",
@@ -346,7 +346,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91775864,
+      "rating": 0.9187831,
       "ratingCount": 85,
       "created": "2026-07-16T08:34:58.378750Z",
       "updated": "2026-07-16T08:34:58.378750Z",
@@ -372,7 +372,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9230536,
+      "rating": 0.9238873,
       "ratingCount": 86,
       "created": "2026-04-18T08:22:32.416430Z",
       "updated": "2026-07-15T02:47:10.193544Z",
@@ -404,7 +404,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8238317,
+      "rating": 0.83956116,
       "ratingCount": 17,
       "created": "2026-07-14T06:30:46.321293Z",
       "updated": "2026-07-14T06:30:46.321293Z",
@@ -435,7 +435,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.8958274,
+      "rating": 0.90912515,
       "ratingCount": 19,
       "created": "2026-07-14T06:13:27.071534Z",
       "updated": "2026-07-14T06:13:27.071534Z",
@@ -466,7 +466,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8892873,
+      "rating": 0.8944016,
       "ratingCount": 16,
       "created": "2026-07-14T05:34:15.239766Z",
       "updated": "2026-07-14T05:34:15.239766Z",
@@ -498,7 +498,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8768094,
+      "rating": 0.86941314,
       "ratingCount": 11,
       "created": "2026-07-14T05:21:07.444525Z",
       "updated": "2026-07-14T05:21:07.444525Z",
@@ -530,7 +530,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8336699,
+      "rating": 0.84718174,
       "ratingCount": 6,
       "created": "2026-07-14T05:05:50.226692Z",
       "updated": "2026-07-14T05:05:50.226692Z",
@@ -583,7 +583,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9009062,
+      "rating": 0.9034917,
       "ratingCount": 178,
       "created": "2026-07-13T19:21:44.357463Z",
       "updated": "2026-07-13T19:21:44.357463Z",
@@ -609,7 +609,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8881948,
+      "rating": 0.8858769,
       "ratingCount": 105,
       "created": "2026-07-13T17:20:44.506997Z",
       "updated": "2026-07-13T17:20:44.506997Z",
@@ -635,7 +635,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8026801,
+      "rating": 0.81316066,
       "ratingCount": 9,
       "created": "2026-07-13T12:24:34.062820Z",
       "updated": "2026-07-13T12:24:34.062820Z",
@@ -661,7 +661,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9195255,
+      "rating": 0.92305213,
       "ratingCount": 56,
       "created": "2026-07-13T12:22:37.212575Z",
       "updated": "2026-07-13T12:22:37.212575Z",
@@ -688,7 +688,7 @@
         "稻叶昙",
         "plain"
       ],
-      "rating": 0.9007121,
+      "rating": 0.9067097,
       "ratingCount": 11,
       "created": "2026-07-13T10:11:35.093616Z",
       "updated": "2026-07-13T10:11:35.093616Z",
@@ -714,7 +714,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8997594,
+      "rating": 0.90003794,
       "ratingCount": 861,
       "created": "2026-07-12T18:39:52.018731Z",
       "updated": "2026-07-12T18:39:52.018731Z",
@@ -750,32 +750,6 @@
       "chartUpdated": "2026-07-12T14:15:36.712888Z"
     },
     {
-      "id": 65919,
-      "name": "BBC World 2013 Countdown",
-      "level": "4K Lv.21",
-      "difficulty": 21.0,
-      "charter": "SYSTEM：用户Uvie将在60.0s后注销",
-      "composer": "David Lowe",
-      "illustrator": "",
-      "description": "Malody转谱\n谱师本人上传\nBPM：60\nNote：600\nSpeed：12\nJudgeLineY：-300\nLength：01:04",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/08629c6e-becc-4e60-82aa-b165075305cf",
-      "preview": "https://phira.5wyxi.com/files/91f3fcf3-c680-4eb6-8160-42d97939bcbe",
-      "file": "https://phira.5wyxi.com/files/88cb485a-ae44-4e8e-bf49-2ad0913217e3",
-      "uploader": 848665,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.85168326,
-      "ratingCount": 289,
-      "created": "2026-07-12T07:46:13.880952Z",
-      "updated": "2026-07-12T07:46:13.880952Z",
-      "chartUpdated": "2026-07-12T07:46:13.880952Z"
-    },
-    {
       "id": 65907,
       "name": "Grey Heaven",
       "level": "4K Lv.34",
@@ -795,7 +769,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8627804,
+      "rating": 0.86680746,
       "ratingCount": 27,
       "created": "2026-07-12T06:51:59.766789Z",
       "updated": "2026-07-12T06:51:59.766789Z",
@@ -821,11 +795,37 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9063286,
+      "rating": 0.91156816,
       "ratingCount": 47,
       "created": "2026-07-12T06:51:53.687644Z",
       "updated": "2026-07-12T06:51:53.687644Z",
       "chartUpdated": "2026-07-12T06:51:53.687644Z"
+    },
+    {
+      "id": 65905,
+      "name": "Signal",
+      "level": "4K Lv.28",
+      "difficulty": 10.0,
+      "charter": "MoG",
+      "composer": "rejection feat. Such",
+      "illustrator": "",
+      "description": "2026.4.4 完成。\n叠+乱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c325beca-7d12-48c4-aa79-cc788dc08335",
+      "preview": "https://phira.5wyxi.com/files/2e5ca264-87fb-4066-806b-94187fcf7094",
+      "file": "https://phira.5wyxi.com/files/ab1f7357-94a8-4897-8c44-8112be0ecc86",
+      "uploader": 686189,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.85111207,
+      "ratingCount": 18,
+      "created": "2026-07-12T06:50:52.215286Z",
+      "updated": "2026-07-12T06:50:52.215286Z",
+      "chartUpdated": "2026-07-12T06:50:52.215286Z"
     }
   ]
 }
