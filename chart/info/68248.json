@@ -13,14 +13,14 @@
   "name": "怒槌",
   "preview": "https://phira.5wyxi.com/files/b8b1d6d8-6689-438f-8ef2-9d98181133a5",
   "ranked": false,
-  "rating": 0.82263815,
-  "ratingCount": 19,
-  "reviewed": true,
+  "rating": 0.8725331,
+  "ratingCount": 68,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-21T14:04:40.504475Z",
+  "updated": "2026-07-22T14:56:17.718400Z",
   "uploader": 540194
 }

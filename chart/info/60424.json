@@ -13,11 +13,11 @@
   "name": "Don't Swipe Me",
   "preview": "https://phira.5wyxi.com/files/816b35c7-bf54-40e2-a396-8ae62a71394f",
   "ranked": false,
-  "rating": 0.89302856,
-  "ratingCount": 296,
-  "reviewed": false,
+  "rating": 0.85726666,
+  "ratingCount": 639,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

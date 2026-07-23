@@ -12,12 +12,12 @@
   "level": "IN Lv.16",
   "name": "Help me, ERINNNNNN!!",
   "preview": "https://phira.5wyxi.com/files/bb54618c-1cf3-46a5-9621-346d7f6839da",
-  "ranked": false,
-  "rating": 0.9666743,
-  "ratingCount": 412,
-  "reviewed": false,
-  "stable": false,
-  "stableRequest": true,
+  "ranked": true,
+  "rating": 0.9498152,
+  "ratingCount": 535,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
     "东方project",
     "regular"
