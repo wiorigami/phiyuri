@@ -13,14 +13,14 @@
   "name": "Moon River",
   "preview": "https://phira.5wyxi.com/files/94a518a6-8990-42a0-8c09-5646f17f6b08",
   "ranked": false,
-  "rating": 0.89476293,
-  "ratingCount": 353,
-  "reviewed": true,
+  "rating": 0.8980074,
+  "ratingCount": 432,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-20T14:31:29.671268Z",
+  "updated": "2026-07-23T05:07:53.489001Z",
   "uploader": 1302968
 }

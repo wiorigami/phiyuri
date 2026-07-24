@@ -13,14 +13,14 @@
   "name": "靈",
   "preview": "https://phira.5wyxi.com/files/ec8365ff-9674-455e-b42f-616b68a0f98d",
   "ranked": false,
-  "rating": 0.93901,
-  "ratingCount": 320,
-  "reviewed": true,
+  "rating": 0.94155437,
+  "ratingCount": 1087,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-30T10:24:35.254811Z",
+  "updated": "2026-07-23T07:10:29.662728Z",
   "uploader": 1198268
 }
