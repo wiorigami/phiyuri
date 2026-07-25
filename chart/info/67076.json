@@ -13,11 +13,11 @@
   "name": "Infinity Heaven",
   "preview": "https://phira.5wyxi.com/files/fc8af51c-6cba-49c6-9ccd-ce299f67ec14",
   "ranked": false,
-  "rating": 0.92888707,
-  "ratingCount": 828,
-  "reviewed": false,
+  "rating": 0.9267359,
+  "ratingCount": 1093,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

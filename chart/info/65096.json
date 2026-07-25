@@ -13,14 +13,14 @@
   "name": "晴雪~sakuRain",
   "preview": "https://phira.5wyxi.com/files/46079723-465c-45aa-8800-b99bc8c122b2",
   "ranked": false,
-  "rating": 0.81144965,
-  "ratingCount": 40,
-  "reviewed": true,
+  "rating": 0.84929746,
+  "ratingCount": 283,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-08T19:02:32.316832Z",
+  "updated": "2026-07-24T12:58:21.453808Z",
   "uploader": 39283
 }
