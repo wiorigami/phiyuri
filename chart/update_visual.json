@@ -1,6 +1,68 @@
 {
-  "count": 168,
+  "count": 170,
   "results": [
+    {
+      "id": 69084,
+      "name": "Eternal Ending",
+      "level": "AT.17神が降臨",
+      "difficulty": 17.8,
+      "charter": "Qooius/RS超级小瑞/吹风扇的猫败/黑色四叶草",
+      "composer": "Kobaryo",
+      "illustrator": "",
+      "description": "本谱为第二届猫败杯决赛谱（原版）\n时长:237s\n物量:2900+\n我们1周接力完成了这个谱面，没错这个谱是我们几个人赶出来的，因为比赛从报名到决赛只有9天时间\n其中吓人的假键致敬第一届猫败杯决赛谱（没过审）\n以下是我们谱师组想说的话\n^O^\n吹风扇的猫败:长条海是假的，是我写谱最善良最正常的一集\n\nRS超级小瑞:如果谱面的判定线数量无上限，谱面大小无上限，我想应该就能做出更加震撼的效果\n\nQooius：这啥啊这，踩音充分情感调动绝佳，曲绘好看歌曲好听，神谱中的神谱，所有已熟知的都将加注猫败的历练，中间忘了，反正至此一锤定音尘埃依然落地，绝对的踩音，即是放慢到0.7倍速都是完美对音的\n\n黑色四叶草:大家好，曲绘是豆包帮忙的，所以30秒",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/08545a64-a56d-40a3-ba70-9043cef1a45c",
+      "preview": "https://api.phira.cn/files/5e6c0f7f-17cc-44ee-87df-d890dc62c4bb",
+      "file": "https://api.phira.cn/files/76e5756e-255f-436b-bfaa-71e364f62e62",
+      "uploader": 2360752,
+      "tags": [
+        "猫败杯",
+        "高难",
+        "at18",
+        "故事版",
+        "shader",
+        "visual"
+      ],
+      "rating": 0.9310106,
+      "ratingCount": 93,
+      "created": "2026-07-25T08:00:27.309312Z",
+      "updated": "2026-07-25T08:00:27.309312Z",
+      "chartUpdated": "2026-07-25T08:00:27.309312Z"
+    },
+    {
+      "id": 69083,
+      "name": "Eternal Ending",
+      "level": "AT.18神が降臨",
+      "difficulty": 18.2,
+      "charter": "Qooius/RS超级小瑞/吹风扇的猫败/DESTRUCTIONowo/小团子/黑色四叶草",
+      "composer": "Kobaryo",
+      "illustrator": "",
+      "description": " 本谱为第二届猫败杯决赛谱（加强版）\n时长:237s\n物量:3000\n我们1周赶出了这个谱面，希望喜欢喵\n其中吓人的假键致敬第一届猫败杯决赛谱（）\n吹风扇的猫败:长条海是假的，是我写谱最善良最正常的一集。\nRS超级小瑞:如果谱面的判定线数量无上限，谱面大小无上限，我想应该就能做出更加震撼的效果\nQooius：前面忘了，中间忘了，反正至此一锤定音尘埃依然落地，绝对的踩音，即是放慢到0.7倍速都是完美对音的\n黑色四叶草:大家好呀，曲绘是豆包做的……\n小团子：猫败大俊福。\n321：这张谱面原本有很多采音错误，已经被我修复啦（都怪猫败）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/8b652b80-02d9-466b-aa7f-c53edbad98a8",
+      "preview": "https://api.phira.cn/files/d2c99809-e069-49b5-a175-b25d65778bb3",
+      "file": "https://api.phira.cn/files/e09308e9-926d-4a64-a68d-201231cb4ee7",
+      "uploader": 2360752,
+      "tags": [
+        "猫败杯",
+        "高难",
+        "at18",
+        "故事版",
+        "shader",
+        "visual"
+      ],
+      "rating": 0.93505216,
+      "ratingCount": 61,
+      "created": "2026-07-25T08:00:10.937913Z",
+      "updated": "2026-07-25T08:00:10.937913Z",
+      "chartUpdated": "2026-07-25T08:00:10.937913Z"
+    },
     {
       "id": 66015,
       "name": "Dance with Silence",
@@ -21,7 +83,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9137429,
+      "rating": 0.9186431,
       "ratingCount": 45,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
@@ -47,7 +109,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8738008,
+      "rating": 0.87025076,
       "ratingCount": 104,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
@@ -99,7 +161,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8816637,
+      "rating": 0.88088447,
       "ratingCount": 92,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
@@ -125,7 +187,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8159169,
+      "rating": 0.8159706,
       "ratingCount": 261,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -151,7 +213,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8854314,
+      "rating": 0.88567555,
       "ratingCount": 722,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
@@ -205,7 +267,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87555903,
+      "rating": 0.87126166,
       "ratingCount": 136,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
@@ -231,7 +293,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8863194,
+      "rating": 0.88500285,
       "ratingCount": 53,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
@@ -287,7 +349,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81651694,
+      "rating": 0.8186127,
       "ratingCount": 246,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -344,7 +406,7 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9404072,
+      "rating": 0.94064784,
       "ratingCount": 611,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
@@ -429,7 +491,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.71322036,
+      "rating": 0.7098277,
       "ratingCount": 470,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -488,7 +550,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8616875,
+      "rating": 0.8669267,
       "ratingCount": 21,
       "created": "2026-01-16T08:59:01.533401Z",
       "updated": "2026-01-16T08:59:01.533401Z",
@@ -514,7 +576,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.83763474,
+      "rating": 0.83467615,
       "ratingCount": 105,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
@@ -540,7 +602,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8089215,
+      "rating": 0.8096672,
       "ratingCount": 118,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -593,7 +655,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9485087,
+      "rating": 0.94862074,
       "ratingCount": 453,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -619,7 +681,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7615819,
+      "rating": 0.7611718,
       "ratingCount": 304,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -645,7 +707,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8992876,
+      "rating": 0.9001556,
       "ratingCount": 224,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
@@ -754,60 +816,6 @@
       "created": "2025-11-16T01:44:43.045246Z",
       "updated": "2025-11-16T01:44:43.045246Z",
       "chartUpdated": "2025-11-16T01:44:43.045246Z"
-    },
-    {
-      "id": 48836,
-      "name": "昔涟",
-      "level": "EGO Lv.12",
-      "difficulty": 12.600002,
-      "charter": "SrY-ABYSS",
-      "composer": "张韶涵 / HOYO-MiX",
-      "illustrator": "",
-      "description": "来自游戏《崩坏星穹铁道》\n建议在黑暗环境下游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/399491ce-d9ee-4a21-aaa7-40c2ae47295a",
-      "preview": "https://phira.5wyxi.com/files/ad7db1c9-8534-423e-9f24-f19ce89f5bc4",
-      "file": "https://phira.5wyxi.com/files/1733b355-fb76-4999-967d-f20bcfff904d",
-      "uploader": 1437,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.96327704,
-      "ratingCount": 2721,
-      "created": "2025-11-08T03:06:05.755676Z",
-      "updated": "2025-11-08T03:06:05.755676Z",
-      "chartUpdated": "2025-11-08T03:06:05.755676Z"
-    },
-    {
-      "id": 48789,
-      "name": "再度和你",
-      "level": "See You Tomorrow",
-      "difficulty": 13.0,
-      "charter": "SrY-ABYSS",
-      "composer": "HOYO-MiX",
-      "illustrator": "",
-      "description": "BGM来自游戏《崩坏星穹铁道》昔涟角色pv\n已修复1个miss的bug，低配机谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4852e72a-3ee1-4a07-b094-4f107de13a4f",
-      "preview": "https://phira.5wyxi.com/files/fc5bb95e-53f5-40fc-9313-13ced62204c4",
-      "file": "https://phira.5wyxi.com/files/f8e17eab-01e3-470c-83a9-43b284771af3",
-      "uploader": 1437,
-      "tags": [
-        "崩坏星穹铁道",
-        "观赏",
-        "visual"
-      ],
-      "rating": 0.9740242,
-      "ratingCount": 5125,
-      "created": "2025-11-05T15:19:44.272431Z",
-      "updated": "2025-11-06T13:25:56.785787Z",
-      "chartUpdated": "2025-11-06T13:25:56.785787Z"
     }
   ]
 }
