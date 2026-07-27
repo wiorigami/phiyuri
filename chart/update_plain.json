@@ -2,6 +2,32 @@
   "count": 3147,
   "results": [
     {
+      "id": 66386,
+      "name": "Approve Please, Genie!",
+      "level": "4k Lv.16",
+      "difficulty": 16.0,
+      "charter": "娄华风流_",
+      "composer": "TRAP CHICK/重音テト/音街ウナ",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/f060d615-7e07-4a53-91c2-d39b6911393d",
+      "preview": "https://api.phira.cn/files/60b932e2-4613-4ee1-aaa8-0d7cff43045d",
+      "file": "https://api.phira.cn/files/127b9656-abcd-4179-b2ee-07b770ae0079",
+      "uploader": 21891,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.94165593,
+      "ratingCount": 1,
+      "created": "2026-07-14T03:30:35.230791Z",
+      "updated": "2026-07-26T11:38:51.873440Z",
+      "chartUpdated": "2026-07-14T03:30:35.230791Z"
+    },
+    {
       "id": 69191,
       "name": "Viyella's Nightmare",
       "level": "赤石",
@@ -21,11 +47,46 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7207308,
       "ratingCount": 0,
       "created": "2026-07-25T16:53:28.621150Z",
       "updated": "2026-07-25T16:53:28.621150Z",
       "chartUpdated": "2026-07-25T16:53:28.621150Z"
+    },
+    {
+      "id": 54279,
+      "name": "Nacreous Snowmelt",
+      "level": "AT Lv.17",
+      "difficulty": 17.300001,
+      "charter": "麻辣火锅酱 as The “2026年の魔法使いたち”（feat. Mokia_OS）",
+      "composer": "かめりあ",
+      "illustrator": "",
+      "description": "曲目：Nacreous Snowmelt\n曲师：かめりあ\n难度：AT Lv.17（17.3）\n谱师：麻辣火锅酱（@YHwwPAO/@Xao @Lee/@mepoepom @Louishu233 @Overstepp @Mokia_OS/@MOXIEnary195）as The “2026年の魔法使いたち”（feat. Mokia_OS）\n时长：7:21\n物量：5200\nBPM：201-139-201\n已经过所有谱师同意上传\n制作分工表\n0:00 --- 1:02 by @Louishu233\n1:03 --- 2:06 by @YHwwPAO\n2:07 --- 2:25 by @Mokia_OS\n2:26 --- 2:45 by @Lee\n2:46 --- 3:09 by @Louishu233\n​3:10 --- 7:21 by @Mokia_OS\n由​@Mokia_OS对谱面进行微调\n你问@Overstepp负责的段落在哪？他是我们的精神支柱\n​\n​提示，以下可能导致您的游玩体验下降\n1.​谱面时长很长，难度偏高\n​2.谱面含有大量sv和变速，但请放心大多不影响读谱\n​\n​如需录制手元上传等请标明谱师名义并@Mokia_OS（b站同名）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/8019b5df-bea3-499b-880c-b5f5df6b87ab",
+      "preview": "https://api.phira.cn/files/6306c9d1-2aaa-4c96-bbdf-0be91e13a120",
+      "file": "https://api.phira.cn/files/9b403a3e-243e-440f-a603-e11fb8917944",
+      "uploader": 57807,
+      "tags": [
+        "山茶花",
+        "艺核",
+        "速核",
+        "多指",
+        "双指",
+        "键盘",
+        "底力",
+        "4k",
+        "5k",
+        "plain"
+      ],
+      "rating": 0.8550959,
+      "ratingCount": 0,
+      "created": "2026-03-18T14:03:20.395335Z",
+      "updated": "2026-07-25T10:53:47.533330Z",
+      "chartUpdated": "2026-03-21T19:43:04.532951Z"
     },
     {
       "id": 68691,
@@ -55,7 +116,7 @@
         "黄键",
         "plain"
       ],
-      "rating": 0.87991786,
+      "rating": 0.886499,
       "ratingCount": 0,
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-24T13:21:22.496906Z",
@@ -81,7 +142,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8798927,
+      "rating": 0.87922424,
       "ratingCount": 0,
       "created": "2026-07-23T15:14:58.068116Z",
       "updated": "2026-07-23T15:14:58.068116Z",
@@ -133,7 +194,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8711209,
+      "rating": 0.8887029,
       "ratingCount": 0,
       "created": "2026-07-22T10:46:57.266880Z",
       "updated": "2026-07-22T10:46:57.266880Z",
@@ -160,7 +221,7 @@
         "fgo",
         "plain"
       ],
-      "rating": 0.81841576,
+      "rating": 0.8265062,
       "ratingCount": 14,
       "created": "2026-07-20T13:18:33.840261Z",
       "updated": "2026-07-21T06:57:20.636482Z",
@@ -212,7 +273,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92651325,
+      "rating": 0.917221,
       "ratingCount": 0,
       "created": "2026-07-20T14:07:04.290467Z",
       "updated": "2026-07-20T14:07:04.290467Z",
@@ -238,7 +299,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94751394,
+      "rating": 0.9497898,
       "ratingCount": 67,
       "created": "2026-04-14T04:41:55.989626Z",
       "updated": "2026-07-20T12:39:34.714109Z",
@@ -264,7 +325,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90521616,
+      "rating": 0.9010005,
       "ratingCount": 21,
       "created": "2026-07-20T03:16:35.001550Z",
       "updated": "2026-07-20T03:16:35.001550Z",
@@ -290,7 +351,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8756923,
+      "rating": 0.87460583,
       "ratingCount": 190,
       "created": "2025-11-06T17:34:27.176330Z",
       "updated": "2026-07-20T02:41:41.304175Z",
@@ -316,7 +377,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.886877,
+      "rating": 0.8809823,
       "ratingCount": 16,
       "created": "2026-07-19T13:08:17.906692Z",
       "updated": "2026-07-19T13:08:17.906692Z",
@@ -347,7 +408,7 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.8678234,
+      "rating": 0.8778362,
       "ratingCount": 6,
       "created": "2026-07-18T08:05:47.892027Z",
       "updated": "2026-07-19T07:07:20.473637Z",
@@ -432,7 +493,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9413428,
+      "rating": 0.9451693,
       "ratingCount": 38,
       "created": "2026-07-09T07:01:24.847587Z",
       "updated": "2026-07-17T11:02:44.392237Z",
@@ -458,7 +519,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95525604,
+      "rating": 0.95586777,
       "ratingCount": 280,
       "created": "2026-07-13T12:22:00.740935Z",
       "updated": "2026-07-17T10:59:45.393805Z",
@@ -484,7 +545,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8938971,
+      "rating": 0.898401,
       "ratingCount": 16,
       "created": "2026-07-17T03:44:58.517803Z",
       "updated": "2026-07-17T03:44:58.517803Z",
@@ -510,7 +571,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92369163,
+      "rating": 0.9252996,
       "ratingCount": 138,
       "created": "2026-07-16T08:34:58.378750Z",
       "updated": "2026-07-16T08:34:58.378750Z",
@@ -599,7 +660,7 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.9239906,
+      "rating": 0.92693317,
       "ratingCount": 33,
       "created": "2026-07-14T06:13:27.071534Z",
       "updated": "2026-07-14T06:13:27.071534Z",
@@ -694,7 +755,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8620138,
+      "rating": 0.8459236,
       "ratingCount": 8,
       "created": "2026-07-14T05:05:50.226692Z",
       "updated": "2026-07-14T05:05:50.226692Z",
@@ -721,7 +782,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.89350325,
+      "rating": 0.88686293,
       "ratingCount": 15,
       "created": "2026-07-14T02:33:30.036363Z",
       "updated": "2026-07-14T02:33:30.036363Z",
@@ -747,7 +808,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9093906,
+      "rating": 0.9114379,
       "ratingCount": 203,
       "created": "2026-07-13T19:21:44.357463Z",
       "updated": "2026-07-13T19:21:44.357463Z",
@@ -773,63 +834,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89349777,
+      "rating": 0.89667565,
       "ratingCount": 118,
       "created": "2026-07-13T17:20:44.506997Z",
       "updated": "2026-07-13T17:20:44.506997Z",
       "chartUpdated": "2026-07-13T17:20:44.506997Z"
-    },
-    {
-      "id": 66258,
-      "name": "passion (Speed Up)",
-      "level": "4K MAX Lv.37",
-      "difficulty": 37.0,
-      "charter": "YMEA",
-      "composer": "slience anthem/heart embrace",
-      "illustrator": "",
-      "description": "最高难度（130纵叠）\n另外两个难度在写了，后面忘了\n\n快手XB站 洋漫YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f9122847-bad7-48ca-b9f5-3973376ffbaa",
-      "preview": "https://phira.5wyxi.com/files/d9bee380-d6a1-4208-a2fd-00ff0c4c7f11",
-      "file": "https://phira.5wyxi.com/files/e9b76cb4-6c5a-44da-bebd-d027a5269fdc",
-      "uploader": 2907468,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8548961,
-      "ratingCount": 16,
-      "created": "2026-07-13T12:24:34.062820Z",
-      "updated": "2026-07-13T12:24:34.062820Z",
-      "chartUpdated": "2026-07-13T12:24:34.062820Z"
-    },
-    {
-      "id": 66256,
-      "name": "silly-willy-nilly",
-      "level": "4K MAX Lv.32",
-      "difficulty": 32.0,
-      "charter": "YMEA vs. Lage",
-      "composer": "かたぎり",
-      "illustrator": "",
-      "description": "旧作重传\n2025.10.25\n\n微修于\n2026.7.10\n\n快手 x B站 洋漫YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ac9db33c-79d7-4fe2-a950-a3184ee431be",
-      "preview": "https://phira.5wyxi.com/files/a43d82be-55e2-4ee0-b590-eb22305ce713",
-      "file": "https://phira.5wyxi.com/files/184dd942-e30a-4ecf-adc5-ac069c8bd98c",
-      "uploader": 2907468,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9307107,
-      "ratingCount": 71,
-      "created": "2026-07-13T12:22:37.212575Z",
-      "updated": "2026-07-13T12:22:37.212575Z",
-      "chartUpdated": "2026-07-13T12:22:37.212575Z"
     }
   ]
 }
