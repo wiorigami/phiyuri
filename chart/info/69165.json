@@ -13,14 +13,14 @@
   "name": "Pre-STAR",
   "preview": "https://phira.5wyxi.com/files/1c5e7e7c-6be2-412a-8600-c2a33d1921fb",
   "ranked": false,
-  "rating": 0.9291049,
-  "ratingCount": 34,
-  "reviewed": true,
+  "rating": 0.9257424,
+  "ratingCount": 96,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-25T14:12:15.901539Z",
+  "updated": "2026-07-26T06:45:17.304160Z",
   "uploader": 2653272
 }

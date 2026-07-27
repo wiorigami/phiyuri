@@ -13,11 +13,11 @@
   "name": "BlazinG AIR",
   "preview": "https://phira.5wyxi.com/files/270a2885-6781-4ed3-8ac5-2780c1a8366c",
   "ranked": false,
-  "rating": 0.89279765,
-  "ratingCount": 29,
-  "reviewed": false,
+  "rating": 0.8787255,
+  "ratingCount": 39,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
