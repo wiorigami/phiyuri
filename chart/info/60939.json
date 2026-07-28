@@ -13,15 +13,15 @@
   "name": "Open The Gate",
   "preview": "https://phira.5wyxi.com/files/ba5ee5eb-0e6e-4bce-996a-ef99604a7956",
   "ranked": false,
-  "rating": 0.84123427,
-  "ratingCount": 70,
-  "reviewed": true,
+  "rating": 0.839814,
+  "ratingCount": 95,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "双指",
     "regular"
   ],
-  "updated": "2026-06-21T14:19:40.102172Z",
+  "updated": "2026-07-27T02:55:42.546794Z",
   "uploader": 2449659
 }

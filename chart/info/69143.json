@@ -13,11 +13,11 @@
   "name": "衛星",
   "preview": "https://phira.5wyxi.com/files/9f13ad49-6743-493a-9d1b-4ae1dbc56c63",
   "ranked": false,
-  "rating": 0.9360255,
-  "ratingCount": 355,
-  "reviewed": false,
+  "rating": 0.93533576,
+  "ratingCount": 461,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

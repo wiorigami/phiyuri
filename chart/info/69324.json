@@ -13,14 +13,14 @@
   "name": "CLOVER",
   "preview": "https://phira.5wyxi.com/files/48c48f0f-7ded-4e91-8ec6-1982e0fef40a",
   "ranked": false,
-  "rating": 0.8488926,
-  "ratingCount": 21,
-  "reviewed": true,
+  "rating": 0.88044775,
+  "ratingCount": 47,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-26T10:27:00.704943Z",
+  "updated": "2026-07-27T08:23:07.725739Z",
   "uploader": 702870
 }
