@@ -1,5 +1,5 @@
 {
-  "count": 665,
+  "count": 664,
   "results": [
     {
       "id": 68299,
@@ -14,15 +14,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/df1338d7-f8d9-447d-b743-de9698fdba9a",
-      "preview": "https://api.phira.cn/files/8242c235-5083-4bbe-a7c1-0ab6a69827b6",
-      "file": "https://api.phira.cn/files/128bd3f2-f43a-47bd-8052-a1080140f8f7",
+      "illustration": "https://phira.5wyxi.com/files/df1338d7-f8d9-447d-b743-de9698fdba9a",
+      "preview": "https://phira.5wyxi.com/files/8242c235-5083-4bbe-a7c1-0ab6a69827b6",
+      "file": "https://phira.5wyxi.com/files/128bd3f2-f43a-47bd-8052-a1080140f8f7",
       "uploader": 2419902,
       "tags": [
         "troll"
       ],
-      "rating": 0.889069,
-      "ratingCount": 0,
+      "rating": 0.8833599,
+      "ratingCount": 1682,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
       "chartUpdated": "2026-07-21T19:16:55.670015Z"
@@ -40,15 +40,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/10d2093c-e0eb-498f-bf50-83f9623209db",
-      "preview": "https://api.phira.cn/files/81b05052-56c1-47cc-a710-a8f0a47f48ef",
-      "file": "https://api.phira.cn/files/374de9dd-8611-4579-a23c-8c2603e16672",
+      "illustration": "https://phira.5wyxi.com/files/10d2093c-e0eb-498f-bf50-83f9623209db",
+      "preview": "https://phira.5wyxi.com/files/81b05052-56c1-47cc-a710-a8f0a47f48ef",
+      "file": "https://phira.5wyxi.com/files/374de9dd-8611-4579-a23c-8c2603e16672",
       "uploader": 2093292,
       "tags": [
         "troll"
       ],
-      "rating": 0.8925546,
-      "ratingCount": 0,
+      "rating": 0.9095665,
+      "ratingCount": 67,
       "created": "2026-07-04T12:55:00.117032Z",
       "updated": "2026-07-04T12:55:00.117032Z",
       "chartUpdated": "2026-07-04T12:55:00.117032Z"
@@ -73,8 +73,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9202463,
-      "ratingCount": 1502,
+      "rating": 0.92063135,
+      "ratingCount": 1596,
       "created": "2026-07-04T10:48:06.359493Z",
       "updated": "2026-07-04T10:48:06.359493Z",
       "chartUpdated": "2026-07-04T10:48:06.359493Z"
@@ -100,8 +100,8 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.89290273,
-      "ratingCount": 26416,
+      "rating": 0.8923536,
+      "ratingCount": 39150,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
       "chartUpdated": "2026-07-04T06:16:16.788212Z"
@@ -119,15 +119,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/2ce0c760-8bec-4ddd-a823-bd3db3ba39f1",
-      "preview": "https://api.phira.cn/files/c44d7c19-e358-42fc-a0e5-c1269096161e",
-      "file": "https://api.phira.cn/files/8734f815-d7d3-41d3-ae92-4083ac1eede0",
+      "illustration": "https://phira.5wyxi.com/files/2ce0c760-8bec-4ddd-a823-bd3db3ba39f1",
+      "preview": "https://phira.5wyxi.com/files/c44d7c19-e358-42fc-a0e5-c1269096161e",
+      "file": "https://phira.5wyxi.com/files/8734f815-d7d3-41d3-ae92-4083ac1eede0",
       "uploader": 985023,
       "tags": [
         "troll"
       ],
-      "rating": 0.8533401,
-      "ratingCount": 0,
+      "rating": 0.84944457,
+      "ratingCount": 696,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
       "chartUpdated": "2026-06-30T15:24:12.913392Z"
@@ -152,8 +152,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7686084,
-      "ratingCount": 11822,
+      "rating": 0.7687687,
+      "ratingCount": 14106,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -178,8 +178,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8737066,
-      "ratingCount": 8680,
+      "rating": 0.8738183,
+      "ratingCount": 8882,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
       "chartUpdated": "2026-06-24T05:20:29.857028Z"
@@ -204,8 +204,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8262814,
-      "ratingCount": 64,
+      "rating": 0.82878196,
+      "ratingCount": 66,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
@@ -233,7 +233,7 @@
         "troll"
       ],
       "rating": 0.95993763,
-      "ratingCount": 239,
+      "ratingCount": 243,
       "created": "2026-02-07T14:56:35.625544Z",
       "updated": "2026-06-20T09:57:05.485341Z",
       "chartUpdated": "2026-02-07T14:56:35.625544Z"
@@ -258,8 +258,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.79628724,
-      "ratingCount": 5441,
+      "rating": 0.7966229,
+      "ratingCount": 5563,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -287,7 +287,7 @@
         "troll"
       ],
       "rating": 0.907384,
-      "ratingCount": 70,
+      "ratingCount": 73,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
       "chartUpdated": "2026-06-07T12:21:29.348521Z"
@@ -313,7 +313,7 @@
         "troll"
       ],
       "rating": 0.79737103,
-      "ratingCount": 30,
+      "ratingCount": 31,
       "created": "2026-06-03T17:52:18.327223Z",
       "updated": "2026-06-03T17:52:18.327223Z",
       "chartUpdated": "2026-06-03T17:52:18.327223Z"
@@ -338,8 +338,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83068293,
-      "ratingCount": 789,
+      "rating": 0.8254408,
+      "ratingCount": 950,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
       "chartUpdated": "2026-05-22T15:09:41.771882Z"
@@ -364,8 +364,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.90367395,
-      "ratingCount": 1531,
+      "rating": 0.9040255,
+      "ratingCount": 1837,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -391,8 +391,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9234738,
-      "ratingCount": 781,
+      "rating": 0.92372775,
+      "ratingCount": 892,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -410,15 +410,15 @@
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://api.phira.cn/files/dcbfc064-d4ef-47ec-9de5-98790be70147",
-      "preview": "https://api.phira.cn/files/8946a53b-5269-4a38-a556-3c3cd711a836",
-      "file": "https://api.phira.cn/files/479df04f-8f4e-4ae7-be82-c5659ef330db",
+      "illustration": "https://phira.5wyxi.com/files/dcbfc064-d4ef-47ec-9de5-98790be70147",
+      "preview": "https://phira.5wyxi.com/files/8946a53b-5269-4a38-a556-3c3cd711a836",
+      "file": "https://phira.5wyxi.com/files/479df04f-8f4e-4ae7-be82-c5659ef330db",
       "uploader": 2218703,
       "tags": [
         "troll"
       ],
-      "rating": 0.74552137,
-      "ratingCount": 0,
+      "rating": 0.78172565,
+      "ratingCount": 8,
       "created": "2026-05-05T15:11:55.046371Z",
       "updated": "2026-05-05T15:11:55.046371Z",
       "chartUpdated": "2026-05-05T15:11:55.046371Z"
@@ -443,8 +443,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7513029,
-      "ratingCount": 577,
+      "rating": 0.75174594,
+      "ratingCount": 591,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
@@ -469,8 +469,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8123903,
-      "ratingCount": 1386,
+      "rating": 0.8124428,
+      "ratingCount": 1413,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
       "chartUpdated": "2026-05-04T07:00:01.181555Z"
@@ -495,8 +495,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.91217095,
-      "ratingCount": 250,
+      "rating": 0.9138657,
+      "ratingCount": 256,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
@@ -521,8 +521,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.942999,
-      "ratingCount": 2200,
+      "rating": 0.9423604,
+      "ratingCount": 2467,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -547,8 +547,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7393949,
-      "ratingCount": 317,
+      "rating": 0.7344613,
+      "ratingCount": 359,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
@@ -573,8 +573,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.79094714,
-      "ratingCount": 100,
+      "rating": 0.7949175,
+      "ratingCount": 103,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
       "chartUpdated": "2026-04-20T11:21:03.671434Z"
@@ -599,8 +599,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85764956,
-      "ratingCount": 117,
+      "rating": 0.85881287,
+      "ratingCount": 121,
       "created": "2026-04-06T10:27:15.869511Z",
       "updated": "2026-04-18T16:41:21.792059Z",
       "chartUpdated": "2026-04-06T10:27:15.869511Z"
@@ -625,8 +625,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8357257,
-      "ratingCount": 186,
+      "rating": 0.83656377,
+      "ratingCount": 196,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
       "chartUpdated": "2026-04-18T03:36:17.744941Z"
@@ -653,8 +653,8 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.8956185,
-      "ratingCount": 701,
+      "rating": 0.8936222,
+      "ratingCount": 726,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
@@ -681,8 +681,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.95691603,
-      "ratingCount": 85,
+      "rating": 0.9578474,
+      "ratingCount": 88,
       "created": "2026-04-11T12:30:15.846877Z",
       "updated": "2026-04-11T12:30:15.846877Z",
       "chartUpdated": "2026-04-11T12:30:15.846877Z"
@@ -709,8 +709,8 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.92350906,
-      "ratingCount": 838,
+      "rating": 0.9237106,
+      "ratingCount": 879,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
@@ -735,8 +735,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89981204,
-      "ratingCount": 1740,
+      "rating": 0.90002245,
+      "ratingCount": 1835,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
       "chartUpdated": "2026-04-11T02:47:02.705037Z"
@@ -762,8 +762,8 @@
         "神圣之谱",
         "troll"
       ],
-      "rating": 0.845146,
-      "ratingCount": 1880,
+      "rating": 0.8444084,
+      "ratingCount": 1955,
       "created": "2026-04-05T00:29:18.191159Z",
       "updated": "2026-04-05T00:29:18.191159Z",
       "chartUpdated": "2026-04-05T00:29:18.191159Z"
@@ -788,8 +788,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8874399,
-      "ratingCount": 145,
+      "rating": 0.88817674,
+      "ratingCount": 151,
       "created": "2026-04-03T11:48:28.880907Z",
       "updated": "2026-04-03T11:48:28.880907Z",
       "chartUpdated": "2026-04-03T11:48:28.880907Z"
