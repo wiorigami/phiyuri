@@ -2,6 +2,118 @@
   "count": 3151,
   "results": [
     {
+      "id": 68145,
+      "name": "バカみたいに",
+      "level": "4K Hard Lv.21",
+      "difficulty": 10.0,
+      "charter": "YMEA",
+      "composer": "カササギ（柿崎ユウタ）",
+      "illustrator": "",
+      "description": "写的算是比较用心的一首\n用时一天，后面忘了\n快手xDY 洋漫YMEA",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://api.phira.cn/files/1f5c38a0-ba66-490c-bae6-fe9555f8353e",
+      "preview": "https://api.phira.cn/files/2f059c58-31dc-4e34-8c5c-01feb13104cd",
+      "file": "https://api.phira.cn/files/7a01a03b-cd33-46ac-9717-1f776c1edc03",
+      "uploader": 3105513,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.9408329,
+      "ratingCount": 41,
+      "created": "2026-07-21T07:01:55.792540Z",
+      "updated": "2026-07-29T00:01:09.820069Z",
+      "chartUpdated": "2026-07-21T07:01:55.792540Z"
+    },
+    {
+      "id": 69776,
+      "name": "ソテリア",
+      "level": "4K Lv.21",
+      "difficulty": 20.0,
+      "charter": "天崽 vs. 苹果",
+      "composer": "Rafutsuri/桜あおい",
+      "illustrator": "",
+      "description": "本家：maimai\nBPM：160\n发布谱面相关内容请注明谱师信息",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/4ed0391e-36f6-4c82-be7c-c1a6e982fc5f",
+      "preview": "https://api.phira.cn/files/fa4aafc2-a941-4dd3-a5c1-d141dbd7b5ef",
+      "file": "https://api.phira.cn/files/9c2436ae-9655-433f-bd53-b1785c247ed7",
+      "uploader": 17576,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.96492994,
+      "ratingCount": 1,
+      "created": "2026-07-28T16:06:19.314415Z",
+      "updated": "2026-07-28T16:06:19.314415Z",
+      "chartUpdated": "2026-07-28T16:06:19.314415Z"
+    },
+    {
+      "id": 68691,
+      "name": "Villain Virus",
+      "level": "Outbreak Lv.16",
+      "difficulty": 16.500002,
+      "charter": "Post \"Mutation\"",
+      "composer": "Kobaryo/かめりあ",
+      "illustrator": "",
+      "description": "本人上传 DRAG 3513/6500\n标准分 98.46\n借鉴了某观赏谱配置…\n梦离杯半决赛标杆其三\n梦离杯详细信息：b站@TEC空城\n双指高难谱面，多指谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/a6441deb-b7e8-4227-ba4a-8396d80966f1",
+      "preview": "https://api.phira.cn/files/d5170b8a-af4f-4f0b-9cce-c602dcd71d2e",
+      "file": "https://api.phira.cn/files/27113480-c377-43f4-87cd-c7fee97ee50c",
+      "uploader": 3186030,
+      "tags": [
+        "DFC",
+        "双指",
+        "研究",
+        "切",
+        "技",
+        "位移",
+        "爆发",
+        "黄键",
+        "plain"
+      ],
+      "rating": 0.902235,
+      "ratingCount": 0,
+      "created": "2026-07-23T13:08:57.736310Z",
+      "updated": "2026-07-28T12:07:50.406122Z",
+      "chartUpdated": "2026-07-24T13:21:22.496906Z"
+    },
+    {
+      "id": 69603,
+      "name": "月が綺麗ねと言われたい！",
+      "level": "4K Lv.27",
+      "difficulty": 20.0,
+      "charter": "shaowu2023",
+      "composer": "カササギ/柿崎ユウタ",
+      "illustrator": "",
+      "description": "谱师本人上传，这里没有其他人了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1f6254d3-8c46-4f71-ab95-ce5ba6862bee",
+      "preview": "https://phira.5wyxi.com/files/37760cc2-0717-4e97-9646-87506f7c5959",
+      "file": "https://phira.5wyxi.com/files/1c24a70a-0f3a-4a26-a71a-be69dce2e946",
+      "uploader": 1597616,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8748176,
+      "ratingCount": 304,
+      "created": "2026-07-28T02:43:41.815706Z",
+      "updated": "2026-07-28T02:43:41.815706Z",
+      "chartUpdated": "2026-07-28T02:43:41.815706Z"
+    },
+    {
       "id": 69518,
       "name": "Foever Shining",
       "level": "Refulgent Lv.19",
@@ -23,11 +135,39 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8504025,
-      "ratingCount": 1,
+      "rating": 0.8721461,
+      "ratingCount": 21,
       "created": "2026-07-27T11:48:45.194504Z",
       "updated": "2026-07-27T11:48:45.194504Z",
       "chartUpdated": "2026-07-27T11:48:45.194504Z"
+    },
+    {
+      "id": 69517,
+      "name": "Sink to the Deep Sea World",
+      "level": "4K Sink Lv.34",
+      "difficulty": 8.499999,
+      "charter": "Xiyv_",
+      "composer": "黒魔",
+      "illustrator": "",
+      "description": "bot测出来rf8 ln8\n我不知道是不是真的。\nb站 Xiyv__\n欢迎指导喵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2f507b8d-8ba9-4280-9c71-89a927274e4e",
+      "preview": "https://phira.5wyxi.com/files/643ea911-16e3-4b1c-a97a-f3e8851dec9c",
+      "file": "https://phira.5wyxi.com/files/bcd46ecf-ccd4-41a5-bc9a-e5e3a9cccbd5",
+      "uploader": 594089,
+      "tags": [
+        "4k",
+        "",
+        "plain"
+      ],
+      "rating": 0.8634984,
+      "ratingCount": 18,
+      "created": "2026-07-27T11:40:07.626169Z",
+      "updated": "2026-07-27T11:40:07.626169Z",
+      "chartUpdated": "2026-07-27T11:40:07.626169Z"
     },
     {
       "id": 66386,
@@ -49,8 +189,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94769883,
-      "ratingCount": 136,
+      "rating": 0.9566873,
+      "ratingCount": 218,
       "created": "2026-07-14T03:30:35.230791Z",
       "updated": "2026-07-26T11:38:51.873440Z",
       "chartUpdated": "2026-07-14T03:30:35.230791Z"
@@ -75,8 +215,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.681367,
-      "ratingCount": 8,
+      "rating": 0.72457945,
+      "ratingCount": 9,
       "created": "2026-07-25T16:53:28.621150Z",
       "updated": "2026-07-25T16:53:28.621150Z",
       "chartUpdated": "2026-07-25T16:53:28.621150Z"
@@ -110,45 +250,11 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8481156,
-      "ratingCount": 113,
+      "rating": 0.8490168,
+      "ratingCount": 118,
       "created": "2026-03-18T14:03:20.395335Z",
       "updated": "2026-07-25T10:53:47.533330Z",
       "chartUpdated": "2026-03-21T19:43:04.532951Z"
-    },
-    {
-      "id": 68691,
-      "name": "Villain Virus",
-      "level": "Outbreak Lv.16",
-      "difficulty": 16.500002,
-      "charter": "Post \"Mutation\"",
-      "composer": "Kobaryo/かめりあ",
-      "illustrator": "",
-      "description": "本人上传 DRAG 3379/6500\n标准分 98.40\n借鉴了某观赏谱配置…\n梦离杯半决赛标杆其三\n梦离杯详细信息：b站@TEC空城\n双指高难谱面，多指谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0e6890fc-c541-4adc-901e-2434f6dac224",
-      "preview": "https://phira.5wyxi.com/files/71ef8c71-67e0-46a8-b0fa-6c87f21fd62d",
-      "file": "https://phira.5wyxi.com/files/eeffbc25-43c0-4ca3-9079-d86a44a7982f",
-      "uploader": 3186030,
-      "tags": [
-        "DFC",
-        "双指",
-        "研究",
-        "切",
-        "技",
-        "位移",
-        "爆发",
-        "黄键",
-        "plain"
-      ],
-      "rating": 0.89696896,
-      "ratingCount": 16,
-      "created": "2026-07-23T13:08:57.736310Z",
-      "updated": "2026-07-24T13:21:22.496906Z",
-      "chartUpdated": "2026-07-24T13:21:22.496906Z"
     },
     {
       "id": 68723,
@@ -196,8 +302,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8190769,
-      "ratingCount": 7,
+      "rating": 0.8318851,
+      "ratingCount": 8,
       "created": "2026-07-23T04:22:30.301496Z",
       "updated": "2026-07-23T04:22:30.301496Z",
       "chartUpdated": "2026-07-23T04:22:30.301496Z"
@@ -222,8 +328,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9010719,
-      "ratingCount": 39,
+      "rating": 0.9037688,
+      "ratingCount": 49,
       "created": "2026-07-22T10:46:57.266880Z",
       "updated": "2026-07-22T10:46:57.266880Z",
       "chartUpdated": "2026-07-22T10:46:57.266880Z"
@@ -276,7 +382,7 @@
         "plain"
       ],
       "rating": 0.8980543,
-      "ratingCount": 30,
+      "ratingCount": 32,
       "created": "2026-07-20T15:22:50.196643Z",
       "updated": "2026-07-20T15:22:50.196643Z",
       "chartUpdated": "2026-07-20T15:22:50.196643Z"
@@ -301,8 +407,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9245203,
-      "ratingCount": 95,
+      "rating": 0.91711783,
+      "ratingCount": 112,
       "created": "2026-07-20T14:07:04.290467Z",
       "updated": "2026-07-20T14:07:04.290467Z",
       "chartUpdated": "2026-07-20T14:07:04.290467Z"
@@ -327,8 +433,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9518928,
-      "ratingCount": 123,
+      "rating": 0.9512745,
+      "ratingCount": 130,
       "created": "2026-04-14T04:41:55.989626Z",
       "updated": "2026-07-20T12:39:34.714109Z",
       "chartUpdated": "2026-04-14T04:41:55.989626Z"
@@ -353,7 +459,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9010005,
+      "rating": 0.90662813,
       "ratingCount": 29,
       "created": "2026-07-20T03:16:35.001550Z",
       "updated": "2026-07-20T03:16:35.001550Z",
@@ -379,8 +485,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8743806,
-      "ratingCount": 238,
+      "rating": 0.8705274,
+      "ratingCount": 248,
       "created": "2025-11-06T17:34:27.176330Z",
       "updated": "2026-07-20T02:41:41.304175Z",
       "chartUpdated": "2025-11-06T17:34:27.176330Z"
@@ -405,8 +511,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8809823,
-      "ratingCount": 26,
+      "rating": 0.8871818,
+      "ratingCount": 28,
       "created": "2026-07-19T13:08:17.906692Z",
       "updated": "2026-07-19T13:08:17.906692Z",
       "chartUpdated": "2026-07-19T13:08:17.906692Z"
@@ -495,8 +601,8 @@
         "高难",
         "plain"
       ],
-      "rating": 0.9248348,
-      "ratingCount": 27,
+      "rating": 0.92709625,
+      "ratingCount": 28,
       "created": "2026-07-17T17:57:46.982931Z",
       "updated": "2026-07-17T17:57:46.982931Z",
       "chartUpdated": "2026-07-17T17:57:46.982931Z"
@@ -521,8 +627,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9451693,
-      "ratingCount": 42,
+      "rating": 0.9474566,
+      "ratingCount": 44,
       "created": "2026-07-09T07:01:24.847587Z",
       "updated": "2026-07-17T11:02:44.392237Z",
       "chartUpdated": "2026-07-09T07:01:24.847587Z"
@@ -547,8 +653,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9546217,
-      "ratingCount": 408,
+      "rating": 0.9556732,
+      "ratingCount": 434,
       "created": "2026-07-13T12:22:00.740935Z",
       "updated": "2026-07-17T10:59:45.393805Z",
       "chartUpdated": "2026-07-13T12:22:00.740935Z"
@@ -573,7 +679,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.898401,
+      "rating": 0.90254563,
       "ratingCount": 19,
       "created": "2026-07-17T03:44:58.517803Z",
       "updated": "2026-07-17T03:44:58.517803Z",
@@ -599,8 +705,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92651165,
-      "ratingCount": 183,
+      "rating": 0.9265481,
+      "ratingCount": 196,
       "created": "2026-07-16T08:34:58.378750Z",
       "updated": "2026-07-16T08:34:58.378750Z",
       "chartUpdated": "2026-07-16T08:34:58.378750Z"
@@ -626,7 +732,7 @@
         "plain"
       ],
       "rating": 0.9224811,
-      "ratingCount": 101,
+      "ratingCount": 102,
       "created": "2026-04-18T08:22:32.416430Z",
       "updated": "2026-07-15T02:47:10.193544Z",
       "chartUpdated": "2026-04-18T08:22:32.416430Z"
@@ -657,8 +763,8 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8741875,
-      "ratingCount": 30,
+      "rating": 0.8736512,
+      "ratingCount": 31,
       "created": "2026-07-14T06:30:46.321293Z",
       "updated": "2026-07-14T06:30:46.321293Z",
       "chartUpdated": "2026-07-14T06:30:46.321293Z"
@@ -688,8 +794,8 @@
         "瞬",
         "plain"
       ],
-      "rating": 0.92693317,
-      "ratingCount": 41,
+      "rating": 0.92608523,
+      "ratingCount": 45,
       "created": "2026-07-14T06:13:27.071534Z",
       "updated": "2026-07-14T06:13:27.071534Z",
       "chartUpdated": "2026-07-14T06:13:27.071534Z"
@@ -719,128 +825,11 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.89136016,
-      "ratingCount": 21,
+      "rating": 0.9024507,
+      "ratingCount": 24,
       "created": "2026-07-14T05:34:15.239766Z",
       "updated": "2026-07-14T05:34:15.239766Z",
       "chartUpdated": "2026-07-14T05:34:15.239766Z"
-    },
-    {
-      "id": 66415,
-      "name": "えれくとりっく・えんじぇぅ",
-      "level": "Flow",
-      "difficulty": 13.300013,
-      "charter": "HRS-Team",
-      "composer": "ヤスオP",
-      "illustrator": "",
-      "description": "HRS-Lv.13-Flow单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3763e800-22e4-4a32-ae01-687cbb1860e3",
-      "preview": "https://phira.5wyxi.com/files/a37a903a-d908-424b-bb1a-80fdaf2fdc0f",
-      "file": "https://phira.5wyxi.com/files/b35be3ca-12ce-40cc-9c2b-37b67dd2cb19",
-      "uploader": 2916891,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "13",
-        "Flow",
-        "幻",
-        "plain"
-      ],
-      "rating": 0.85646266,
-      "ratingCount": 16,
-      "created": "2026-07-14T05:21:07.444525Z",
-      "updated": "2026-07-14T05:21:07.444525Z",
-      "chartUpdated": "2026-07-14T05:21:07.444525Z"
-    },
-    {
-      "id": 66411,
-      "name": "Flashdance",
-      "level": "Sync",
-      "difficulty": 13.6,
-      "charter": "HRS-Team",
-      "composer": "litmus*",
-      "illustrator": "",
-      "description": "HRS-Lv.13-Sync单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5f518acf-c3b6-4781-9196-1733f6142d5b",
-      "preview": "https://phira.5wyxi.com/files/05864e46-a28d-4d54-a5aa-9dcebe62b2fe",
-      "file": "https://phira.5wyxi.com/files/624dbfe2-0831-48b8-a04f-7f54d4b42a69",
-      "uploader": 2916891,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "13",
-        "Sync",
-        "协",
-        "plain"
-      ],
-      "rating": 0.8459236,
-      "ratingCount": 10,
-      "created": "2026-07-14T05:05:50.226692Z",
-      "updated": "2026-07-14T05:05:50.226692Z",
-      "chartUpdated": "2026-07-14T05:05:50.226692Z"
-    },
-    {
-      "id": 66373,
-      "name": "death by amen",
-      "level": "Micro Lv.16",
-      "difficulty": 16.700003,
-      "charter": "_",
-      "composer": "Virtual Riot",
-      "illustrator": "",
-      "description": "本人上传\n标准分 97.64",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c1b44ea2-9454-4886-8c25-552c5721e2b8",
-      "preview": "https://phira.5wyxi.com/files/53b0062c-71fe-4e0d-915c-c334769ae9a2",
-      "file": "https://phira.5wyxi.com/files/a561c958-6dae-418e-9aa3-c4b707294e95",
-      "uploader": 1804149,
-      "tags": [
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.88686293,
-      "ratingCount": 18,
-      "created": "2026-07-14T02:33:30.036363Z",
-      "updated": "2026-07-14T02:33:30.036363Z",
-      "chartUpdated": "2026-07-14T02:33:30.036363Z"
-    },
-    {
-      "id": 66349,
-      "name": "晴雪～sakuRain",
-      "level": "4k Lv.21",
-      "difficulty": 10.0,
-      "charter": "洛年耶耶",
-      "composer": "B.R.I",
-      "illustrator": "",
-      "description": "晴雪好听awa\n部分采音参考舞立方官谱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f410aef8-5d77-44a8-ae22-0bd99984c72f",
-      "preview": "https://phira.5wyxi.com/files/6ccb8ccd-8ffc-4b61-b470-d34d015faa30",
-      "file": "https://phira.5wyxi.com/files/5c8e66a7-3aec-496f-90e1-0606b2175999",
-      "uploader": 1667803,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.91131264,
-      "ratingCount": 222,
-      "created": "2026-07-13T19:21:44.357463Z",
-      "updated": "2026-07-13T19:21:44.357463Z",
-      "chartUpdated": "2026-07-13T19:21:44.357463Z"
     }
   ]
 }
