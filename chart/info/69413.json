@@ -13,14 +13,14 @@
   "name": "熱風",
   "preview": "https://phira.5wyxi.com/files/b46bb010-6fea-46df-9d4d-2723236c39c5",
   "ranked": false,
-  "rating": 0.917869,
-  "ratingCount": 92,
-  "reviewed": true,
+  "rating": 0.93110937,
+  "ratingCount": 199,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-27T00:32:29.434668Z",
+  "updated": "2026-07-28T08:45:30.999880Z",
   "uploader": 273
 }
