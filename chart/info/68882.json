@@ -13,11 +13,11 @@
   "name": "Dance with Silence",
   "preview": "https://phira.5wyxi.com/files/d0ce3162-e380-4320-ba67-337749b4c07b",
   "ranked": false,
-  "rating": 0.89148307,
-  "ratingCount": 451,
-  "reviewed": false,
+  "rating": 0.8944748,
+  "ratingCount": 504,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

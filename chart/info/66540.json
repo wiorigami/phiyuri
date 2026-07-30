@@ -13,14 +13,14 @@
   "name": "急性恋愛中毒",
   "preview": "https://phira.5wyxi.com/files/4d4f8f4f-ce55-4cfc-a7cd-d50b469600cc",
   "ranked": false,
-  "rating": 0.9319828,
-  "ratingCount": 2643,
-  "reviewed": true,
+  "rating": 0.92268384,
+  "ratingCount": 10538,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-14T12:47:50.598123Z",
+  "updated": "2026-07-29T12:28:46.874022Z",
   "uploader": 1753887
 }
