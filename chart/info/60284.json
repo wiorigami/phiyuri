@@ -13,16 +13,16 @@
   "name": "えんじぇる☆てすと！ (feat. 初音ミク)",
   "preview": "https://phira.5wyxi.com/files/71feb54d-4c01-4433-8c08-0ecfd3f04c01",
   "ranked": false,
-  "rating": 0.8902548,
-  "ratingCount": 232,
-  "reviewed": true,
+  "rating": 0.8831794,
+  "ratingCount": 578,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "初音未来",
     "术曲",
     "regular"
   ],
-  "updated": "2026-06-07T10:42:28.076949Z",
+  "updated": "2026-07-30T10:57:05.081537Z",
   "uploader": 1855126
 }

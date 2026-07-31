@@ -13,11 +13,11 @@
   "name": "ALL☆NIGHTER!",
   "preview": "https://phira.5wyxi.com/files/2e073f72-324f-4848-b87a-7e588e350ce7",
   "ranked": false,
-  "rating": 0.9225638,
-  "ratingCount": 137,
-  "reviewed": false,
+  "rating": 0.9309553,
+  "ratingCount": 212,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
