@@ -1,6 +1,32 @@
 {
-  "count": 170,
+  "count": 171,
   "results": [
+    {
+      "id": 69558,
+      "name": "将军的茶(♪来杯好茶摇一摇♪)",
+      "level": "BT+CBD Lv.?",
+      "difficulty": 10.0,
+      "charter": "♪来杯烨烁摇一摇♪",
+      "composer": "HOYO-Mix",
+      "illustrator": "",
+      "description": "景元，你年纪大慢慢来😏这局我先拿下了~😁\n茶需慢慢摇🤓心急则味散😋小爻有此雅兴😊我自然奉陪😎     \n来杯好茶摇一摇😘摇一摇😆摇一摇😆\n吉星高照爻一爻🥰爻一爻😍爻一爻😍\n茶香绕😉推个牌☺️接财到🤩来财🤑来财🤑来🤑\n上签在手😘举杯共饮😋皆吉兆🥰\n来杯好茶摇一摇😎摇一摇😙摇一摇😙\n寰宇好友邀一邀😏邀一邀😄邀一邀😄\n团雀闹🤪好事近🥳上眉梢😌吃好😋睡好😋好😋\n心海无垠😆与君乐饮☺️意逍遥🥳\n将军☀️请喝茶🥰🥰🥰嗯~😍果然是好茶🤗给到上上签🥰\n抖音/B站:烨烁ys",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://api.phira.cn/files/8d2bbeac-2308-4775-8d12-d034074d1160",
+      "preview": "https://api.phira.cn/files/16635016-6ce7-44b6-bd61-9d0d142b3326",
+      "file": "https://api.phira.cn/files/d19ee3a2-dd54-44b6-973a-563510ddbc2c",
+      "uploader": 889040,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.8904027,
+      "ratingCount": 0,
+      "created": "2026-07-27T16:42:57.962104Z",
+      "updated": "2026-07-27T16:42:57.962104Z",
+      "chartUpdated": "2026-07-27T16:42:57.962104Z"
+    },
     {
       "id": 69084,
       "name": "Eternal Ending",
@@ -26,7 +52,7 @@
         "shader",
         "visual"
       ],
-      "rating": 0.921275,
+      "rating": 0.9183165,
       "ratingCount": 278,
       "created": "2026-07-25T08:00:27.309312Z",
       "updated": "2026-07-25T08:00:27.309312Z",
@@ -57,7 +83,7 @@
         "shader",
         "visual"
       ],
-      "rating": 0.9095581,
+      "rating": 0.9137809,
       "ratingCount": 269,
       "created": "2026-07-25T08:00:10.937913Z",
       "updated": "2026-07-25T08:00:10.937913Z",
@@ -83,7 +109,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.92776096,
+      "rating": 0.92893165,
       "ratingCount": 56,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
@@ -109,7 +135,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8727581,
+      "rating": 0.87380046,
       "ratingCount": 119,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
@@ -135,7 +161,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8115091,
+      "rating": 0.814788,
       "ratingCount": 138,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
@@ -161,7 +187,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8828308,
+      "rating": 0.88398665,
       "ratingCount": 97,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
@@ -187,7 +213,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8159355,
+      "rating": 0.8143109,
       "ratingCount": 279,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -213,7 +239,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8823054,
+      "rating": 0.8821217,
       "ratingCount": 763,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
@@ -267,7 +293,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8715593,
+      "rating": 0.8687353,
       "ratingCount": 141,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
@@ -349,7 +375,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82234937,
+      "rating": 0.8190268,
       "ratingCount": 283,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -377,7 +403,7 @@
         "创意",
         "visual"
       ],
-      "rating": 0.90412074,
+      "rating": 0.9049665,
       "ratingCount": 110,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
@@ -406,7 +432,7 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9427248,
+      "rating": 0.9430465,
       "ratingCount": 662,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
@@ -491,7 +517,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.7017164,
+      "rating": 0.70524305,
       "ratingCount": 540,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -524,7 +550,7 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.87045515,
+      "rating": 0.87105316,
       "ratingCount": 215,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
@@ -550,7 +576,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8669267,
+      "rating": 0.86198914,
       "ratingCount": 22,
       "created": "2026-01-16T08:59:01.533401Z",
       "updated": "2026-01-16T08:59:01.533401Z",
@@ -576,7 +602,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.83761746,
+      "rating": 0.8390491,
       "ratingCount": 111,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
@@ -602,7 +628,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8102901,
+      "rating": 0.8058095,
       "ratingCount": 122,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -655,7 +681,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.94860184,
+      "rating": 0.94881946,
       "ratingCount": 470,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -681,7 +707,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.75710696,
+      "rating": 0.7555652,
       "ratingCount": 325,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -707,7 +733,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.898003,
+      "rating": 0.89739805,
       "ratingCount": 250,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
@@ -759,7 +785,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.89990115,
+      "rating": 0.903236,
       "ratingCount": 53,
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
@@ -790,32 +816,6 @@
       "created": "2025-11-16T11:01:11.506983Z",
       "updated": "2025-11-16T11:01:11.506983Z",
       "chartUpdated": "2025-11-16T11:01:11.506983Z"
-    },
-    {
-      "id": 49179,
-      "name": "靈",
-      "level": "AT Lv.17",
-      "difficulty": 17.0,
-      "charter": "Heronmony（鹭鸟音律）",
-      "composer": "MYTK",
-      "illustrator": "",
-      "description": "17.9",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
-      "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
-      "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
-      "uploader": 1017966,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.81924945,
-      "ratingCount": 118,
-      "created": "2025-11-16T01:44:43.045246Z",
-      "updated": "2025-11-16T01:44:43.045246Z",
-      "chartUpdated": "2025-11-16T01:44:43.045246Z"
     }
   ]
 }
