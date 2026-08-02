@@ -1,0 +1,27 @@
+{
+  "chartUpdated": "2026-08-01T03:46:38.102656Z",
+  "charter": "YSTAR-T",
+  "composer": "endofsystem",
+  "created": "2026-08-01T03:46:38.102656Z",
+  "description": "谱师本人上传\nNull\n定数：13.5\n物量：404\nOpentaiko 第八章曲\n谱师也是我",
+  "difficulty": 13.500002,
+  "file": "https://phira.5wyxi.com/files/d7087cef-228b-41a6-893d-5132da2e7a88",
+  "id": 70469,
+  "illustration": "https://phira.5wyxi.com/files/597e3f91-d59f-48c5-a602-e639016eaf5c",
+  "illustrator": "",
+  "level": "IN Lv.13",
+  "name": "re:iteration = NULL",
+  "preview": "https://phira.5wyxi.com/files/b12e77e4-eca9-454d-8e4a-67436f78b83b",
+  "ranked": false,
+  "rating": 0.8785437,
+  "ratingCount": 199,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "Opentaiko",
+    "regular"
+  ],
+  "updated": "2026-08-01T03:46:38.102656Z",
+  "uploader": 1213694
+}

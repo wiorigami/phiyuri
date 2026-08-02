@@ -13,11 +13,11 @@
   "name": "Night Theat+er Etude",
   "preview": "https://phira.5wyxi.com/files/6ce1f6a3-d7ca-4f32-b8f4-df452266452e",
   "ranked": false,
-  "rating": 0.9222145,
-  "ratingCount": 73,
-  "reviewed": false,
+  "rating": 0.921707,
+  "ratingCount": 142,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

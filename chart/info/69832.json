@@ -13,14 +13,14 @@
   "name": "Umikaze Moment",
   "preview": "https://phira.5wyxi.com/files/59a3e3a9-37d2-4513-acbd-18dadf3bef66",
   "ranked": false,
-  "rating": 0.8490659,
-  "ratingCount": 50,
-  "reviewed": true,
+  "rating": 0.8791316,
+  "ratingCount": 87,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-29T09:37:14.477828Z",
+  "updated": "2026-08-01T05:51:53.805557Z",
   "uploader": 260744
 }
