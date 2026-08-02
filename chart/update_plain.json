@@ -1,6 +1,32 @@
 {
-  "count": 3176,
+  "count": 3179,
   "results": [
+    {
+      "id": 70408,
+      "name": "Last Shot",
+      "level": "4K Lv.21",
+      "difficulty": 10.0,
+      "charter": "十千秋子（哈基秋）",
+      "composer": "无畏契约/templuv/347aidan",
+      "illustrator": "",
+      "description": "3小时完成，适合萌新打",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/65724005-a2e8-4c81-936a-e58fdb3fb6e3",
+      "preview": "https://phira.5wyxi.com/files/9ec26957-1e70-424d-9ae8-6aff435bf178",
+      "file": "https://phira.5wyxi.com/files/79416762-faab-432d-a1e4-61b24453ebcd",
+      "uploader": 57017,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.91222286,
+      "ratingCount": 37,
+      "created": "2026-07-31T16:03:41.898237Z",
+      "updated": "2026-07-31T16:03:41.898237Z",
+      "chartUpdated": "2026-07-31T16:03:41.898237Z"
+    },
     {
       "id": 70212,
       "name": "Starborn of the 3rd Throne",
@@ -21,8 +47,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9243505,
-      "ratingCount": 17,
+      "rating": 0.9362421,
+      "ratingCount": 39,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
       "chartUpdated": "2026-07-30T16:26:45.170094Z"
@@ -47,8 +73,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81567323,
-      "ratingCount": 3,
+      "rating": 0.8083,
+      "ratingCount": 4,
       "created": "2026-07-30T13:44:17.035292Z",
       "updated": "2026-07-30T13:44:17.035292Z",
       "chartUpdated": "2026-07-30T13:44:17.035292Z"
@@ -73,11 +99,41 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 4,
+      "rating": 0.8940588,
+      "ratingCount": 9,
       "created": "2026-07-30T13:44:01.999220Z",
       "updated": "2026-07-30T13:44:01.999220Z",
       "chartUpdated": "2026-07-30T13:44:01.999220Z"
+    },
+    {
+      "id": 70138,
+      "name": "lovve",
+      "level": "s1mple Lv.15",
+      "difficulty": 15.000001,
+      "charter": "XJJ520",
+      "composer": "skayanskiy",
+      "illustrator": "",
+      "description": "铺面由本人上传。bpm196的双指高难叠",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5b437136-73b5-4d17-bd11-0487a3779747",
+      "preview": "https://phira.5wyxi.com/files/6cc7fb21-0546-4267-91a3-4058f9efc4f8",
+      "file": "https://phira.5wyxi.com/files/7aca0755-e182-4bf6-8b6f-e1982a618836",
+      "uploader": 1789711,
+      "tags": [
+        "双指",
+        "dfc",
+        "叠",
+        "jack",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-07-30T10:52:12.818420Z",
+      "updated": "2026-07-30T10:52:12.818420Z",
+      "chartUpdated": "2026-07-30T10:52:12.818420Z"
     },
     {
       "id": 70109,
@@ -99,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.969202,
-      "ratingCount": 61,
+      "rating": 0.96684265,
+      "ratingCount": 100,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
       "chartUpdated": "2026-07-30T08:40:19.546676Z"
@@ -125,11 +181,37 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9067768,
-      "ratingCount": 128,
+      "rating": 0.897081,
+      "ratingCount": 210,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
       "chartUpdated": "2026-07-30T03:32:09.078155Z"
+    },
+    {
+      "id": 70028,
+      "name": "ヤラララ",
+      "level": "IN Lv.16",
+      "difficulty": 16.300001,
+      "charter": "山田田田",
+      "composer": "ABM",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4b5d8832-158e-402f-98c2-f5eaa26e273a",
+      "preview": "https://phira.5wyxi.com/files/6477aea9-8f7d-4565-bfa0-0b57f8d365e9",
+      "file": "https://phira.5wyxi.com/files/db87f00d-cb1d-4378-a830-359b5759220f",
+      "uploader": 561240,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.9237048,
+      "ratingCount": 5,
+      "created": "2026-07-29T23:37:40.348156Z",
+      "updated": "2026-07-29T23:37:40.348156Z",
+      "chartUpdated": "2026-07-29T23:37:40.348156Z"
     },
     {
       "id": 70001,
@@ -151,8 +233,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8567877,
-      "ratingCount": 43,
+      "rating": 0.86998236,
+      "ratingCount": 52,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
       "chartUpdated": "2026-07-29T15:47:29.827962Z"
@@ -177,8 +259,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91366434,
-      "ratingCount": 272,
+      "rating": 0.8993826,
+      "ratingCount": 458,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
       "chartUpdated": "2026-07-29T14:17:22.623193Z"
@@ -233,8 +315,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8709831,
-      "ratingCount": 92,
+      "rating": 0.86558145,
+      "ratingCount": 117,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
       "chartUpdated": "2026-07-29T04:03:30.873530Z"
@@ -261,8 +343,8 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.8879443,
-      "ratingCount": 16,
+      "rating": 0.89217305,
+      "ratingCount": 22,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
       "chartUpdated": "2026-07-29T01:12:33.501099Z"
@@ -287,8 +369,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9656927,
-      "ratingCount": 208,
+      "rating": 0.96572256,
+      "ratingCount": 239,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
       "chartUpdated": "2026-07-21T07:01:55.792540Z"
@@ -315,8 +397,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8411951,
-      "ratingCount": 11,
+      "rating": 0.85232943,
+      "ratingCount": 14,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
       "chartUpdated": "2026-07-28T23:07:58.787783Z"
@@ -345,8 +427,8 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.87396926,
-      "ratingCount": 12,
+      "rating": 0.8739288,
+      "ratingCount": 14,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
       "chartUpdated": "2026-07-28T23:04:49.491786Z"
@@ -373,8 +455,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7011714,
-      "ratingCount": 6,
+      "rating": 0.7243802,
+      "ratingCount": 8,
       "created": "2026-07-28T23:03:41.777525Z",
       "updated": "2026-07-28T23:03:41.777525Z",
       "chartUpdated": "2026-07-28T23:03:41.777525Z"
@@ -426,8 +508,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9270157,
-      "ratingCount": 139,
+      "rating": 0.9269452,
+      "ratingCount": 165,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
       "chartUpdated": "2026-07-28T16:06:19.314415Z"
@@ -452,8 +534,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.911506,
-      "ratingCount": 14,
+      "rating": 0.9115794,
+      "ratingCount": 15,
       "created": "2026-07-28T15:42:21.945309Z",
       "updated": "2026-07-28T15:42:21.945309Z",
       "chartUpdated": "2026-07-28T15:42:21.945309Z"
@@ -486,7 +568,7 @@
         "黄键",
         "plain"
       ],
-      "rating": 0.9188486,
+      "rating": 0.9184057,
       "ratingCount": 25,
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-28T12:07:50.406122Z",
@@ -544,8 +626,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87991786,
-      "ratingCount": 5,
+      "rating": 0.9116919,
+      "ratingCount": 10,
       "created": "2026-07-28T10:25:28.175334Z",
       "updated": "2026-07-28T10:25:28.175334Z",
       "chartUpdated": "2026-07-28T10:25:28.175334Z"
@@ -570,7 +652,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.755949,
+      "rating": 0.80656886,
       "ratingCount": 2,
       "created": "2026-07-28T03:07:03.454259Z",
       "updated": "2026-07-28T03:07:03.454259Z",
@@ -596,8 +678,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8696986,
-      "ratingCount": 1236,
+      "rating": 0.8756047,
+      "ratingCount": 1510,
       "created": "2026-07-28T02:43:41.815706Z",
       "updated": "2026-07-28T02:43:41.815706Z",
       "chartUpdated": "2026-07-28T02:43:41.815706Z"
@@ -652,8 +734,8 @@
         "",
         "plain"
       ],
-      "rating": 0.87938887,
-      "ratingCount": 52,
+      "rating": 0.885463,
+      "ratingCount": 55,
       "created": "2026-07-27T11:40:07.626169Z",
       "updated": "2026-07-27T11:40:07.626169Z",
       "chartUpdated": "2026-07-27T11:40:07.626169Z"
@@ -678,8 +760,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88044053,
-      "ratingCount": 17,
+      "rating": 0.8903438,
+      "ratingCount": 19,
       "created": "2026-07-26T15:34:42.534691Z",
       "updated": "2026-07-26T15:34:42.534691Z",
       "chartUpdated": "2026-07-26T15:34:42.534691Z"
@@ -704,8 +786,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95373476,
-      "ratingCount": 427,
+      "rating": 0.95233905,
+      "ratingCount": 475,
       "created": "2026-07-14T03:30:35.230791Z",
       "updated": "2026-07-26T11:38:51.873440Z",
       "chartUpdated": "2026-07-14T03:30:35.230791Z"
@@ -730,103 +812,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8217684,
-      "ratingCount": 12,
+      "rating": 0.8312949,
+      "ratingCount": 13,
       "created": "2026-07-10T04:45:17.740977Z",
       "updated": "2026-07-26T02:00:42.023927Z",
       "chartUpdated": "2026-07-10T04:45:17.740977Z"
-    },
-    {
-      "id": 69191,
-      "name": "Viyella's Nightmare",
-      "level": "赤石",
-      "difficulty": 930.0,
-      "charter": "Lrcos",
-      "composer": "Laur",
-      "illustrator": "",
-      "description": "ep/ep-，请谨慎游玩，本人上传，首个pe无暂98录手元找q1304951664领20r",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/aaeee95a-5479-4d37-8976-6c5c3c1994e1",
-      "preview": "https://phira.5wyxi.com/files/e4df3b20-7f02-43e7-a19d-da75ddd813a5",
-      "file": "https://phira.5wyxi.com/files/e4ece32c-8b31-4682-89b3-dee459fe36b1",
-      "uploader": 1209764,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.7282649,
-      "ratingCount": 14,
-      "created": "2026-07-25T16:53:28.621150Z",
-      "updated": "2026-07-25T16:53:28.621150Z",
-      "chartUpdated": "2026-07-25T16:53:28.621150Z"
-    },
-    {
-      "id": 54279,
-      "name": "Nacreous Snowmelt",
-      "level": "AT Lv.17",
-      "difficulty": 17.300001,
-      "charter": "麻辣火锅酱 as The “2026年の魔法使いたち”（feat. Mokia_OS）",
-      "composer": "かめりあ",
-      "illustrator": "",
-      "description": "曲目：Nacreous Snowmelt\n曲师：かめりあ\n难度：AT Lv.17（17.3）\n谱师：麻辣火锅酱（@YHwwPAO/@Xao @Lee/@mepoepom @Louishu233 @Overstepp @Mokia_OS/@MOXIEnary195）as The “2026年の魔法使いたち”（feat. Mokia_OS）\n时长：7:21\n物量：5200\nBPM：201-139-201\n已经过所有谱师同意上传\n制作分工表\n0:00 --- 1:02 by @Louishu233\n1:03 --- 2:06 by @YHwwPAO\n2:07 --- 2:25 by @Mokia_OS\n2:26 --- 2:45 by @Lee\n2:46 --- 3:09 by @Louishu233\n​3:10 --- 7:21 by @Mokia_OS\n由​@Mokia_OS对谱面进行微调\n你问@Overstepp负责的段落在哪？他是我们的精神支柱\n​\n​提示，以下可能导致您的游玩体验下降\n1.​谱面时长很长，难度偏高\n​2.谱面含有大量sv和变速，但请放心大多不影响读谱\n​\n​如需录制手元上传等请标明谱师名义并@Mokia_OS（b站同名）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8019b5df-bea3-499b-880c-b5f5df6b87ab",
-      "preview": "https://phira.5wyxi.com/files/6306c9d1-2aaa-4c96-bbdf-0be91e13a120",
-      "file": "https://phira.5wyxi.com/files/9b403a3e-243e-440f-a603-e11fb8917944",
-      "uploader": 57807,
-      "tags": [
-        "山茶花",
-        "艺核",
-        "速核",
-        "多指",
-        "双指",
-        "键盘",
-        "底力",
-        "4k",
-        "5k",
-        "plain"
-      ],
-      "rating": 0.8531034,
-      "ratingCount": 122,
-      "created": "2026-03-18T14:03:20.395335Z",
-      "updated": "2026-07-25T10:53:47.533330Z",
-      "chartUpdated": "2026-03-21T19:43:04.532951Z"
-    },
-    {
-      "id": 68973,
-      "name": "Sterelogue",
-      "level": "4K Lv.23",
-      "difficulty": 16.0,
-      "charter": "Bonious",
-      "composer": "VeetaCrush",
-      "illustrator": "",
-      "description": "第一次写4k，有些配置不太成熟，请见谅\n使用b站艾特起名钉子户制作的malody转谱器，使用malody的定数",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6511895a-9a9a-4282-937f-6d849fad7f76",
-      "preview": "https://phira.5wyxi.com/files/f308cb95-6379-4207-9da8-a17edaed44c0",
-      "file": "https://phira.5wyxi.com/files/a5963271-8326-4687-8c0e-fa776840dddf",
-      "uploader": 450934,
-      "tags": [
-        "4k",
-        "乱",
-        "切",
-        "叠",
-        "技",
-        "plain"
-      ],
-      "rating": 0.9191711,
-      "ratingCount": 17,
-      "created": "2026-07-24T17:38:55.982767Z",
-      "updated": "2026-07-24T17:38:55.982767Z",
-      "chartUpdated": "2026-07-24T17:38:55.982767Z"
     }
   ]
 }
