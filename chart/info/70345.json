@@ -13,11 +13,11 @@
   "name": "Blithe",
   "preview": "https://phira.5wyxi.com/files/ead350f5-7922-4026-b60b-39ae6608c072",
   "ranked": false,
-  "rating": 0.85793585,
-  "ratingCount": 48,
-  "reviewed": false,
+  "rating": 0.85978717,
+  "ratingCount": 66,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

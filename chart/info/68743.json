@@ -13,11 +13,11 @@
   "name": "Bio Lab",
   "preview": "https://phira.5wyxi.com/files/d6d47826-bdd3-4e96-9acb-87c85f1ad3d1",
   "ranked": false,
-  "rating": 0.87443966,
-  "ratingCount": 120,
-  "reviewed": false,
+  "rating": 0.87199986,
+  "ratingCount": 145,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
