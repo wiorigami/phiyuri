@@ -21,8 +21,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91222286,
-      "ratingCount": 37,
+      "rating": 0.9165848,
+      "ratingCount": 207,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
       "chartUpdated": "2026-07-31T16:03:41.898237Z"
@@ -47,8 +47,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9362421,
-      "ratingCount": 39,
+      "rating": 0.93396384,
+      "ratingCount": 72,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
       "chartUpdated": "2026-07-30T16:26:45.170094Z"
@@ -73,8 +73,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8083,
-      "ratingCount": 4,
+      "rating": 0.8251449,
+      "ratingCount": 5,
       "created": "2026-07-30T13:44:17.035292Z",
       "updated": "2026-07-30T13:44:17.035292Z",
       "chartUpdated": "2026-07-30T13:44:17.035292Z"
@@ -99,8 +99,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8940588,
-      "ratingCount": 9,
+      "rating": 0.90115595,
+      "ratingCount": 12,
       "created": "2026-07-30T13:44:01.999220Z",
       "updated": "2026-07-30T13:44:01.999220Z",
       "chartUpdated": "2026-07-30T13:44:01.999220Z"
@@ -129,8 +129,8 @@
         "jack",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.68356395,
+      "ratingCount": 1,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
       "chartUpdated": "2026-07-30T10:52:12.818420Z"
@@ -155,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96684265,
-      "ratingCount": 100,
+      "rating": 0.967014,
+      "ratingCount": 140,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
       "chartUpdated": "2026-07-30T08:40:19.546676Z"
@@ -181,8 +181,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.897081,
-      "ratingCount": 210,
+      "rating": 0.8841493,
+      "ratingCount": 308,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
       "chartUpdated": "2026-07-30T03:32:09.078155Z"
@@ -207,11 +207,38 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9237048,
-      "ratingCount": 5,
+      "rating": 0.91757053,
+      "ratingCount": 29,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
       "chartUpdated": "2026-07-29T23:37:40.348156Z"
+    },
+    {
+      "id": 68726,
+      "name": "STARDUST",
+      "level": "5K Lv.7dan tech",
+      "difficulty": 7.0,
+      "charter": "E_Rizon",
+      "composer": "Riya",
+      "illustrator": "",
+      "description": "5k 7tech\n中高难5k\n感谢Pal，Tuye，LegitIX的测试与修改意见",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/472ab7ab-8cce-4f03-bf49-f1ea734aa5e1",
+      "preview": "https://phira.5wyxi.com/files/24fb8e9d-a2a3-4404-9cb7-ca4d5caebb34",
+      "file": "https://phira.5wyxi.com/files/f51d1560-9a65-4995-ac35-c0c6a99670f6",
+      "uploader": 21375,
+      "tags": [
+        "5K",
+        "plain"
+      ],
+      "rating": 0.8533043,
+      "ratingCount": 6,
+      "created": "2026-07-23T15:22:57.547769Z",
+      "updated": "2026-07-29T17:10:00.237954Z",
+      "chartUpdated": "2026-07-23T15:22:57.547769Z"
     },
     {
       "id": 70001,
@@ -233,8 +260,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86998236,
-      "ratingCount": 52,
+      "rating": 0.85880715,
+      "ratingCount": 65,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
       "chartUpdated": "2026-07-29T15:47:29.827962Z"
@@ -259,8 +286,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8993826,
-      "ratingCount": 458,
+      "rating": 0.89797485,
+      "ratingCount": 696,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
       "chartUpdated": "2026-07-29T14:17:22.623193Z"
@@ -315,8 +342,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.86558145,
-      "ratingCount": 117,
+      "rating": 0.86913997,
+      "ratingCount": 150,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
       "chartUpdated": "2026-07-29T04:03:30.873530Z"
@@ -343,8 +370,8 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.89217305,
-      "ratingCount": 22,
+      "rating": 0.8895833,
+      "ratingCount": 29,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
       "chartUpdated": "2026-07-29T01:12:33.501099Z"
@@ -369,8 +396,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96572256,
-      "ratingCount": 239,
+      "rating": 0.96762943,
+      "ratingCount": 276,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
       "chartUpdated": "2026-07-21T07:01:55.792540Z"
@@ -398,7 +425,7 @@
         "plain"
       ],
       "rating": 0.85232943,
-      "ratingCount": 14,
+      "ratingCount": 15,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
       "chartUpdated": "2026-07-28T23:07:58.787783Z"
@@ -427,8 +454,8 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.8739288,
-      "ratingCount": 14,
+      "rating": 0.8752821,
+      "ratingCount": 17,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
       "chartUpdated": "2026-07-28T23:04:49.491786Z"
@@ -455,8 +482,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7243802,
-      "ratingCount": 8,
+      "rating": 0.69899875,
+      "ratingCount": 9,
       "created": "2026-07-28T23:03:41.777525Z",
       "updated": "2026-07-28T23:03:41.777525Z",
       "chartUpdated": "2026-07-28T23:03:41.777525Z"
@@ -482,8 +509,8 @@
         "nana",
         "plain"
       ],
-      "rating": 0.8673144,
-      "ratingCount": 9,
+      "rating": 0.872672,
+      "ratingCount": 11,
       "created": "2026-07-28T23:02:45.411256Z",
       "updated": "2026-07-28T23:02:45.411256Z",
       "chartUpdated": "2026-07-28T23:02:45.411256Z"
@@ -508,8 +535,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9269452,
-      "ratingCount": 165,
+      "rating": 0.9230621,
+      "ratingCount": 174,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
       "chartUpdated": "2026-07-28T16:06:19.314415Z"
@@ -534,8 +561,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9115794,
-      "ratingCount": 15,
+      "rating": 0.91006166,
+      "ratingCount": 21,
       "created": "2026-07-28T15:42:21.945309Z",
       "updated": "2026-07-28T15:42:21.945309Z",
       "chartUpdated": "2026-07-28T15:42:21.945309Z"
@@ -568,8 +595,8 @@
         "黄键",
         "plain"
       ],
-      "rating": 0.9184057,
-      "ratingCount": 25,
+      "rating": 0.91177046,
+      "ratingCount": 27,
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-28T12:07:50.406122Z",
       "chartUpdated": "2026-07-24T13:21:22.496906Z"
@@ -626,8 +653,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9116919,
-      "ratingCount": 10,
+      "rating": 0.9210357,
+      "ratingCount": 23,
       "created": "2026-07-28T10:25:28.175334Z",
       "updated": "2026-07-28T10:25:28.175334Z",
       "chartUpdated": "2026-07-28T10:25:28.175334Z"
@@ -652,8 +679,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80656886,
-      "ratingCount": 2,
+      "rating": 0.810918,
+      "ratingCount": 6,
       "created": "2026-07-28T03:07:03.454259Z",
       "updated": "2026-07-28T03:07:03.454259Z",
       "chartUpdated": "2026-07-28T03:07:03.454259Z"
@@ -678,8 +705,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8756047,
-      "ratingCount": 1510,
+      "rating": 0.8727818,
+      "ratingCount": 1820,
       "created": "2026-07-28T02:43:41.815706Z",
       "updated": "2026-07-28T02:43:41.815706Z",
       "chartUpdated": "2026-07-28T02:43:41.815706Z"
@@ -734,8 +761,8 @@
         "",
         "plain"
       ],
-      "rating": 0.885463,
-      "ratingCount": 55,
+      "rating": 0.89111924,
+      "ratingCount": 60,
       "created": "2026-07-27T11:40:07.626169Z",
       "updated": "2026-07-27T11:40:07.626169Z",
       "chartUpdated": "2026-07-27T11:40:07.626169Z"
@@ -760,8 +787,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8903438,
-      "ratingCount": 19,
+      "rating": 0.90269864,
+      "ratingCount": 27,
       "created": "2026-07-26T15:34:42.534691Z",
       "updated": "2026-07-26T15:34:42.534691Z",
       "chartUpdated": "2026-07-26T15:34:42.534691Z"
@@ -786,37 +813,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95233905,
-      "ratingCount": 475,
+      "rating": 0.9535744,
+      "ratingCount": 527,
       "created": "2026-07-14T03:30:35.230791Z",
       "updated": "2026-07-26T11:38:51.873440Z",
       "chartUpdated": "2026-07-14T03:30:35.230791Z"
-    },
-    {
-      "id": 65400,
-      "name": "トゥルーエンド",
-      "level": "AT Lv.17",
-      "difficulty": 17.4,
-      "charter": "spark",
-      "composer": "ああああ",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/dadb307c-4517-4984-97cf-d78c1b22ca80",
-      "preview": "https://phira.5wyxi.com/files/d78d95fc-64e8-4854-b412-33af781c4bd8",
-      "file": "https://phira.5wyxi.com/files/93a58fd3-82b5-4761-b27c-850efdf1963f",
-      "uploader": 114600,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8312949,
-      "ratingCount": 13,
-      "created": "2026-07-10T04:45:17.740977Z",
-      "updated": "2026-07-26T02:00:42.023927Z",
-      "chartUpdated": "2026-07-10T04:45:17.740977Z"
     }
   ]
 }
