@@ -13,14 +13,14 @@
   "name": "Song for Sprites",
   "preview": "https://phira.5wyxi.com/files/cab982a5-976f-41b1-b3ff-94b2ae38e886",
   "ranked": false,
-  "rating": 0.89663434,
-  "ratingCount": 108,
-  "reviewed": true,
+  "rating": 0.89270777,
+  "ratingCount": 150,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-31T15:47:51.521330Z",
+  "updated": "2026-08-03T15:30:21.807481Z",
   "uploader": 615542
 }
