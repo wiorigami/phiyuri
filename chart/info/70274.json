@@ -13,11 +13,11 @@
   "name": "Unraveling Stasis",
   "preview": "https://phira.5wyxi.com/files/36d4adc3-2dc0-4c35-9667-f0d569b0c76e",
   "ranked": false,
-  "rating": 0.8241884,
-  "ratingCount": 81,
-  "reviewed": false,
+  "rating": 0.8252141,
+  "ratingCount": 91,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
