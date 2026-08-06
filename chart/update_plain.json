@@ -1,6 +1,66 @@
 {
-  "count": 3178,
+  "count": 3175,
   "results": [
+    {
+      "id": 71491,
+      "name": "βlαnoir",
+      "level": "Hybrid Lv.13",
+      "difficulty": 13.0,
+      "charter": "Grιs",
+      "composer": "Aoi",
+      "illustrator": "",
+      "description": "Eternity Hikari魔女议会偶像部考核谱(Hybrid)\n入队要求:后光99.19\n其他要求↓\n97.30边缘\n98.38过段\n99.19后光\n99.73击破\n考核群:1074080318\n欢迎大家与会长签订契约成为魔法少女和魔女desuwa~\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2679f6e8-aea3-414b-99ed-089336c02d19",
+      "preview": "https://phira.5wyxi.com/files/13a49951-d271-4cc6-82a5-ee09e44d5018",
+      "file": "https://phira.5wyxi.com/files/c16d0cbd-b2be-494e-9f63-6689021729d3",
+      "uploader": 1470361,
+      "tags": [
+        "DF",
+        "DFC",
+        "双指",
+        "Hybrid",
+        "gamma",
+        "plain"
+      ],
+      "rating": 0.840337,
+      "ratingCount": 0,
+      "created": "2026-08-05T15:09:32.297426Z",
+      "updated": "2026-08-05T15:09:32.297426Z",
+      "chartUpdated": "2026-08-05T15:09:32.297426Z"
+    },
+    {
+      "id": 71331,
+      "name": "Electric Butterfly",
+      "level": "DFVibro",
+      "difficulty": 67.0,
+      "charter": "Electric Essent1al_",
+      "composer": "tpz",
+      "illustrator": "",
+      "description": "本人上传\nbpm185，double finger vibro谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3996e71d-7966-43a6-97f2-3c25bfbd70a4",
+      "preview": "https://phira.5wyxi.com/files/576e36f9-327f-4422-a580-142eef5a1f0b",
+      "file": "https://phira.5wyxi.com/files/b0af56cc-ba7f-449a-b253-155b15541101",
+      "uploader": 1893122,
+      "tags": [
+        "dfv",
+        "vibro",
+        "dfc",
+        "plain"
+      ],
+      "rating": 0.8509823,
+      "ratingCount": 0,
+      "created": "2026-08-05T03:19:11.640228Z",
+      "updated": "2026-08-05T03:19:11.640228Z",
+      "chartUpdated": "2026-08-05T03:19:11.640228Z"
+    },
     {
       "id": 70872,
       "name": "オセロ (黑白棋)",
@@ -21,7 +81,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91476315,
+      "rating": 0.9094255,
       "ratingCount": 101,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -47,7 +107,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91586965,
+      "rating": 0.91400576,
       "ratingCount": 427,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -73,7 +133,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93419784,
+      "rating": 0.93029875,
       "ratingCount": 92,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -155,7 +215,7 @@
         "jack",
         "plain"
       ],
-      "rating": 0.7673448,
+      "rating": 0.7839341,
       "ratingCount": 7,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
@@ -181,7 +241,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9650462,
+      "rating": 0.9662872,
       "ratingCount": 186,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -207,7 +267,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8914348,
+      "rating": 0.88709337,
       "ratingCount": 406,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -233,7 +293,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9317951,
+      "rating": 0.92501765,
       "ratingCount": 54,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -260,7 +320,7 @@
         "5K",
         "plain"
       ],
-      "rating": 0.89782876,
+      "rating": 0.91094273,
       "ratingCount": 13,
       "created": "2026-07-23T15:22:57.547769Z",
       "updated": "2026-07-29T17:10:00.237954Z",
@@ -286,7 +346,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8662057,
+      "rating": 0.86957204,
       "ratingCount": 72,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -312,7 +372,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8974753,
+      "rating": 0.89656216,
       "ratingCount": 998,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -368,7 +428,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8742941,
+      "rating": 0.8747036,
       "ratingCount": 171,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -396,7 +456,7 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.89296246,
+      "rating": 0.90066445,
       "ratingCount": 33,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
@@ -422,7 +482,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9672019,
+      "rating": 0.9662434,
       "ratingCount": 329,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
@@ -450,7 +510,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8658984,
+      "rating": 0.8715253,
       "ratingCount": 21,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
@@ -480,7 +540,7 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.8858708,
+      "rating": 0.8905283,
       "ratingCount": 19,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
@@ -508,7 +568,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7511412,
+      "rating": 0.7645935,
       "ratingCount": 12,
       "created": "2026-07-28T23:03:41.777525Z",
       "updated": "2026-07-28T23:03:41.777525Z",
@@ -535,7 +595,7 @@
         "nana",
         "plain"
       ],
-      "rating": 0.87960225,
+      "rating": 0.8778512,
       "ratingCount": 15,
       "created": "2026-07-28T23:02:45.411256Z",
       "updated": "2026-07-28T23:02:45.411256Z",
@@ -561,7 +621,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92249876,
+      "rating": 0.922987,
       "ratingCount": 188,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
@@ -587,7 +647,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.926131,
+      "rating": 0.92764896,
       "ratingCount": 29,
       "created": "2026-07-28T15:42:21.945309Z",
       "updated": "2026-07-28T15:42:21.945309Z",
@@ -621,7 +681,7 @@
         "黄键",
         "plain"
       ],
-      "rating": 0.91438514,
+      "rating": 0.9166909,
       "ratingCount": 31,
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-28T12:07:50.406122Z",
@@ -653,7 +713,7 @@
         "半决赛",
         "plain"
       ],
-      "rating": 0.73155075,
+      "rating": 0.75974077,
       "ratingCount": 3,
       "created": "2026-07-28T12:07:18.509418Z",
       "updated": "2026-07-28T12:07:18.509418Z",
@@ -679,7 +739,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.938132,
+      "rating": 0.93831885,
       "ratingCount": 41,
       "created": "2026-07-28T10:25:28.175334Z",
       "updated": "2026-07-28T10:25:28.175334Z",
@@ -731,7 +791,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87117404,
+      "rating": 0.8710926,
       "ratingCount": 2296,
       "created": "2026-07-28T02:43:41.815706Z",
       "updated": "2026-07-28T02:43:41.815706Z",
@@ -759,65 +819,11 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8829928,
+      "rating": 0.8799587,
       "ratingCount": 47,
       "created": "2026-07-27T11:48:45.194504Z",
       "updated": "2026-07-27T11:48:45.194504Z",
       "chartUpdated": "2026-07-27T11:48:45.194504Z"
-    },
-    {
-      "id": 69517,
-      "name": "Sink to the Deep Sea World",
-      "level": "4K Sink Lv.34",
-      "difficulty": 8.499999,
-      "charter": "Xiyv_",
-      "composer": "黒魔",
-      "illustrator": "",
-      "description": "bot测出来rf8 ln8\n我不知道是不是真的。\nb站 Xiyv__\n欢迎指导喵",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2f507b8d-8ba9-4280-9c71-89a927274e4e",
-      "preview": "https://phira.5wyxi.com/files/643ea911-16e3-4b1c-a97a-f3e8851dec9c",
-      "file": "https://phira.5wyxi.com/files/bcd46ecf-ccd4-41a5-bc9a-e5e3a9cccbd5",
-      "uploader": 594089,
-      "tags": [
-        "4k",
-        "",
-        "plain"
-      ],
-      "rating": 0.8945472,
-      "ratingCount": 63,
-      "created": "2026-07-27T11:40:07.626169Z",
-      "updated": "2026-07-27T11:40:07.626169Z",
-      "chartUpdated": "2026-07-27T11:40:07.626169Z"
-    },
-    {
-      "id": 69386,
-      "name": "Sweden(Minecraft 我的世界 完整版|Caution & Crisis Remix)",
-      "level": "4k IN Lv.20",
-      "difficulty": 20.0,
-      "charter": "tankcatcat",
-      "composer": "C418",
-      "illustrator": "",
-      "description": "Music:C418 - Sweden (完整版｜Caution & Crisis Remix)\n片头の小曲\n此生不悔入MC，来世还做方块人！\n本谱由tankcatcat本人在Malody自制4k转谱。\n本谱较难，请做好准备。\n新人第四个谱，下一张谱准备做PVZ。\n可能做的不是很好请见谅，最后欢迎你的游玩！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/797c32cc-4546-434a-ba93-34435733eb78",
-      "preview": "https://phira.5wyxi.com/files/be6a4e98-19a1-4021-96fd-9e0a7a0c0820",
-      "file": "https://phira.5wyxi.com/files/4790b990-07b4-4cb9-b204-e619c07fcde3",
-      "uploader": 2298625,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.91579515,
-      "ratingCount": 33,
-      "created": "2026-07-26T15:34:42.534691Z",
-      "updated": "2026-07-26T15:34:42.534691Z",
-      "chartUpdated": "2026-07-26T15:34:42.534691Z"
     }
   ]
 }
