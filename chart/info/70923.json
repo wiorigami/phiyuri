@@ -13,14 +13,14 @@
   "name": "The De[i]fied",
   "preview": "https://phira.5wyxi.com/files/6ebd4c3c-6acd-40b0-b3d3-d2307512e989",
   "ranked": false,
-  "rating": 0.80552316,
-  "ratingCount": 3,
-  "reviewed": true,
+  "rating": 0.91722745,
+  "ratingCount": 32,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-03T07:27:37.923329Z",
+  "updated": "2026-08-05T04:13:32.652710Z",
   "uploader": 423037
 }

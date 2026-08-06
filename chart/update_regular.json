@@ -1,6 +1,138 @@
 {
-  "count": 9274,
+  "count": 9287,
   "results": [
+    {
+      "id": 50060,
+      "name": "エゴイスト",
+      "level": "IN Lv.15",
+      "difficulty": 15.700001,
+      "charter": "LPI -\"EGOIST\"-",
+      "composer": "大沼パセリ feat. flower",
+      "illustrator": "",
+      "description": "本人上传\n哔哩哔哩: @LPI_",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/3f696cb7-6209-4a72-a471-55b2fefb596a",
+      "preview": "https://phira.5wyxi.com/files/70eaa18a-502f-4fc6-85c6-ee2075d5959e",
+      "file": "https://phira.5wyxi.com/files/65994f85-05a8-4f56-b34e-198596b76307",
+      "uploader": 7084,
+      "tags": [
+        "VOCALOID",
+        "6thWJC",
+        "regular"
+      ],
+      "rating": 0.911359,
+      "ratingCount": 0,
+      "created": "2025-12-10T04:53:57.172286Z",
+      "updated": "2026-08-06T01:24:25.123462Z",
+      "chartUpdated": "2026-08-06T01:24:25.123462Z"
+    },
+    {
+      "id": 71434,
+      "name": "STARGAZERS",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "where the cosmos unfolds…",
+      "composer": "proxime()",
+      "illustrator": "",
+      "description": "音乐：STARGAZERS | From vivid/stasis\n曲师：proxime()\n谱面设计：where the cosmos unfolds…  \n@tarutoNyan#1075789  \n@Fyato#11\n@泉叶izuminohara#559587\n@MooniteSakust#8883\n\n\n本人上传\n---------------------------------------------\n\n416cb开始模仿了vs的采音方法，虽然我并不玩vs）\n834cb-1013cb的沉默微笑配置可以单指接，可以把三个键当成一个tap/点划来打\n1827cb往后的4k段也是按双指写的，值得注意的是在两轨中间的键可以当本家bumper来打（就是判定范围增加了，不过更推荐双指抗下来（\n最后一下的星星是全屏判定，只用点红头长条就行了\n\n---------------",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/5074a9bc-6006-4a16-bbff-0314becf0d29",
+      "preview": "https://phira.5wyxi.com/files/6b24f2c8-2ca4-4376-a9bf-17eea90c212b",
+      "file": "https://phira.5wyxi.com/files/3bd2c8e3-aa3b-40a5-9c4c-fd4d456f654f",
+      "uploader": 448065,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8455336,
+      "ratingCount": 12,
+      "created": "2026-08-05T10:52:48.293944Z",
+      "updated": "2026-08-05T14:56:58.071039Z",
+      "chartUpdated": "2026-08-05T10:52:48.293944Z"
+    },
+    {
+      "id": 71351,
+      "name": "Fatum Cantabile",
+      "level": "IN  Lv.16",
+      "difficulty": 16.300001,
+      "charter": "中微子",
+      "composer": "ああああ",
+      "illustrator": "",
+      "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\r\n_______________________________________________________________\r\n\r\n基本信息 // Basic Info\r\n曲名 // Title : Fatum Cantabile\r\n曲师 // Composer : ああああ\r\n曲绘 // Artist : Hg3Ng6\r\n_______________________________________________________________\r\n\r\n谱面信息 // Chart Info\r\n谱师名义 // Level Designer : 中微子\r\n难度 // Difficulty : IN Lv.16\r\n\r\n特别感谢 // Special Thanks\r\n录制软件提供 // Record App Support : @不会特效の点缀星空\r\n曲绘包装设计 // Illustration Design : @SJR哈\r\n赛事主办 // Event Host : @克里Crimo\r\n_______________________________________________________________\r\n\r\n额外信息 // Others\r\n©TGL, 2026 ALL RIGHTS RESERVED",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/8817142e-1b27-4da7-a8ac-8e8174033a44",
+      "preview": "https://phira.5wyxi.com/files/bb9e7917-5ef8-494a-bf9f-634c22b716eb",
+      "file": "https://phira.5wyxi.com/files/c580153b-7529-4459-aecf-fee9968d7812",
+      "uploader": 344689,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9076944,
+      "ratingCount": 0,
+      "created": "2026-08-05T05:49:40.432207Z",
+      "updated": "2026-08-05T05:54:02.490547Z",
+      "chartUpdated": "2026-08-05T05:49:40.432207Z"
+    },
+    {
+      "id": 71032,
+      "name": "シリーテラー (feat. IA)",
+      "level": "IN Lv.15",
+      "difficulty": 15.200005,
+      "charter": "Lux",
+      "composer": "r-906",
+      "illustrator": "",
+      "description": "谱师本人上传\nB站关注@TeraLux谢谢喵",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/32b39245-6793-4f8d-9b74-290b0c6c89dc",
+      "preview": "https://phira.5wyxi.com/files/0273f7fb-7a41-4b3a-8537-8edae140fda4",
+      "file": "https://phira.5wyxi.com/files/c369d5d6-fff5-44ef-9d13-3554d899dff3",
+      "uploader": 408158,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9006803,
+      "ratingCount": 0,
+      "created": "2026-08-03T15:27:30.812919Z",
+      "updated": "2026-08-05T04:55:15.134942Z",
+      "chartUpdated": "2026-08-05T04:41:53.935560Z"
+    },
+    {
+      "id": 70923,
+      "name": "The De[i]fied",
+      "level": "IN Lv.15",
+      "difficulty": 15.4,
+      "charter": "Venvs.",
+      "composer": "ARForest",
+      "illustrator": "",
+      "description": "本人上传\nB站预览视频：\nBV1XtMQ6WE1W",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/e85ff57a-6ea9-426a-b032-3ccb94da0eb1",
+      "preview": "https://phira.5wyxi.com/files/6ebd4c3c-6acd-40b0-b3d3-d2307512e989",
+      "file": "https://phira.5wyxi.com/files/e3e7b1a3-3cf0-46e0-9ec5-1135ef8bab1e",
+      "uploader": 423037,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.91722745,
+      "ratingCount": 3,
+      "created": "2026-08-03T07:27:37.923329Z",
+      "updated": "2026-08-05T04:13:32.652710Z",
+      "chartUpdated": "2026-08-03T07:27:37.923329Z"
+    },
     {
       "id": 71176,
       "name": "Extraterrestrial Kobold from the Moon",
@@ -23,7 +155,7 @@
         "Furry",
         "regular"
       ],
-      "rating": 0.8857164,
+      "rating": 0.9054991,
       "ratingCount": 0,
       "created": "2026-08-04T10:56:54.091349Z",
       "updated": "2026-08-05T00:46:19.127416Z",
@@ -51,11 +183,37 @@
         "术力口",
         "regular"
       ],
-      "rating": 0.946492,
+      "rating": 0.94116074,
       "ratingCount": 0,
       "created": "2026-08-04T11:34:29.657043Z",
       "updated": "2026-08-04T22:51:59.109237Z",
       "chartUpdated": "2026-08-04T22:49:25.757201Z"
+    },
+    {
+      "id": 70090,
+      "name": "Lapis",
+      "level": "AT Lv.17",
+      "difficulty": 17.500002,
+      "charter": "SHINING*LEP",
+      "composer": "SHIKI",
+      "illustrator": "",
+      "description": "b站乐普14_0413",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b0588544-df47-4fb2-ba1f-c2c71cff05a0",
+      "preview": "https://phira.5wyxi.com/files/c153c207-bce8-4a88-8b1b-1dded5f3153c",
+      "file": "https://phira.5wyxi.com/files/26b4b35e-16fb-4109-b2cd-5a5f4c247a5c",
+      "uploader": 2186282,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.5332229,
+      "ratingCount": 98,
+      "created": "2026-07-30T06:45:17.352010Z",
+      "updated": "2026-08-04T22:14:12.190246Z",
+      "chartUpdated": "2026-07-30T06:45:17.352010Z"
     },
     {
       "id": 63486,
@@ -79,11 +237,37 @@
         "脑裂",
         "regular"
       ],
-      "rating": 0.8190558,
+      "rating": 0.82716984,
       "ratingCount": 158,
       "created": "2026-07-01T13:28:39.988458Z",
       "updated": "2026-08-04T16:30:25.427476Z",
       "chartUpdated": "2026-07-01T13:28:39.988458Z"
+    },
+    {
+      "id": 71272,
+      "name": "Dream Of The Forest",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "A-Li",
+      "composer": "冰河寒风",
+      "illustrator": "",
+      "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\n_______________________________________________________________\n\n基本信息 // Basic Info\n曲名 // Title :Dream Of The Forest \n曲师 // Composer :冰河寒风\n曲绘 // Artist :AK-ID\n_______________________________________________________________\n\n谱面信息 // Chart Info\n谱师名义 // Level Designer :Li\n难度 // Difficulty :IN Lv.14\n\n特别感谢 // Special Thanks\n录制软件提供 // Record App Support : @不会特效の点缀星空 (RPE Recorder)\n曲绘包装设计 // Illustration Design : @SJR哈\n赛事主办 // Event Host : @克里Crimo\n_______________________________________________________________\n\n额外信息 // Others\n©TGL, 2026 ALL RIGHTS RESERVED\n凌梦杯原创曲目\nb站视频BV1PkMB6qE4a",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/32cae57f-77ff-4cb2-bacc-b1fc7d6f7094",
+      "preview": "https://phira.5wyxi.com/files/dad2147c-683e-4e47-9063-5007cc0dbb5a",
+      "file": "https://phira.5wyxi.com/files/3491855a-b212-4f63-9c64-70209840edea",
+      "uploader": 93670,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.95422745,
+      "ratingCount": 0,
+      "created": "2026-08-04T16:01:06.423979Z",
+      "updated": "2026-08-04T16:01:06.423979Z",
+      "chartUpdated": "2026-08-04T16:01:06.423979Z"
     },
     {
       "id": 71266,
@@ -105,7 +289,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8805696,
+      "rating": 0.9040047,
       "ratingCount": 0,
       "created": "2026-08-04T15:45:00.551429Z",
       "updated": "2026-08-04T15:45:00.551429Z",
@@ -131,7 +315,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83733004,
+      "rating": 0.8589848,
       "ratingCount": 0,
       "created": "2026-08-04T13:21:32.750843Z",
       "updated": "2026-08-04T15:41:28.288131Z",
@@ -157,7 +341,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90239865,
+      "rating": 0.903336,
       "ratingCount": 0,
       "created": "2026-08-04T15:36:51.093444Z",
       "updated": "2026-08-04T15:36:51.093444Z",
@@ -183,37 +367,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95650136,
+      "rating": 0.95010227,
       "ratingCount": 6,
       "created": "2026-08-04T14:26:45.257039Z",
       "updated": "2026-08-04T14:48:21.585374Z",
       "chartUpdated": "2026-08-04T14:26:45.257039Z"
-    },
-    {
-      "id": 71032,
-      "name": "シリーテラー (feat. IA)",
-      "level": "IN Lv.14",
-      "difficulty": 14.900003,
-      "charter": "Lux",
-      "composer": "r-906",
-      "illustrator": "",
-      "description": "谱师本人上传\nB站关注@TeraLux谢谢喵",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/c071f77c-1230-438f-bcae-bcb7962c88b9",
-      "preview": "https://phira.5wyxi.com/files/46112ee3-a665-42a7-be4f-4a864ae955f7",
-      "file": "https://phira.5wyxi.com/files/69b849c3-39c6-45bc-9211-d4f312d30240",
-      "uploader": 408158,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.94396484,
-      "ratingCount": 0,
-      "created": "2026-08-03T15:27:30.812919Z",
-      "updated": "2026-08-04T13:50:51.052653Z",
-      "chartUpdated": "2026-08-03T15:27:30.812919Z"
     },
     {
       "id": 70278,
@@ -235,7 +393,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8750456,
+      "rating": 0.8827122,
       "ratingCount": 162,
       "created": "2026-07-31T05:16:17.293288Z",
       "updated": "2026-08-04T13:03:51.453248Z",
@@ -261,7 +419,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9080516,
+      "rating": 0.90123236,
       "ratingCount": 0,
       "created": "2026-08-04T11:17:44.479989Z",
       "updated": "2026-08-04T12:47:35.650572Z",
@@ -287,7 +445,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9236637,
+      "rating": 0.9039473,
       "ratingCount": 111,
       "created": "2026-08-04T08:40:26.137461Z",
       "updated": "2026-08-04T08:40:26.137461Z",
@@ -313,7 +471,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9109698,
+      "rating": 0.91092163,
       "ratingCount": 378,
       "created": "2026-04-04T16:21:28.776928Z",
       "updated": "2026-08-04T08:14:08.067242Z",
@@ -341,7 +499,7 @@
         "协调",
         "regular"
       ],
-      "rating": 0.9060332,
+      "rating": 0.9126638,
       "ratingCount": 45,
       "created": "2026-07-27T16:20:23.061633Z",
       "updated": "2026-08-04T06:14:03.120476Z",
@@ -367,7 +525,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85702276,
+      "rating": 0.8563765,
       "ratingCount": 598,
       "created": "2026-06-30T15:29:47.930748Z",
       "updated": "2026-08-04T04:04:52.103221Z",
@@ -393,7 +551,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9010419,
+      "rating": 0.8986006,
       "ratingCount": 180,
       "created": "2026-07-31T15:47:51.521330Z",
       "updated": "2026-08-03T15:30:21.807481Z",
@@ -420,7 +578,7 @@
         "shader",
         "regular"
       ],
-      "rating": 0.8945354,
+      "rating": 0.88260925,
       "ratingCount": 159,
       "created": "2026-08-03T14:52:36.022124Z",
       "updated": "2026-08-03T14:52:36.022124Z",
@@ -449,7 +607,7 @@
         "PHIM",
         "regular"
       ],
-      "rating": 0.9088058,
+      "rating": 0.90802187,
       "ratingCount": 53,
       "created": "2026-08-03T10:36:02.545592Z",
       "updated": "2026-08-03T10:36:02.545592Z",
@@ -477,37 +635,11 @@
         "反手",
         "regular"
       ],
-      "rating": 0.9370341,
+      "rating": 0.9318447,
       "ratingCount": 888,
       "created": "2026-07-29T12:36:36.087474Z",
       "updated": "2026-08-03T07:36:50.023970Z",
       "chartUpdated": "2026-07-30T16:04:51.598398Z"
-    },
-    {
-      "id": 70923,
-      "name": "The De[i]fied",
-      "level": "IN Lv.15",
-      "difficulty": 15.4,
-      "charter": "Venvs.",
-      "composer": "ARForest",
-      "illustrator": "",
-      "description": "本人上传\nB站预览视频：\nBV1XtMQ6WE1W",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e85ff57a-6ea9-426a-b032-3ccb94da0eb1",
-      "preview": "https://phira.5wyxi.com/files/6ebd4c3c-6acd-40b0-b3d3-d2307512e989",
-      "file": "https://phira.5wyxi.com/files/e3e7b1a3-3cf0-46e0-9ec5-1135ef8bab1e",
-      "uploader": 423037,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.80552316,
-      "ratingCount": 0,
-      "created": "2026-08-03T07:27:37.923329Z",
-      "updated": "2026-08-03T07:27:37.923329Z",
-      "chartUpdated": "2026-08-03T07:27:37.923329Z"
     },
     {
       "id": 69963,
@@ -529,7 +661,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8561436,
+      "rating": 0.85754997,
       "ratingCount": 726,
       "created": "2026-07-29T13:56:56.332438Z",
       "updated": "2026-08-03T05:25:13.295655Z",
@@ -555,7 +687,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9089817,
+      "rating": 0.9079907,
       "ratingCount": 1582,
       "created": "2026-08-03T05:05:25.291963Z",
       "updated": "2026-08-03T05:05:25.291963Z",
@@ -581,11 +713,37 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9276843,
+      "rating": 0.9264689,
       "ratingCount": 145,
       "created": "2026-08-03T04:57:37.596184Z",
       "updated": "2026-08-03T04:57:37.596184Z",
       "chartUpdated": "2026-08-03T04:57:37.596184Z"
+    },
+    {
+      "id": 70497,
+      "name": "连烦恼也融入天空",
+      "level": "IN Lv.15",
+      "difficulty": 15.300001,
+      "charter": "果林",
+      "composer": "塞壬唱片-MSR",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bc482897-c9b8-45bc-99c4-67fd8b5dd2ae",
+      "preview": "https://phira.5wyxi.com/files/12216dc3-5082-46ee-bdab-596d9cabcfa4",
+      "file": "https://phira.5wyxi.com/files/f81bd3e7-54b2-4e64-98fe-6235f2f12a95",
+      "uploader": 2119640,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.91326237,
+      "ratingCount": 0,
+      "created": "2026-08-01T06:03:46.733031Z",
+      "updated": "2026-08-03T03:45:15.662733Z",
+      "chartUpdated": "2026-08-01T06:03:46.733031Z"
     },
     {
       "id": 70629,
@@ -607,7 +765,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9137967,
+      "rating": 0.9187791,
       "ratingCount": 103,
       "created": "2026-08-01T17:17:33.566200Z",
       "updated": "2026-08-02T13:56:46.133987Z",
@@ -633,170 +791,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9032221,
+      "rating": 0.89957774,
       "ratingCount": 322,
       "created": "2026-08-02T12:24:19.463275Z",
       "updated": "2026-08-02T12:24:19.463275Z",
       "chartUpdated": "2026-08-02T12:24:19.463275Z"
-    },
-    {
-      "id": 64973,
-      "name": "Hypernaid",
-      "level": "AT Lv.16",
-      "difficulty": 16.199999,
-      "charter": "Nyiounaid",
-      "composer": "KATOMORI",
-      "illustrator": "",
-      "description": "四譜，第一次嘗試寫16，寫了盡可能爽的多指配置OwO\n定數：16.2\n物量：1268\nBPM : 150",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/a279e949-6ccf-4c83-88a5-51872b7cea99",
-      "preview": "https://phira.5wyxi.com/files/dbace1f4-f8bb-402b-aacb-5090407e77dd",
-      "file": "https://phira.5wyxi.com/files/3a88d5a3-3f02-4c53-a82b-7b291084f65c",
-      "uploader": 439874,
-      "tags": [
-        "DJMAX",
-        "KATOMORI",
-        "多指",
-        "regular"
-      ],
-      "rating": 0.90358114,
-      "ratingCount": 311,
-      "created": "2026-07-08T10:53:48.087308Z",
-      "updated": "2026-08-02T12:18:26.301874Z",
-      "chartUpdated": "2026-07-08T10:53:48.087308Z"
-    },
-    {
-      "id": 70727,
-      "name": "REINCARNA✝ION!! Idol Graduation",
-      "level": "IN Lv.15",
-      "difficulty": 15.600002,
-      "charter": "✝ERI0NSION!! -See You Nex✝ime-",
-      "composer": "Turbo feat. Moon Jelly",
-      "illustrator": "",
-      "description": "本人上传：https://b23.tv/J7wWohh",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/5f589434-4ee3-4f70-b7b4-dcd4c1a5ef59",
-      "preview": "https://phira.5wyxi.com/files/10327528-6df8-4482-83db-9a38757fffc2",
-      "file": "https://phira.5wyxi.com/files/7cba308a-1af3-4581-bfda-85b50a9829d0",
-      "uploader": 230,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9126049,
-      "ratingCount": 192,
-      "created": "2026-08-02T08:26:47.954508Z",
-      "updated": "2026-08-02T11:34:25.597767Z",
-      "chartUpdated": "2026-08-02T08:26:47.954508Z"
-    },
-    {
-      "id": 70274,
-      "name": "Unraveling Stasis",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "一个木贴awa",
-      "composer": "l'avenir proche",
-      "illustrator": "",
-      "description": "谱人本人上传的\n\n新人初谱，可以在快手支持我呀，名字叫一个木貼awa\n这个谱子雏形在2026年2月就已经有了，后来又磨洋工，4月份改了一下，6月份小小微改一下，7月份又重新检查了一遍，最后到今天才拖到上传\n原曲为游戏Vivid/Stasis第二章魔王曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8d840db4-bfe9-425f-9661-9fceb3391445",
-      "preview": "https://phira.5wyxi.com/files/36d4adc3-2dc0-4c35-9667-f0d569b0c76e",
-      "file": "https://phira.5wyxi.com/files/7c5e44a7-48c1-4bcc-b6be-3d70f75394d1",
-      "uploader": 2930796,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8252141,
-      "ratingCount": 87,
-      "created": "2026-07-31T04:41:25.890601Z",
-      "updated": "2026-08-02T09:08:52.668192Z",
-      "chartUpdated": "2026-07-31T04:41:25.890601Z"
-    },
-    {
-      "id": 70713,
-      "name": "百鬼֎夜行",
-      "level": "IN Lv.16",
-      "difficulty": 16.1,
-      "charter": "XerdouS",
-      "composer": "Salad Saviour",
-      "illustrator": "",
-      "description": "本人上传。\r\n给游音的供谱，初登场于游音月季排位赛第一阶段。\r\n本谱面的大部分内容于2024.6前完成，因为中考荒废了很久，于去年九月份重新开写，在去年12月份大体完成。\r\n真好听啊，就是我怎么这么懒。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7dfeb413-6590-4a03-abc6-4fc58dc164ac",
-      "preview": "https://phira.5wyxi.com/files/a63ec434-f839-429e-b1f9-9544fc621a57",
-      "file": "https://phira.5wyxi.com/files/400d5d60-bd94-44d3-b191-eb9b7d561159",
-      "uploader": 22799,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.862935,
-      "ratingCount": 307,
-      "created": "2026-08-02T07:32:28.169867Z",
-      "updated": "2026-08-02T07:42:36.884064Z",
-      "chartUpdated": "2026-08-02T07:32:28.169867Z"
-    },
-    {
-      "id": 70693,
-      "name": "Particles",
-      "level": "IN Lv.14",
-      "difficulty": 14.0,
-      "charter": "Napy-XZR",
-      "composer": "Xilent",
-      "illustrator": "",
-      "description": "凌梦杯16进8谱面\n【[凌梦杯/phigros自制谱] 你只需要告诉我们真相 Particles IN Lv. 14-哔哩哔哩】 https://b23.tv/GaLax6B\n由谱师本人发布",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d8519559-83e3-4936-b8d7-ed1e632ef253",
-      "preview": "https://phira.5wyxi.com/files/cb98067f-1dbe-4314-a92d-87e701a91552",
-      "file": "https://phira.5wyxi.com/files/c766d8b3-4996-43f3-a65e-0e6962045d4e",
-      "uploader": 26171,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9036719,
-      "ratingCount": 59,
-      "created": "2026-08-02T05:17:10.192969Z",
-      "updated": "2026-08-02T05:17:10.192969Z",
-      "chartUpdated": "2026-08-02T05:17:10.192969Z"
-    },
-    {
-      "id": 70268,
-      "name": "Eschatology",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "qj_1016",
-      "composer": "Tatsh & Scarlette",
-      "illustrator": "",
-      "description": "久 等 哩\nB站:BV1a73a63Evj\n使用@TG铁锅炖大鹅的T-phi Editor\n谱师：qj_1016(我)\n发布手元请@錆䋮_1016\nPs： 本谱含有少量初见杀 部分采音参照Kalpa/Rizline\n\n\n\n喵",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/30dca90c-7bb1-4d21-847c-68a8df304d2d",
-      "preview": "https://phira.5wyxi.com/files/6f02d450-5b3a-4a6f-ae3f-5fb64bf6612c",
-      "file": "https://phira.5wyxi.com/files/06e8f963-9a9e-4b26-8ca9-41185a11ecef",
-      "uploader": 1238019,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9137109,
-      "ratingCount": 145,
-      "created": "2026-07-31T04:02:36.515871Z",
-      "updated": "2026-08-02T02:27:54.942122Z",
-      "chartUpdated": "2026-07-31T04:02:36.515871Z"
     }
   ]
 }
