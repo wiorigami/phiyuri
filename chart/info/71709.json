@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-08-06T14:20:23.819382Z",
+  "charter": "To All UnDIEcided (TAU)",
+  "composer": "Wooden",
+  "created": "2026-08-06T14:20:23.819382Z",
+  "description": "该谱面为 WSRT × 云梦杯 比赛供谱\n首次登场于【沉坠•破晓】八进四胜者组第四场\n\n————————————————————————\n本人上传，b站@NECA_\n处理比较老套，思路这一块选择了和所有之前发布的tau的谱面一致的思路。在这一块说实话我觉得写得没有多标新立异，是件比较可惜的事。\n没怎么写过多指所以配置基本功这一块非常的烂，整张谱的表演啥的其实看下来也就那样，并不对过stb抱有太大的期待，但是万一呢。\n如果出现各种闪现或者速度问题，请确保更新至0.7.0版本并打开谱面设置中的新速度缓动，虽然我们已经做过老版本兼容了。\nThank you for playing,\nSorry for playing.",
+  "difficulty": 17.00001,
+  "file": "https://phira.5wyxi.com/files/c7786115-ada4-4d41-854c-c8c8955184dd",
+  "id": 71709,
+  "illustration": "https://phira.5wyxi.com/files/6f0f7632-8cd7-4b01-8f5b-229204b7086c",
+  "illustrator": "",
+  "level": "AT Lv.17",
+  "name": "τ (tau)",
+  "preview": "https://phira.5wyxi.com/files/0d93f58e-d90e-4a28-83d0-529e4eb21945",
+  "ranked": false,
+  "rating": 0.79201984,
+  "ratingCount": 27,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-06T14:31:50.040189Z",
+  "uploader": 679160
+}

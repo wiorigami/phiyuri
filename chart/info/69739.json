@@ -1,26 +1,26 @@
 {
-  "chartUpdated": "2026-07-28T14:19:26.447225Z",
+  "chartUpdated": "2026-08-06T06:20:06.561088Z",
   "charter": "网好菜菌",
   "composer": "fizzd",
   "created": "2026-07-28T13:56:50.257156Z",
   "description": "WSRT×云梦杯原创谱面\n初次登场于第一轮表演赛\n谱师本人上传\n感谢所有对这张谱面提出过建议和指导的人！",
   "difficulty": 15.400002,
-  "file": "https://phira.5wyxi.com/files/ab37a671-8621-4705-aec6-f1c293a18d66",
+  "file": "https://phira.5wyxi.com/files/19f99e40-da7b-4407-85cb-c4a993b8221a",
   "id": 69739,
-  "illustration": "https://phira.5wyxi.com/files/5cb03e28-6ed7-43f1-8cc8-2338e4d19c80",
+  "illustration": "https://phira.5wyxi.com/files/9d0b68de-829b-4418-a734-f559583c5dd8",
   "illustrator": "",
   "level": "AT Lv.15",
   "name": "超·东方不眠夜",
-  "preview": "https://phira.5wyxi.com/files/580ce230-f8b4-4693-b5d6-c8f6f53eeb81",
+  "preview": "https://phira.5wyxi.com/files/861bc66d-afc9-44dc-9df7-89ff05859f97",
   "ranked": false,
-  "rating": 0.89315593,
-  "ratingCount": 110,
+  "rating": 0.9087088,
+  "ratingCount": 299,
   "reviewed": false,
   "stable": false,
   "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-28T14:19:26.447225Z",
+  "updated": "2026-08-06T06:20:06.561088Z",
   "uploader": 387719
 }
