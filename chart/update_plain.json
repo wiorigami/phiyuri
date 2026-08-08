@@ -1,6 +1,36 @@
 {
-  "count": 3176,
+  "count": 3182,
   "results": [
+    {
+      "id": 71826,
+      "name": "Double Finger Vibro 12 Dan",
+      "level": "DF Vibro-12",
+      "difficulty": 12.0,
+      "charter": "A Fool XJJ520 and Essent1al_",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "本人上传\n欢迎来到双指vibro12dan\n谱面由XJJ(小鸠鸠)与Essent1al_(瀞穗)共同制作\n难度很简单 请大家放心游玩)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4cc2f84b-1c0e-4f13-aeb1-aa473e6ccafa",
+      "preview": "https://phira.5wyxi.com/files/21656b91-c724-475c-8b7a-ee17557c8c80",
+      "file": "https://phira.5wyxi.com/files/cb4240e3-19e0-4691-920f-5916dc49c60c",
+      "uploader": 778863,
+      "tags": [
+        "vibro",
+        "叠",
+        "dfc",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.7699225,
+      "ratingCount": 0,
+      "created": "2026-08-07T08:07:37.254317Z",
+      "updated": "2026-08-07T08:07:37.254317Z",
+      "chartUpdated": "2026-08-07T08:07:37.254317Z"
+    },
     {
       "id": 71527,
       "name": "Double Finger Vibro Vibrlion Dan",
@@ -25,7 +55,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.85685694,
+      "rating": 0.8590553,
       "ratingCount": 0,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -54,7 +84,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8734612,
+      "rating": 0.87685204,
       "ratingCount": 1,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -85,7 +115,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.87264895,
+      "rating": 0.8690016,
       "ratingCount": 0,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -111,7 +141,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8678234,
+      "rating": 0.90660846,
       "ratingCount": 0,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -140,7 +170,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.79664916,
+      "rating": 0.7600512,
       "ratingCount": 0,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -166,11 +196,37 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90413326,
+      "rating": 0.90836006,
       "ratingCount": 101,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
       "chartUpdated": "2026-08-03T03:07:36.277264Z"
+    },
+    {
+      "id": 70630,
+      "name": "You(Extended Trance Mix)",
+      "level": "4K Jack *5.86",
+      "difficulty": 9.799999,
+      "charter": "YMEA",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "用Bot测了下定数\n10dan- 5.86*（不知道准不准）\n5000物量是自己故意控的（主要美观？，）\n后面忘了\n快手 x B站 洋漫YMEA",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e9934ef2-3d28-4c88-83f7-a46753440a58",
+      "preview": "https://phira.5wyxi.com/files/1336c661-2dfe-4be4-a291-584f4c067e62",
+      "file": "https://phira.5wyxi.com/files/44a72f2c-e0d6-4425-9575-82811223dd98",
+      "uploader": 3470464,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-01T17:19:02.929024Z",
+      "updated": "2026-08-01T17:19:02.929024Z",
+      "chartUpdated": "2026-08-01T17:19:02.929024Z"
     },
     {
       "id": 70408,
@@ -192,7 +248,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91234475,
+      "rating": 0.91355515,
       "ratingCount": 427,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -218,7 +274,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93400055,
+      "rating": 0.9324654,
       "ratingCount": 92,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -244,7 +300,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8302307,
+      "rating": 0.8045943,
       "ratingCount": 7,
       "created": "2026-07-30T13:44:17.035292Z",
       "updated": "2026-07-30T13:44:17.035292Z",
@@ -300,7 +356,7 @@
         "jack",
         "plain"
       ],
-      "rating": 0.7855554,
+      "rating": 0.7610573,
       "ratingCount": 7,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
@@ -326,7 +382,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.967117,
+      "rating": 0.9675168,
       "ratingCount": 186,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -352,7 +408,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8899285,
+      "rating": 0.8908495,
       "ratingCount": 406,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -378,7 +434,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92999405,
+      "rating": 0.91984177,
       "ratingCount": 54,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -405,7 +461,7 @@
         "5K",
         "plain"
       ],
-      "rating": 0.92067814,
+      "rating": 0.9228813,
       "ratingCount": 13,
       "created": "2026-07-23T15:22:57.547769Z",
       "updated": "2026-07-29T17:10:00.237954Z",
@@ -431,7 +487,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8726949,
+      "rating": 0.86710227,
       "ratingCount": 72,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -457,7 +513,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89696145,
+      "rating": 0.89828444,
       "ratingCount": 998,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -513,7 +569,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.87459403,
+      "rating": 0.8712326,
       "ratingCount": 171,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -541,7 +597,7 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.89483017,
+      "rating": 0.89923257,
       "ratingCount": 33,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
@@ -567,7 +623,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9647818,
+      "rating": 0.9644365,
       "ratingCount": 329,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
@@ -625,7 +681,7 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.90249634,
+      "rating": 0.90593225,
       "ratingCount": 19,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
@@ -653,7 +709,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7645935,
+      "rating": 0.78759235,
       "ratingCount": 12,
       "created": "2026-07-28T23:03:41.777525Z",
       "updated": "2026-07-28T23:03:41.777525Z",
@@ -680,7 +736,7 @@
         "nana",
         "plain"
       ],
-      "rating": 0.88411814,
+      "rating": 0.8932156,
       "ratingCount": 15,
       "created": "2026-07-28T23:02:45.411256Z",
       "updated": "2026-07-28T23:02:45.411256Z",
@@ -706,7 +762,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9210624,
+      "rating": 0.922666,
       "ratingCount": 188,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
@@ -732,7 +788,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92693824,
+      "rating": 0.93227285,
       "ratingCount": 29,
       "created": "2026-07-28T15:42:21.945309Z",
       "updated": "2026-07-28T15:42:21.945309Z",
@@ -771,64 +827,6 @@
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-28T12:07:50.406122Z",
       "chartUpdated": "2026-07-24T13:21:22.496906Z"
-    },
-    {
-      "id": 69720,
-      "name": "TEC 2026 Host Challenge",
-      "level": "Dan Lv.16",
-      "difficulty": 16.600002,
-      "charter": "Host \"Zenith\"",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本人上传 DRAG 5020/13654\n标准分 97.99\n梦离杯半决赛标杆课题组\n梦离杯详细信息：b站@TEC空城\n双指高难段位，多指谨慎游玩\n\n单曲信息\n\n其一\n曲名：Sphere\n难度：约16.7\n时长：240s\n物量：976/3156\n标准分：97.83%\nBPM：100\nDrag占比：30.93%\nid：#67450\n\n其二\n曲名：At the Speed of Light\n时长：251s\n难度：约16.4\n物量：531/4000\n标准分：97.36%\nBPM：162\nDrag占比：13.28%\nid：#67448\n\n其三\n曲名：Villain Virus\n时长：269s\n难度：约16.5\n物量：3513/6500\n标准分：98.46%\nBPM：260\nDrag占比：54.05%\nid: #68691",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c6a7ad1c-9e51-4e19-9486-9310304ddcf5",
-      "preview": "https://phira.5wyxi.com/files/c7d5db7d-6bf8-4d8f-b0dc-2cf274959116",
-      "file": "https://phira.5wyxi.com/files/82bf0d3e-870f-4a02-b2f0-4e0185c0c6b3",
-      "uploader": 3186030,
-      "tags": [
-        "DFC",
-        "双指",
-        "段位",
-        "梦离杯",
-        "挑战",
-        "半决赛",
-        "plain"
-      ],
-      "rating": 0.74941117,
-      "ratingCount": 3,
-      "created": "2026-07-28T12:07:18.509418Z",
-      "updated": "2026-07-28T12:07:18.509418Z",
-      "chartUpdated": "2026-07-28T12:07:18.509418Z"
-    },
-    {
-      "id": 69701,
-      "name": "죽을 만큼 아파서",
-      "level": "4K Lv.18",
-      "difficulty": 10.0,
-      "charter": "十千秋子（哈基秋）",
-      "composer": "MC梦/Mellow",
-      "illustrator": "",
-      "description": "本人创作，好听就写了，玩的愉快",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2c6d9854-c22f-42f2-80e2-fbcc91dbe14f",
-      "preview": "https://phira.5wyxi.com/files/057cd6a3-cc5c-4506-b53e-683daea213bb",
-      "file": "https://phira.5wyxi.com/files/3b888981-2350-455e-858c-78e6198212e0",
-      "uploader": 57017,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9391097,
-      "ratingCount": 41,
-      "created": "2026-07-28T10:25:28.175334Z",
-      "updated": "2026-07-28T10:25:28.175334Z",
-      "chartUpdated": "2026-07-28T10:25:28.175334Z"
     }
   ]
 }
