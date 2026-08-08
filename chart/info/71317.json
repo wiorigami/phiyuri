@@ -13,14 +13,14 @@
   "name": "PROOF",
   "preview": "https://phira.5wyxi.com/files/b506763d-82cf-4506-b76e-b8286dce636a",
   "ranked": false,
-  "rating": 0.9118078,
-  "ratingCount": 18,
-  "reviewed": true,
+  "rating": 0.9056164,
+  "ratingCount": 199,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-05T01:29:26.106742Z",
+  "updated": "2026-08-07T14:02:00.864064Z",
   "uploader": 2018574
 }

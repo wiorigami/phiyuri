@@ -13,14 +13,14 @@
   "name": "芽吹くとき (TV size)",
   "preview": "https://phira.5wyxi.com/files/41b51df9-e027-43fa-ac4a-a10462f98e11",
   "ranked": false,
-  "rating": 0.94708383,
-  "ratingCount": 212,
-  "reviewed": true,
+  "rating": 0.925979,
+  "ratingCount": 892,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-16T14:11:34.469157Z",
+  "updated": "2026-08-07T16:52:30.237064Z",
   "uploader": 1503
 }
