@@ -13,14 +13,14 @@
   "name": "You(Extended Trance Mix)",
   "preview": "https://phira.5wyxi.com/files/1336c661-2dfe-4be4-a291-584f4c067e62",
   "ranked": false,
-  "rating": null,
-  "ratingCount": 0,
-  "reviewed": true,
+  "rating": 0.840337,
+  "ratingCount": 6,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],
-  "updated": "2026-08-01T17:19:02.929024Z",
+  "updated": "2026-08-08T04:01:14.929874Z",
   "uploader": 3470464
 }

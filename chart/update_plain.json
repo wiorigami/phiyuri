@@ -1,6 +1,32 @@
 {
-  "count": 3182,
+  "count": 3178,
   "results": [
+    {
+      "id": 70630,
+      "name": "You(Extended Trance Mix)",
+      "level": "4K Jack *5.86",
+      "difficulty": 9.799999,
+      "charter": "YMEA",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "用Bot测了下定数\n10dan- 5.86*（不知道准不准）\n5000物量是自己故意控的（主要美观？，）\n后面忘了\n快手 x B站 洋漫YMEA",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/e9934ef2-3d28-4c88-83f7-a46753440a58",
+      "preview": "https://phira.5wyxi.com/files/1336c661-2dfe-4be4-a291-584f4c067e62",
+      "file": "https://phira.5wyxi.com/files/44a72f2c-e0d6-4425-9575-82811223dd98",
+      "uploader": 3470464,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.840337,
+      "ratingCount": 1,
+      "created": "2026-08-01T17:19:02.929024Z",
+      "updated": "2026-08-08T04:01:14.929874Z",
+      "chartUpdated": "2026-08-01T17:19:02.929024Z"
+    },
     {
       "id": 71826,
       "name": "Double Finger Vibro 12 Dan",
@@ -25,7 +51,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7699225,
+      "rating": 0.8081358,
       "ratingCount": 0,
       "created": "2026-08-07T08:07:37.254317Z",
       "updated": "2026-08-07T08:07:37.254317Z",
@@ -55,7 +81,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8590553,
+      "rating": 0.862752,
       "ratingCount": 0,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -84,7 +110,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.87685204,
+      "rating": 0.8744679,
       "ratingCount": 1,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -115,7 +141,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.8690016,
+      "rating": 0.87501615,
       "ratingCount": 0,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -141,7 +167,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90660846,
+      "rating": 0.9246941,
       "ratingCount": 0,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -170,7 +196,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7600512,
+      "rating": 0.7481546,
       "ratingCount": 0,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -196,37 +222,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90836006,
+      "rating": 0.9092426,
       "ratingCount": 101,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
       "chartUpdated": "2026-08-03T03:07:36.277264Z"
-    },
-    {
-      "id": 70630,
-      "name": "You(Extended Trance Mix)",
-      "level": "4K Jack *5.86",
-      "difficulty": 9.799999,
-      "charter": "YMEA",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "用Bot测了下定数\n10dan- 5.86*（不知道准不准）\n5000物量是自己故意控的（主要美观？，）\n后面忘了\n快手 x B站 洋漫YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e9934ef2-3d28-4c88-83f7-a46753440a58",
-      "preview": "https://phira.5wyxi.com/files/1336c661-2dfe-4be4-a291-584f4c067e62",
-      "file": "https://phira.5wyxi.com/files/44a72f2c-e0d6-4425-9575-82811223dd98",
-      "uploader": 3470464,
-      "tags": [
-        "plain"
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "created": "2026-08-01T17:19:02.929024Z",
-      "updated": "2026-08-01T17:19:02.929024Z",
-      "chartUpdated": "2026-08-01T17:19:02.929024Z"
     },
     {
       "id": 70408,
@@ -248,7 +248,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91355515,
+      "rating": 0.91264474,
       "ratingCount": 427,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -274,7 +274,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9324654,
+      "rating": 0.9348494,
       "ratingCount": 92,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -356,7 +356,7 @@
         "jack",
         "plain"
       ],
-      "rating": 0.7610573,
+      "rating": 0.7880284,
       "ratingCount": 7,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
@@ -382,7 +382,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9675168,
+      "rating": 0.9668811,
       "ratingCount": 186,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -408,7 +408,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8908495,
+      "rating": 0.8911207,
       "ratingCount": 406,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -434,7 +434,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91984177,
+      "rating": 0.91690975,
       "ratingCount": 54,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -487,7 +487,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86710227,
+      "rating": 0.8688104,
       "ratingCount": 72,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -513,7 +513,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89828444,
+      "rating": 0.8965339,
       "ratingCount": 998,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -569,7 +569,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8712326,
+      "rating": 0.8722414,
       "ratingCount": 171,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -597,7 +597,7 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.89923257,
+      "rating": 0.9032382,
       "ratingCount": 33,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
@@ -623,7 +623,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9644365,
+      "rating": 0.9641003,
       "ratingCount": 329,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
@@ -651,7 +651,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.87646544,
+      "rating": 0.8808363,
       "ratingCount": 21,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
@@ -681,7 +681,7 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.90593225,
+      "rating": 0.90882945,
       "ratingCount": 19,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
@@ -736,7 +736,7 @@
         "nana",
         "plain"
       ],
-      "rating": 0.8932156,
+      "rating": 0.89725614,
       "ratingCount": 15,
       "created": "2026-07-28T23:02:45.411256Z",
       "updated": "2026-07-28T23:02:45.411256Z",
@@ -762,7 +762,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.922666,
+      "rating": 0.92195827,
       "ratingCount": 188,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
@@ -788,7 +788,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93227285,
+      "rating": 0.9330716,
       "ratingCount": 29,
       "created": "2026-07-28T15:42:21.945309Z",
       "updated": "2026-07-28T15:42:21.945309Z",
@@ -822,7 +822,7 @@
         "黄键",
         "plain"
       ],
-      "rating": 0.9166909,
+      "rating": 0.9188767,
       "ratingCount": 31,
       "created": "2026-07-23T13:08:57.736310Z",
       "updated": "2026-07-28T12:07:50.406122Z",
