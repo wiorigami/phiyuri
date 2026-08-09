@@ -1,6 +1,36 @@
 {
-  "count": 171,
+  "count": 172,
   "results": [
+    {
+      "id": 71940,
+      "name": "Exitium",
+      "level": "猫敗る神罰",
+      "difficulty": 6.9,
+      "charter": "吹风扇的猫败",
+      "composer": "Laur",
+      "illustrator": "",
+      "description": "谱师本人上传\n为了超越rinfall以前的最难谱strong280的难度而写的谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f16be1e8-476a-4a16-bc67-41f78ea01c58",
+      "preview": "https://phira.5wyxi.com/files/283d8db8-04e4-4828-98d9-a18f46718b5b",
+      "file": "https://phira.5wyxi.com/files/5474a693-6206-4293-ab17-76010839ae44",
+      "uploader": 3624172,
+      "tags": [
+        "猫败杯",
+        "无理",
+        "纯配置",
+        "shader",
+        "visual"
+      ],
+      "rating": 0.7128238,
+      "ratingCount": 0,
+      "created": "2026-08-07T16:43:11.037734Z",
+      "updated": "2026-08-07T16:43:11.037734Z",
+      "chartUpdated": "2026-08-07T16:43:11.037734Z"
+    },
     {
       "id": 69558,
       "name": "将军的茶(♪来杯好茶摇一摇♪)",
@@ -21,7 +51,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.92227507,
+      "rating": 0.92153114,
       "ratingCount": 25221,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -52,7 +82,7 @@
         "shader",
         "visual"
       ],
-      "rating": 0.92402005,
+      "rating": 0.92416686,
       "ratingCount": 343,
       "created": "2026-07-25T08:00:27.309312Z",
       "updated": "2026-07-25T08:00:27.309312Z",
@@ -83,7 +113,7 @@
         "shader",
         "visual"
       ],
-      "rating": 0.91747594,
+      "rating": 0.91821784,
       "ratingCount": 337,
       "created": "2026-07-25T08:00:10.937913Z",
       "updated": "2026-07-25T08:00:10.937913Z",
@@ -135,7 +165,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.86495835,
+      "rating": 0.8655831,
       "ratingCount": 127,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
@@ -161,7 +191,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.80898887,
+      "rating": 0.805173,
       "ratingCount": 147,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
@@ -187,7 +217,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87522054,
+      "rating": 0.87048334,
       "ratingCount": 100,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
@@ -213,7 +243,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81888425,
+      "rating": 0.81743515,
       "ratingCount": 293,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -239,7 +269,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88216877,
+      "rating": 0.88160086,
       "ratingCount": 798,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
@@ -349,7 +379,7 @@
         "特效",
         "visual"
       ],
-      "rating": 0.8091846,
+      "rating": 0.809979,
       "ratingCount": 125,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
@@ -375,7 +405,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8147611,
+      "rating": 0.812953,
       "ratingCount": 330,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -403,7 +433,7 @@
         "创意",
         "visual"
       ],
-      "rating": 0.907362,
+      "rating": 0.9073074,
       "ratingCount": 115,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
@@ -432,7 +462,7 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.94374293,
+      "rating": 0.94395536,
       "ratingCount": 714,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
@@ -517,7 +547,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.69569665,
+      "rating": 0.6929922,
       "ratingCount": 630,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -550,7 +580,7 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.87236935,
+      "rating": 0.87293285,
       "ratingCount": 221,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
@@ -628,7 +658,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8093152,
+      "rating": 0.81119686,
       "ratingCount": 130,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -681,7 +711,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9477987,
+      "rating": 0.9479046,
       "ratingCount": 483,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -707,7 +737,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.74433196,
+      "rating": 0.7464555,
       "ratingCount": 346,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -733,7 +763,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8936346,
+      "rating": 0.8924665,
       "ratingCount": 269,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
@@ -790,32 +820,6 @@
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
-    },
-    {
-      "id": 49215,
-      "name": "CX-ronos",
-      "level": "AT Lv.18",
-      "difficulty": 18.2,
-      "charter": "NG-ronos",
-      "composer": "CS4W",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4744f66e-1e4f-4894-90df-0ebceb64a497",
-      "preview": "https://phira.5wyxi.com/files/fb36cf79-7fd9-42c6-8eae-a8d4586f09d1",
-      "file": "https://phira.5wyxi.com/files/13f9870f-8fb9-4574-abeb-b1fd50505b38",
-      "uploader": 1026384,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.9378531,
-      "ratingCount": 147,
-      "created": "2025-11-16T11:01:11.506983Z",
-      "updated": "2025-11-16T11:01:11.506983Z",
-      "chartUpdated": "2025-11-16T11:01:11.506983Z"
     }
   ]
 }
