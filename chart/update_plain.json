@@ -1,6 +1,61 @@
 {
-  "count": 3178,
+  "count": 3179,
   "results": [
+    {
+      "id": 72285,
+      "name": "4K DestEnd Dan v2",
+      "level": "Regular-8",
+      "difficulty": 8.0,
+      "charter": "mengxin/orange",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "DestEnd战队4K普通考核v2\n（v1版本考核将废弃） \n难度（Regular-8） \n入队标准：98.60%\n谱师：mxxmw/orange \n曲绘：Anxiety \n※考核群1046951546",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0a965150-887d-40d1-93c9-b64251b876d9",
+      "preview": "https://phira.5wyxi.com/files/67fc3fad-1a78-4fac-9c0e-16b989862e6c",
+      "file": "https://phira.5wyxi.com/files/40066fdb-12c1-4eb4-a3e3-6feb8433076d",
+      "uploader": 1985191,
+      "tags": [
+        "DestEnd",
+        "4K",
+        "Dan",
+        "plain"
+      ],
+      "rating": 0.8243802,
+      "ratingCount": 0,
+      "created": "2026-08-09T11:40:06.044804Z",
+      "updated": "2026-08-09T11:40:06.044804Z",
+      "chartUpdated": "2026-08-09T11:40:06.044804Z"
+    },
+    {
+      "id": 72163,
+      "name": "KAMISORI",
+      "level": "SP Lv.5",
+      "difficulty": 5.0,
+      "charter": "Ice747",
+      "composer": "Coakira",
+      "illustrator": "",
+      "description": "本人上传\n注意此谱难度有一点高。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e155c765-58e5-4b31-abe4-79724ed11feb",
+      "preview": "https://phira.5wyxi.com/files/ae9388d1-67ff-4f30-bfda-9d9fa599c01f",
+      "file": "https://phira.5wyxi.com/files/d8e6ef99-38d3-4958-8845-880836f98c5a",
+      "uploader": 382081,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8478305,
+      "ratingCount": 0,
+      "created": "2026-08-08T17:38:25.834408Z",
+      "updated": "2026-08-08T17:38:25.834408Z",
+      "chartUpdated": "2026-08-08T17:38:25.834408Z"
+    },
     {
       "id": 70630,
       "name": "You(Extended Trance Mix)",
@@ -21,7 +76,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.840337,
+      "rating": 0.84553653,
       "ratingCount": 1,
       "created": "2026-08-01T17:19:02.929024Z",
       "updated": "2026-08-08T04:01:14.929874Z",
@@ -51,7 +106,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8081358,
+      "rating": 0.8488542,
       "ratingCount": 0,
       "created": "2026-08-07T08:07:37.254317Z",
       "updated": "2026-08-07T08:07:37.254317Z",
@@ -81,7 +136,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.862752,
+      "rating": 0.8691077,
       "ratingCount": 0,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -110,7 +165,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8744679,
+      "rating": 0.8926382,
       "ratingCount": 1,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -141,7 +196,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.87501615,
+      "rating": 0.8751789,
       "ratingCount": 0,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -167,7 +222,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9246941,
+      "rating": 0.9395438,
       "ratingCount": 0,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -196,7 +251,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7481546,
+      "rating": 0.75011426,
       "ratingCount": 0,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -222,7 +277,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9092426,
+      "rating": 0.9099319,
       "ratingCount": 101,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -248,7 +303,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91264474,
+      "rating": 0.91253746,
       "ratingCount": 427,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -274,7 +329,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9348494,
+      "rating": 0.93655133,
       "ratingCount": 92,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -326,7 +381,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89341515,
+      "rating": 0.8983375,
       "ratingCount": 15,
       "created": "2026-07-30T13:44:01.999220Z",
       "updated": "2026-07-30T13:44:01.999220Z",
@@ -356,7 +411,7 @@
         "jack",
         "plain"
       ],
-      "rating": 0.7880284,
+      "rating": 0.794007,
       "ratingCount": 7,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
@@ -382,7 +437,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9668811,
+      "rating": 0.96676624,
       "ratingCount": 186,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -408,7 +463,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8911207,
+      "rating": 0.8885763,
       "ratingCount": 406,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -434,7 +489,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91690975,
+      "rating": 0.91208005,
       "ratingCount": 54,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -461,7 +516,7 @@
         "5K",
         "plain"
       ],
-      "rating": 0.9228813,
+      "rating": 0.9278097,
       "ratingCount": 13,
       "created": "2026-07-23T15:22:57.547769Z",
       "updated": "2026-07-29T17:10:00.237954Z",
@@ -487,7 +542,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8688104,
+      "rating": 0.87561935,
       "ratingCount": 72,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -513,7 +568,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8965339,
+      "rating": 0.8992873,
       "ratingCount": 998,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -569,7 +624,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8722414,
+      "rating": 0.8700871,
       "ratingCount": 171,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -597,7 +652,7 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.9032382,
+      "rating": 0.90536225,
       "ratingCount": 33,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
@@ -623,7 +678,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9641003,
+      "rating": 0.9643545,
       "ratingCount": 329,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
@@ -651,7 +706,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8808363,
+      "rating": 0.88881934,
       "ratingCount": 21,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
@@ -681,7 +736,7 @@
         "ななひら",
         "plain"
       ],
-      "rating": 0.90882945,
+      "rating": 0.9116562,
       "ratingCount": 19,
       "created": "2026-07-28T23:04:49.491786Z",
       "updated": "2026-07-28T23:04:49.491786Z",
@@ -736,7 +791,7 @@
         "nana",
         "plain"
       ],
-      "rating": 0.89725614,
+      "rating": 0.8974955,
       "ratingCount": 15,
       "created": "2026-07-28T23:02:45.411256Z",
       "updated": "2026-07-28T23:02:45.411256Z",
@@ -762,71 +817,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92195827,
+      "rating": 0.92196673,
       "ratingCount": 188,
       "created": "2026-07-28T16:06:19.314415Z",
       "updated": "2026-07-28T16:06:19.314415Z",
       "chartUpdated": "2026-07-28T16:06:19.314415Z"
-    },
-    {
-      "id": 69763,
-      "name": "SINOS DE NATAL FUNK!",
-      "level": "4K Jack Lv.32",
-      "difficulty": 10.0,
-      "charter": "21394",
-      "composer": "YaKio/Wehti/sleepyyer/Medleo/Trispect/broken",
-      "illustrator": "",
-      "description": "来自七草ナズナ666的倾情推荐，也是非常之好听\nbpm130，物量2044，参考难度10dan\n参考键形\n▃ ▃ ▃ ▃\n     ▃      ▃\n▃      ▃ ▃\n     ▃ \n▃ ▃ ▃ ▃\n                ▃     \n▃ ▃ ▃\n     ▃\n▃ ▃ ▃ ▃\n▃      ▃ ▃\n▃ ▃      ▃     \n           ▃\n▃ ▃ ▃ ▃\n▃ ▃      ▃\n     ▃ ▃\n▃\n▃ ▃ ▃ ▃",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9cbc35fc-9198-4365-a921-0da0021f0fc0",
-      "preview": "https://phira.5wyxi.com/files/1b11ce9c-bb31-4320-9a8e-0598794b384a",
-      "file": "https://phira.5wyxi.com/files/5933e666-94bd-481e-bea6-82d9067b3463",
-      "uploader": 158949,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9330716,
-      "ratingCount": 29,
-      "created": "2026-07-28T15:42:21.945309Z",
-      "updated": "2026-07-28T15:42:21.945309Z",
-      "chartUpdated": "2026-07-28T15:42:21.945309Z"
-    },
-    {
-      "id": 68691,
-      "name": "Villain Virus",
-      "level": "Outbreak Lv.16",
-      "difficulty": 16.500002,
-      "charter": "Post \"Mutation\"",
-      "composer": "Kobaryo/かめりあ",
-      "illustrator": "",
-      "description": "本人上传 DRAG 3513/6500\n标准分 98.46\n借鉴了某观赏谱配置…\n梦离杯半决赛标杆其三\n梦离杯详细信息：b站@TEC空城\n双指高难谱面，多指谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a6441deb-b7e8-4227-ba4a-8396d80966f1",
-      "preview": "https://phira.5wyxi.com/files/d5170b8a-af4f-4f0b-9cce-c602dcd71d2e",
-      "file": "https://phira.5wyxi.com/files/27113480-c377-43f4-87cd-c7fee97ee50c",
-      "uploader": 3186030,
-      "tags": [
-        "DFC",
-        "双指",
-        "研究",
-        "切",
-        "技",
-        "位移",
-        "爆发",
-        "黄键",
-        "plain"
-      ],
-      "rating": 0.9188767,
-      "ratingCount": 31,
-      "created": "2026-07-23T13:08:57.736310Z",
-      "updated": "2026-07-28T12:07:50.406122Z",
-      "chartUpdated": "2026-07-24T13:21:22.496906Z"
     }
   ]
 }
