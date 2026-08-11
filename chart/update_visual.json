@@ -25,8 +25,8 @@
         "shader",
         "visual"
       ],
-      "rating": 0.75899154,
-      "ratingCount": 0,
+      "rating": 0.7394836,
+      "ratingCount": 11,
       "created": "2026-08-07T16:43:11.037734Z",
       "updated": "2026-08-07T16:43:11.037734Z",
       "chartUpdated": "2026-08-07T16:43:11.037734Z"
@@ -51,8 +51,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9207999,
-      "ratingCount": 25221,
+      "rating": 0.9202928,
+      "ratingCount": 46199,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
       "chartUpdated": "2026-07-27T16:42:57.962104Z"
@@ -82,8 +82,8 @@
         "shader",
         "visual"
       ],
-      "rating": 0.92383474,
-      "ratingCount": 343,
+      "rating": 0.9238888,
+      "ratingCount": 371,
       "created": "2026-07-25T08:00:27.309312Z",
       "updated": "2026-07-25T08:00:27.309312Z",
       "chartUpdated": "2026-07-25T08:00:27.309312Z"
@@ -113,8 +113,8 @@
         "shader",
         "visual"
       ],
-      "rating": 0.9194927,
-      "ratingCount": 337,
+      "rating": 0.9205102,
+      "ratingCount": 374,
       "created": "2026-07-25T08:00:10.937913Z",
       "updated": "2026-07-25T08:00:10.937913Z",
       "chartUpdated": "2026-07-25T08:00:10.937913Z"
@@ -139,8 +139,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.93774134,
-      "ratingCount": 68,
+      "rating": 0.9385052,
+      "ratingCount": 77,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
       "chartUpdated": "2026-07-12T14:52:02.432223Z"
@@ -165,8 +165,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8651388,
-      "ratingCount": 127,
+      "rating": 0.8653857,
+      "ratingCount": 137,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
       "chartUpdated": "2026-06-20T14:05:15.124654Z"
@@ -191,8 +191,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8013838,
-      "ratingCount": 147,
+      "rating": 0.8027628,
+      "ratingCount": 153,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -218,7 +218,7 @@
         "visual"
       ],
       "rating": 0.87074935,
-      "ratingCount": 100,
+      "ratingCount": 108,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -243,8 +243,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81576926,
-      "ratingCount": 293,
+      "rating": 0.8159924,
+      "ratingCount": 324,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -269,8 +269,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88222986,
-      "ratingCount": 798,
+      "rating": 0.8821266,
+      "ratingCount": 825,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -298,7 +298,7 @@
         "visual"
       ],
       "rating": 0.86619514,
-      "ratingCount": 20,
+      "ratingCount": 21,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-03-03T06:49:21.192811Z",
       "chartUpdated": "2026-03-03T06:49:21.192811Z"
@@ -350,7 +350,7 @@
         "visual"
       ],
       "rating": 0.8744664,
-      "ratingCount": 56,
+      "ratingCount": 57,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
       "chartUpdated": "2026-03-01T05:13:19.479990Z"
@@ -380,7 +380,7 @@
         "visual"
       ],
       "rating": 0.8129053,
-      "ratingCount": 125,
+      "ratingCount": 129,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
       "chartUpdated": "2026-02-14T09:36:44.192161Z"
@@ -405,8 +405,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8146943,
-      "ratingCount": 330,
+      "rating": 0.81469834,
+      "ratingCount": 373,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -434,7 +434,7 @@
         "visual"
       ],
       "rating": 0.90883577,
-      "ratingCount": 115,
+      "ratingCount": 119,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
       "chartUpdated": "2026-02-10T06:56:11.788757Z"
@@ -462,8 +462,8 @@
         "剧情向",
         "visual"
       ],
-      "rating": 0.9444781,
-      "ratingCount": 714,
+      "rating": 0.94522214,
+      "ratingCount": 758,
       "created": "2026-02-12T15:41:59.564920Z",
       "updated": "2026-02-12T15:41:59.564920Z",
       "chartUpdated": "2026-02-12T15:41:59.564920Z"
@@ -519,7 +519,7 @@
         "visual"
       ],
       "rating": 0.88336265,
-      "ratingCount": 25,
+      "ratingCount": 26,
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
@@ -547,8 +547,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.68892777,
-      "ratingCount": 630,
+      "rating": 0.68882936,
+      "ratingCount": 699,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -580,8 +580,8 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.87293285,
-      "ratingCount": 221,
+      "rating": 0.8711252,
+      "ratingCount": 226,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
       "chartUpdated": "2026-01-17T04:43:27.259439Z"
@@ -633,7 +633,7 @@
         "visual"
       ],
       "rating": 0.84021026,
-      "ratingCount": 114,
+      "ratingCount": 117,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
       "chartUpdated": "2026-01-09T15:29:00.998126Z"
@@ -658,8 +658,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81119686,
-      "ratingCount": 130,
+      "rating": 0.8090373,
+      "ratingCount": 144,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -711,8 +711,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.947916,
-      "ratingCount": 483,
+      "rating": 0.94812554,
+      "ratingCount": 497,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
@@ -737,8 +737,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7442912,
-      "ratingCount": 346,
+      "rating": 0.7456807,
+      "ratingCount": 372,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -763,8 +763,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8918735,
-      "ratingCount": 269,
+      "rating": 0.8922728,
+      "ratingCount": 291,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -789,8 +789,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.84726346,
-      "ratingCount": 187,
+      "rating": 0.8471572,
+      "ratingCount": 197,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
       "chartUpdated": "2025-11-28T13:26:52.363537Z"
@@ -816,7 +816,7 @@
         "visual"
       ],
       "rating": 0.9048073,
-      "ratingCount": 57,
+      "ratingCount": 58,
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
