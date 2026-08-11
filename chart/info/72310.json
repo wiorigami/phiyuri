@@ -13,11 +13,11 @@
   "name": "QuomodocunquizE",
   "preview": "https://phira.5wyxi.com/files/55fa71f9-1bda-4e46-a817-4afabf25a682",
   "ranked": false,
-  "rating": 0.9509502,
-  "ratingCount": 38,
-  "reviewed": false,
+  "rating": 0.9455752,
+  "ratingCount": 90,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
