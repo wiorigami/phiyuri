@@ -13,11 +13,11 @@
   "name": "天演论",
   "preview": "https://phira.5wyxi.com/files/99b80d67-750f-421f-8fd6-544dc9defdba",
   "ranked": false,
-  "rating": 0.8398122,
-  "ratingCount": 28,
-  "reviewed": false,
+  "rating": 0.8503642,
+  "ratingCount": 75,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
