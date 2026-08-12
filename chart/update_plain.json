@@ -1,6 +1,32 @@
 {
-  "count": 3179,
+  "count": 3178,
   "results": [
+    {
+      "id": 72480,
+      "name": "回復行動",
+      "level": "4k Lv.57 ε",
+      "difficulty": 57.0,
+      "charter": "元梦之星c纤",
+      "composer": "DJ TECHNORCH",
+      "illustrator": "",
+      "description": "好听，速写ing，难度应该ε",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f6f55a15-ef33-40d4-8d87-c000a921aa77",
+      "preview": "https://phira.5wyxi.com/files/e234123c-2954-4a31-809d-47589febfc8f",
+      "file": "https://phira.5wyxi.com/files/efc2d141-0976-4317-aac2-d7c43b5064e4",
+      "uploader": 556364,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7702763,
+      "ratingCount": 0,
+      "created": "2026-08-10T06:28:22.653455Z",
+      "updated": "2026-08-10T06:28:22.653455Z",
+      "chartUpdated": "2026-08-10T06:28:22.653455Z"
+    },
     {
       "id": 72285,
       "name": "4K DestEnd Dan v2",
@@ -24,7 +50,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8227649,
+      "rating": 0.8331916,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
@@ -50,7 +76,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8779753,
+      "rating": 0.9282524,
       "ratingCount": 0,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-08-09T08:38:32.661075Z",
@@ -76,7 +102,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.870769,
+      "rating": 0.89492923,
       "ratingCount": 7,
       "created": "2026-08-08T17:38:25.834408Z",
       "updated": "2026-08-08T17:38:25.834408Z",
@@ -102,7 +128,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8545219,
+      "rating": 0.8650433,
       "ratingCount": 9,
       "created": "2026-08-01T17:19:02.929024Z",
       "updated": "2026-08-08T04:01:14.929874Z",
@@ -132,7 +158,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.86345243,
+      "rating": 0.85561484,
       "ratingCount": 15,
       "created": "2026-08-07T08:07:37.254317Z",
       "updated": "2026-08-07T08:07:37.254317Z",
@@ -162,7 +188,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8638902,
+      "rating": 0.86471343,
       "ratingCount": 37,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -222,7 +248,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.8743789,
+      "rating": 0.8795741,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -248,7 +274,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.940651,
+      "rating": 0.9427598,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -277,7 +303,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.75086457,
+      "rating": 0.74185264,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -303,7 +329,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9096064,
+      "rating": 0.9112838,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -329,7 +355,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91365004,
+      "rating": 0.9141144,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -355,37 +381,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93697053,
+      "rating": 0.93917847,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
       "chartUpdated": "2026-07-30T16:26:45.170094Z"
-    },
-    {
-      "id": 70172,
-      "name": "F**k You One More Time",
-      "level": "Smog 5 Dan Stream",
-      "difficulty": 5.0000005,
-      "charter": "NoSmoking",
-      "composer": "DJ Mutante",
-      "illustrator": "",
-      "description": "曲名：F**k You One More Time (********)\n曲师：DJ Mutante\n谱师：NoSmoking\n定位：Smog 5.0 Dan Stream\n更多雾段相关内容，进入QQ674638950了解更多\n\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b4e431b0-6111-4520-8ccb-fe1c1a7e1ff8",
-      "preview": "https://phira.5wyxi.com/files/d6d498ee-291f-4e75-a1c5-9d415c4272c1",
-      "file": "https://phira.5wyxi.com/files/e00ab9f8-f3fa-420c-a3b5-a76736d6a2e1",
-      "uploader": 3405853,
-      "tags": [
-        "plain"
-      ],
-      "rating": null,
-      "ratingCount": 0,
-      "created": "2026-07-30T13:44:53.632280Z",
-      "updated": "2026-07-30T13:44:53.632280Z",
-      "chartUpdated": "2026-07-30T13:44:53.632280Z"
     },
     {
       "id": 70171,
@@ -407,7 +407,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82288265,
+      "rating": 0.8372247,
       "ratingCount": 9,
       "created": "2026-07-30T13:44:17.035292Z",
       "updated": "2026-07-30T13:44:17.035292Z",
@@ -433,7 +433,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8983375,
+      "rating": 0.9028348,
       "ratingCount": 17,
       "created": "2026-07-30T13:44:01.999220Z",
       "updated": "2026-07-30T13:44:01.999220Z",
@@ -489,7 +489,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9676075,
+      "rating": 0.96862847,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -515,7 +515,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8890773,
+      "rating": 0.8877074,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -541,7 +541,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9159407,
+      "rating": 0.91567534,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -594,7 +594,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8774236,
+      "rating": 0.87432134,
       "ratingCount": 94,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -620,7 +620,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8990241,
+      "rating": 0.89963967,
       "ratingCount": 1593,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -676,7 +676,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.87079257,
+      "rating": 0.8723467,
       "ratingCount": 220,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -704,7 +704,7 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.9100768,
+      "rating": 0.9063575,
       "ratingCount": 54,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
@@ -730,7 +730,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96188754,
+      "rating": 0.9617131,
       "ratingCount": 502,
       "created": "2026-07-21T07:01:55.792540Z",
       "updated": "2026-07-29T00:01:09.820069Z",
@@ -758,7 +758,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.88881934,
+      "rating": 0.8942679,
       "ratingCount": 35,
       "created": "2026-07-28T23:07:58.787783Z",
       "updated": "2026-07-28T23:07:58.787783Z",
