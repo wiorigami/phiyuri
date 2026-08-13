@@ -1,6 +1,88 @@
 {
-  "count": 3178,
+  "count": 3180,
   "results": [
+    {
+      "id": 73008,
+      "name": "食欲でちゅん 4K Course Dan ~Extra3~",
+      "level": "4K Course~Extra3~",
+      "difficulty": 10.0,
+      "charter": "食欲でちゅん",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "选曲\n[Jack]G e n g a o z o -Noize of Nocent-\n                (155BPM)\n[Tech]flowery_battle_idea.mp3\n                (160BPM)\n[Speed]Phantastic Flowers\n              (154.16BPM)\n[Stream]Infinity\n                (245BPM)\n[Hybrid]大地の閾を探して\n              (160.08BPM)\n--------------------------------------------------\n过段标准\nMalody:无暂C96%\nPhira:排行榜前50且无暂acc98%\n--------------------------------------------------\n原谱获取:QQ群739725214\n这只是一个娱乐考核谱，所以别堆太多pc折磨自己\n好好享受吧！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3761201f-cb72-43bd-9ba9-bca7319a244a",
+      "preview": "https://phira.5wyxi.com/files/557eac07-85ab-44ad-b5dd-232f10850cb4",
+      "file": "https://phira.5wyxi.com/files/54879867-bfcb-4eb4-9931-40b55833387f",
+      "uploader": 42791,
+      "tags": [
+        "4K",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-08-12T15:40:59.565179Z",
+      "updated": "2026-08-12T15:40:59.565179Z",
+      "chartUpdated": "2026-08-12T15:40:59.565179Z"
+    },
+    {
+      "id": 72901,
+      "name": "Flower Rocket",
+      "level": "4K Lv.36",
+      "difficulty": 20.0,
+      "charter": "Deception（15th）",
+      "composer": "Plum",
+      "illustrator": "",
+      "description": "此谱为生贺作，祝语柒15岁生日快乐\n@shaowu#1597616（封面制作）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/95fbaa68-5c9a-44b6-a0f9-b16b1d3271f5",
+      "preview": "https://phira.5wyxi.com/files/a667241e-f451-4c33-a45e-893afefb9e0b",
+      "file": "https://phira.5wyxi.com/files/846167ab-1d9e-47e0-ba7a-8c8245712802",
+      "uploader": 1271181,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.67439383,
+      "ratingCount": 0,
+      "created": "2026-08-12T06:51:43.295868Z",
+      "updated": "2026-08-12T06:52:35.391610Z",
+      "chartUpdated": "2026-08-12T06:51:43.295868Z"
+    },
+    {
+      "id": 72775,
+      "name": "キズアト[BPM*1.08]",
+      "level": "DF Vibro",
+      "difficulty": 8.099999,
+      "charter": "はなのものがたり",
+      "composer": "REDALiCE feat.a☆ru",
+      "illustrator": "",
+      "description": "キズアト[BPM*1.08]\nREDALiCE feat.a☆ru\nはなのものがたり\nBPM:186.84 Length:3:06\nDouble Finger Vibro",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/11a80163-5313-4e64-a587-86754e589ac7",
+      "preview": "https://phira.5wyxi.com/files/0095d0ad-9d92-4f9b-8ae1-4490f350893a",
+      "file": "https://phira.5wyxi.com/files/a1607d28-e88c-4650-9d8a-43d059d62f21",
+      "uploader": 3747921,
+      "tags": [
+        "dfc",
+        "vibro",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.7673822,
+      "ratingCount": 0,
+      "created": "2026-08-11T14:06:01.409479Z",
+      "updated": "2026-08-11T14:06:01.409479Z",
+      "chartUpdated": "2026-08-11T14:06:01.409479Z"
+    },
     {
       "id": 72480,
       "name": "回復行動",
@@ -21,7 +103,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7702763,
+      "rating": 0.8258486,
       "ratingCount": 0,
       "created": "2026-08-10T06:28:22.653455Z",
       "updated": "2026-08-10T06:28:22.653455Z",
@@ -50,7 +132,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8331916,
+      "rating": 0.8345901,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
@@ -76,7 +158,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9282524,
+      "rating": 0.9231794,
       "ratingCount": 0,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-08-09T08:38:32.661075Z",
@@ -107,6 +189,34 @@
       "created": "2026-08-08T17:38:25.834408Z",
       "updated": "2026-08-08T17:38:25.834408Z",
       "chartUpdated": "2026-08-08T17:38:25.834408Z"
+    },
+    {
+      "id": 72028,
+      "name": "Decoy[Cut Ver.]",
+      "level": "Stream Lv.11",
+      "difficulty": 11.0,
+      "charter": "qwpp",
+      "composer": "Yooh",
+      "illustrator": "",
+      "description": "BPM:180\n边缘=96.33% 过段=97.80%\n后光=98.90% 击破=99.63%\n@qwpp#296720",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/29a3068c-3083-45ba-b0e7-137d9bdab082",
+      "preview": "https://phira.5wyxi.com/files/d33f290c-7078-473e-9f7f-6a5900f2bde0",
+      "file": "https://phira.5wyxi.com/files/b6762c73-3980-4815-bd59-93dd3e21af28",
+      "uploader": 2112238,
+      "tags": [
+        "dfc",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.7840579,
+      "ratingCount": 0,
+      "created": "2026-08-08T05:56:20.515023Z",
+      "updated": "2026-08-08T05:57:41.448296Z",
+      "chartUpdated": "2026-08-08T05:56:20.515023Z"
     },
     {
       "id": 70630,
@@ -248,7 +358,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.8795741,
+      "rating": 0.88111,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -274,7 +384,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9427598,
+      "rating": 0.9465662,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -303,7 +413,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.74185264,
+      "rating": 0.7386915,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -329,7 +439,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9112838,
+      "rating": 0.91266376,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -355,7 +465,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9141144,
+      "rating": 0.9143453,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -381,7 +491,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93917847,
+      "rating": 0.93950105,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -489,7 +599,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96862847,
+      "rating": 0.9668586,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -515,7 +625,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8877074,
+      "rating": 0.8878638,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -541,7 +651,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91567534,
+      "rating": 0.9129774,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -594,7 +704,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87432134,
+      "rating": 0.8745691,
       "ratingCount": 94,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -620,7 +730,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89963967,
+      "rating": 0.89998394,
       "ratingCount": 1593,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -649,7 +759,7 @@
         "zeta",
         "plain"
       ],
-      "rating": 0.88236207,
+      "rating": 0.889727,
       "ratingCount": 10,
       "created": "2026-07-29T09:34:00.914001Z",
       "updated": "2026-07-29T09:34:00.914001Z",
@@ -676,7 +786,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8723467,
+      "rating": 0.87581223,
       "ratingCount": 220,
       "created": "2026-07-29T04:03:30.873530Z",
       "updated": "2026-07-29T04:03:30.873530Z",
@@ -704,123 +814,11 @@
         "VZ",
         "plain"
       ],
-      "rating": 0.9063575,
+      "rating": 0.9077032,
       "ratingCount": 54,
       "created": "2026-07-29T01:12:33.501099Z",
       "updated": "2026-07-29T01:12:33.501099Z",
       "chartUpdated": "2026-07-29T01:12:33.501099Z"
-    },
-    {
-      "id": 68145,
-      "name": "バカみたいに",
-      "level": "4K Hard Lv.21",
-      "difficulty": 10.0,
-      "charter": "YMEA",
-      "composer": "カササギ（柿崎ユウタ）",
-      "illustrator": "",
-      "description": "写的算是比较用心的一首\n用时一天，后面忘了\n快手xDY 洋漫YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1f5c38a0-ba66-490c-bae6-fe9555f8353e",
-      "preview": "https://phira.5wyxi.com/files/2f059c58-31dc-4e34-8c5c-01feb13104cd",
-      "file": "https://phira.5wyxi.com/files/7a01a03b-cd33-46ac-9717-1f776c1edc03",
-      "uploader": 3105513,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9617131,
-      "ratingCount": 502,
-      "created": "2026-07-21T07:01:55.792540Z",
-      "updated": "2026-07-29T00:01:09.820069Z",
-      "chartUpdated": "2026-07-21T07:01:55.792540Z"
-    },
-    {
-      "id": 69805,
-      "name": "VALKYRIE ASSAULT",
-      "level": "IN  Lv.16",
-      "difficulty": 16.400002,
-      "charter": "一般路过派尔姆猫",
-      "composer": "佐藤俊介",
-      "illustrator": "",
-      "description": "谱师B站:派尔姆猫\n曲绘:使用了了可漏大佬的抠图模板。原作（Chloe modified）\n借鉴了一般路过多指玩家的谱面思路",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c6fcde79-2bb3-4b46-8513-e90e52b0bd08",
-      "preview": "https://phira.5wyxi.com/files/40eda4f1-9995-4bd2-8d7a-054a5d2f7d63",
-      "file": "https://phira.5wyxi.com/files/8c1b8282-764e-4cb6-bd5e-d8e012cdc3c4",
-      "uploader": 3353210,
-      "tags": [
-        "sdvx",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.8942679,
-      "ratingCount": 35,
-      "created": "2026-07-28T23:07:58.787783Z",
-      "updated": "2026-07-28T23:07:58.787783Z",
-      "chartUpdated": "2026-07-28T23:07:58.787783Z"
-    },
-    {
-      "id": 69804,
-      "name": "まみむめ まるっと まっしゅるーむ",
-      "level": "IN  Lv.16",
-      "difficulty": 16.500004,
-      "charter": "派尔姆猫",
-      "composer": "かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\"",
-      "illustrator": "",
-      "description": "谱师B站:派尔姆猫\n曲绘:使用了了可漏大佬的抠图模板。原作（Chloe modified）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/de42ed02-9940-446c-8d95-55e953b66813",
-      "preview": "https://phira.5wyxi.com/files/3fec2cbd-5cbb-4b18-b05d-4852f655efed",
-      "file": "https://phira.5wyxi.com/files/8a6dfdaa-ed5f-4815-8647-c14f9b08b2d1",
-      "uploader": 3353210,
-      "tags": [
-        "sdvx",
-        "蘑菇",
-        "camellia",
-        "ななひら",
-        "plain"
-      ],
-      "rating": 0.91612285,
-      "ratingCount": 30,
-      "created": "2026-07-28T23:04:49.491786Z",
-      "updated": "2026-07-28T23:04:49.491786Z",
-      "chartUpdated": "2026-07-28T23:04:49.491786Z"
-    },
-    {
-      "id": 69803,
-      "name": "iLLness LiLin",
-      "level": "AT  Lv.17",
-      "difficulty": 17.4,
-      "charter": "派尔姆猫",
-      "composer": "かねこちはる",
-      "illustrator": "",
-      "description": "谱师B站:派尔姆猫\n曲绘:使用了了可漏大佬的抠图模板。原作（Chloe modified）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/024f1df0-7b10-457f-90f9-46e248d93164",
-      "preview": "https://phira.5wyxi.com/files/292e2f64-3f73-4047-8ec2-1f75ed30da52",
-      "file": "https://phira.5wyxi.com/files/4eafa7be-2eb2-4774-91d3-86318ac6e878",
-      "uploader": 3353210,
-      "tags": [
-        "sdvx",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.7975001,
-      "ratingCount": 16,
-      "created": "2026-07-28T23:03:41.777525Z",
-      "updated": "2026-07-28T23:03:41.777525Z",
-      "chartUpdated": "2026-07-28T23:03:41.777525Z"
     }
   ]
 }
