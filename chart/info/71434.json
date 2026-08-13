@@ -13,11 +13,11 @@
   "name": "STARGAZERS",
   "preview": "https://phira.5wyxi.com/files/940988bf-0707-4fb5-bcbb-0eeefa65bc03",
   "ranked": false,
-  "rating": 0.9094975,
-  "ratingCount": 144,
-  "reviewed": false,
+  "rating": 0.9074659,
+  "ratingCount": 166,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
