@@ -13,11 +13,11 @@
   "name": "ヤラララ",
   "preview": "https://phira.5wyxi.com/files/9c08d7c9-59ee-448f-8935-854e622a34d2",
   "ranked": false,
-  "rating": 0.93295974,
-  "ratingCount": 1110,
-  "reviewed": true,
+  "rating": 0.9237392,
+  "ratingCount": 7911,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "术力口",
     "重音",
@@ -28,6 +28,6 @@
     "i",
     "regular"
   ],
-  "updated": "2026-06-30T07:41:11.564426Z",
+  "updated": "2026-08-13T17:06:36.383037Z",
   "uploader": 625600
 }

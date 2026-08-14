@@ -13,14 +13,14 @@
   "name": "スプリットダンス",
   "preview": "https://phira.5wyxi.com/files/6e306092-3392-4480-870f-3b42b8f8af6a",
   "ranked": false,
-  "rating": 0.92412174,
-  "ratingCount": 179,
-  "reviewed": true,
+  "rating": 0.92395574,
+  "ratingCount": 460,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-12T14:03:14.880507Z",
+  "updated": "2026-08-13T04:08:29.082586Z",
   "uploader": 1753887
 }
