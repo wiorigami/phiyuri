@@ -1,6 +1,35 @@
 {
-  "count": 3180,
+  "count": 3181,
   "results": [
+    {
+      "id": 73157,
+      "name": "A Fool Moon Night(1.5x)",
+      "level": "DF Vibro-Control",
+      "difficulty": 12.0,
+      "charter": "A Fool Essent1al_",
+      "composer": "The Koxx",
+      "illustrator": "",
+      "description": "本人上传\nbpm207，double finger vibro控制谱(dfv12dan控制加强)\n欢迎大家加入DFV主群与我们一起讨论:780220024",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0896c6ed-5a86-4b75-8107-0b79ae29d162",
+      "preview": "https://phira.5wyxi.com/files/d4b7a304-7ba1-42f7-a407-04a126eb48bf",
+      "file": "https://phira.5wyxi.com/files/c48ecc19-a1ad-456b-b0ad-828621eeccb7",
+      "uploader": 1804149,
+      "tags": [
+        "dfv",
+        "vibro",
+        "dfc",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-08-13T12:17:49.291638Z",
+      "updated": "2026-08-13T12:17:49.291638Z",
+      "chartUpdated": "2026-08-13T12:17:49.291638Z"
+    },
     {
       "id": 73008,
       "name": "食欲でちゅん 4K Course Dan ~Extra3~",
@@ -22,7 +51,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.8268626,
       "ratingCount": 0,
       "created": "2026-08-12T15:40:59.565179Z",
       "updated": "2026-08-12T15:40:59.565179Z",
@@ -48,7 +77,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.67439383,
+      "rating": 0.84523296,
       "ratingCount": 0,
       "created": "2026-08-12T06:51:43.295868Z",
       "updated": "2026-08-12T06:52:35.391610Z",
@@ -77,11 +106,37 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7673822,
+      "rating": 0.8111976,
       "ratingCount": 0,
       "created": "2026-08-11T14:06:01.409479Z",
       "updated": "2026-08-11T14:06:01.409479Z",
       "chartUpdated": "2026-08-11T14:06:01.409479Z"
+    },
+    {
+      "id": 72657,
+      "name": "Intro (Origin of Alpharise)",
+      "level": "6k Lv.26 [15+]",
+      "difficulty": 15.0,
+      "charter": "ColdSnow",
+      "composer": "BlackY",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d0e81cc9-ce28-456a-83fe-b56a8e153779",
+      "preview": "https://phira.5wyxi.com/files/73442f6a-e6f4-4174-ae61-82e893dd50d9",
+      "file": "https://phira.5wyxi.com/files/03b098c1-4e16-45cd-b848-26ac31d476f4",
+      "uploader": 2420,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-08-11T04:40:34.256621Z",
+      "updated": "2026-08-11T04:40:34.256621Z",
+      "chartUpdated": "2026-08-11T04:40:34.256621Z"
     },
     {
       "id": 72480,
@@ -103,7 +158,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8258486,
+      "rating": 0.7710494,
       "ratingCount": 0,
       "created": "2026-08-10T06:28:22.653455Z",
       "updated": "2026-08-10T06:28:22.653455Z",
@@ -132,7 +187,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8345901,
+      "rating": 0.84025717,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
@@ -158,7 +213,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9231794,
+      "rating": 0.9146962,
       "ratingCount": 0,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-08-09T08:38:32.661075Z",
@@ -212,7 +267,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.7840579,
+      "rating": 0.77716213,
       "ratingCount": 0,
       "created": "2026-08-08T05:56:20.515023Z",
       "updated": "2026-08-08T05:57:41.448296Z",
@@ -238,7 +293,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8650433,
+      "rating": 0.87260044,
       "ratingCount": 9,
       "created": "2026-08-01T17:19:02.929024Z",
       "updated": "2026-08-08T04:01:14.929874Z",
@@ -298,7 +353,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.86471343,
+      "rating": 0.85368603,
       "ratingCount": 37,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -327,7 +382,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.89971364,
+      "rating": 0.90181994,
       "ratingCount": 41,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -358,7 +413,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.88111,
+      "rating": 0.88271487,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -384,7 +439,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9465662,
+      "rating": 0.95142806,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -413,7 +468,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7386915,
+      "rating": 0.73895043,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -439,7 +494,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91266376,
+      "rating": 0.9129551,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -465,7 +520,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9143453,
+      "rating": 0.9146467,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -491,7 +546,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93950105,
+      "rating": 0.9388922,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -517,7 +572,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8372247,
+      "rating": 0.8459055,
       "ratingCount": 9,
       "created": "2026-07-30T13:44:17.035292Z",
       "updated": "2026-07-30T13:44:17.035292Z",
@@ -573,7 +628,7 @@
         "jack",
         "plain"
       ],
-      "rating": 0.794007,
+      "rating": 0.80451214,
       "ratingCount": 14,
       "created": "2026-07-30T10:52:12.818420Z",
       "updated": "2026-07-30T10:52:12.818420Z",
@@ -599,7 +654,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9668586,
+      "rating": 0.9680284,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -625,7 +680,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8878638,
+      "rating": 0.8884096,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -651,7 +706,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9129774,
+      "rating": 0.9114213,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
@@ -704,7 +759,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8745691,
+      "rating": 0.8726627,
       "ratingCount": 94,
       "created": "2026-07-29T15:47:29.827962Z",
       "updated": "2026-07-29T15:47:29.827962Z",
@@ -730,7 +785,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89998394,
+      "rating": 0.89990246,
       "ratingCount": 1593,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-07-29T14:17:22.623193Z",
@@ -764,61 +819,6 @@
       "created": "2026-07-29T09:34:00.914001Z",
       "updated": "2026-07-29T09:34:00.914001Z",
       "chartUpdated": "2026-07-29T09:34:00.914001Z"
-    },
-    {
-      "id": 69841,
-      "name": "raputa",
-      "level": "4k Lv.32",
-      "difficulty": 10.0,
-      "charter": "VivaceZoo201232",
-      "composer": "sasakura.UK vs. TJ.hangneil",
-      "illustrator": "",
-      "description": "------------------------------------------------\n本人上传\n谱师：VivaceZoo201232\n------------------------------------------------",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f4c59e4e-476e-4a7f-9458-b56f49335969",
-      "preview": "https://phira.5wyxi.com/files/00b3bce9-be2c-4d0f-8d93-11fcd0f7a3a2",
-      "file": "https://phira.5wyxi.com/files/08c29c41-0a4c-4180-9b92-f9ca9d0b908d",
-      "uploader": 276206,
-      "tags": [
-        "4k",
-        "plain"
-      ],
-      "rating": 0.87581223,
-      "ratingCount": 220,
-      "created": "2026-07-29T04:03:30.873530Z",
-      "updated": "2026-07-29T04:03:30.873530Z",
-      "chartUpdated": "2026-07-29T04:03:30.873530Z"
-    },
-    {
-      "id": 69815,
-      "name": "雷切-RAIKIRI-",
-      "level": "4k Lv.26",
-      "difficulty": 10.0,
-      "charter": "Mikitsu_Yoda & SIaUS",
-      "composer": "kanone",
-      "illustrator": "",
-      "description": "本人上传\n谱师：Mikitsu_Yodao\n@SIaUS#617417",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e5a68356-c4a5-4e89-8271-9be019473346",
-      "preview": "https://phira.5wyxi.com/files/d9c96180-4a09-4c13-84f0-59df6f7cadec",
-      "file": "https://phira.5wyxi.com/files/cb0a7247-941d-430c-b3e7-ebae0d3c26c5",
-      "uploader": 2903201,
-      "tags": [
-        "4k",
-        "VZ",
-        "plain"
-      ],
-      "rating": 0.9077032,
-      "ratingCount": 54,
-      "created": "2026-07-29T01:12:33.501099Z",
-      "updated": "2026-07-29T01:12:33.501099Z",
-      "chartUpdated": "2026-07-29T01:12:33.501099Z"
     }
   ]
 }
