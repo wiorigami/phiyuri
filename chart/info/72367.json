@@ -13,14 +13,14 @@
   "name": "バカみたいに",
   "preview": "https://phira.5wyxi.com/files/a93569e8-4b74-4132-a9b8-e8eb3dba5e34",
   "ranked": false,
-  "rating": 0.92758363,
-  "ratingCount": 3566,
-  "reviewed": true,
+  "rating": 0.9275026,
+  "ratingCount": 14171,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-09T18:01:34.950359Z",
+  "updated": "2026-08-14T08:12:45.345130Z",
   "uploader": 2154451
 }
