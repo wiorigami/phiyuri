@@ -1,6 +1,64 @@
 {
-  "count": 3181,
+  "count": 3185,
   "results": [
+    {
+      "id": 73392,
+      "name": "Double Finger Vibro Upsilon Dan",
+      "level": "DF Vibro-Upsilon",
+      "difficulty": 13.0,
+      "charter": "XJJ520&Essent1al_",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "本人上传\n欢迎来到DFV-Upsilon Dan，这张谱由XJJ与Essent1al_共同制作，难度非常友好)\n同时欢迎您加入我们的DFV讨论群:780220024",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/42796e10-e13c-4af5-8bdd-02cffe261f90",
+      "preview": "https://phira.5wyxi.com/files/ba0ae526-62b5-4d42-8992-8097239eee2e",
+      "file": "https://phira.5wyxi.com/files/cd7227c0-1b82-47b7-9eb5-9cdcf8a37ac4",
+      "uploader": 1789711,
+      "tags": [
+        "dfv",
+        "vibro",
+        "dfc",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-08-14T14:00:12.245839Z",
+      "updated": "2026-08-14T14:00:12.245839Z",
+      "chartUpdated": "2026-08-14T14:00:12.245839Z"
+    },
+    {
+      "id": 73332,
+      "name": "Exitium(tpz Despair Remix)",
+      "level": "AT Lv.18",
+      "difficulty": 18.900002,
+      "charter": "Nosmoking",
+      "composer": "Laur/t+pazolite",
+      "illustrator": "",
+      "description": "谱面简介\n曲目：Exitium(tpz Despair Remix)\n曲师：Laur/t+pazolite\n谱师：NoSmoking\n难度：18.9～19.1\n\n此谱面为Source Of Sound战队精英键盘考核用谱\n通过标准为：98.2%\n［审］战队群：1076662686\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7c7e1020-66ea-4077-84d4-6553e2d5c2c3",
+      "preview": "https://phira.5wyxi.com/files/4815a7b8-74e2-4625-b4de-6d0608d866a7",
+      "file": "https://phira.5wyxi.com/files/6cfdbd9b-62f5-45f0-86ce-27aeeb59d8b1",
+      "uploader": 1382487,
+      "tags": [
+        "键盘",
+        "高难",
+        "SOS",
+        "plain"
+      ],
+      "rating": 0.8217826,
+      "ratingCount": 1,
+      "created": "2026-08-14T10:14:34.969201Z",
+      "updated": "2026-08-14T10:14:34.969201Z",
+      "chartUpdated": "2026-08-14T10:14:34.969201Z"
+    },
     {
       "id": 73157,
       "name": "A Fool Moon Night(1.5x)",
@@ -24,11 +82,37 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8091634,
       "ratingCount": 0,
       "created": "2026-08-13T12:17:49.291638Z",
       "updated": "2026-08-13T12:17:49.291638Z",
       "chartUpdated": "2026-08-13T12:17:49.291638Z"
+    },
+    {
+      "id": 73134,
+      "name": "終の舞姫 ",
+      "level": "2β",
+      "difficulty": 18.999996,
+      "charter": "betrix",
+      "composer": "Se-U-Ra",
+      "illustrator": "",
+      "description": "高难新作",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/83b207ee-96de-4ad3-8dc5-053147cca4d6",
+      "preview": "https://phira.5wyxi.com/files/ceab272b-64fb-4856-8664-c526d478ed8c",
+      "file": "https://phira.5wyxi.com/files/89fc5381-f8af-462d-97e2-555b155bce5b",
+      "uploader": 2035,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.6957476,
+      "ratingCount": 0,
+      "created": "2026-08-13T09:13:14.248374Z",
+      "updated": "2026-08-13T09:13:14.248374Z",
+      "chartUpdated": "2026-08-13T09:13:14.248374Z"
     },
     {
       "id": 73008,
@@ -51,7 +135,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.8268626,
+      "rating": 0.8259278,
       "ratingCount": 0,
       "created": "2026-08-12T15:40:59.565179Z",
       "updated": "2026-08-12T15:40:59.565179Z",
@@ -77,7 +161,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84523296,
+      "rating": 0.84869725,
       "ratingCount": 0,
       "created": "2026-08-12T06:51:43.295868Z",
       "updated": "2026-08-12T06:52:35.391610Z",
@@ -106,7 +190,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8111976,
+      "rating": 0.83238864,
       "ratingCount": 0,
       "created": "2026-08-11T14:06:01.409479Z",
       "updated": "2026-08-11T14:06:01.409479Z",
@@ -132,11 +216,38 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.7702763,
       "ratingCount": 0,
       "created": "2026-08-11T04:40:34.256621Z",
       "updated": "2026-08-11T04:40:34.256621Z",
       "chartUpdated": "2026-08-11T04:40:34.256621Z"
+    },
+    {
+      "id": 72612,
+      "name": "Luminous Memory (Hexacube's OVERSHINE Remix)",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "「OVERNOVA」",
+      "composer": "Hexacube",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/efc4dedc-c03f-49f8-8480-507f1e70e2fb",
+      "preview": "https://phira.5wyxi.com/files/8317f502-488d-4f2b-9de5-8bc91c32caf0",
+      "file": "https://phira.5wyxi.com/files/bc2f1d14-46ce-476b-8184-e4e1a187ab56",
+      "uploader": 1093915,
+      "tags": [
+        "AT18",
+        "plain"
+      ],
+      "rating": 0.80813146,
+      "ratingCount": 0,
+      "created": "2026-08-10T18:53:13.660464Z",
+      "updated": "2026-08-10T18:53:13.660464Z",
+      "chartUpdated": "2026-08-10T18:53:13.660464Z"
     },
     {
       "id": 72480,
@@ -187,7 +298,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.84025717,
+      "rating": 0.85123205,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
@@ -213,7 +324,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9146962,
+      "rating": 0.91074973,
       "ratingCount": 0,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-08-09T08:38:32.661075Z",
@@ -267,7 +378,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.77716213,
+      "rating": 0.80339104,
       "ratingCount": 0,
       "created": "2026-08-08T05:56:20.515023Z",
       "updated": "2026-08-08T05:57:41.448296Z",
@@ -293,7 +404,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87260044,
+      "rating": 0.8793752,
       "ratingCount": 9,
       "created": "2026-08-01T17:19:02.929024Z",
       "updated": "2026-08-08T04:01:14.929874Z",
@@ -353,7 +464,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.85368603,
+      "rating": 0.85682607,
       "ratingCount": 37,
       "created": "2026-08-05T19:22:02.173981Z",
       "updated": "2026-08-05T19:22:02.173981Z",
@@ -382,7 +493,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.90181994,
+      "rating": 0.90379155,
       "ratingCount": 41,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -413,7 +524,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.88271487,
+      "rating": 0.8842611,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -439,7 +550,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95142806,
+      "rating": 0.95286125,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -468,7 +579,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.73895043,
+      "rating": 0.74140954,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -494,7 +605,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9129551,
+      "rating": 0.91256326,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -520,7 +631,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9146467,
+      "rating": 0.9149734,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -546,7 +657,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9388922,
+      "rating": 0.93964624,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -654,7 +765,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9680284,
+      "rating": 0.96831584,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -680,7 +791,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8884096,
+      "rating": 0.88867426,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -706,119 +817,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9114213,
+      "rating": 0.9114886,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
       "chartUpdated": "2026-07-29T23:37:40.348156Z"
-    },
-    {
-      "id": 68726,
-      "name": "STARDUST",
-      "level": "5K Lv.7dan tech",
-      "difficulty": 7.0,
-      "charter": "E_Rizon",
-      "composer": "Riya",
-      "illustrator": "",
-      "description": "5k 7tech\n中高难5k\n感谢Pal，Tuye，LegitIX的测试与修改意见",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/472ab7ab-8cce-4f03-bf49-f1ea734aa5e1",
-      "preview": "https://phira.5wyxi.com/files/24fb8e9d-a2a3-4404-9cb7-ca4d5caebb34",
-      "file": "https://phira.5wyxi.com/files/f51d1560-9a65-4995-ac35-c0c6a99670f6",
-      "uploader": 21375,
-      "tags": [
-        "5K",
-        "plain"
-      ],
-      "rating": 0.9278097,
-      "ratingCount": 27,
-      "created": "2026-07-23T15:22:57.547769Z",
-      "updated": "2026-07-29T17:10:00.237954Z",
-      "chartUpdated": "2026-07-23T15:22:57.547769Z"
-    },
-    {
-      "id": 70001,
-      "name": "Metaphor",
-      "level": "4K Normal Lv.30",
-      "difficulty": 30.0,
-      "charter": "N_neo",
-      "composer": "ichika Nito/Feryquitous",
-      "illustrator": "",
-      "description": "本期由 @娄华风流 定制\n\n谱师本人上传，非转谱。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b7af314b-14a8-4573-8cc1-985ab54f61b4",
-      "preview": "https://phira.5wyxi.com/files/477d8261-37c5-4ae0-9e58-5faff1323923",
-      "file": "https://phira.5wyxi.com/files/5d2936eb-5b7c-488e-95f5-ea3cef9280c8",
-      "uploader": 1142877,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8726627,
-      "ratingCount": 94,
-      "created": "2026-07-29T15:47:29.827962Z",
-      "updated": "2026-07-29T15:47:29.827962Z",
-      "chartUpdated": "2026-07-29T15:47:29.827962Z"
-    },
-    {
-      "id": 69969,
-      "name": "Βг@!Nïaç ▲▲αN1aс (虽华 remix)Plants vs. Zombies",
-      "level": "4k IN Lv.21",
-      "difficulty": 20.0,
-      "charter": "tankcatcat",
-      "composer": "虽华",
-      "illustrator": "",
-      "description": "music:Βг@!Nïaç ▲▲αN1aс (虽华 remix) Plants vs. Zombies\n本谱由新人tankcatcat在Malody自制转谱，第五张谱\n本谱较难，速度为11.8 请做好准备\n欢迎你的游玩哦！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0add4980-6845-4e2f-8892-e3b015b030e8",
-      "preview": "https://phira.5wyxi.com/files/697f1c73-965f-4ac1-94eb-242774584f2f",
-      "file": "https://phira.5wyxi.com/files/294a66c3-98b4-425a-bf94-a59ad3fabfcb",
-      "uploader": 2298625,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.89990246,
-      "ratingCount": 1593,
-      "created": "2026-07-29T14:17:22.623193Z",
-      "updated": "2026-07-29T14:17:22.623193Z",
-      "chartUpdated": "2026-07-29T14:17:22.623193Z"
-    },
-    {
-      "id": 69912,
-      "name": "4k Ju1uo Dan",
-      "level": "Ju1uo Lv.91",
-      "difficulty": 91.0,
-      "charter": "Essent1al_",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本人上传\n娱乐段位，难度大概zeta～zeta+\nJack-Go Berzerk\nTech-EndTime(takehirotei final time remix)1.3x\nSpeed-Plastic Mind1.15x\nStream-天空之城1.45x",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ae583af4-cb1b-41a6-92c6-34170dce8135",
-      "preview": "https://phira.5wyxi.com/files/9d86dcf3-316b-4f21-b74d-4ced5ac9745d",
-      "file": "https://phira.5wyxi.com/files/3f6e8805-ab4e-467c-8669-0356ee5304ec",
-      "uploader": 432532,
-      "tags": [
-        "4k",
-        "ju1uo",
-        "zeta",
-        "plain"
-      ],
-      "rating": 0.889727,
-      "ratingCount": 10,
-      "created": "2026-07-29T09:34:00.914001Z",
-      "updated": "2026-07-29T09:34:00.914001Z",
-      "chartUpdated": "2026-07-29T09:34:00.914001Z"
     }
   ]
 }
