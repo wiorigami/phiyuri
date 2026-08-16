@@ -13,14 +13,14 @@
   "name": "Oshama Scramble!",
   "preview": "https://phira.5wyxi.com/files/a7181081-4094-4687-ac2b-4f8649637186",
   "ranked": false,
-  "rating": 0.86671585,
-  "ratingCount": 239,
-  "reviewed": true,
+  "rating": 0.84910256,
+  "ratingCount": 387,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-01T12:44:07.642575Z",
+  "updated": "2026-08-15T04:54:30.025615Z",
   "uploader": 3139712
 }
