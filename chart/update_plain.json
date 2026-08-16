@@ -1,5 +1,5 @@
 {
-  "count": 3185,
+  "count": 3180,
   "results": [
     {
       "id": 73392,
@@ -24,7 +24,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.754413,
       "ratingCount": 0,
       "created": "2026-08-14T14:00:12.245839Z",
       "updated": "2026-08-14T14:00:12.245839Z",
@@ -53,7 +53,7 @@
         "SOS",
         "plain"
       ],
-      "rating": 0.8217826,
+      "rating": 0.8546659,
       "ratingCount": 1,
       "created": "2026-08-14T10:14:34.969201Z",
       "updated": "2026-08-14T10:14:34.969201Z",
@@ -82,37 +82,11 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.8091634,
+      "rating": 0.75752807,
       "ratingCount": 0,
       "created": "2026-08-13T12:17:49.291638Z",
       "updated": "2026-08-13T12:17:49.291638Z",
       "chartUpdated": "2026-08-13T12:17:49.291638Z"
-    },
-    {
-      "id": 73134,
-      "name": "終の舞姫 ",
-      "level": "2β",
-      "difficulty": 18.999996,
-      "charter": "betrix",
-      "composer": "Se-U-Ra",
-      "illustrator": "",
-      "description": "高难新作",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/83b207ee-96de-4ad3-8dc5-053147cca4d6",
-      "preview": "https://phira.5wyxi.com/files/ceab272b-64fb-4856-8664-c526d478ed8c",
-      "file": "https://phira.5wyxi.com/files/89fc5381-f8af-462d-97e2-555b155bce5b",
-      "uploader": 2035,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.6957476,
-      "ratingCount": 0,
-      "created": "2026-08-13T09:13:14.248374Z",
-      "updated": "2026-08-13T09:13:14.248374Z",
-      "chartUpdated": "2026-08-13T09:13:14.248374Z"
     },
     {
       "id": 73008,
@@ -135,7 +109,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.8259278,
+      "rating": 0.8360116,
       "ratingCount": 0,
       "created": "2026-08-12T15:40:59.565179Z",
       "updated": "2026-08-12T15:40:59.565179Z",
@@ -161,7 +135,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84869725,
+      "rating": 0.8355306,
       "ratingCount": 0,
       "created": "2026-08-12T06:51:43.295868Z",
       "updated": "2026-08-12T06:52:35.391610Z",
@@ -190,11 +164,37 @@
         "双指",
         "plain"
       ],
-      "rating": 0.83238864,
+      "rating": 0.8492757,
       "ratingCount": 0,
       "created": "2026-08-11T14:06:01.409479Z",
       "updated": "2026-08-11T14:06:01.409479Z",
       "chartUpdated": "2026-08-11T14:06:01.409479Z"
+    },
+    {
+      "id": 72708,
+      "name": "A Fool Moon Night",
+      "level": "4K Fool Lv.?",
+      "difficulty": 0.0,
+      "charter": "YMEA",
+      "composer": "Koxx",
+      "illustrator": "",
+      "description": "本人上传\n尝试一下新写法\n后面忘了\nqq个入群169198220",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/81bea067-62dd-4ef7-8e60-5435aaf8f551",
+      "preview": "https://phira.5wyxi.com/files/bc4ea39c-8f42-4921-8c1a-2f4a42695887",
+      "file": "https://phira.5wyxi.com/files/12c5f0be-20e7-48fa-b854-7a2764f9c15a",
+      "uploader": 3470464,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8811823,
+      "ratingCount": 0,
+      "created": "2026-08-11T09:34:39.798790Z",
+      "updated": "2026-08-11T09:34:39.798790Z",
+      "chartUpdated": "2026-08-11T09:34:39.798790Z"
     },
     {
       "id": 72657,
@@ -216,7 +216,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7702763,
+      "rating": 0.78518665,
       "ratingCount": 0,
       "created": "2026-08-11T04:40:34.256621Z",
       "updated": "2026-08-11T04:40:34.256621Z",
@@ -243,7 +243,7 @@
         "AT18",
         "plain"
       ],
-      "rating": 0.80813146,
+      "rating": 0.88012224,
       "ratingCount": 0,
       "created": "2026-08-10T18:53:13.660464Z",
       "updated": "2026-08-10T18:53:13.660464Z",
@@ -269,7 +269,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7710494,
+      "rating": 0.78140926,
       "ratingCount": 0,
       "created": "2026-08-10T06:28:22.653455Z",
       "updated": "2026-08-10T06:28:22.653455Z",
@@ -298,37 +298,11 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.85123205,
+      "rating": 0.8545637,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
       "chartUpdated": "2026-08-09T11:40:06.044804Z"
-    },
-    {
-      "id": 72244,
-      "name": "GOODWORLD",
-      "level": "4K ANOTHER Lv.25",
-      "difficulty": 10.0,
-      "charter": "YMEA",
-      "composer": "EBIMAYO",
-      "illustrator": "",
-      "description": "写了一天，后面忘了\n不感谢@Lage#852606 的动效\n快手 X B站 洋漫YMEA\nDY YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ff4670d4-410c-4142-83a0-fc1f15e5459d",
-      "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
-      "file": "https://phira.5wyxi.com/files/75e10da8-bd07-46ca-9d64-e108491c97bd",
-      "uploader": 3470464,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.91074973,
-      "ratingCount": 0,
-      "created": "2026-08-09T08:38:00.948937Z",
-      "updated": "2026-08-09T08:38:32.661075Z",
-      "chartUpdated": "2026-08-09T08:38:00.948937Z"
     },
     {
       "id": 72163,
@@ -378,7 +352,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.80339104,
+      "rating": 0.81735086,
       "ratingCount": 0,
       "created": "2026-08-08T05:56:20.515023Z",
       "updated": "2026-08-08T05:57:41.448296Z",
@@ -394,9 +368,9 @@
       "illustrator": "",
       "description": "用Bot测了下定数\n10dan- 5.86*（不知道准不准）\n5000物量是自己故意控的（主要美观？，）\n后面忘了\n快手 x B站 洋漫YMEA",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
+      "stableRequest": false,
       "illustration": "https://phira.5wyxi.com/files/e9934ef2-3d28-4c88-83f7-a46753440a58",
       "preview": "https://phira.5wyxi.com/files/1336c661-2dfe-4be4-a291-584f4c067e62",
       "file": "https://phira.5wyxi.com/files/44a72f2c-e0d6-4425-9575-82811223dd98",
@@ -404,8 +378,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8793752,
-      "ratingCount": 9,
+      "rating": 0.88548166,
+      "ratingCount": 15,
       "created": "2026-08-01T17:19:02.929024Z",
       "updated": "2026-08-08T04:01:14.929874Z",
       "chartUpdated": "2026-08-01T17:19:02.929024Z"
@@ -524,7 +498,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.8842611,
+      "rating": 0.88575166,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -550,7 +524,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95286125,
+      "rating": 0.956702,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -579,7 +553,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.74140954,
+      "rating": 0.7407898,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -605,7 +579,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91256326,
+      "rating": 0.9139215,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -631,7 +605,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9149734,
+      "rating": 0.9154491,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -657,7 +631,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93964624,
+      "rating": 0.939791,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -765,7 +739,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96831584,
+      "rating": 0.9687752,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -791,7 +765,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88867426,
+      "rating": 0.88865256,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -817,11 +791,38 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9114886,
+      "rating": 0.91412526,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
       "chartUpdated": "2026-07-29T23:37:40.348156Z"
+    },
+    {
+      "id": 68726,
+      "name": "STARDUST",
+      "level": "5K Lv.7dan tech",
+      "difficulty": 7.0,
+      "charter": "E_Rizon",
+      "composer": "Riya",
+      "illustrator": "",
+      "description": "5k 7tech\n中高难5k\n感谢Pal，Tuye，LegitIX的测试与修改意见",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/472ab7ab-8cce-4f03-bf49-f1ea734aa5e1",
+      "preview": "https://phira.5wyxi.com/files/24fb8e9d-a2a3-4404-9cb7-ca4d5caebb34",
+      "file": "https://phira.5wyxi.com/files/f51d1560-9a65-4995-ac35-c0c6a99670f6",
+      "uploader": 21375,
+      "tags": [
+        "5K",
+        "plain"
+      ],
+      "rating": 0.9278097,
+      "ratingCount": 27,
+      "created": "2026-07-23T15:22:57.547769Z",
+      "updated": "2026-07-29T17:10:00.237954Z",
+      "chartUpdated": "2026-07-23T15:22:57.547769Z"
     }
   ]
 }
