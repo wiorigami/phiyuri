@@ -1,6 +1,35 @@
 {
-  "count": 3180,
+  "count": 3176,
   "results": [
+    {
+      "id": 73503,
+      "name": "Voyage 1969",
+      "level": "DF Vibro-Stamina",
+      "difficulty": 15.0,
+      "charter": "Essent1al_2026",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "本人上传\nbpm180，dfv耐力谱，难度？？？\n如果累到不行请暂停，不要伤到自己的肌肉\n欢迎您加入我们的dfv讨论群:780220024",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/43ec5fdc-90aa-4f1a-a55e-fbcc93a7240e",
+      "preview": "https://phira.5wyxi.com/files/d47823fa-3bff-4dfc-bde7-165dd008d521",
+      "file": "https://phira.5wyxi.com/files/918f12fa-73ff-44d1-ae1d-882e8fc91a35",
+      "uploader": 2190368,
+      "tags": [
+        "dfv",
+        "vibro",
+        "dfc",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-08-15T07:52:59.844360Z",
+      "updated": "2026-08-15T07:52:59.844360Z",
+      "chartUpdated": "2026-08-15T07:52:59.844360Z"
+    },
     {
       "id": 73392,
       "name": "Double Finger Vibro Upsilon Dan",
@@ -53,7 +82,7 @@
         "SOS",
         "plain"
       ],
-      "rating": 0.8546659,
+      "rating": 0.8676726,
       "ratingCount": 1,
       "created": "2026-08-14T10:14:34.969201Z",
       "updated": "2026-08-14T10:14:34.969201Z",
@@ -82,7 +111,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.75752807,
+      "rating": 0.76484764,
       "ratingCount": 0,
       "created": "2026-08-13T12:17:49.291638Z",
       "updated": "2026-08-13T12:17:49.291638Z",
@@ -109,7 +138,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.8360116,
+      "rating": 0.8554016,
       "ratingCount": 0,
       "created": "2026-08-12T15:40:59.565179Z",
       "updated": "2026-08-12T15:40:59.565179Z",
@@ -135,7 +164,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8355306,
+      "rating": 0.8457046,
       "ratingCount": 0,
       "created": "2026-08-12T06:51:43.295868Z",
       "updated": "2026-08-12T06:52:35.391610Z",
@@ -164,7 +193,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8492757,
+      "rating": 0.85569465,
       "ratingCount": 0,
       "created": "2026-08-11T14:06:01.409479Z",
       "updated": "2026-08-11T14:06:01.409479Z",
@@ -190,7 +219,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8811823,
+      "rating": 0.89634997,
       "ratingCount": 0,
       "created": "2026-08-11T09:34:39.798790Z",
       "updated": "2026-08-11T09:34:39.798790Z",
@@ -243,7 +272,7 @@
         "AT18",
         "plain"
       ],
-      "rating": 0.88012224,
+      "rating": 0.917906,
       "ratingCount": 0,
       "created": "2026-08-10T18:53:13.660464Z",
       "updated": "2026-08-10T18:53:13.660464Z",
@@ -298,7 +327,7 @@
         "Dan",
         "plain"
       ],
-      "rating": 0.8545637,
+      "rating": 0.84412634,
       "ratingCount": 14,
       "created": "2026-08-09T11:40:06.044804Z",
       "updated": "2026-08-09T11:40:06.044804Z",
@@ -352,7 +381,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.81735086,
+      "rating": 0.8229634,
       "ratingCount": 0,
       "created": "2026-08-08T05:56:20.515023Z",
       "updated": "2026-08-08T05:57:41.448296Z",
@@ -408,7 +437,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.85561484,
+      "rating": 0.8617536,
       "ratingCount": 15,
       "created": "2026-08-07T08:07:37.254317Z",
       "updated": "2026-08-07T08:07:37.254317Z",
@@ -467,7 +496,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.90379155,
+      "rating": 0.90562105,
       "ratingCount": 41,
       "created": "2026-08-05T15:23:45.737998Z",
       "updated": "2026-08-05T15:23:45.737998Z",
@@ -498,7 +527,7 @@
         "gamma",
         "plain"
       ],
-      "rating": 0.88575166,
+      "rating": 0.88643676,
       "ratingCount": 144,
       "created": "2026-08-05T15:09:32.297426Z",
       "updated": "2026-08-05T15:09:32.297426Z",
@@ -524,7 +553,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.956702,
+      "rating": 0.9544704,
       "ratingCount": 22,
       "created": "2026-08-05T13:34:50.679991Z",
       "updated": "2026-08-05T13:34:50.679991Z",
@@ -553,7 +582,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7407898,
+      "rating": 0.7407887,
       "ratingCount": 191,
       "created": "2026-08-05T03:19:11.640228Z",
       "updated": "2026-08-05T03:19:11.640228Z",
@@ -579,7 +608,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9139215,
+      "rating": 0.91430014,
       "ratingCount": 464,
       "created": "2026-08-03T03:07:36.277264Z",
       "updated": "2026-08-03T03:07:36.277264Z",
@@ -605,7 +634,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9154491,
+      "rating": 0.9163603,
       "ratingCount": 838,
       "created": "2026-07-31T16:03:41.898237Z",
       "updated": "2026-07-31T16:03:41.898237Z",
@@ -631,7 +660,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.939791,
+      "rating": 0.9395027,
       "ratingCount": 134,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-07-30T16:26:45.170094Z",
@@ -683,7 +712,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9028348,
+      "rating": 0.9029509,
       "ratingCount": 17,
       "created": "2026-07-30T13:44:01.999220Z",
       "updated": "2026-07-30T13:44:01.999220Z",
@@ -739,7 +768,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9687752,
+      "rating": 0.968127,
       "ratingCount": 237,
       "created": "2026-07-30T08:40:19.546676Z",
       "updated": "2026-07-30T08:40:19.546676Z",
@@ -765,7 +794,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88865256,
+      "rating": 0.8890691,
       "ratingCount": 555,
       "created": "2026-07-30T03:32:09.078155Z",
       "updated": "2026-07-30T03:32:09.078155Z",
@@ -791,38 +820,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91412526,
+      "rating": 0.9133475,
       "ratingCount": 113,
       "created": "2026-07-29T23:37:40.348156Z",
       "updated": "2026-07-29T23:37:40.348156Z",
       "chartUpdated": "2026-07-29T23:37:40.348156Z"
-    },
-    {
-      "id": 68726,
-      "name": "STARDUST",
-      "level": "5K Lv.7dan tech",
-      "difficulty": 7.0,
-      "charter": "E_Rizon",
-      "composer": "Riya",
-      "illustrator": "",
-      "description": "5k 7tech\n中高难5k\n感谢Pal，Tuye，LegitIX的测试与修改意见",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/472ab7ab-8cce-4f03-bf49-f1ea734aa5e1",
-      "preview": "https://phira.5wyxi.com/files/24fb8e9d-a2a3-4404-9cb7-ca4d5caebb34",
-      "file": "https://phira.5wyxi.com/files/f51d1560-9a65-4995-ac35-c0c6a99670f6",
-      "uploader": 21375,
-      "tags": [
-        "5K",
-        "plain"
-      ],
-      "rating": 0.9278097,
-      "ratingCount": 27,
-      "created": "2026-07-23T15:22:57.547769Z",
-      "updated": "2026-07-29T17:10:00.237954Z",
-      "chartUpdated": "2026-07-23T15:22:57.547769Z"
     }
   ]
 }
