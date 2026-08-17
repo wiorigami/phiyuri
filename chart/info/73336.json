@@ -13,14 +13,14 @@
   "name": "INFINITE HYPERDRIVE",
   "preview": "https://phira.5wyxi.com/files/3e6e0cd0-2399-4705-9d12-3152a79cde44",
   "ranked": false,
-  "rating": 0.8439334,
-  "ratingCount": 105,
-  "reviewed": true,
+  "rating": 0.86461854,
+  "ratingCount": 144,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-14T10:36:30.955736Z",
+  "updated": "2026-08-16T08:39:08.521333Z",
   "uploader": 692377
 }

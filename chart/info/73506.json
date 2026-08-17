@@ -13,14 +13,14 @@
   "name": "Revelation",
   "preview": "https://phira.5wyxi.com/files/06c980b7-0696-4418-ac47-befd0e2a2a07",
   "ranked": false,
-  "rating": 0.8902391,
-  "ratingCount": 25,
-  "reviewed": true,
+  "rating": 0.8880026,
+  "ratingCount": 76,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-15T08:09:21.625776Z",
+  "updated": "2026-08-16T11:29:04.782364Z",
   "uploader": 17576
 }

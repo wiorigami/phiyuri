@@ -13,14 +13,14 @@
   "name": "Kaleidoscope",
   "preview": "https://phira.5wyxi.com/files/a74b6000-75e3-4859-b1e8-1f4df7a8f462",
   "ranked": false,
-  "rating": 0.8145885,
-  "ratingCount": 9,
-  "reviewed": true,
+  "rating": 0.896999,
+  "ratingCount": 103,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-07-08T18:12:03.605473Z",
+  "updated": "2026-08-16T13:26:01.572236Z",
   "uploader": 3478
 }
