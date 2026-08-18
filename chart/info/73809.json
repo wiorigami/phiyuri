@@ -13,14 +13,14 @@
   "name": "倍儿爽",
   "preview": "https://phira.5wyxi.com/files/3471eaff-4802-4d68-a3db-f795ad8a4baa",
   "ranked": false,
-  "rating": 0.9396226,
-  "ratingCount": 254,
-  "reviewed": true,
+  "rating": 0.9238423,
+  "ratingCount": 1557,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-16T14:35:20.783466Z",
+  "updated": "2026-08-17T14:43:55.141357Z",
   "uploader": 100
 }

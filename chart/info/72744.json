@@ -13,14 +13,14 @@
   "name": "Recollect Lines",
   "preview": "https://phira.5wyxi.com/files/1b362812-11b2-46c7-b970-25bf9b9a83e4",
   "ranked": false,
-  "rating": 0.82312983,
-  "ratingCount": 90,
-  "reviewed": true,
+  "rating": 0.8244223,
+  "ratingCount": 200,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-11T11:48:08.034375Z",
+  "updated": "2026-08-17T08:15:34.504807Z",
   "uploader": 1143
 }
