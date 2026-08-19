@@ -13,14 +13,14 @@
   "name": "霹靂神ソフトウェア",
   "preview": "https://phira.5wyxi.com/files/a2495800-6035-4a4f-9eec-8f2757e86c90",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 5,
-  "reviewed": true,
+  "rating": 0.9508817,
+  "ratingCount": 91,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-17T13:26:30.774071Z",
+  "updated": "2026-08-18T18:56:00.650290Z",
   "uploader": 238982
 }
