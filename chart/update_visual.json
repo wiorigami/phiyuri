@@ -1,36 +1,6 @@
 {
-  "count": 170,
+  "count": 167,
   "results": [
-    {
-      "id": 71940,
-      "name": "Exitium",
-      "level": "猫敗る神罰",
-      "difficulty": 6.9,
-      "charter": "吹风扇的猫败",
-      "composer": "Laur",
-      "illustrator": "",
-      "description": "谱师本人上传\n为了超越rinfall以前的最难谱strong280的难度而写的谱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f16be1e8-476a-4a16-bc67-41f78ea01c58",
-      "preview": "https://phira.5wyxi.com/files/283d8db8-04e4-4828-98d9-a18f46718b5b",
-      "file": "https://phira.5wyxi.com/files/5474a693-6206-4293-ab17-76010839ae44",
-      "uploader": 3624172,
-      "tags": [
-        "猫败杯",
-        "无理",
-        "纯配置",
-        "shader",
-        "visual"
-      ],
-      "rating": 0.76764095,
-      "ratingCount": 11,
-      "created": "2026-08-07T16:43:11.037734Z",
-      "updated": "2026-08-07T16:43:11.037734Z",
-      "chartUpdated": "2026-08-07T16:43:11.037734Z"
-    },
     {
       "id": 69558,
       "name": "将军的茶(♪来杯好茶摇一摇♪)",
@@ -51,73 +21,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.91885614,
+      "rating": 0.91871965,
       "ratingCount": 46199,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
       "chartUpdated": "2026-07-27T16:42:57.962104Z"
-    },
-    {
-      "id": 69084,
-      "name": "Eternal Ending",
-      "level": "AT.17神が降臨",
-      "difficulty": 17.8,
-      "charter": "Qooius/RS超级小瑞/吹风扇的猫败/黑色四叶草",
-      "composer": "Kobaryo",
-      "illustrator": "",
-      "description": "本谱为第二届猫败杯决赛谱（原版）\n时长:237s\n物量:2900+\n我们1周接力完成了这个谱面，没错这个谱是我们几个人赶出来的，因为比赛从报名到决赛只有9天时间\n其中吓人的假键致敬第一届猫败杯决赛谱（没过审）\n以下是我们谱师组想说的话\n^O^\n吹风扇的猫败:长条海是假的，是我写谱最善良最正常的一集\n\nRS超级小瑞:如果谱面的判定线数量无上限，谱面大小无上限，我想应该就能做出更加震撼的效果\n\nQooius：这啥啊这，踩音充分情感调动绝佳，曲绘好看歌曲好听，神谱中的神谱，所有已熟知的都将加注猫败的历练，中间忘了，反正至此一锤定音尘埃依然落地，绝对的踩音，即是放慢到0.7倍速都是完美对音的\n\n黑色四叶草:大家好，曲绘是豆包帮忙的，所以30秒",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/08545a64-a56d-40a3-ba70-9043cef1a45c",
-      "preview": "https://phira.5wyxi.com/files/5e6c0f7f-17cc-44ee-87df-d890dc62c4bb",
-      "file": "https://phira.5wyxi.com/files/76e5756e-255f-436b-bfaa-71e364f62e62",
-      "uploader": 2360752,
-      "tags": [
-        "猫败杯",
-        "高难",
-        "at18",
-        "故事版",
-        "shader",
-        "visual"
-      ],
-      "rating": 0.9251877,
-      "ratingCount": 371,
-      "created": "2026-07-25T08:00:27.309312Z",
-      "updated": "2026-07-25T08:00:27.309312Z",
-      "chartUpdated": "2026-07-25T08:00:27.309312Z"
-    },
-    {
-      "id": 69083,
-      "name": "Eternal Ending",
-      "level": "AT.18神が降臨",
-      "difficulty": 18.2,
-      "charter": "Qooius/RS超级小瑞/吹风扇的猫败/DESTRUCTIONowo/小团子/黑色四叶草",
-      "composer": "Kobaryo",
-      "illustrator": "",
-      "description": " 本谱为第二届猫败杯决赛谱（加强版）\n时长:237s\n物量:3000\n我们1周赶出了这个谱面，希望喜欢喵\n其中吓人的假键致敬第一届猫败杯决赛谱（）\n吹风扇的猫败:长条海是假的，是我写谱最善良最正常的一集。\nRS超级小瑞:如果谱面的判定线数量无上限，谱面大小无上限，我想应该就能做出更加震撼的效果\nQooius：前面忘了，中间忘了，反正至此一锤定音尘埃依然落地，绝对的踩音，即是放慢到0.7倍速都是完美对音的\n黑色四叶草:大家好呀，曲绘是豆包做的……\n小团子：猫败大俊福。\n321：这张谱面原本有很多采音错误，已经被我修复啦（都怪猫败）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8b652b80-02d9-466b-aa7f-c53edbad98a8",
-      "preview": "https://phira.5wyxi.com/files/d2c99809-e069-49b5-a175-b25d65778bb3",
-      "file": "https://phira.5wyxi.com/files/e09308e9-926d-4a64-a68d-201231cb4ee7",
-      "uploader": 2360752,
-      "tags": [
-        "猫败杯",
-        "高难",
-        "at18",
-        "故事版",
-        "shader",
-        "visual"
-      ],
-      "rating": 0.92079973,
-      "ratingCount": 374,
-      "created": "2026-07-25T08:00:10.937913Z",
-      "updated": "2026-07-25T08:00:10.937913Z",
-      "chartUpdated": "2026-07-25T08:00:10.937913Z"
     },
     {
       "id": 66015,
@@ -139,7 +47,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.94416815,
+      "rating": 0.94477206,
       "ratingCount": 77,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
@@ -191,7 +99,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.80642503,
+      "rating": 0.804532,
       "ratingCount": 153,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
@@ -243,7 +151,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81348604,
+      "rating": 0.81301755,
       "ratingCount": 324,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -269,7 +177,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8810769,
+      "rating": 0.8808455,
       "ratingCount": 825,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
@@ -297,7 +205,7 @@
         "双指",
         "visual"
       ],
-      "rating": 0.87595963,
+      "rating": 0.88033295,
       "ratingCount": 21,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-03-03T06:49:21.192811Z",
@@ -349,7 +257,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8688526,
+      "rating": 0.8611509,
       "ratingCount": 57,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
@@ -405,7 +313,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81368744,
+      "rating": 0.81414354,
       "ratingCount": 373,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -518,7 +426,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.69010425,
+      "rating": 0.68791664,
       "ratingCount": 699,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -629,7 +537,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8081769,
+      "rating": 0.80575955,
       "ratingCount": 144,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -708,7 +616,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7394719,
+      "rating": 0.7388379,
       "ratingCount": 372,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -734,7 +642,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88576746,
+      "rating": 0.884657,
       "ratingCount": 291,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
@@ -760,7 +668,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8485658,
+      "rating": 0.8492813,
       "ratingCount": 197,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
@@ -817,6 +725,86 @@
       "created": "2025-11-16T11:01:11.506983Z",
       "updated": "2025-11-16T11:01:11.506983Z",
       "chartUpdated": "2025-11-16T11:01:11.506983Z"
+    },
+    {
+      "id": 49179,
+      "name": "靈",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "Heronmony（鹭鸟音律）",
+      "composer": "MYTK",
+      "illustrator": "",
+      "description": "17.9",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
+      "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
+      "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
+      "uploader": 1017966,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.8175052,
+      "ratingCount": 125,
+      "created": "2025-11-16T01:44:43.045246Z",
+      "updated": "2025-11-16T01:44:43.045246Z",
+      "chartUpdated": "2025-11-16T01:44:43.045246Z"
+    },
+    {
+      "id": 48836,
+      "name": "昔涟",
+      "level": "EGO Lv.12",
+      "difficulty": 12.600002,
+      "charter": "SrY-ABYSS",
+      "composer": "张韶涵 / HOYO-MiX",
+      "illustrator": "",
+      "description": "来自游戏《崩坏星穹铁道》\n建议在黑暗环境下游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/399491ce-d9ee-4a21-aaa7-40c2ae47295a",
+      "preview": "https://phira.5wyxi.com/files/ad7db1c9-8534-423e-9f24-f19ce89f5bc4",
+      "file": "https://phira.5wyxi.com/files/1733b355-fb76-4999-967d-f20bcfff904d",
+      "uploader": 1437,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.9626851,
+      "ratingCount": 3031,
+      "created": "2025-11-08T03:06:05.755676Z",
+      "updated": "2025-11-08T03:06:05.755676Z",
+      "chartUpdated": "2025-11-08T03:06:05.755676Z"
+    },
+    {
+      "id": 48789,
+      "name": "再度和你",
+      "level": "See You Tomorrow",
+      "difficulty": 13.0,
+      "charter": "SrY-ABYSS",
+      "composer": "HOYO-MiX",
+      "illustrator": "",
+      "description": "BGM来自游戏《崩坏星穹铁道》昔涟角色pv\n已修复1个miss的bug，低配机谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4852e72a-3ee1-4a07-b094-4f107de13a4f",
+      "preview": "https://phira.5wyxi.com/files/fc5bb95e-53f5-40fc-9313-13ced62204c4",
+      "file": "https://phira.5wyxi.com/files/f8e17eab-01e3-470c-83a9-43b284771af3",
+      "uploader": 1437,
+      "tags": [
+        "崩坏星穹铁道",
+        "观赏",
+        "visual"
+      ],
+      "rating": 0.9743156,
+      "ratingCount": 5446,
+      "created": "2025-11-05T15:19:44.272431Z",
+      "updated": "2025-11-06T13:25:56.785787Z",
+      "chartUpdated": "2025-11-06T13:25:56.785787Z"
     }
   ]
 }
