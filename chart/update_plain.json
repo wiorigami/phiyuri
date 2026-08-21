@@ -2,6 +2,63 @@
   "count": 3195,
   "results": [
     {
+      "id": 74693,
+      "name": "Σ",
+      "level": "-β-",
+      "difficulty": 18.5,
+      "charter": "betrix",
+      "composer": "DJ Myosuke & Gram & t+pazolite",
+      "illustrator": "",
+      "description": "榜一送rulaifozu大头照",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/689b49cb-2fc8-4849-8617-7ebe469e54ec",
+      "preview": "https://phira.5wyxi.com/files/1b83abe5-2107-471d-b378-c72443e02f1d",
+      "file": "https://phira.5wyxi.com/files/1304f29c-d9a5-4190-8c44-cea59683ff51",
+      "uploader": 2035,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-20T15:31:13.939917Z",
+      "updated": "2026-08-20T15:31:13.939917Z",
+      "chartUpdated": "2026-08-20T15:31:13.939917Z"
+    },
+    {
+      "id": 74615,
+      "name": "I Can't Wait (feat. GUMI)",
+      "level": "4k easy gumi ",
+      "difficulty": 18.0,
+      "charter": "dokidokiのr0",
+      "composer": "d0t匚0mmie/GUMI",
+      "illustrator": "",
+      "description": "bpm≈65更适合萌新宝宝体质的叠\nB站关注@-rks0\n谱面已修改，谱师本人上传，清榜致歉\n我喜欢你，感谢游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/52a8fb91-703e-4f7b-adb1-313af65e13a4",
+      "preview": "https://phira.5wyxi.com/files/c3512c3e-db28-4926-93d1-146d040fd64b",
+      "file": "https://phira.5wyxi.com/files/1cde9214-a1c3-4712-b926-df50c295c3ea",
+      "uploader": 743902,
+      "tags": [
+        "babyjack",
+        "Jack",
+        "叠",
+        "gumi",
+        "",
+        "plain"
+      ],
+      "rating": 0.88102967,
+      "ratingCount": 0,
+      "created": "2026-08-20T11:00:01.203894Z",
+      "updated": "2026-08-20T12:01:37.749013Z",
+      "chartUpdated": "2026-08-20T11:00:01.203894Z"
+    },
+    {
       "id": 74475,
       "name": "Glacier",
       "level": "-β-",
@@ -21,7 +78,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88649786,
+      "rating": 0.8759927,
       "ratingCount": 0,
       "created": "2026-08-19T15:44:26.084165Z",
       "updated": "2026-08-19T15:44:26.084165Z",
@@ -47,11 +104,38 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92902756,
+      "rating": 0.96569127,
       "ratingCount": 0,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
       "chartUpdated": "2026-07-21T06:50:22.835067Z"
+    },
+    {
+      "id": 74449,
+      "name": "お菓子の国の騒動 ~melting candy syndrome~ (feat. L4hee)",
+      "level": "4K MiraclE Lv.37",
+      "difficulty": 30.0,
+      "charter": "Xiyv_",
+      "composer": "Asatsumei/Asayami/Mei Naganowa/L4hee",
+      "illustrator": "",
+      "description": "第二张长图，第一张10min以上长图\n欢迎指导喵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/fb155c19-ba0b-41b6-b1d5-32491c8d8e8c",
+      "preview": "https://phira.5wyxi.com/files/836c6d35-3f11-4ce9-a70e-7f4967fa2e28",
+      "file": "https://phira.5wyxi.com/files/7f93ea2a-686a-4004-b07b-c9b5182f9dba",
+      "uploader": 594089,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.85341805,
+      "ratingCount": 0,
+      "created": "2026-08-19T13:42:57.815210Z",
+      "updated": "2026-08-19T13:42:57.815210Z",
+      "chartUpdated": "2026-08-19T13:42:57.815210Z"
     },
     {
       "id": 74443,
@@ -73,7 +157,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.78283006,
+      "rating": 0.8499726,
       "ratingCount": 0,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
@@ -100,7 +184,7 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.87666065,
+      "rating": 0.8767602,
       "ratingCount": 0,
       "created": "2026-08-19T09:30:48.453449Z",
       "updated": "2026-08-19T09:40:12.675914Z",
@@ -126,7 +210,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9012419,
+      "rating": 0.9016812,
       "ratingCount": 1774,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-08-19T05:11:21.407525Z",
@@ -152,7 +236,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.856128,
       "ratingCount": 0,
       "created": "2026-08-18T16:24:46.663082Z",
       "updated": "2026-08-18T16:24:46.663082Z",
@@ -181,7 +265,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.73781,
+      "rating": 0.7654056,
       "ratingCount": 0,
       "created": "2026-08-18T15:39:39.253040Z",
       "updated": "2026-08-18T15:39:39.253040Z",
@@ -239,7 +323,7 @@
         "dfc",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.70769215,
       "ratingCount": 0,
       "created": "2026-08-18T15:14:42.487066Z",
       "updated": "2026-08-18T15:14:42.487066Z",
@@ -297,7 +381,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.84298706,
+      "rating": 0.82299024,
       "ratingCount": 0,
       "created": "2026-08-18T15:13:52.538549Z",
       "updated": "2026-08-18T15:13:52.538549Z",
@@ -324,7 +408,7 @@
         "切",
         "plain"
       ],
-      "rating": 0.8970328,
+      "rating": 0.90971166,
       "ratingCount": 0,
       "created": "2026-07-18T07:26:43.424450Z",
       "updated": "2026-08-18T10:25:49.657512Z",
@@ -350,7 +434,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82457143,
+      "rating": 0.8555957,
       "ratingCount": 0,
       "created": "2026-08-18T10:05:17.568600Z",
       "updated": "2026-08-18T10:05:17.568600Z",
@@ -376,11 +460,39 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.6777789,
+      "rating": 0.6198521,
       "ratingCount": 0,
       "created": "2026-08-18T09:05:09.497846Z",
       "updated": "2026-08-18T09:05:09.497846Z",
       "chartUpdated": "2026-08-18T09:05:09.497846Z"
+    },
+    {
+      "id": 74110,
+      "name": "Through The Fire And Flames",
+      "level": "Maximum.3 Lv.16",
+      "difficulty": 16.300001,
+      "charter": "DragonFeather",
+      "composer": "DragonForce",
+      "illustrator": "",
+      "description": "neta神秘rm侧极限3  谱师本人上传 b站：壹芝雜羽kld_ill-none",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/aa7b78e1-5ef5-4bc9-9f63-ec8d73ef37e0",
+      "preview": "https://phira.5wyxi.com/files/60c02433-5f26-4078-8337-3f80714c0b1b",
+      "file": "https://phira.5wyxi.com/files/7b6356c4-ce52-48f0-ab18-c9bcc80f45c6",
+      "uploader": 1946893,
+      "tags": [
+        "dfc",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-08-18T08:26:10.579695Z",
+      "updated": "2026-08-18T08:26:10.579695Z",
+      "chartUpdated": "2026-08-18T08:26:10.579695Z"
     },
     {
       "id": 74021,
@@ -402,7 +514,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8176738,
+      "rating": 0.8305857,
       "ratingCount": 0,
       "created": "2026-08-17T19:44:05.591911Z",
       "updated": "2026-08-17T19:44:05.591911Z",
@@ -428,7 +540,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81552935,
+      "rating": 0.8223402,
       "ratingCount": 0,
       "created": "2026-08-17T14:33:22.622981Z",
       "updated": "2026-08-17T14:53:38.834571Z",
@@ -454,7 +566,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.786309,
+      "rating": 0.79242545,
       "ratingCount": 0,
       "created": "2026-08-17T14:33:30.483231Z",
       "updated": "2026-08-17T14:52:37.172093Z",
@@ -480,7 +592,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80865055,
+      "rating": 0.8321152,
       "ratingCount": 0,
       "created": "2026-08-17T14:33:37.023043Z",
       "updated": "2026-08-17T14:52:25.601085Z",
@@ -506,7 +618,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8729715,
+      "rating": 0.87859076,
       "ratingCount": 0,
       "created": "2026-08-17T14:33:43.948594Z",
       "updated": "2026-08-17T14:52:12.324138Z",
@@ -534,7 +646,7 @@
         "Kotori",
         "plain"
       ],
-      "rating": 0.90058875,
+      "rating": 0.9062628,
       "ratingCount": 0,
       "created": "2026-08-17T00:52:18.970504Z",
       "updated": "2026-08-17T00:52:18.970504Z",
@@ -591,7 +703,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.8561231,
+      "rating": 0.8651205,
       "ratingCount": 0,
       "created": "2026-08-15T07:52:59.844360Z",
       "updated": "2026-08-15T07:52:59.844360Z",
@@ -649,7 +761,7 @@
         "SOS",
         "plain"
       ],
-      "rating": 0.89305794,
+      "rating": 0.89762515,
       "ratingCount": 1,
       "created": "2026-08-14T10:14:34.969201Z",
       "updated": "2026-08-14T10:14:34.969201Z",
@@ -678,7 +790,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.75296754,
+      "rating": 0.75932837,
       "ratingCount": 0,
       "created": "2026-08-13T12:17:49.291638Z",
       "updated": "2026-08-13T12:17:49.291638Z",
@@ -710,113 +822,6 @@
       "created": "2026-08-12T15:40:59.565179Z",
       "updated": "2026-08-12T15:40:59.565179Z",
       "chartUpdated": "2026-08-12T15:40:59.565179Z"
-    },
-    {
-      "id": 72901,
-      "name": "Flower Rocket",
-      "level": "4K Lv.36",
-      "difficulty": 20.0,
-      "charter": "Deception（15th）",
-      "composer": "Plum",
-      "illustrator": "",
-      "description": "此谱为生贺作，祝语柒15岁生日快乐\n@shaowu#1597616（封面制作）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/95fbaa68-5c9a-44b6-a0f9-b16b1d3271f5",
-      "preview": "https://phira.5wyxi.com/files/a667241e-f451-4c33-a45e-893afefb9e0b",
-      "file": "https://phira.5wyxi.com/files/846167ab-1d9e-47e0-ba7a-8c8245712802",
-      "uploader": 1271181,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.844833,
-      "ratingCount": 0,
-      "created": "2026-08-12T06:51:43.295868Z",
-      "updated": "2026-08-12T06:52:35.391610Z",
-      "chartUpdated": "2026-08-12T06:51:43.295868Z"
-    },
-    {
-      "id": 72775,
-      "name": "キズアト[BPM*1.08]",
-      "level": "DF Vibro",
-      "difficulty": 8.099999,
-      "charter": "はなのものがたり",
-      "composer": "REDALiCE feat.a☆ru",
-      "illustrator": "",
-      "description": "キズアト[BPM*1.08]\nREDALiCE feat.a☆ru\nはなのものがたり\nBPM:186.84 Length:3:06\nDouble Finger Vibro",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/11a80163-5313-4e64-a587-86754e589ac7",
-      "preview": "https://phira.5wyxi.com/files/0095d0ad-9d92-4f9b-8ae1-4490f350893a",
-      "file": "https://phira.5wyxi.com/files/a1607d28-e88c-4650-9d8a-43d059d62f21",
-      "uploader": 3747921,
-      "tags": [
-        "dfc",
-        "vibro",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.8529793,
-      "ratingCount": 0,
-      "created": "2026-08-11T14:06:01.409479Z",
-      "updated": "2026-08-11T14:06:01.409479Z",
-      "chartUpdated": "2026-08-11T14:06:01.409479Z"
-    },
-    {
-      "id": 72758,
-      "name": "eden",
-      "level": "Hard 26",
-      "difficulty": 26.0,
-      "charter": "jlnly",
-      "composer": "Gram",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/52479a0e-f041-4d1c-9e87-4f1115284e87",
-      "preview": "https://phira.5wyxi.com/files/04321e33-8f19-4733-86d7-53a8a2ed6456",
-      "file": "https://phira.5wyxi.com/files/d2411b0e-f405-4e50-ac66-0d19f4aee7f2",
-      "uploader": 520278,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8533043,
-      "ratingCount": 0,
-      "created": "2026-08-11T12:56:08.931665Z",
-      "updated": "2026-08-11T12:56:08.931665Z",
-      "chartUpdated": "2026-08-11T12:56:08.931665Z"
-    },
-    {
-      "id": 72708,
-      "name": "A Fool Moon Night",
-      "level": "4K Fool Lv.?",
-      "difficulty": 0.0,
-      "charter": "YMEA",
-      "composer": "Koxx",
-      "illustrator": "",
-      "description": "本人上传\n尝试一下新写法\n后面忘了\nqq个入群169198220",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/81bea067-62dd-4ef7-8e60-5435aaf8f551",
-      "preview": "https://phira.5wyxi.com/files/bc4ea39c-8f42-4921-8c1a-2f4a42695887",
-      "file": "https://phira.5wyxi.com/files/12c5f0be-20e7-48fa-b854-7a2764f9c15a",
-      "uploader": 3470464,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.89347696,
-      "ratingCount": 0,
-      "created": "2026-08-11T09:34:39.798790Z",
-      "updated": "2026-08-11T09:34:39.798790Z",
-      "chartUpdated": "2026-08-11T09:34:39.798790Z"
     }
   ]
 }
