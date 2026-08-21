@@ -13,14 +13,14 @@
   "name": "Рорру",
   "preview": "https://phira.5wyxi.com/files/60683e28-3785-4a22-9fb6-890619e8fdfd",
   "ranked": false,
-  "rating": 0.9351109,
-  "ratingCount": 39,
-  "reviewed": true,
+  "rating": 0.9148409,
+  "ratingCount": 261,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-11T14:06:47.668673Z",
+  "updated": "2026-08-20T07:24:26.087308Z",
   "uploader": 1535997
 }
