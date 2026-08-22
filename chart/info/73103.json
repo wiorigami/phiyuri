@@ -13,11 +13,11 @@
   "name": "Amphisbaena",
   "preview": "https://phira.5wyxi.com/files/faf88cb2-f5c1-41dd-80cd-b0f1057f7096",
   "ranked": false,
-  "rating": 0.89867747,
-  "ratingCount": 73,
-  "reviewed": true,
+  "rating": 0.90485233,
+  "ratingCount": 119,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "IPL",
     "协调",
@@ -27,6 +27,6 @@
     "TG",
     "regular"
   ],
-  "updated": "2026-08-13T07:03:41.203036Z",
+  "updated": "2026-08-21T06:52:36.511859Z",
   "uploader": 1104838
 }

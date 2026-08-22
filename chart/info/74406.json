@@ -13,14 +13,14 @@
   "name": "Rustala",
   "preview": "https://phira.5wyxi.com/files/8776f888-2587-4f73-ae5f-dd837be2db8f",
   "ranked": false,
-  "rating": 0.8635754,
-  "ratingCount": 89,
-  "reviewed": true,
+  "rating": 0.88077176,
+  "ratingCount": 138,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-19T10:44:27.877732Z",
+  "updated": "2026-08-21T12:16:56.553923Z",
   "uploader": 90129
 }
