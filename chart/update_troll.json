@@ -2,6 +2,32 @@
   "count": 655,
   "results": [
     {
+      "id": 73582,
+      "name": "老叟戏顽童",
+      "level": "SP Lv.?",
+      "difficulty": 18.0,
+      "charter": "褚赢",
+      "composer": "浮生cover.M宇",
+      "illustrator": "",
+      "description": "三天后下架了喵\n下架了各位不要盗传\n获取谱面资源进群1032562434",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4fba305d-5091-4179-8b3a-983604974e3e",
+      "preview": "https://phira.5wyxi.com/files/be139d8b-0ddf-46b9-9a3b-337cbe47a5b8",
+      "file": "https://phira.5wyxi.com/files/8a611bee-5fa9-42d0-8fdc-a9debcdbc529",
+      "uploader": 2538,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.8868881,
+      "ratingCount": 24173,
+      "created": "2026-08-15T14:44:24.304404Z",
+      "updated": "2026-08-22T09:10:17.643686Z",
+      "chartUpdated": "2026-08-15T14:44:24.304404Z"
+    },
+    {
       "id": 74557,
       "name": "Fixations Toward the Stars",
       "level": "SP Lv.?",
@@ -21,37 +47,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7827647,
+      "rating": 0.79221433,
       "ratingCount": 23,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
       "chartUpdated": "2026-08-20T06:03:15.738981Z"
-    },
-    {
-      "id": 73582,
-      "name": "老叟戏顽童",
-      "level": "SP Lv.?",
-      "difficulty": 18.0,
-      "charter": "褚赢",
-      "composer": "浮生cover.M宇",
-      "illustrator": "",
-      "description": "随便写着玩的也够谱面\r\n1h写完图一乐\n发布任何有关该谱面视频时请标注谱师@Ratzen\r\n获取更多资源和谱面进群1032562434",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/bfb153be-1b49-42e6-b8af-1cfd1bdab12b",
-      "preview": "https://phira.5wyxi.com/files/8fb76ada-28eb-42b4-90e9-6fda691ff61f",
-      "file": "https://phira.5wyxi.com/files/032f7973-e155-4399-96f2-ef89cb1a448b",
-      "uploader": 2538,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8882228,
-      "ratingCount": 22590,
-      "created": "2026-08-15T14:44:24.304404Z",
-      "updated": "2026-08-15T14:48:29.764482Z",
-      "chartUpdated": "2026-08-15T14:44:24.304404Z"
     },
     {
       "id": 70013,
@@ -101,7 +101,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8886854,
+      "rating": 0.88885117,
       "ratingCount": 8471,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -127,7 +127,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.95210934,
+      "rating": 0.95199054,
       "ratingCount": 11447,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -154,7 +154,7 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.8865601,
+      "rating": 0.8865923,
       "ratingCount": 91523,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
@@ -180,7 +180,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8345871,
+      "rating": 0.83439624,
       "ratingCount": 2869,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -206,7 +206,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76987725,
+      "rating": 0.76984864,
       "ratingCount": 15565,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -232,7 +232,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.87391555,
+      "rating": 0.87376684,
       "ratingCount": 9651,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -258,7 +258,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.84680307,
+      "rating": 0.8484856,
       "ratingCount": 88,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
@@ -312,7 +312,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.80397815,
+      "rating": 0.80408746,
       "ratingCount": 6235,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -392,7 +392,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81332964,
+      "rating": 0.81268847,
       "ratingCount": 1562,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -418,7 +418,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89832467,
+      "rating": 0.89783543,
       "ratingCount": 3228,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -445,7 +445,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9201113,
+      "rating": 0.9203529,
       "ratingCount": 1460,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -497,7 +497,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75402063,
+      "rating": 0.7546484,
       "ratingCount": 700,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -523,7 +523,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8130051,
+      "rating": 0.81286365,
       "ratingCount": 1532,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -549,7 +549,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.90459234,
+      "rating": 0.904909,
       "ratingCount": 300,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -575,7 +575,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9416367,
+      "rating": 0.94212663,
       "ratingCount": 3712,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -601,7 +601,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7130553,
+      "rating": 0.714483,
       "ratingCount": 537,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -627,7 +627,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7665781,
+      "rating": 0.76715666,
       "ratingCount": 138,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -679,7 +679,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8310686,
+      "rating": 0.832043,
       "ratingCount": 242,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -707,7 +707,7 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.8839726,
+      "rating": 0.883524,
       "ratingCount": 812,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
@@ -735,7 +735,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9564966,
+      "rating": 0.95692146,
       "ratingCount": 98,
       "created": "2026-04-11T12:30:15.846877Z",
       "updated": "2026-04-11T12:30:15.846877Z",
@@ -763,7 +763,7 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.9236137,
+      "rating": 0.92399645,
       "ratingCount": 1101,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
@@ -789,7 +789,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8953678,
+      "rating": 0.8955379,
       "ratingCount": 2280,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
