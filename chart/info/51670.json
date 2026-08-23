@@ -1,26 +1,26 @@
 {
-  "chartUpdated": "2026-06-20T02:38:06.286799Z",
+  "chartUpdated": "2026-08-22T11:19:56.709690Z",
   "charter": "Decaplex",
   "composer": "R300K",
   "created": "2026-01-26T10:57:21.953938Z",
   "description": "Fan-made IN chart.",
   "difficulty": 16.1,
-  "file": "https://phira.5wyxi.com/files/85dceec4-bafd-4c92-90bd-06dc6574e264",
+  "file": "https://phira.5wyxi.com/files/7c71dda3-dd98-439a-be74-545d6371ced9",
   "id": 51670,
-  "illustration": "https://phira.5wyxi.com/files/29fa2842-a024-4660-95ad-2c7fb1205b9c",
+  "illustration": "https://phira.5wyxi.com/files/58cc580f-86a5-4a7a-8332-fd8ba9416f3d",
   "illustrator": "",
   "level": "IN Lv.16",
   "name": "幻影鬼魅 (PLEASE)",
-  "preview": "https://phira.5wyxi.com/files/25b0cfbc-2245-4dd9-9d0f-76d1a9d8c522",
+  "preview": "https://phira.5wyxi.com/files/08121273-d2ea-4218-86b6-3a50e95b5df7",
   "ranked": false,
-  "rating": 0.80864227,
-  "ratingCount": 591,
+  "rating": 0.8203264,
+  "ratingCount": 812,
   "reviewed": true,
   "stable": false,
   "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-20T02:38:06.286799Z",
+  "updated": "2026-08-22T11:19:56.709690Z",
   "uploader": 614143
 }

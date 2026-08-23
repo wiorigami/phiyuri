@@ -13,11 +13,11 @@
   "name": "ドーピングダンス Doping Dance 亢奋剂舞",
   "preview": "https://phira.5wyxi.com/files/54076e35-40f0-40fd-ba41-13cb9ba7274a",
   "ranked": false,
-  "rating": 0.9447975,
-  "ratingCount": 1450,
-  "reviewed": false,
+  "rating": 0.9424176,
+  "ratingCount": 1645,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

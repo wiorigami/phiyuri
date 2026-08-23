@@ -13,14 +13,14 @@
   "name": "Angel dust",
   "preview": "https://phira.5wyxi.com/files/ac65f1d8-3052-4009-ba5d-66c567a9f81a",
   "ranked": false,
-  "rating": 0.8909933,
-  "ratingCount": 389,
-  "reviewed": true,
+  "rating": 0.8843041,
+  "ratingCount": 490,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-06-13T11:16:48.558181Z",
+  "updated": "2026-08-22T08:32:25.918294Z",
   "uploader": 44
 }
