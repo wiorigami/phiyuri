@@ -1,6 +1,34 @@
 {
-  "count": 3215,
+  "count": 3216,
   "results": [
+    {
+      "id": 47905,
+      "name": "Extreme Fantasy",
+      "level": "Maximum.1 Lv.15+",
+      "difficulty": 15.9,
+      "charter": "Extreme Feather",
+      "composer": "Memme",
+      "illustrator": "",
+      "description": "neta神秘rm侧极限1  谱师本人上传 b站：壹芝雜羽kld_ill-none",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7954b565-985a-4a39-8c96-594e9f62e3fd",
+      "preview": "https://phira.5wyxi.com/files/a27ea927-5dc4-4cdc-9cf7-c7271d82b7c7",
+      "file": "https://phira.5wyxi.com/files/381770e9-9119-4d62-bf34-b987b9638689",
+      "uploader": 1946893,
+      "tags": [
+        "双指",
+        "DFC",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2025-10-08T14:28:43.249230Z",
+      "updated": "2026-08-24T11:01:50.545786Z",
+      "chartUpdated": "2025-10-08T14:28:43.249230Z"
+    },
     {
       "id": 75227,
       "name": "felys -final remix-",
@@ -21,7 +49,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7083,
+      "rating": 0.6957933,
       "ratingCount": 0,
       "created": "2026-08-23T11:20:37.549552Z",
       "updated": "2026-08-23T11:20:37.549552Z",
@@ -47,7 +75,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83321184,
+      "rating": 0.8440427,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -75,7 +103,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8140483,
+      "rating": 0.81579334,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -103,7 +131,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.83321184,
+      "rating": 0.8198189,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -139,6 +167,32 @@
       "chartUpdated": "2026-08-22T16:28:25.361477Z"
     },
     {
+      "id": 74858,
+      "name": "Crimson Reverie",
+      "level": "5k",
+      "difficulty": 20.0,
+      "charter": "Zbe12345",
+      "composer": "flappa",
+      "illustrator": "",
+      "description": "本人上传\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4b163286-101b-4bc8-afd7-e1a28f0915a4",
+      "preview": "https://phira.5wyxi.com/files/c8f12d4f-5f46-4844-8dde-dba92008906c",
+      "file": "https://phira.5wyxi.com/files/5566e2b4-266b-43ec-beec-f660633f23f2",
+      "uploader": 1460294,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.837691,
+      "ratingCount": 0,
+      "created": "2026-08-21T13:32:00.058158Z",
+      "updated": "2026-08-21T13:32:00.058158Z",
+      "chartUpdated": "2026-08-21T13:32:00.058158Z"
+    },
+    {
       "id": 74828,
       "name": "Boss Rush",
       "level": "AT Lv.17",
@@ -158,7 +212,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8104813,
+      "rating": 0.84067386,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -184,7 +238,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8260252,
+      "rating": 0.85058594,
       "ratingCount": 2,
       "created": "2026-08-21T09:50:22.241644Z",
       "updated": "2026-08-21T09:50:22.241644Z",
@@ -211,7 +265,7 @@
         "Calamity",
         "plain"
       ],
-      "rating": 0.92343783,
+      "rating": 0.9249048,
       "ratingCount": 13,
       "created": "2026-08-06T15:21:59.485632Z",
       "updated": "2026-08-21T08:01:10.055827Z",
@@ -243,7 +297,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.91186756,
+      "rating": 0.9165853,
       "ratingCount": 1,
       "created": "2026-08-21T05:02:52.266503Z",
       "updated": "2026-08-21T05:02:52.266503Z",
@@ -270,7 +324,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.84672105,
+      "rating": 0.8388382,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -332,7 +386,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.8778362,
+      "rating": 0.88649786,
       "ratingCount": 2,
       "created": "2026-08-20T14:33:51.715440Z",
       "updated": "2026-08-20T14:33:51.715440Z",
@@ -367,7 +421,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.856128,
       "ratingCount": 1,
       "created": "2026-08-20T14:19:24.457877Z",
       "updated": "2026-08-20T14:19:24.457877Z",
@@ -398,7 +452,7 @@
         "",
         "plain"
       ],
-      "rating": 0.87015015,
+      "rating": 0.8701241,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
@@ -424,7 +478,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87427056,
+      "rating": 0.86871433,
       "ratingCount": 88,
       "created": "2026-08-19T15:44:26.084165Z",
       "updated": "2026-08-19T15:44:26.084165Z",
@@ -450,7 +504,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.966226,
+      "rating": 0.9656987,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -503,7 +557,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8962535,
+      "rating": 0.9043207,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
@@ -529,7 +583,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8443838,
+      "rating": 0.85879683,
       "ratingCount": 12,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
@@ -556,7 +610,7 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.90060073,
+      "rating": 0.9020435,
       "ratingCount": 77,
       "created": "2026-08-19T09:30:48.453449Z",
       "updated": "2026-08-19T09:40:12.675914Z",
@@ -582,7 +636,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8609741,
+      "rating": 0.91263044,
       "ratingCount": 0,
       "created": "2026-08-19T05:25:12.996399Z",
       "updated": "2026-08-19T05:25:12.996399Z",
@@ -608,7 +662,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90178806,
+      "rating": 0.90236557,
       "ratingCount": 1830,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-08-19T05:11:21.407525Z",
@@ -692,7 +746,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.69704384,
+      "rating": 0.661978,
       "ratingCount": 0,
       "created": "2026-08-18T15:15:01.226068Z",
       "updated": "2026-08-18T15:15:01.226068Z",
@@ -750,7 +804,7 @@
         "dfc",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.70983166,
       "ratingCount": 0,
       "created": "2026-08-18T15:14:25.161754Z",
       "updated": "2026-08-18T15:14:25.161754Z",
@@ -784,59 +838,6 @@
       "created": "2026-08-18T15:13:52.538549Z",
       "updated": "2026-08-18T15:13:52.538549Z",
       "chartUpdated": "2026-08-18T15:13:52.538549Z"
-    },
-    {
-      "id": 67442,
-      "name": "Miracle Summertime",
-      "level": "AT Lv.17",
-      "difficulty": 17.1,
-      "charter": "smyzt",
-      "composer": "brz1128",
-      "illustrator": "",
-      "description": "无轨小键盘",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/27d38e1c-c7c0-4965-b204-a5cd93bfefc4",
-      "preview": "https://phira.5wyxi.com/files/b2bf752b-6a76-41e5-9715-09cb65785056",
-      "file": "https://phira.5wyxi.com/files/9fc60a16-3dd2-433e-90ad-5bb70cfddda8",
-      "uploader": 3006112,
-      "tags": [
-        "切",
-        "plain"
-      ],
-      "rating": 0.91914195,
-      "ratingCount": 41,
-      "created": "2026-07-18T07:26:43.424450Z",
-      "updated": "2026-08-18T10:25:49.657512Z",
-      "chartUpdated": "2026-08-18T10:25:49.657512Z"
-    },
-    {
-      "id": 74137,
-      "name": " Probabaly Bad Too",
-      "level": "恋爱循环 Lv.19",
-      "difficulty": 18.999998,
-      "charter": "MHwiskasler",
-      "composer": "Reizikini",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d159bce0-e094-4f90-b7d1-9ecc32e72af8",
-      "preview": "https://phira.5wyxi.com/files/ef418bbc-125d-41f5-96a8-ab7ef913f2db",
-      "file": "https://phira.5wyxi.com/files/746d23d5-0ac3-4fb9-80dc-2d9241612025",
-      "uploader": 2159513,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8448369,
-      "ratingCount": 14,
-      "created": "2026-08-18T10:05:17.568600Z",
-      "updated": "2026-08-18T10:05:17.568600Z",
-      "chartUpdated": "2026-08-18T10:05:17.568600Z"
     }
   ]
 }
