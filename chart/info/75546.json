@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-08-25T02:28:39.049567Z",
+  "charter": "Lost izu",
+  "composer": "Sakuzyo",
+  "created": "2026-08-25T02:28:39.049567Z",
+  "description": "原版3分30秒 至 3分44秒的背景动画是逐帧动画。（但实际在phira无法正常显示，故上传版已替换成正常表演）\n\n为更好的动效观看体验，本谱面已自动关闭ap/fc指示器。判定线颜色无法指示AP/FC情况！！\n谱面信息：\n判定线：134根（其中54根用于逐帧动画的制作）phira上传版用线80根\n事件数：15676（phira上传版：15347）\nnote数：1370+16（假note）\n定数：free",
+  "difficulty": 15.400001,
+  "file": "https://phira.5wyxi.com/files/e61e42bf-1053-4726-825e-8fe3bde4a13e",
+  "id": 75546,
+  "illustration": "https://phira.5wyxi.com/files/9472be02-5a09-4a3f-97e8-9c92adcd252f",
+  "illustrator": "",
+  "level": "SPLENDID Lv.[FREE]",
+  "name": "Lost Memory",
+  "preview": "https://phira.5wyxi.com/files/11828f44-2d77-4d43-b8f5-b56dd1d410a9",
+  "ranked": false,
+  "rating": 0.94021726,
+  "ratingCount": 49,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-08-25T02:28:39.049567Z",
+  "uploader": 792771
+}

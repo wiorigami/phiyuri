@@ -13,14 +13,14 @@
   "name": "時ノ旅ビト (feat. 重音テト)",
   "preview": "https://phira.5wyxi.com/files/928b5b91-bdb7-4144-b607-e0512747db75",
   "ranked": false,
-  "rating": 0.9368546,
-  "ratingCount": 122,
-  "reviewed": true,
+  "rating": 0.9321378,
+  "ratingCount": 187,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-24T11:48:42.314367Z",
+  "updated": "2026-08-25T18:42:27.582209Z",
   "uploader": 148983
 }

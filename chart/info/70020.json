@@ -13,14 +13,14 @@
   "name": "八荒 ~The Glorious World~",
   "preview": "https://phira.5wyxi.com/files/170f45c4-591e-497d-85e8-afd02edb91eb",
   "ranked": false,
-  "rating": 0.8170691,
-  "ratingCount": 127,
-  "reviewed": true,
+  "rating": 0.8082675,
+  "ratingCount": 152,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-19T09:51:50.955409Z",
+  "updated": "2026-08-25T18:41:05.229031Z",
   "uploader": 15636
 }
