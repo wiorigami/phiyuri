@@ -1,6 +1,32 @@
 {
-  "count": 654,
+  "count": 655,
   "results": [
+    {
+      "id": 75183,
+      "name": "Cervelle Connexion",
+      "level": "SP Lv.?",
+      "difficulty": 10.0,
+      "charter": "ndjdkd",
+      "composer": "SCTL",
+      "illustrator": "",
+      "description": "本谱面为实验性谱面，需借助B站视频BV1P5b96eE1y游玩\n粉扑，不喜勿喷",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0fc4990f-5af6-4d9b-bc49-5f5ceeda9f95",
+      "preview": "https://phira.5wyxi.com/files/d8fd319b-d926-4f11-9099-a8b0738e9aa0",
+      "file": "https://phira.5wyxi.com/files/92d0a593-14fb-40b9-adba-d54cdbf81bcc",
+      "uploader": 15880,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.70769215,
+      "ratingCount": 0,
+      "created": "2026-08-23T06:57:24.807378Z",
+      "updated": "2026-08-23T06:57:24.807378Z",
+      "chartUpdated": "2026-08-23T06:57:24.807378Z"
+    },
     {
       "id": 74557,
       "name": "Fixations Toward the Stars",
@@ -21,7 +47,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8024055,
+      "rating": 0.811034,
       "ratingCount": 23,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
@@ -75,7 +101,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.888998,
+      "rating": 0.8890105,
       "ratingCount": 8471,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -101,7 +127,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.95175767,
+      "rating": 0.9517008,
       "ratingCount": 11447,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -128,7 +154,7 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.88657373,
+      "rating": 0.88664746,
       "ratingCount": 91523,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
@@ -154,7 +180,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8342843,
+      "rating": 0.83348274,
       "ratingCount": 2869,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -180,7 +206,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76964086,
+      "rating": 0.7698331,
       "ratingCount": 15565,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -206,7 +232,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8738004,
+      "rating": 0.8737878,
       "ratingCount": 9651,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -286,7 +312,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8049129,
+      "rating": 0.80532724,
       "ratingCount": 6235,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -366,7 +392,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81089383,
+      "rating": 0.80967534,
       "ratingCount": 1562,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -392,7 +418,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8967563,
+      "rating": 0.89632094,
       "ratingCount": 3228,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -419,7 +445,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9205743,
+      "rating": 0.9211078,
       "ratingCount": 1460,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -471,7 +497,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75349635,
+      "rating": 0.75232714,
       "ratingCount": 700,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -497,7 +523,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8133175,
+      "rating": 0.81349105,
       "ratingCount": 1532,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -523,7 +549,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.904909,
+      "rating": 0.90522355,
       "ratingCount": 300,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -549,7 +575,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9417434,
+      "rating": 0.9412477,
       "ratingCount": 3712,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -575,7 +601,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7160247,
+      "rating": 0.714798,
       "ratingCount": 537,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -681,7 +707,7 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.88410145,
+      "rating": 0.883188,
       "ratingCount": 812,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
@@ -737,7 +763,7 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.9250785,
+      "rating": 0.9253144,
       "ratingCount": 1101,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
@@ -763,38 +789,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89538586,
+      "rating": 0.89538664,
       "ratingCount": 2280,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
       "chartUpdated": "2026-04-11T02:47:02.705037Z"
-    },
-    {
-      "id": 55041,
-      "name": "TRILLIUM HARDTEKK",
-      "level": "AT Lv.0",
-      "difficulty": 0.0,
-      "charter": "孙子有  内号",
-      "composer": "S3RL&BEARN",
-      "illustrator": "",
-      "description": "史上最神圣的谱出现了！！！！！！\n跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠跳⃠跃⃠不⃠是⃠罪⃠过⃠",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6d6a649d-9917-4d1b-96a2-61edbfb85d0d",
-      "preview": "https://phira.5wyxi.com/files/95d2d34b-c193-4158-a9a4-4f8d54a7a174",
-      "file": "https://phira.5wyxi.com/files/93db7143-1b82-4946-8e45-bf99b5e15d9f",
-      "uploader": 2009444,
-      "tags": [
-        "神圣之谱",
-        "troll"
-      ],
-      "rating": 0.840116,
-      "ratingCount": 2242,
-      "created": "2026-04-05T00:29:18.191159Z",
-      "updated": "2026-04-05T00:29:18.191159Z",
-      "chartUpdated": "2026-04-05T00:29:18.191159Z"
     }
   ]
 }
