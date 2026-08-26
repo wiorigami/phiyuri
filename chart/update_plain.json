@@ -1,33 +1,157 @@
 {
-  "count": 3216,
+  "count": 3219,
   "results": [
     {
-      "id": 47905,
-      "name": "Extreme Fantasy",
-      "level": "Maximum.1 Lv.15+",
-      "difficulty": 15.9,
-      "charter": "Extreme Feather",
-      "composer": "Memme",
+      "id": 75625,
+      "name": "Melodiniq",
+      "level": "4K Master Lv.38",
+      "difficulty": 36.0,
+      "charter": "Mum,Wang",
+      "composer": "onoken a.k.a. owl*tree",
       "illustrator": "",
-      "description": "neta神秘rm侧极限1  谱师本人上传 b站：壹芝雜羽kld_ill-none",
+      "description": "本人上传",
       "ranked": false,
       "reviewed": true,
       "stable": false,
       "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7954b565-985a-4a39-8c96-594e9f62e3fd",
-      "preview": "https://phira.5wyxi.com/files/a27ea927-5dc4-4cdc-9cf7-c7271d82b7c7",
-      "file": "https://phira.5wyxi.com/files/381770e9-9119-4d62-bf34-b987b9638689",
-      "uploader": 1946893,
+      "illustration": "https://phira.5wyxi.com/files/026ec194-45a6-4de2-9e4a-efb214769e68",
+      "preview": "https://phira.5wyxi.com/files/009e66f7-f08e-431b-a64e-83156ab3efa7",
+      "file": "https://phira.5wyxi.com/files/f50bcd94-1c29-42e0-997a-8a8b4ad66878",
+      "uploader": 86752,
       "tags": [
-        "双指",
-        "DFC",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.847269,
       "ratingCount": 0,
-      "created": "2025-10-08T14:28:43.249230Z",
-      "updated": "2026-08-24T11:01:50.545786Z",
-      "chartUpdated": "2025-10-08T14:28:43.249230Z"
+      "created": "2026-08-25T09:27:09.561731Z",
+      "updated": "2026-08-25T09:27:09.561731Z",
+      "chartUpdated": "2026-08-25T09:27:09.561731Z"
+    },
+    {
+      "id": 75501,
+      "name": "Breakcore□□前夜",
+      "level": "Flow",
+      "difficulty": 18.1,
+      "charter": "HRS-Team",
+      "composer": "katagiri",
+      "illustrator": "",
+      "description": "HRS-Lv.18-Flow单曲\n对高难的首次尝试，请多多谅解",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d73e8a6b-1260-4118-979d-8ee9f6bf8736",
+      "preview": "https://phira.5wyxi.com/files/2d329a8e-24a4-4a7e-b3a6-ec91c8c2f4b8",
+      "file": "https://phira.5wyxi.com/files/4e2b559a-5873-41c9-b17b-f51591cf5034",
+      "uploader": 3973081,
+      "tags": [
+        "HRS",
+        "双指",
+        "Flow",
+        "幻",
+        "plain"
+      ],
+      "rating": 0.8257282,
+      "ratingCount": 0,
+      "created": "2026-08-24T15:40:37.312229Z",
+      "updated": "2026-08-24T15:40:37.312229Z",
+      "chartUpdated": "2026-08-24T15:40:37.312229Z"
+    },
+    {
+      "id": 75495,
+      "name": "忘れてやらない",
+      "level": "Sync",
+      "difficulty": 9.100001,
+      "charter": "HRS-Team",
+      "composer": "結束バンド",
+      "illustrator": "",
+      "description": "HRS-Lv.9-Sync单曲\n这是个合作谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d9f9858a-5e48-4d2b-b743-fba6803813b6",
+      "preview": "https://phira.5wyxi.com/files/0bc2ef44-2fb0-45b2-b585-212654b9e221",
+      "file": "https://phira.5wyxi.com/files/12f948d5-6f8f-4992-a14b-3f030f165600",
+      "uploader": 3973081,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "9",
+        "Sync",
+        "协",
+        "plain"
+      ],
+      "rating": 0.9160823,
+      "ratingCount": 0,
+      "created": "2026-08-24T15:13:05.665384Z",
+      "updated": "2026-08-24T15:13:05.665384Z",
+      "chartUpdated": "2026-08-24T15:13:05.665384Z"
+    },
+    {
+      "id": 75494,
+      "name": "SAtAN",
+      "level": "Sync",
+      "difficulty": 15.499996,
+      "charter": "HRS-Team",
+      "composer": "P*Light",
+      "illustrator": "",
+      "description": "HRS-Lv.15-Sync单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/42e4047d-7c92-4c33-bba5-268d67a8e102",
+      "preview": "https://phira.5wyxi.com/files/6c3ec62e-32f3-49ba-a430-6e9570e23c36",
+      "file": "https://phira.5wyxi.com/files/ec201ef4-4d55-40e5-a49d-7eff480678d4",
+      "uploader": 3973081,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "15",
+        "Sync",
+        "协",
+        "plain"
+      ],
+      "rating": 0.74297315,
+      "ratingCount": 0,
+      "created": "2026-08-24T15:12:39.570627Z",
+      "updated": "2026-08-24T15:12:39.570627Z",
+      "chartUpdated": "2026-08-24T15:12:39.570627Z"
+    },
+    {
+      "id": 75493,
+      "name": "いますぐ輪廻",
+      "level": "Flow",
+      "difficulty": 10.500002,
+      "charter": "HRS-Team",
+      "composer": "なきそ",
+      "illustrator": "",
+      "description": "HRS-Lv.10-Flow单曲\n有小巧思，嗯对",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bfa21f98-6680-4df3-8e9b-055f18e44997",
+      "preview": "https://phira.5wyxi.com/files/9e8219c7-f28c-4f7c-b979-810d5c1fd537",
+      "file": "https://phira.5wyxi.com/files/5a72ceb8-f3e5-4413-ba3e-2d97dada6f9b",
+      "uploader": 3973081,
+      "tags": [
+        "HRS",
+        "双指",
+        "谐律段位",
+        "10",
+        "Flow",
+        "幻",
+        "plain"
+      ],
+      "rating": 0.8958565,
+      "ratingCount": 0,
+      "created": "2026-08-24T15:11:34.719118Z",
+      "updated": "2026-08-24T15:11:34.719118Z",
+      "chartUpdated": "2026-08-24T15:11:34.719118Z"
     },
     {
       "id": 75227,
@@ -49,7 +173,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.6957933,
+      "rating": 0.7372186,
       "ratingCount": 0,
       "created": "2026-08-23T11:20:37.549552Z",
       "updated": "2026-08-23T11:20:37.549552Z",
@@ -75,7 +199,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8440427,
+      "rating": 0.8719451,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -103,7 +227,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.81579334,
+      "rating": 0.80895865,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -131,7 +255,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8198189,
+      "rating": 0.8134257,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -160,7 +284,7 @@
         "段位",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2026-08-22T16:28:25.361477Z",
       "updated": "2026-08-22T16:28:25.361477Z",
@@ -186,7 +310,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.837691,
+      "rating": 0.88633513,
       "ratingCount": 0,
       "created": "2026-08-21T13:32:00.058158Z",
       "updated": "2026-08-21T13:32:00.058158Z",
@@ -212,7 +336,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84067386,
+      "rating": 0.8276627,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -324,7 +448,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8388382,
+      "rating": 0.8422652,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -386,7 +510,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.88649786,
+      "rating": 0.8940588,
       "ratingCount": 2,
       "created": "2026-08-20T14:33:51.715440Z",
       "updated": "2026-08-20T14:33:51.715440Z",
@@ -421,7 +545,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.856128,
+      "rating": 0.8258486,
       "ratingCount": 1,
       "created": "2026-08-20T14:19:24.457877Z",
       "updated": "2026-08-20T14:19:24.457877Z",
@@ -452,7 +576,7 @@
         "",
         "plain"
       ],
-      "rating": 0.8701241,
+      "rating": 0.87000394,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
@@ -478,7 +602,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86871433,
+      "rating": 0.8750478,
       "ratingCount": 88,
       "created": "2026-08-19T15:44:26.084165Z",
       "updated": "2026-08-19T15:44:26.084165Z",
@@ -504,7 +628,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9656987,
+      "rating": 0.96421075,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -531,7 +655,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8903806,
+      "rating": 0.88679713,
       "ratingCount": 16,
       "created": "2026-08-19T13:42:57.815210Z",
       "updated": "2026-08-19T13:42:57.815210Z",
@@ -557,7 +681,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9043207,
+      "rating": 0.9257412,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
@@ -583,7 +707,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85879683,
+      "rating": 0.84170127,
       "ratingCount": 12,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
@@ -610,7 +734,7 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.9020435,
+      "rating": 0.89967364,
       "ratingCount": 77,
       "created": "2026-08-19T09:30:48.453449Z",
       "updated": "2026-08-19T09:40:12.675914Z",
@@ -636,7 +760,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91263044,
+      "rating": 0.9088744,
       "ratingCount": 0,
       "created": "2026-08-19T05:25:12.996399Z",
       "updated": "2026-08-19T05:25:12.996399Z",
@@ -662,7 +786,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90236557,
+      "rating": 0.9025166,
       "ratingCount": 1830,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-08-19T05:11:21.407525Z",
@@ -688,7 +812,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8678234,
+      "rating": 0.8778362,
       "ratingCount": 6,
       "created": "2026-08-18T16:24:46.663082Z",
       "updated": "2026-08-18T16:24:46.663082Z",
@@ -722,122 +846,6 @@
       "created": "2026-08-18T15:39:39.253040Z",
       "updated": "2026-08-18T15:39:39.253040Z",
       "chartUpdated": "2026-08-18T15:39:39.253040Z"
-    },
-    {
-      "id": 74219,
-      "name": "Double Finger Vibro 8 Dan",
-      "level": "DF Vibro-8",
-      "difficulty": 8.0,
-      "charter": "Essent1al_",
-      "composer": "V. A.",
-      "illustrator": "",
-      "description": "本人上传\n欢迎来到DFV-8 Dan，这张谱由Essent1al_制作\n同时欢迎您加入我们的DFV讨论群:780220024",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1f4e134d-0cfb-4a98-b881-a08baccfb72a",
-      "preview": "https://phira.5wyxi.com/files/0d495f3c-b824-4dd0-ae49-c60bd99d1f8d",
-      "file": "https://phira.5wyxi.com/files/597b44f2-fdbb-4690-9592-29e7bde5f89b",
-      "uploader": 3880377,
-      "tags": [
-        "dfv",
-        "vibro",
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.661978,
-      "ratingCount": 0,
-      "created": "2026-08-18T15:15:01.226068Z",
-      "updated": "2026-08-18T15:15:01.226068Z",
-      "chartUpdated": "2026-08-18T15:15:01.226068Z"
-    },
-    {
-      "id": 74218,
-      "name": "Double Finger Vibro 7 Dan",
-      "level": "DF Vibro-7",
-      "difficulty": 7.0,
-      "charter": "XJJ520",
-      "composer": "V. A.",
-      "illustrator": "",
-      "description": "本人上传\n欢迎来到DFV-7 Dan，这张谱由XJJ制作\n同时欢迎您加入我们的DFV讨论群:780220024",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/75e61d74-3405-4e91-ac44-f5cd12499cf2",
-      "preview": "https://phira.5wyxi.com/files/21d6a5d7-165d-4eae-bd31-12a00b89af5a",
-      "file": "https://phira.5wyxi.com/files/c3ac25a2-0811-4f06-a6ab-b9337b927c01",
-      "uploader": 3880377,
-      "tags": [
-        "dfv",
-        "vibro",
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.7749479,
-      "ratingCount": 2,
-      "created": "2026-08-18T15:14:42.487066Z",
-      "updated": "2026-08-18T15:14:42.487066Z",
-      "chartUpdated": "2026-08-18T15:14:42.487066Z"
-    },
-    {
-      "id": 74217,
-      "name": "Double Finger Vibro 6 Dan",
-      "level": "DF Vibro-6",
-      "difficulty": 6.0,
-      "charter": "Essent1al_",
-      "composer": "V. A.",
-      "illustrator": "",
-      "description": "本人上传\n欢迎来到DFV-6 Dan，这张谱由Essent1al_制作\n同时欢迎您加入我们的DFV讨论群:780220024",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3414aecd-562e-416f-b333-1a8a4ac27e2f",
-      "preview": "https://phira.5wyxi.com/files/773e2dc8-633a-4d0e-9ef5-d6c5dbb7153c",
-      "file": "https://phira.5wyxi.com/files/25a251ab-58d3-4591-9505-a352680594e9",
-      "uploader": 3880377,
-      "tags": [
-        "dfv",
-        "vibro",
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.70983166,
-      "ratingCount": 0,
-      "created": "2026-08-18T15:14:25.161754Z",
-      "updated": "2026-08-18T15:14:25.161754Z",
-      "chartUpdated": "2026-08-18T15:14:25.161754Z"
-    },
-    {
-      "id": 74215,
-      "name": "Double Finger Vibro 4 Dan",
-      "level": "DF Vibro-4",
-      "difficulty": 4.0,
-      "charter": "Essent1al_",
-      "composer": "V. A.",
-      "illustrator": "",
-      "description": "本人上传\n欢迎来到DFV-4 Dan，这张谱由Essent1al_制作\n同时欢迎您加入我们的DFV讨论群:780220024",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0bdd33e7-73f4-4270-92c8-65f214226729",
-      "preview": "https://phira.5wyxi.com/files/a80c22d5-897a-4127-b508-a7e919cf8116",
-      "file": "https://phira.5wyxi.com/files/d187bcaa-52ac-4907-ad64-0aecbbc6ffb2",
-      "uploader": 3880377,
-      "tags": [
-        "dfv",
-        "vibro",
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.8092937,
-      "ratingCount": 24,
-      "created": "2026-08-18T15:13:52.538549Z",
-      "updated": "2026-08-18T15:13:52.538549Z",
-      "chartUpdated": "2026-08-18T15:13:52.538549Z"
     }
   ]
 }
