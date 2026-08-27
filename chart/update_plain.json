@@ -2,6 +2,64 @@
   "count": 3219,
   "results": [
     {
+      "id": 75800,
+      "name": "Volcanic",
+      "level": "Pulse Lv.15",
+      "difficulty": 15.300002,
+      "charter": "TEC109",
+      "composer": "luze",
+      "illustrator": "",
+      "description": "本人上传 \n1210/3241 98.01%\n一些神秘的耐力练习\n双指高难谱面，多指谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d98eb96a-ee72-4ae6-80d6-4274a56b2c28",
+      "preview": "https://phira.5wyxi.com/files/147bc6dd-0b51-4fa4-a0d0-4696d95387e7",
+      "file": "https://phira.5wyxi.com/files/7fe991ec-259d-4b8d-961d-3f71820dd72d",
+      "uploader": 3992187,
+      "tags": [
+        "DFC",
+        "双指",
+        "叠",
+        "耐力",
+        "plain"
+      ],
+      "rating": 0.7702027,
+      "ratingCount": 0,
+      "created": "2026-08-26T08:34:17.466723Z",
+      "updated": "2026-08-26T08:34:17.466723Z",
+      "chartUpdated": "2026-08-26T08:34:17.466723Z"
+    },
+    {
+      "id": 75696,
+      "name": "MariannE",
+      "level": "4K JACKLv.35",
+      "difficulty": 10.0,
+      "charter": "十千秋子",
+      "composer": "Yooh",
+      "illustrator": "",
+      "description": "⚠6分钟耐力叠，耐力不够谨慎游玩⚠\nBPM:191\n流速:14",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c989cd5a-3c03-41ed-bc75-f5f08abf683c",
+      "preview": "https://phira.5wyxi.com/files/2d74aeb1-52f8-42bd-9969-164b356405d4",
+      "file": "https://phira.5wyxi.com/files/a6b3c304-b406-4cd5-8753-c2b88ac7bdad",
+      "uploader": 57017,
+      "tags": [
+        "叠",
+        "耐力",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-25T14:41:43.413800Z",
+      "updated": "2026-08-25T14:41:43.413800Z",
+      "chartUpdated": "2026-08-25T14:41:43.413800Z"
+    },
+    {
       "id": 75625,
       "name": "Melodiniq",
       "level": "4K Master Lv.38",
@@ -21,7 +79,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.847269,
+      "rating": 0.8295337,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -51,7 +109,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8761231,
       "ratingCount": 0,
       "created": "2026-08-24T15:40:37.312229Z",
       "updated": "2026-08-24T15:40:37.312229Z",
@@ -83,7 +141,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.9160823,
+      "rating": 0.91132784,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -115,7 +173,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.74297315,
+      "rating": 0.8109963,
       "ratingCount": 0,
       "created": "2026-08-24T15:12:39.570627Z",
       "updated": "2026-08-24T15:12:39.570627Z",
@@ -147,7 +205,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8958565,
+      "rating": 0.8759392,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
@@ -173,7 +231,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7372186,
+      "rating": 0.7936044,
       "ratingCount": 0,
       "created": "2026-08-23T11:20:37.549552Z",
       "updated": "2026-08-23T11:20:37.549552Z",
@@ -199,7 +257,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8719451,
+      "rating": 0.8684945,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -227,7 +285,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.80895865,
+      "rating": 0.80691516,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -255,7 +313,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8134257,
+      "rating": 0.8343268,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -310,7 +368,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88633513,
+      "rating": 0.9151306,
       "ratingCount": 0,
       "created": "2026-08-21T13:32:00.058158Z",
       "updated": "2026-08-21T13:32:00.058158Z",
@@ -336,7 +394,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8276627,
+      "rating": 0.836293,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -362,7 +420,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85058594,
+      "rating": 0.86922884,
       "ratingCount": 2,
       "created": "2026-08-21T09:50:22.241644Z",
       "updated": "2026-08-21T09:50:22.241644Z",
@@ -389,7 +447,7 @@
         "Calamity",
         "plain"
       ],
-      "rating": 0.9249048,
+      "rating": 0.9290588,
       "ratingCount": 13,
       "created": "2026-08-06T15:21:59.485632Z",
       "updated": "2026-08-21T08:01:10.055827Z",
@@ -448,7 +506,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8422652,
+      "rating": 0.8469893,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -510,7 +568,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.8940588,
+      "rating": 0.90660846,
       "ratingCount": 2,
       "created": "2026-08-20T14:33:51.715440Z",
       "updated": "2026-08-20T14:33:51.715440Z",
@@ -576,37 +634,11 @@
         "",
         "plain"
       ],
-      "rating": 0.87000394,
+      "rating": 0.8683978,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
       "chartUpdated": "2026-08-20T11:00:01.203894Z"
-    },
-    {
-      "id": 74475,
-      "name": "Glacier",
-      "level": "-β-",
-      "difficulty": 19.0,
-      "charter": "betrix",
-      "composer": "Laur",
-      "illustrator": "",
-      "description": "榜一送wwx大头照",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/90d2c310-3426-4337-b641-f00220be1197",
-      "preview": "https://phira.5wyxi.com/files/88728fec-a44e-41f6-9618-121ace425a14",
-      "file": "https://phira.5wyxi.com/files/bf171900-5ca8-4bf4-99c0-d378f0a5e8d2",
-      "uploader": 2035,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8750478,
-      "ratingCount": 88,
-      "created": "2026-08-19T15:44:26.084165Z",
-      "updated": "2026-08-19T15:44:26.084165Z",
-      "chartUpdated": "2026-08-19T15:44:26.084165Z"
     },
     {
       "id": 68142,
@@ -628,7 +660,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96421075,
+      "rating": 0.9638316,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -655,7 +687,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.88679713,
+      "rating": 0.88727254,
       "ratingCount": 16,
       "created": "2026-08-19T13:42:57.815210Z",
       "updated": "2026-08-19T13:42:57.815210Z",
@@ -681,7 +713,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9257412,
+      "rating": 0.92407084,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
@@ -707,7 +739,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84170127,
+      "rating": 0.8484535,
       "ratingCount": 12,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
@@ -734,7 +766,7 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.89967364,
+      "rating": 0.8970189,
       "ratingCount": 77,
       "created": "2026-08-19T09:30:48.453449Z",
       "updated": "2026-08-19T09:40:12.675914Z",
@@ -760,7 +792,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9088744,
+      "rating": 0.89688003,
       "ratingCount": 0,
       "created": "2026-08-19T05:25:12.996399Z",
       "updated": "2026-08-19T05:25:12.996399Z",
@@ -786,7 +818,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9025166,
+      "rating": 0.9029747,
       "ratingCount": 1830,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-08-19T05:11:21.407525Z",
@@ -817,35 +849,6 @@
       "created": "2026-08-18T16:24:46.663082Z",
       "updated": "2026-08-18T16:24:46.663082Z",
       "chartUpdated": "2026-08-18T16:24:46.663082Z"
-    },
-    {
-      "id": 74227,
-      "name": "Double Finger Vibro 10 Dan",
-      "level": "DF Vibro-10",
-      "difficulty": 10.0,
-      "charter": "Essent1al_and XJJ",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "本人上传\n欢迎来到DFV-10 Dan，这张谱由XJJ与Essent1al_共同制作\n同时欢迎您加入我们的DFV讨论群:780220024",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c46b16b9-907d-4847-9b62-e1d2435609f1",
-      "preview": "https://phira.5wyxi.com/files/c7c06db1-487b-4965-bb87-61301cece5eb",
-      "file": "https://phira.5wyxi.com/files/16bd6816-a5ea-4c6e-99c9-c744e31a4180",
-      "uploader": 2193849,
-      "tags": [
-        "dfv",
-        "vibro",
-        "dfc",
-        "plain"
-      ],
-      "rating": 0.7654056,
-      "ratingCount": 4,
-      "created": "2026-08-18T15:39:39.253040Z",
-      "updated": "2026-08-18T15:39:39.253040Z",
-      "chartUpdated": "2026-08-18T15:39:39.253040Z"
     }
   ]
 }
