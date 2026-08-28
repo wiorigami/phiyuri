@@ -1,5 +1,5 @@
 {
-  "count": 3219,
+  "count": 3211,
   "results": [
     {
       "id": 75800,
@@ -25,7 +25,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.7702027,
+      "rating": 0.7522895,
       "ratingCount": 0,
       "created": "2026-08-26T08:34:17.466723Z",
       "updated": "2026-08-26T08:34:17.466723Z",
@@ -53,11 +53,41 @@
         "耐力",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8011595,
       "ratingCount": 0,
       "created": "2026-08-25T14:41:43.413800Z",
       "updated": "2026-08-25T14:41:43.413800Z",
       "chartUpdated": "2026-08-25T14:41:43.413800Z"
+    },
+    {
+      "id": 75630,
+      "name": "Fin.ArcDeaR",
+      "level": "Episode Lv.14+",
+      "difficulty": 14.900001,
+      "charter": "Ytx.QwpР",
+      "composer": "MisoilePunch♪",
+      "illustrator": "",
+      "description": "本人上传\nBpm:242+1\nedge=96.75%\n过段=98.05%\n后光=99.03%\nbreak through=99.68%",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9549354c-7cf4-4fd8-80bb-9a0e71780d75",
+      "preview": "https://phira.5wyxi.com/files/2fa6f452-fb50-4cf1-a379-e6734327e589",
+      "file": "https://phira.5wyxi.com/files/1ad1e0b8-9f6e-4740-a66a-c11cdf1c852c",
+      "uploader": 3753681,
+      "tags": [
+        "dfc",
+        "qwpp",
+        "高难",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.8257282,
+      "ratingCount": 0,
+      "created": "2026-08-25T10:11:08.268562Z",
+      "updated": "2026-08-25T10:11:08.268562Z",
+      "chartUpdated": "2026-08-25T10:11:08.268562Z"
     },
     {
       "id": 75625,
@@ -79,7 +109,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8295337,
+      "rating": 0.83527046,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -109,7 +139,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8761231,
+      "rating": 0.8745728,
       "ratingCount": 0,
       "created": "2026-08-24T15:40:37.312229Z",
       "updated": "2026-08-24T15:40:37.312229Z",
@@ -141,7 +171,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.91132784,
+      "rating": 0.91358405,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -173,7 +203,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8109963,
+      "rating": 0.822836,
       "ratingCount": 0,
       "created": "2026-08-24T15:12:39.570627Z",
       "updated": "2026-08-24T15:12:39.570627Z",
@@ -205,7 +235,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8759392,
+      "rating": 0.88298684,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
@@ -231,7 +261,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7936044,
+      "rating": 0.7948706,
       "ratingCount": 0,
       "created": "2026-08-23T11:20:37.549552Z",
       "updated": "2026-08-23T11:20:37.549552Z",
@@ -257,7 +287,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8684945,
+      "rating": 0.8659031,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -285,7 +315,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.80691516,
+      "rating": 0.81555367,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -313,7 +343,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8343268,
+      "rating": 0.8510961,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -368,7 +398,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9151306,
+      "rating": 0.9183492,
       "ratingCount": 0,
       "created": "2026-08-21T13:32:00.058158Z",
       "updated": "2026-08-21T13:32:00.058158Z",
@@ -394,7 +424,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.836293,
+      "rating": 0.8342664,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -447,7 +477,7 @@
         "Calamity",
         "plain"
       ],
-      "rating": 0.9290588,
+      "rating": 0.9309701,
       "ratingCount": 13,
       "created": "2026-08-06T15:21:59.485632Z",
       "updated": "2026-08-21T08:01:10.055827Z",
@@ -506,7 +536,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8469893,
+      "rating": 0.8474965,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -532,7 +562,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8626042,
+      "rating": 0.8650433,
       "ratingCount": 5,
       "created": "2026-08-20T15:31:13.939917Z",
       "updated": "2026-08-20T15:31:13.939917Z",
@@ -603,7 +633,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.8258486,
+      "rating": 0.8390191,
       "ratingCount": 1,
       "created": "2026-08-20T14:19:24.457877Z",
       "updated": "2026-08-20T14:19:24.457877Z",
@@ -634,7 +664,7 @@
         "",
         "plain"
       ],
-      "rating": 0.8683978,
+      "rating": 0.8671063,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
@@ -660,7 +690,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9638316,
+      "rating": 0.96485645,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -687,7 +717,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.88727254,
+      "rating": 0.8966344,
       "ratingCount": 16,
       "created": "2026-08-19T13:42:57.815210Z",
       "updated": "2026-08-19T13:42:57.815210Z",
@@ -713,7 +743,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92407084,
+      "rating": 0.92684454,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
@@ -739,7 +769,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8484535,
+      "rating": 0.85466,
       "ratingCount": 12,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
@@ -766,7 +796,7 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.8970189,
+      "rating": 0.9001827,
       "ratingCount": 77,
       "created": "2026-08-19T09:30:48.453449Z",
       "updated": "2026-08-19T09:40:12.675914Z",
@@ -792,7 +822,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89688003,
+      "rating": 0.90920115,
       "ratingCount": 0,
       "created": "2026-08-19T05:25:12.996399Z",
       "updated": "2026-08-19T05:25:12.996399Z",
@@ -818,37 +848,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9029747,
+      "rating": 0.9030663,
       "ratingCount": 1830,
       "created": "2026-07-29T14:17:22.623193Z",
       "updated": "2026-08-19T05:11:21.407525Z",
       "chartUpdated": "2026-07-29T14:17:22.623193Z"
-    },
-    {
-      "id": 74247,
-      "name": "終の舞姫 ",
-      "level": "2β",
-      "difficulty": 18.999996,
-      "charter": "betrix",
-      "composer": "Se-U-Ra",
-      "illustrator": "",
-      "description": "乌鸡",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3f946baa-9559-43be-8bb7-64482301c3d6",
-      "preview": "https://phira.5wyxi.com/files/96df7fed-aaaa-4aa9-8b92-dec04e792b43",
-      "file": "https://phira.5wyxi.com/files/1bcc82bf-ddac-4063-b91c-a70655cfb392",
-      "uploader": 2035,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8778362,
-      "ratingCount": 6,
-      "created": "2026-08-18T16:24:46.663082Z",
-      "updated": "2026-08-18T16:24:46.663082Z",
-      "chartUpdated": "2026-08-18T16:24:46.663082Z"
     }
   ]
 }
