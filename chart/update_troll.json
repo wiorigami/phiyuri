@@ -1,6 +1,38 @@
 {
-  "count": 654,
+  "count": 655,
   "results": [
+    {
+      "id": 76134,
+      "name": "我会自己上厕所",
+      "level": "AT Lv.19",
+      "difficulty": 19.0,
+      "charter": "Ecsty feat. 可爱小猫娘awa",
+      "composer": "宝宝巴士",
+      "illustrator": "",
+      "description": "@Ecsty#5738 (表演者)\n给个5*我要投高难论坛整活\n本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/994217a1-b387-4487-8cb5-80ac172c2fcc",
+      "preview": "https://phira.5wyxi.com/files/7782ef5d-8f00-4d6e-9b30-4e4043267969",
+      "file": "https://phira.5wyxi.com/files/97535fab-d020-45f9-acd8-d1622917520e",
+      "uploader": 1644892,
+      "tags": [
+        "高难",
+        "无理",
+        "键盘",
+        "at19",
+        "神谱",
+        "宝宝巴士",
+        "troll"
+      ],
+      "rating": 0.72857994,
+      "ratingCount": 0,
+      "created": "2026-08-28T03:56:40.337710Z",
+      "updated": "2026-08-28T07:10:13.300816Z",
+      "chartUpdated": "2026-08-28T03:56:40.337710Z"
+    },
     {
       "id": 75183,
       "name": "Cervelle Connexion",
@@ -21,7 +53,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8305361,
+      "rating": 0.8495403,
       "ratingCount": 0,
       "created": "2026-08-23T06:57:24.807378Z",
       "updated": "2026-08-23T06:57:24.807378Z",
@@ -47,7 +79,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7892256,
+      "rating": 0.7802557,
       "ratingCount": 23,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
@@ -75,7 +107,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9745417,
+      "rating": 0.97480047,
       "ratingCount": 90,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
@@ -101,7 +133,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.88893425,
+      "rating": 0.88890016,
       "ratingCount": 8471,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -127,7 +159,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9515551,
+      "rating": 0.9514884,
       "ratingCount": 11447,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -154,7 +186,7 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.8867967,
+      "rating": 0.8868064,
       "ratingCount": 91523,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
@@ -180,7 +212,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8340499,
+      "rating": 0.83429796,
       "ratingCount": 2869,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -206,7 +238,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.769869,
+      "rating": 0.7699417,
       "ratingCount": 15565,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -232,7 +264,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.87382936,
+      "rating": 0.873778,
       "ratingCount": 9651,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -312,7 +344,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8056525,
+      "rating": 0.80562025,
       "ratingCount": 6235,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -340,7 +372,7 @@
         "纵连",
         "troll"
       ],
-      "rating": 0.904208,
+      "rating": 0.90514815,
       "ratingCount": 95,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
@@ -392,7 +424,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81000614,
+      "rating": 0.80886114,
       "ratingCount": 1562,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -418,7 +450,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89630973,
+      "rating": 0.89570206,
       "ratingCount": 3228,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -445,7 +477,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.92122245,
+      "rating": 0.92078274,
       "ratingCount": 1460,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -471,7 +503,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8442165,
+      "rating": 0.833197,
       "ratingCount": 30,
       "created": "2026-05-05T15:11:55.046371Z",
       "updated": "2026-05-05T15:11:55.046371Z",
@@ -497,7 +529,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75320524,
+      "rating": 0.75360924,
       "ratingCount": 700,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -523,7 +555,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81432134,
+      "rating": 0.8146157,
       "ratingCount": 1532,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -549,7 +581,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.90584654,
+      "rating": 0.90646136,
       "ratingCount": 300,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -575,7 +607,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94105285,
+      "rating": 0.94077116,
       "ratingCount": 3712,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -601,7 +633,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7107875,
+      "rating": 0.71079516,
       "ratingCount": 537,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -627,7 +659,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7629308,
+      "rating": 0.76450676,
       "ratingCount": 138,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -679,7 +711,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83036184,
+      "rating": 0.8310381,
       "ratingCount": 242,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -707,7 +739,7 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.88157487,
+      "rating": 0.8818604,
       "ratingCount": 812,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
@@ -763,37 +795,11 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.92522496,
+      "rating": 0.92533034,
       "ratingCount": 1101,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
-    },
-    {
-      "id": 55903,
-      "name": "You're Beautiful (Groan Tube Ver)",
-      "level": "ou oue uee Lv.67",
-      "difficulty": 67.0,
-      "charter": "Iam123",
-      "composer": "Justin J. More",
-      "illustrator": "",
-      "description": "本人上传，b站@_Iam123_，请勿盗传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8ce12a96-537e-453c-8b84-4e50b2b0f5b8",
-      "preview": "https://phira.5wyxi.com/files/c462dfa1-cd20-45e1-a30c-6639cd6e626c",
-      "file": "https://phira.5wyxi.com/files/6fcfd5b5-f29a-411f-991c-555bd6599353",
-      "uploader": 161832,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8947876,
-      "ratingCount": 2280,
-      "created": "2026-04-11T02:47:02.705037Z",
-      "updated": "2026-04-11T02:47:02.705037Z",
-      "chartUpdated": "2026-04-11T02:47:02.705037Z"
     }
   ]
 }
