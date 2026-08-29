@@ -13,11 +13,11 @@
   "name": "ドッペルゲンガー",
   "preview": "https://phira.5wyxi.com/files/6fbdd4c2-1780-4f1c-83ba-e4dcbb8db945",
   "ranked": false,
-  "rating": 0.8776257,
-  "ratingCount": 137,
-  "reviewed": true,
+  "rating": 0.885267,
+  "ratingCount": 169,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "VOCALOID",
     "云梦杯",
@@ -25,6 +25,6 @@
     "初音ミク",
     "regular"
   ],
-  "updated": "2026-08-10T11:35:25.585857Z",
+  "updated": "2026-08-29T04:19:18.085197Z",
   "uploader": 4190
 }
