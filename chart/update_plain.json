@@ -1,6 +1,37 @@
 {
-  "count": 3211,
+  "count": 3213,
   "results": [
+    {
+      "id": 76221,
+      "name": "Paradigm Shift",
+      "level": "Simplë Lv.11",
+      "difficulty": 11.800003,
+      "charter": "qwpp Shift",
+      "composer": "Morimori Atsushi",
+      "illustrator": "",
+      "description": "本人上传\n总Notes:1777\n边缘=96.25\n过段=97.75\n后光=98.88\n击破=99.63\n前半标准技叠，后面有丶难\n总的来说有11+\n\n另外小剧透\n此谱为qwpp alpha dan叠",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4f1d86c7-ad74-4f9c-96e7-f632d51be414",
+      "preview": "https://phira.5wyxi.com/files/025978bc-7fc6-4086-b669-0753944c6755",
+      "file": "https://phira.5wyxi.com/files/e9615419-af9f-457e-a121-936c3dd746d3",
+      "uploader": 3753681,
+      "tags": [
+        "dfc",
+        "qwpp",
+        "叠",
+        "alpha",
+        "s1mple",
+        "plain"
+      ],
+      "rating": 0.80656886,
+      "ratingCount": 0,
+      "created": "2026-08-28T13:42:14.512045Z",
+      "updated": "2026-08-28T13:42:14.512045Z",
+      "chartUpdated": "2026-08-28T13:42:14.512045Z"
+    },
     {
       "id": 75800,
       "name": "Volcanic",
@@ -25,7 +56,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.7522895,
+      "rating": 0.76893866,
       "ratingCount": 0,
       "created": "2026-08-26T08:34:17.466723Z",
       "updated": "2026-08-26T08:34:17.466723Z",
@@ -53,11 +84,67 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8011595,
+      "rating": 0.86636895,
       "ratingCount": 0,
       "created": "2026-08-25T14:41:43.413800Z",
       "updated": "2026-08-25T14:41:43.413800Z",
       "chartUpdated": "2026-08-25T14:41:43.413800Z"
+    },
+    {
+      "id": 44345,
+      "name": "少女绮想曲~Dream Battle",
+      "level": "Sakura Lv.11",
+      "difficulty": 11.00001,
+      "charter": "Cheese of Dream",
+      "composer": "JUN.A",
+      "illustrator": "",
+      "description": "谱师本人上传，b站：壹芝雜羽kld_ill-none",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6399b034-1501-490d-b668-a76bc19d174a",
+      "preview": "https://phira.5wyxi.com/files/70b8456a-c976-4673-9dfb-5065e2885a16",
+      "file": "https://phira.5wyxi.com/files/4319c20c-202a-45ac-86d3-67bbe702cec3",
+      "uploader": 910788,
+      "tags": [
+        "DFC",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.9033925,
+      "ratingCount": 0,
+      "created": "2025-08-11T10:08:51.577333Z",
+      "updated": "2026-08-25T12:04:45.687913Z",
+      "chartUpdated": "2026-08-25T12:04:45.687913Z"
+    },
+    {
+      "id": 75656,
+      "name": "Extreme Fantasy",
+      "level": "Maximum.1 Lv.16",
+      "difficulty": 16.0,
+      "charter": "Extreme Feather",
+      "composer": "Memme",
+      "illustrator": "",
+      "description": "neta神秘rm侧极限1  谱师本人上传 b站：壹芝雜羽kld_ill-none",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/19d2b78a-eaf5-4f83-bfcc-047e4671a5ea",
+      "preview": "https://phira.5wyxi.com/files/1cd010df-dd13-4922-b478-0d8cb97243c0",
+      "file": "https://phira.5wyxi.com/files/6b43bbf9-7406-4b1f-af2f-75218c176c76",
+      "uploader": 1946893,
+      "tags": [
+        "dfc",
+        "双指",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-25T11:57:43.640089Z",
+      "updated": "2026-08-25T11:57:43.640089Z",
+      "chartUpdated": "2026-08-25T11:57:43.640089Z"
     },
     {
       "id": 75630,
@@ -83,7 +170,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8731482,
       "ratingCount": 0,
       "created": "2026-08-25T10:11:08.268562Z",
       "updated": "2026-08-25T10:11:08.268562Z",
@@ -109,7 +196,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83527046,
+      "rating": 0.8270883,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -139,7 +226,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8745728,
+      "rating": 0.88159287,
       "ratingCount": 0,
       "created": "2026-08-24T15:40:37.312229Z",
       "updated": "2026-08-24T15:40:37.312229Z",
@@ -171,7 +258,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.91358405,
+      "rating": 0.9092935,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -203,7 +290,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.822836,
+      "rating": 0.83331376,
       "ratingCount": 0,
       "created": "2026-08-24T15:12:39.570627Z",
       "updated": "2026-08-24T15:12:39.570627Z",
@@ -235,7 +322,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.88298684,
+      "rating": 0.88602823,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
@@ -287,7 +374,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8659031,
+      "rating": 0.8606588,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -315,7 +402,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.81555367,
+      "rating": 0.81962234,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -343,7 +430,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8510961,
+      "rating": 0.8582928,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -398,7 +485,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9183492,
+      "rating": 0.923319,
       "ratingCount": 0,
       "created": "2026-08-21T13:32:00.058158Z",
       "updated": "2026-08-21T13:32:00.058158Z",
@@ -424,7 +511,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8342664,
+      "rating": 0.84600157,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -477,7 +564,7 @@
         "Calamity",
         "plain"
       ],
-      "rating": 0.9309701,
+      "rating": 0.9327823,
       "ratingCount": 13,
       "created": "2026-08-06T15:21:59.485632Z",
       "updated": "2026-08-21T08:01:10.055827Z",
@@ -536,7 +623,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.8474965,
+      "rating": 0.85086644,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -598,7 +685,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.90660846,
+      "rating": 0.91186756,
       "ratingCount": 2,
       "created": "2026-08-20T14:33:51.715440Z",
       "updated": "2026-08-20T14:33:51.715440Z",
@@ -633,7 +720,7 @@
         "研究",
         "plain"
       ],
-      "rating": 0.8390191,
+      "rating": 0.83842564,
       "ratingCount": 1,
       "created": "2026-08-20T14:19:24.457877Z",
       "updated": "2026-08-20T14:19:24.457877Z",
@@ -664,7 +751,7 @@
         "",
         "plain"
       ],
-      "rating": 0.8671063,
+      "rating": 0.868242,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
@@ -690,7 +777,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.96485645,
+      "rating": 0.9643736,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -717,7 +804,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8966344,
+      "rating": 0.89942145,
       "ratingCount": 16,
       "created": "2026-08-19T13:42:57.815210Z",
       "updated": "2026-08-19T13:42:57.815210Z",
@@ -743,7 +830,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92684454,
+      "rating": 0.9342355,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
@@ -769,90 +856,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85466,
+      "rating": 0.8603839,
       "ratingCount": 12,
       "created": "2026-08-19T13:26:36.523675Z",
       "updated": "2026-08-19T13:30:41.335802Z",
       "chartUpdated": "2026-08-19T13:26:36.523675Z"
-    },
-    {
-      "id": 74388,
-      "name": "TearJerker",
-      "level": "MewType Lv.11",
-      "difficulty": 11.500002,
-      "charter": "Jiuwenzi",
-      "composer": "夢限大みゅーたいぷ",
-      "illustrator": "",
-      "description": "@Jiuwenzi#1997470（配置）\n谱师本人上传\n1232/2868\nstacc=98.16\n本谱作为RW音游战队DFC普考曲目\n审：1105248898",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0a9cccdb-d9ac-4ade-8a7f-ed7776ad505c",
-      "preview": "https://phira.5wyxi.com/files/639b5475-e968-4aec-b38c-955d8f7c92a2",
-      "file": "https://phira.5wyxi.com/files/8bf51ece-8ec4-486f-9516-a71f6420470f",
-      "uploader": 1153977,
-      "tags": [
-        "DFC",
-        "plain"
-      ],
-      "rating": 0.9001827,
-      "ratingCount": 77,
-      "created": "2026-08-19T09:30:48.453449Z",
-      "updated": "2026-08-19T09:40:12.675914Z",
-      "chartUpdated": "2026-08-19T09:30:48.453449Z"
-    },
-    {
-      "id": 74328,
-      "name": "ヤラララ (YARARARA)",
-      "level": "4k Lv.16",
-      "difficulty": 15.999994,
-      "charter": "tankcatcat",
-      "composer": "AnythingBecomeMoe",
-      "illustrator": "",
-      "description": "Music:ヤラララ (YARARARA)\n本谱由tankcatcat本人在Malody自制转谱\n下落速度为12.5\n最后欢迎你的游玩！喵～",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fb5259e5-0537-400d-8c1f-387d11178c0c",
-      "preview": "https://phira.5wyxi.com/files/0b70c29f-fb31-4c56-8a6f-0ffc2f26ea17",
-      "file": "https://phira.5wyxi.com/files/c7fedecc-4d2c-4987-a6cc-4100ee79db15",
-      "uploader": 2298625,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.90920115,
-      "ratingCount": 0,
-      "created": "2026-08-19T05:25:12.996399Z",
-      "updated": "2026-08-19T05:25:12.996399Z",
-      "chartUpdated": "2026-08-19T05:25:12.996399Z"
-    },
-    {
-      "id": 69969,
-      "name": "Βг@!Nïaç ▲▲αN1aс (虽华 remix)Plants vs. Zombies",
-      "level": "4k IN Lv.21",
-      "difficulty": 20.0,
-      "charter": "tankcatcat",
-      "composer": "虽华",
-      "illustrator": "",
-      "description": "music:Βг@!Nïaç ▲▲αN1aс (虽华 remix) Plants vs. Zombies\n本谱由新人tankcatcat在Malody自制转谱，第五张谱\n本谱较难，速度为11.8 请做好准备\n欢迎你的游玩哦！",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/0add4980-6845-4e2f-8892-e3b015b030e8",
-      "preview": "https://phira.5wyxi.com/files/697f1c73-965f-4ac1-94eb-242774584f2f",
-      "file": "https://phira.5wyxi.com/files/294a66c3-98b4-425a-bf94-a59ad3fabfcb",
-      "uploader": 2298625,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9030663,
-      "ratingCount": 1830,
-      "created": "2026-07-29T14:17:22.623193Z",
-      "updated": "2026-08-19T05:11:21.407525Z",
-      "chartUpdated": "2026-07-29T14:17:22.623193Z"
     }
   ]
 }
