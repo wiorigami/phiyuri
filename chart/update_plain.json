@@ -1,6 +1,32 @@
 {
-  "count": 3213,
+  "count": 3224,
   "results": [
+    {
+      "id": 76384,
+      "name": "κανων",
+      "level": "Sacred Lv.Χ",
+      "difficulty": 0.0,
+      "charter": "Ice747",
+      "composer": "tarolabo",
+      "illustrator": "",
+      "description": "谱师本人上传。\n这个谱还不错。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d1635b43-118e-46a2-919a-6fb44152ddd5",
+      "preview": "https://phira.5wyxi.com/files/615ce4c0-66ce-4781-9120-393011d3a360",
+      "file": "https://phira.5wyxi.com/files/1ca895c0-da81-4c77-ae03-0983f5689129",
+      "uploader": 382081,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.83321184,
+      "ratingCount": 0,
+      "created": "2026-08-29T10:37:45.678454Z",
+      "updated": "2026-08-29T10:37:45.678454Z",
+      "chartUpdated": "2026-08-29T10:37:45.678454Z"
+    },
     {
       "id": 76221,
       "name": "Paradigm Shift",
@@ -26,7 +52,7 @@
         "s1mple",
         "plain"
       ],
-      "rating": 0.80656886,
+      "rating": 0.88439506,
       "ratingCount": 0,
       "created": "2026-08-28T13:42:14.512045Z",
       "updated": "2026-08-28T13:42:14.512045Z",
@@ -56,7 +82,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.76893866,
+      "rating": 0.8078668,
       "ratingCount": 0,
       "created": "2026-08-26T08:34:17.466723Z",
       "updated": "2026-08-26T08:34:17.466723Z",
@@ -84,7 +110,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.86636895,
+      "rating": 0.87472516,
       "ratingCount": 0,
       "created": "2026-08-25T14:41:43.413800Z",
       "updated": "2026-08-25T14:41:43.413800Z",
@@ -112,7 +138,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9033925,
+      "rating": 0.90888155,
       "ratingCount": 0,
       "created": "2025-08-11T10:08:51.577333Z",
       "updated": "2026-08-25T12:04:45.687913Z",
@@ -170,7 +196,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8731482,
+      "rating": 0.8810822,
       "ratingCount": 0,
       "created": "2026-08-25T10:11:08.268562Z",
       "updated": "2026-08-25T10:11:08.268562Z",
@@ -196,7 +222,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8270883,
+      "rating": 0.82871944,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -226,7 +252,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.88159287,
+      "rating": 0.887888,
       "ratingCount": 0,
       "created": "2026-08-24T15:40:37.312229Z",
       "updated": "2026-08-24T15:40:37.312229Z",
@@ -258,7 +284,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.9092935,
+      "rating": 0.9062107,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -290,7 +316,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.83331376,
+      "rating": 0.8458594,
       "ratingCount": 0,
       "created": "2026-08-24T15:12:39.570627Z",
       "updated": "2026-08-24T15:12:39.570627Z",
@@ -322,7 +348,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.88602823,
+      "rating": 0.8823489,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
@@ -374,7 +400,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8606588,
+      "rating": 0.8631958,
       "ratingCount": 0,
       "created": "2026-08-23T06:07:00.403471Z",
       "updated": "2026-08-23T06:07:00.403471Z",
@@ -402,7 +428,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.81962234,
+      "rating": 0.8308185,
       "ratingCount": 0,
       "created": "2026-08-22T18:56:07.948029Z",
       "updated": "2026-08-22T18:56:07.948029Z",
@@ -430,7 +456,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.8582928,
+      "rating": 0.85626334,
       "ratingCount": 0,
       "created": "2026-08-22T18:55:13.768723Z",
       "updated": "2026-08-22T18:55:13.768723Z",
@@ -459,7 +485,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.7803841,
       "ratingCount": 0,
       "created": "2026-08-22T16:28:25.361477Z",
       "updated": "2026-08-22T16:28:25.361477Z",
@@ -485,7 +511,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.923319,
+      "rating": 0.9225291,
       "ratingCount": 0,
       "created": "2026-08-21T13:32:00.058158Z",
       "updated": "2026-08-21T13:32:00.058158Z",
@@ -511,7 +537,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84600157,
+      "rating": 0.86326283,
       "ratingCount": 0,
       "created": "2026-08-21T11:32:05.461777Z",
       "updated": "2026-08-21T11:32:05.461777Z",
@@ -537,7 +563,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86922884,
+      "rating": 0.8769536,
       "ratingCount": 2,
       "created": "2026-08-21T09:50:22.241644Z",
       "updated": "2026-08-21T09:50:22.241644Z",
@@ -564,7 +590,7 @@
         "Calamity",
         "plain"
       ],
-      "rating": 0.9327823,
+      "rating": 0.9261858,
       "ratingCount": 13,
       "created": "2026-08-06T15:21:59.485632Z",
       "updated": "2026-08-21T08:01:10.055827Z",
@@ -623,7 +649,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.85086644,
+      "rating": 0.853632,
       "ratingCount": 19,
       "created": "2026-08-21T04:28:16.784734Z",
       "updated": "2026-08-21T04:32:53.520264Z",
@@ -649,7 +675,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8650433,
+      "rating": 0.88548166,
       "ratingCount": 5,
       "created": "2026-08-20T15:31:13.939917Z",
       "updated": "2026-08-20T15:31:13.939917Z",
@@ -751,7 +777,7 @@
         "",
         "plain"
       ],
-      "rating": 0.868242,
+      "rating": 0.86844426,
       "ratingCount": 749,
       "created": "2026-08-20T11:00:01.203894Z",
       "updated": "2026-08-20T12:01:37.749013Z",
@@ -777,7 +803,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9643736,
+      "rating": 0.96422887,
       "ratingCount": 163,
       "created": "2026-07-21T06:50:22.835067Z",
       "updated": "2026-08-19T14:14:21.195418Z",
@@ -830,37 +856,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9342355,
+      "rating": 0.93135774,
       "ratingCount": 0,
       "created": "2026-08-19T13:33:34.629943Z",
       "updated": "2026-08-19T13:33:34.629943Z",
       "chartUpdated": "2026-08-19T13:33:34.629943Z"
-    },
-    {
-      "id": 74443,
-      "name": "thrinos;pygmalion",
-      "level": "4K Scroll Lv.？",
-      "difficulty": 0.0,
-      "charter": "Lage;YMEA",
-      "composer": "baeddelite",
-      "illustrator": "",
-      "description": "----------------      警告     ---------------- \n本谱含大量SV\nScroll 事件约400+以上,小心被创死\n---------------- ---------------- ---------------\n快手 X B站 洋漫YMEA\nDY YMEA\nB站BV号：BV1r28J6qEet\n@Lage#852606(Scroll事件)",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/627262fd-c897-458f-8cfd-2a1ec0cdf764",
-      "preview": "https://phira.5wyxi.com/files/97b18ae3-cd68-48fa-80a0-652b8f8ae0af",
-      "file": "https://phira.5wyxi.com/files/3b2cd7aa-a945-4b62-a78e-27bd4e0696b0",
-      "uploader": 2618148,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8603839,
-      "ratingCount": 12,
-      "created": "2026-08-19T13:26:36.523675Z",
-      "updated": "2026-08-19T13:30:41.335802Z",
-      "chartUpdated": "2026-08-19T13:26:36.523675Z"
     }
   ]
 }
