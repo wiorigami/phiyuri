@@ -13,14 +13,14 @@
   "name": "Don't Fight The Music",
   "preview": "https://phira.5wyxi.com/files/e9ad5965-fd87-4d1b-ba4c-7aa97f4aed4f",
   "ranked": false,
-  "rating": 0.6664713,
-  "ratingCount": 1,
-  "reviewed": true,
+  "rating": 0.8839061,
+  "ratingCount": 98,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-29T00:19:06.746478Z",
+  "updated": "2026-08-29T06:56:51.798953Z",
   "uploader": 3725970
 }

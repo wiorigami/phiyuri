@@ -13,14 +13,14 @@
   "name": "Absolution Pulse",
   "preview": "https://phira.5wyxi.com/files/c75565dc-999c-4c7b-b6cd-fa60d4fafee3",
   "ranked": false,
-  "rating": 0.7413972,
-  "ratingCount": 45,
-  "reviewed": true,
+  "rating": 0.79356235,
+  "ratingCount": 93,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-25T08:59:21.055114Z",
+  "updated": "2026-08-29T14:02:59.159380Z",
   "uploader": 1136300
 }
