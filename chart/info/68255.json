@@ -13,14 +13,14 @@
   "name": "Near Under Seven",
   "preview": "https://phira.5wyxi.com/files/93385ebe-4eda-4b4a-8c3a-96b5a77c222d",
   "ranked": false,
-  "rating": 0.7934676,
-  "ratingCount": 22,
-  "reviewed": true,
+  "rating": 0.8288336,
+  "ratingCount": 29,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-29T03:32:53.699890Z",
+  "updated": "2026-08-30T04:32:47.742978Z",
   "uploader": 17625
 }
