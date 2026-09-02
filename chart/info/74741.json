@@ -13,14 +13,14 @@
   "name": "Exodus",
   "preview": "https://phira.5wyxi.com/files/a3b00523-dca2-461c-81ca-fac2423f4988",
   "ranked": false,
-  "rating": 0.89239836,
-  "ratingCount": 42,
-  "reviewed": true,
+  "rating": 0.877007,
+  "ratingCount": 127,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-21T03:07:25.090813Z",
+  "updated": "2026-09-01T16:48:30.547454Z",
   "uploader": 2424648
 }

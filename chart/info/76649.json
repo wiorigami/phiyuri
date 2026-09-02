@@ -13,17 +13,17 @@
   "name": "SToRY",
   "preview": "https://phira.5wyxi.com/files/63615418-cb85-448a-a000-3e2944d1de12",
   "ranked": false,
-  "rating": 0.96304286,
-  "ratingCount": 42,
-  "reviewed": true,
+  "rating": 0.95674473,
+  "ratingCount": 59,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "初音未来19周年",
     "PJSK剧场版",
     "主线章节一世界之音",
     "regular"
   ],
-  "updated": "2026-08-30T16:10:56.678247Z",
+  "updated": "2026-09-01T13:31:58.609846Z",
   "uploader": 328759
 }

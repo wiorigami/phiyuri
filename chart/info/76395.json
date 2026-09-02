@@ -13,14 +13,14 @@
   "name": "stεganography",
   "preview": "https://phira.5wyxi.com/files/f3b74146-7f74-465b-8754-c8c4af345947",
   "ranked": false,
-  "rating": 0.87355334,
-  "ratingCount": 59,
-  "reviewed": true,
+  "rating": 0.87464184,
+  "ratingCount": 92,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-29T11:19:48.010680Z",
+  "updated": "2026-09-01T17:50:06.108502Z",
   "uploader": 659554
 }

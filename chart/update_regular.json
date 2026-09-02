@@ -1,6 +1,165 @@
 {
-  "count": 9489,
+  "count": 9492,
   "results": [
+    {
+      "id": 76395,
+      "name": "stεganography",
+      "level": "IN Lv.17+",
+      "difficulty": 17.900002,
+      "charter": "*略。",
+      "composer": "ああ…翡翠茶漬け…",
+      "illustrator": "",
+      "description": "That‘s all for my Steganography.\n\nThx U.",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/a95d495b-3d55-42a6-8178-7b2c58d0c0fa",
+      "preview": "https://phira.5wyxi.com/files/f3b74146-7f74-465b-8754-c8c4af345947",
+      "file": "https://phira.5wyxi.com/files/bf0a8f4d-fb2e-42ad-83be-ad0ba2f3f1b6",
+      "uploader": 659554,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.87464184,
+      "ratingCount": 85,
+      "created": "2026-08-29T11:19:48.010680Z",
+      "updated": "2026-09-01T17:50:06.108502Z",
+      "chartUpdated": "2026-08-29T11:19:48.010680Z"
+    },
+    {
+      "id": 74741,
+      "name": "Exodus",
+      "level": "IN Lv13.4",
+      "difficulty": 13.400005,
+      "charter": "wzjcsndm",
+      "composer": "Maksim Mrvica",
+      "illustrator": "",
+      "description": "由本人亲自写谱上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/e5fccdc4-f6e0-45b8-9f7e-9a4f299af1bd",
+      "preview": "https://phira.5wyxi.com/files/a3b00523-dca2-461c-81ca-fac2423f4988",
+      "file": "https://phira.5wyxi.com/files/86dc9752-ec5a-4e5b-9952-2536ea3ab724",
+      "uploader": 2424648,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.877007,
+      "ratingCount": 123,
+      "created": "2026-08-21T03:07:25.090813Z",
+      "updated": "2026-09-01T16:48:30.547454Z",
+      "chartUpdated": "2026-08-21T03:07:25.090813Z"
+    },
+    {
+      "id": 76649,
+      "name": "SToRY",
+      "level": "PR Lv.31",
+      "difficulty": 15.599997,
+      "charter": "KafuuChino × TUDOU's Stories",
+      "composer": "DECO*27 × 堀江晶太(kemu) feat. VOCALOIDs",
+      "illustrator": "",
+      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\r\n谱师：@香风智乃_KafuuChino × @音游人TUDOU\r\n谱师亲自上传，相关剧情可在对应的谱面预览视频简介查找。",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/689e88d5-5999-4399-b3dd-c2f95c80ad54",
+      "preview": "https://phira.5wyxi.com/files/63615418-cb85-448a-a000-3e2944d1de12",
+      "file": "https://phira.5wyxi.com/files/01161f06-95a6-4b93-aced-6cd319ddfdce",
+      "uploader": 328759,
+      "tags": [
+        "初音未来19周年",
+        "PJSK剧场版",
+        "主线章节一世界之音",
+        "regular"
+      ],
+      "rating": 0.95674473,
+      "ratingCount": 52,
+      "created": "2026-08-30T16:10:56.678247Z",
+      "updated": "2026-09-01T13:31:58.609846Z",
+      "chartUpdated": "2026-08-30T16:10:56.678247Z"
+    },
+    {
+      "id": 32599,
+      "name": "Against All Odds",
+      "level": "IN Lv. 13",
+      "difficulty": 13.0,
+      "charter": "RASKET FOR THE PAPER ",
+      "composer": "PAPER LILY",
+      "illustrator": "",
+      "description": "谱面为四小时创作，略有瑕疵",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/1ed46711-1eac-4598-81d9-e7a21ff29adc",
+      "preview": "https://phira.5wyxi.com/files/e7baf9b8-4c5d-4c23-bbf6-542c2e273c20",
+      "file": "https://phira.5wyxi.com/files/810a7ba5-6bc4-4981-8466-7137643c36b7",
+      "uploader": 159080,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.92833245,
+      "ratingCount": 223,
+      "created": "2025-01-27T08:50:53.026113Z",
+      "updated": "2026-09-01T11:13:28.208403Z",
+      "chartUpdated": "2025-01-27T08:50:53.026113Z"
+    },
+    {
+      "id": 76819,
+      "name": "Operation☆Dotabata",
+      "level": "IN Lv.15",
+      "difficulty": 15.0,
+      "charter": "Encly",
+      "composer": "Yokatta",
+      "illustrator": "",
+      "description": "谱师B站@ty天远\r\n蔚蓝档案三周年接力特供谱面，希望大家来B站也支持一下喵\r\n尝试了一些别样的排列（补药打我）",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/99757a5e-60d4-4910-ab28-55f964c5b48b",
+      "preview": "https://phira.5wyxi.com/files/889e1135-d9f9-4e0f-a786-d41753524500",
+      "file": "https://phira.5wyxi.com/files/b3920740-d317-44fb-a74d-4d83eef6a121",
+      "uploader": 1925,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8959961,
+      "ratingCount": 0,
+      "created": "2026-09-01T09:33:52.446252Z",
+      "updated": "2026-09-01T11:03:20.448351Z",
+      "chartUpdated": "2026-09-01T09:33:52.446252Z"
+    },
+    {
+      "id": 76669,
+      "name": "IF = Infinity",
+      "level": "CL Lv.12",
+      "difficulty": 16.6,
+      "charter": "TCT = TPE Charting Team",
+      "composer": "Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi",
+      "illustrator": "",
+      "description": "—————谱面信息—————\n曲名：IF = Infinity\n曲师：Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi\n谱师(不分前后)：屑猹Chara(我，主谱师)、一万九千宵、Caldoge蔡笱、DBTT_19421、湖涧影、孤宇Gesona、戏-作 、WasilyAZ、rubbishsort_me、Dieyum_蝶凩、风铃音符AmAtrue、OMG欧米伽该名称已存在、一只起飞仔、希然与安\n(以上均为在b站内的名称。由于部分人已开学所以没法联合上传)\n画师：渗透物(Hanyaka modified)\n物量：4000\n事件数：27836\n—————作者的话—————\n这是我合作以来最多人的一张。数量及其庞大。可惜我粉丝数不达标再加上部分人开学不在线导致我无法以联合投稿的形式投稿(BV1Zm4Q6LEba)。也算是我的小遗憾了。\n这张谱比我想象中的要写的久。甚至在一开始我就没打算写合作。总之算个奇迹吧。\n就这样了。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b27ec80d-e404-4937-ad5b-3e6e69cc3c02",
+      "preview": "https://phira.5wyxi.com/files/7ff4b6ee-3efc-4717-b5b0-1e5085e57b90",
+      "file": "https://phira.5wyxi.com/files/7c51132d-4220-4d41-9e59-54bd8b6fa861",
+      "uploader": 92123,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9242946,
+      "ratingCount": 159,
+      "created": "2026-08-31T00:01:17.415312Z",
+      "updated": "2026-09-01T05:12:56.074341Z",
+      "chartUpdated": "2026-08-31T00:01:17.415312Z"
+    },
     {
       "id": 72064,
       "name": "Gekka (Short Version)",
@@ -21,11 +180,37 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.77971834,
+      "rating": 0.81933004,
       "ratingCount": 2,
       "created": "2026-08-08T09:29:40.412072Z",
       "updated": "2026-08-31T13:24:29.073874Z",
       "chartUpdated": "2026-08-08T09:29:40.412072Z"
+    },
+    {
+      "id": 76768,
+      "name": "Worlders",
+      "level": "PR Lv.29",
+      "difficulty": 29.0,
+      "charter": "KafuuChino × HotoCocoa feat. All Charters - The Travelers of SEKAI -",
+      "composer": "じん × TeddyLoid feat. 初音ミク",
+      "illustrator": "",
+      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\n谱师：@香风智乃_KafuuChino × @保登心爱_HotoCocoa feat. All Charters\n本谱面为异象版本\n谱师亲自上传，相关剧情及谱师信息可在对应的谱面预览视频简介查找。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/25d281d0-cbe7-4d3d-b4e9-7f2d8c5a15a8",
+      "preview": "https://phira.5wyxi.com/files/e2cc2ce2-37c1-480e-aa62-b1e21da4f3af",
+      "file": "https://phira.5wyxi.com/files/89c57d48-98d0-4c71-9d42-4d35ca8dbd85",
+      "uploader": 328759,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.93534595,
+      "ratingCount": 0,
+      "created": "2026-08-31T13:23:00.573085Z",
+      "updated": "2026-08-31T13:23:00.573085Z",
+      "chartUpdated": "2026-08-31T13:23:00.573085Z"
     },
     {
       "id": 76766,
@@ -51,7 +236,7 @@
         "nakotanmaru",
         "regular"
       ],
-      "rating": 0.9457735,
+      "rating": 0.9356222,
       "ratingCount": 0,
       "created": "2026-08-31T13:09:50.729440Z",
       "updated": "2026-08-31T13:09:50.729440Z",
@@ -77,7 +262,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92344314,
+      "rating": 0.92341185,
       "ratingCount": 0,
       "created": "2026-08-23T08:28:50.014174Z",
       "updated": "2026-08-31T12:19:59.720742Z",
@@ -103,11 +288,37 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8095024,
+      "rating": 0.84890777,
       "ratingCount": 1,
       "created": "2026-08-15T06:36:43.454214Z",
       "updated": "2026-08-31T09:47:21.792534Z",
       "chartUpdated": "2026-08-15T06:36:43.454214Z"
+    },
+    {
+      "id": 76739,
+      "name": "Head BONK ache",
+      "level": "AT Lv.15",
+      "difficulty": 15.900001,
+      "charter": "誕丶滅中丶悲殺交響Re",
+      "composer": "saaa ft. MC iwata Bros.",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3e781a51-33fe-4bba-b3d4-97b0eca8cf32",
+      "preview": "https://phira.5wyxi.com/files/a9b980c1-1e0d-4ef9-a2c4-b2c6933a5d8f",
+      "file": "https://phira.5wyxi.com/files/ffd5563e-8fdf-4dd4-81c3-ac1b5fd9f2f5",
+      "uploader": 659554,
+      "tags": [
+        "regular"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-31T09:19:46.208719Z",
+      "updated": "2026-08-31T09:19:46.208719Z",
+      "chartUpdated": "2026-08-31T09:19:46.208719Z"
     },
     {
       "id": 76667,
@@ -129,7 +340,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9047524,
+      "rating": 0.9126824,
       "ratingCount": 3,
       "created": "2026-08-30T19:58:17.560777Z",
       "updated": "2026-08-31T07:24:49.084893Z",
@@ -158,7 +369,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.9144761,
+      "rating": 0.91532314,
       "ratingCount": 0,
       "created": "2026-08-31T05:51:50.526787Z",
       "updated": "2026-08-31T05:51:50.526787Z",
@@ -184,7 +395,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9116435,
+      "rating": 0.9127284,
       "ratingCount": 0,
       "created": "2026-08-31T05:12:26.891986Z",
       "updated": "2026-08-31T05:12:26.891986Z",
@@ -212,7 +423,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.9215384,
+      "rating": 0.94370246,
       "ratingCount": 0,
       "created": "2026-08-31T04:59:08.274779Z",
       "updated": "2026-08-31T04:59:08.274779Z",
@@ -238,7 +449,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8916515,
+      "rating": 0.9030334,
       "ratingCount": 0,
       "created": "2026-08-31T02:30:08.135367Z",
       "updated": "2026-08-31T02:30:08.135367Z",
@@ -267,37 +478,11 @@
         "耐力",
         "regular"
       ],
-      "rating": 0.9210384,
+      "rating": 0.9227897,
       "ratingCount": 1,
       "created": "2026-08-18T10:53:01.598284Z",
       "updated": "2026-08-31T00:55:15.351523Z",
       "chartUpdated": "2026-08-18T10:53:01.598284Z"
-    },
-    {
-      "id": 76669,
-      "name": "IF = Infinity",
-      "level": "CL Lv.12",
-      "difficulty": 16.6,
-      "charter": "TCT = TPE Charting Team",
-      "composer": "Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi",
-      "illustrator": "",
-      "description": "—————谱面信息—————\n曲名：IF = Infinity\n曲师：Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi\n谱师(不分前后)：屑猹Chara(我，主谱师)、一万九千宵、Caldoge蔡笱、DBTT_19421、湖涧影、孤宇Gesona、戏-作 、WasilyAZ、rubbishsort_me、Dieyum_蝶凩、风铃音符AmAtrue、OMG欧米伽该名称已存在、一只起飞仔、希然与安\n(以上均为在b站内的名称，由于部分人已开学所以没法联合上传)\n画师：渗透物(Hanyaka modified)\n物量：4000\n事件数：27836\n—————作者的话—————\n这是我合作以来最多人的一张。数量及其庞大。可惜我粉丝数不达标再加上部分人开学不在线导致我无法以联合投稿的形式投稿。也算是我的小遗憾了。\n这张谱比我想象中的要写的久。甚至在一开始我就没打算写合作。总之算个奇迹吧。\n就这样了。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/95e3953d-0034-466f-973d-f098d5d574ec",
-      "preview": "https://phira.5wyxi.com/files/7c3c3f92-b971-47bd-97df-d40a18a40110",
-      "file": "https://phira.5wyxi.com/files/ead262d9-a452-4f41-b4fa-314899dfc150",
-      "uploader": 92123,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9173528,
-      "ratingCount": 0,
-      "created": "2026-08-31T00:01:17.415312Z",
-      "updated": "2026-08-31T00:01:17.415312Z",
-      "chartUpdated": "2026-08-31T00:01:17.415312Z"
     },
     {
       "id": 76657,
@@ -319,40 +504,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8988309,
+      "rating": 0.9113023,
       "ratingCount": 0,
       "created": "2026-08-30T16:58:03.317953Z",
       "updated": "2026-08-30T16:58:03.317953Z",
       "chartUpdated": "2026-08-30T16:58:03.317953Z"
-    },
-    {
-      "id": 76649,
-      "name": "SToRY",
-      "level": "PR Lv.31",
-      "difficulty": 15.599997,
-      "charter": "KafuuChino × TUDOU's Stories",
-      "composer": "DECO*27 × 堀江晶太(kemu) feat. VOCALOIDs",
-      "illustrator": "",
-      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\r\n谱师：@香风智乃_KafuuChino × @音游人TUDOU\r\n谱师亲自上传，相关剧情可在对应的谱面预览视频简介查找。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/689e88d5-5999-4399-b3dd-c2f95c80ad54",
-      "preview": "https://phira.5wyxi.com/files/63615418-cb85-448a-a000-3e2944d1de12",
-      "file": "https://phira.5wyxi.com/files/01161f06-95a6-4b93-aced-6cd319ddfdce",
-      "uploader": 328759,
-      "tags": [
-        "初音未来19周年",
-        "PJSK剧场版",
-        "主线章节一世界之音",
-        "regular"
-      ],
-      "rating": 0.96304286,
-      "ratingCount": 0,
-      "created": "2026-08-30T16:10:56.678247Z",
-      "updated": "2026-08-30T16:10:56.678247Z",
-      "chartUpdated": "2026-08-30T16:10:56.678247Z"
     },
     {
       "id": 76064,
@@ -374,7 +530,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87640494,
+      "rating": 0.8774738,
       "ratingCount": 271,
       "created": "2026-08-27T14:23:41.482042Z",
       "updated": "2026-08-30T15:52:24.461230Z",
@@ -400,7 +556,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91668016,
+      "rating": 0.9182707,
       "ratingCount": 301,
       "created": "2026-08-25T15:47:28.401684Z",
       "updated": "2026-08-30T15:35:23.628839Z",
@@ -426,7 +582,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87610155,
+      "rating": 0.8744875,
       "ratingCount": 0,
       "created": "2026-08-30T12:24:50.157494Z",
       "updated": "2026-08-30T12:24:50.157494Z",
@@ -452,7 +608,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8423671,
+      "rating": 0.84992945,
       "ratingCount": 1,
       "created": "2026-08-30T11:45:26.767688Z",
       "updated": "2026-08-30T11:46:02.322540Z",
@@ -478,7 +634,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88679653,
+      "rating": 0.8863082,
       "ratingCount": 0,
       "created": "2026-08-29T00:19:06.746478Z",
       "updated": "2026-08-30T08:51:24.049797Z",
@@ -504,7 +660,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9059034,
+      "rating": 0.9155716,
       "ratingCount": 2,
       "created": "2026-08-17T05:24:37.810759Z",
       "updated": "2026-08-30T05:52:57.470667Z",
@@ -530,7 +686,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9196446,
+      "rating": 0.91683835,
       "ratingCount": 4,
       "created": "2026-08-29T06:21:17.749111Z",
       "updated": "2026-08-30T05:32:59.579091Z",
@@ -556,7 +712,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84314567,
+      "rating": 0.8300795,
       "ratingCount": 22,
       "created": "2026-07-21T14:17:11.812846Z",
       "updated": "2026-08-30T04:32:47.742978Z",
@@ -582,7 +738,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9332394,
+      "rating": 0.9371627,
       "ratingCount": 0,
       "created": "2026-08-10T02:44:28.495077Z",
       "updated": "2026-08-30T03:22:31.035925Z",
@@ -608,7 +764,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94758695,
+      "rating": 0.93991876,
       "ratingCount": 0,
       "created": "2026-08-27T14:39:56.417081Z",
       "updated": "2026-08-30T03:21:32.080656Z",
@@ -642,174 +798,11 @@
         "dj",
         "regular"
       ],
-      "rating": 0.8592869,
+      "rating": 0.870007,
       "ratingCount": 0,
       "created": "2026-08-30T00:51:42.919010Z",
       "updated": "2026-08-30T03:11:45.089831Z",
       "chartUpdated": "2026-08-30T03:11:45.089831Z"
-    },
-    {
-      "id": 76482,
-      "name": "CROSS†SOUL",
-      "level": "IN Lv.16",
-      "difficulty": 16.4,
-      "charter": "Whenhow",
-      "composer": "HyuN",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6d838b6a-9224-41d7-9d63-e8b1fe294e65",
-      "preview": "https://phira.5wyxi.com/files/39586f16-e0ef-446d-b728-386c466d3dcc",
-      "file": "https://phira.5wyxi.com/files/d396c991-2f0a-47eb-813a-1d924c6bfbed",
-      "uploader": 1839450,
-      "tags": [
-        "双指",
-        "regular"
-      ],
-      "rating": 0.8803249,
-      "ratingCount": 0,
-      "created": "2026-08-30T02:26:49.318849Z",
-      "updated": "2026-08-30T02:26:49.318849Z",
-      "chartUpdated": "2026-08-30T02:26:49.318849Z"
-    },
-    {
-      "id": 66897,
-      "name": "如果呢",
-      "level": "IN.lv15",
-      "difficulty": 15.0,
-      "charter": "进化",
-      "composer": "郑润泽",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/ecd8a9a3-81e0-49ef-8707-59c65b73f540",
-      "preview": "https://phira.5wyxi.com/files/e88af8a6-ea36-4365-ac5e-d46fef6cfb52",
-      "file": "https://phira.5wyxi.com/files/38dd9691-ece5-43e5-b855-f8fdaf257df3",
-      "uploader": 1751067,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8560345,
-      "ratingCount": 26,
-      "created": "2026-07-16T05:27:35.592659Z",
-      "updated": "2026-08-29T17:55:38.566882Z",
-      "chartUpdated": "2026-07-16T05:27:35.592659Z"
-    },
-    {
-      "id": 76445,
-      "name": "Implexrough",
-      "level": "HD Lv.12",
-      "difficulty": 12.800003,
-      "charter": "As the curtain rises...",
-      "composer": "Silentroom & mommy",
-      "illustrator": "",
-      "description": "本人上传，B站 rbtree_\n建议游玩比例3:2（1.5）\n谱面质量不高，求轻喷，感谢！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7a0ff227-e7a0-4da6-a32d-85ede72ce41c",
-      "preview": "https://phira.5wyxi.com/files/41447b76-670f-4754-9dbc-49f229dbe3e7",
-      "file": "https://phira.5wyxi.com/files/7fb9842e-de70-42f1-a88a-21bc9107252c",
-      "uploader": 180981,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.76758695,
-      "ratingCount": 1,
-      "created": "2026-08-29T14:58:54.841964Z",
-      "updated": "2026-08-29T14:58:54.841964Z",
-      "chartUpdated": "2026-08-29T14:58:54.841964Z"
-    },
-    {
-      "id": 76227,
-      "name": "纸飞机",
-      "level": "飞行雪绒",
-      "difficulty": 12.800002,
-      "charter": "12830",
-      "composer": "鸣潮先约电台",
-      "illustrator": "",
-      "description": "新人首谱请多关照❤️\n视频号/B站：128303821 Phira：群星の调律者 本人上传\n屏幕中间的黄键其实是纸飞机 屏幕纵横比可能导致变形 凑活看吧orz",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/14c07297-d0cb-4022-827d-02f28b379cbe",
-      "preview": "https://phira.5wyxi.com/files/cbeb350e-ae99-4eca-86c5-08c20d4f612f",
-      "file": "https://phira.5wyxi.com/files/31f950d3-324c-4d41-b3b2-d79106b4df6e",
-      "uploader": 2168731,
-      "tags": [
-        "鸣潮",
-        "二游",
-        "爱弥斯",
-        "角色EP",
-        "regular"
-      ],
-      "rating": 0.9230746,
-      "ratingCount": 193,
-      "created": "2026-08-28T14:13:40.001206Z",
-      "updated": "2026-08-29T14:34:59.157113Z",
-      "chartUpdated": "2026-08-28T14:13:40.001206Z"
-    },
-    {
-      "id": 74781,
-      "name": "「スターチス」",
-      "level": "Eternal Lv.12",
-      "difficulty": 12.800003,
-      "charter": "朝日の花",
-      "composer": "Fty",
-      "illustrator": "",
-      "description": "本人上传，B站ID：朝日の锁\n晚安，青兰",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/1fece1c8-4b57-4a73-8edb-61baafb23d89",
-      "preview": "https://phira.5wyxi.com/files/ae8a4dbd-2132-4618-b6ba-b62570d00ff6",
-      "file": "https://phira.5wyxi.com/files/9cfdc422-5977-4822-bce3-55aa654f1c92",
-      "uploader": 192860,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9226076,
-      "ratingCount": 0,
-      "created": "2026-08-21T07:41:24.003568Z",
-      "updated": "2026-08-29T14:30:51.794179Z",
-      "chartUpdated": "2026-08-21T07:41:24.003568Z"
-    },
-    {
-      "id": 59385,
-      "name": "Never Forget That Rainbow",
-      "level": "IN  Lv.16",
-      "difficulty": 16.400002,
-      "charter": "雨巷猫归",
-      "composer": "打打だいず vs. seatrus",
-      "illustrator": "",
-      "description": "谱师本人上传，已经过所有谱师同意上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/f49f55ff-cc04-4170-967c-f37a2e69c587",
-      "preview": "https://phira.5wyxi.com/files/f931ab4e-b858-417e-befd-4961febc1b9f",
-      "file": "https://phira.5wyxi.com/files/128fb892-9905-4fb0-b104-2618cd2fc715",
-      "uploader": 1352658,
-      "tags": [
-        "双指",
-        "底力",
-        "regular"
-      ],
-      "rating": 0.93261534,
-      "ratingCount": 288,
-      "created": "2026-05-29T13:10:11.249381Z",
-      "updated": "2026-08-29T14:04:05.088965Z",
-      "chartUpdated": "2026-05-29T13:10:11.249381Z"
     }
   ]
 }
