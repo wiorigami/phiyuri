@@ -1,6 +1,32 @@
 {
-  "count": 3238,
+  "count": 3241,
   "results": [
+    {
+      "id": 76708,
+      "name": "G4M3-0V3R (m1dy Remix)",
+      "level": "4K - lv.35",
+      "difficulty": 17.5,
+      "charter": "viuha14",
+      "composer": "Kobaryo/m1dyo",
+      "illustrator": "",
+      "description": "222切，好难的。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/beb85462-cf02-4656-9aca-afeb866640ca",
+      "preview": "https://phira.5wyxi.com/files/9b5c701e-d178-4ace-aa65-aeab077e5715",
+      "file": "https://phira.5wyxi.com/files/227ef5c4-4a01-439e-b9ab-b78f49b35c7c",
+      "uploader": 6275,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-08-31T05:21:51.848038Z",
+      "updated": "2026-08-31T05:21:51.848038Z",
+      "chartUpdated": "2026-08-31T05:21:51.848038Z"
+    },
     {
       "id": 76706,
       "name": "Smog 5 Dan",
@@ -47,7 +73,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.79426795,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:22.856483Z",
       "updated": "2026-08-31T05:14:22.856483Z",
@@ -73,7 +99,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8257282,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:15.144480Z",
       "updated": "2026-08-31T05:14:15.144480Z",
@@ -99,7 +125,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:06.457482Z",
       "updated": "2026-08-31T05:14:06.457482Z",
@@ -125,7 +151,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7198484,
+      "rating": 0.83852905,
       "ratingCount": 0,
       "created": "2026-08-31T05:13:31.970159Z",
       "updated": "2026-08-31T05:13:31.970159Z",
@@ -151,11 +177,37 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.87991786,
       "ratingCount": 0,
       "created": "2026-08-31T05:13:23.329119Z",
       "updated": "2026-08-31T05:13:23.329119Z",
       "chartUpdated": "2026-08-31T05:13:23.329119Z"
+    },
+    {
+      "id": 76648,
+      "name": "Booby Trap",
+      "level": "4K Lv.31",
+      "difficulty": 10.0,
+      "charter": "十千秋子",
+      "composer": "Yooh",
+      "illustrator": "",
+      "description": "本人小号上传\nBPM:200",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/53150446-6ded-4c7c-8dda-0fa62313abbd",
+      "preview": "https://phira.5wyxi.com/files/a1387eef-e305-436d-8ecf-1eaab09ed99b",
+      "file": "https://phira.5wyxi.com/files/358dbfc0-c1f3-47fb-8b55-0f07a12c3461",
+      "uploader": 58238,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.79426795,
+      "ratingCount": 0,
+      "created": "2026-08-30T15:41:37.197951Z",
+      "updated": "2026-08-30T15:41:37.197951Z",
+      "chartUpdated": "2026-08-30T15:41:37.197951Z"
     },
     {
       "id": 76611,
@@ -177,7 +229,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85248584,
+      "rating": 0.8629285,
       "ratingCount": 0,
       "created": "2026-08-30T13:32:05.541245Z",
       "updated": "2026-08-30T13:32:05.541245Z",
@@ -241,7 +293,7 @@
         "15",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.856128,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:58.222233Z",
       "updated": "2026-08-30T10:41:58.222233Z",
@@ -273,7 +325,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.86019063,
+      "rating": 0.86364126,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:36.714861Z",
       "updated": "2026-08-30T10:41:36.714861Z",
@@ -305,7 +357,7 @@
         "8",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8176735,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:14.542224Z",
       "updated": "2026-08-30T10:41:14.542224Z",
@@ -337,7 +389,7 @@
         "谐律段位",
         "plain"
       ],
-      "rating": 0.7434371,
+      "rating": 0.7702763,
       "ratingCount": 0,
       "created": "2026-08-30T10:40:55.128847Z",
       "updated": "2026-08-30T10:40:55.128847Z",
@@ -367,7 +419,7 @@
         "切换",
         "plain"
       ],
-      "rating": 0.8317302,
+      "rating": 0.8863651,
       "ratingCount": 0,
       "created": "2026-08-30T05:34:10.338410Z",
       "updated": "2026-08-30T05:34:10.338410Z",
@@ -452,7 +504,7 @@
         "s1mple",
         "plain"
       ],
-      "rating": 0.9133876,
+      "rating": 0.9163874,
       "ratingCount": 0,
       "created": "2026-08-28T13:42:14.512045Z",
       "updated": "2026-08-28T13:42:14.512045Z",
@@ -540,7 +592,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.9092364,
+      "rating": 0.9169513,
       "ratingCount": 0,
       "created": "2026-08-25T14:41:43.413800Z",
       "updated": "2026-08-25T14:41:43.413800Z",
@@ -568,7 +620,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.911667,
+      "rating": 0.91155887,
       "ratingCount": 0,
       "created": "2025-08-11T10:08:51.577333Z",
       "updated": "2026-08-25T12:04:45.687913Z",
@@ -652,7 +704,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83539283,
+      "rating": 0.83495563,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -714,7 +766,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.9092919,
+      "rating": 0.9094544,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -778,7 +830,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8804266,
+      "rating": 0.8802704,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
@@ -809,60 +861,6 @@
       "created": "2026-08-23T11:20:37.549552Z",
       "updated": "2026-08-23T11:20:37.549552Z",
       "chartUpdated": "2026-08-23T11:20:37.549552Z"
-    },
-    {
-      "id": 75174,
-      "name": "Heracles",
-      "level": "4K Lv.34",
-      "difficulty": 10.0,
-      "charter": "十千秋子",
-      "composer": "Yooh",
-      "illustrator": "",
-      "description": "第一次写切\n流速:13.5\nBPM:193",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/74b3a1c0-8ba5-4a25-94df-08ffa7019398",
-      "preview": "https://phira.5wyxi.com/files/cea569c5-456b-4793-81f1-36160c77a571",
-      "file": "https://phira.5wyxi.com/files/4c40f637-9bea-4746-8b4e-5431e1cf5409",
-      "uploader": 57017,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.86442983,
-      "ratingCount": 0,
-      "created": "2026-08-23T06:07:00.403471Z",
-      "updated": "2026-08-23T06:07:00.403471Z",
-      "chartUpdated": "2026-08-23T06:07:00.403471Z"
-    },
-    {
-      "id": 75101,
-      "name": "Äventyr",
-      "level": "Jack Lv.27",
-      "difficulty": 27.0,
-      "charter": "3XXjkl",
-      "composer": "Grand Thaw",
-      "illustrator": "",
-      "description": "初版BV1hiUeBiE4z\n去年完工，今年大改了一遍\n前面的叠不太好改了，只能尽可能改的好看了，写第一版的时候还觉得排的挺贴歌来着，可惜实在太丑了\n休息段写的不错吧（",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3319f0b7-f1b5-4456-b2a9-a2a1a77011c8",
-      "preview": "https://phira.5wyxi.com/files/c4128405-79a8-449f-9acb-2e82c1604728",
-      "file": "https://phira.5wyxi.com/files/c6f9c0ee-0a0d-4515-ac6d-17f762104a05",
-      "uploader": 1994358,
-      "tags": [
-        "4k",
-        "Jack",
-        "plain"
-      ],
-      "rating": 0.8437511,
-      "ratingCount": 0,
-      "created": "2026-08-22T18:56:07.948029Z",
-      "updated": "2026-08-22T18:56:07.948029Z",
-      "chartUpdated": "2026-08-22T18:56:07.948029Z"
     }
   ]
 }
