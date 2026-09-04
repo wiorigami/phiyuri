@@ -1,6 +1,111 @@
 {
-  "count": 9495,
+  "count": 9502,
   "results": [
+    {
+      "id": 76959,
+      "name": "Dimension Hacker",
+      "level": "AT Lv.18",
+      "difficulty": 20.0,
+      "charter": "7poLoyo vs. 0x4443595F",
+      "composer": "Kobaryo",
+      "illustrator": "",
+      "description": "合作谱 上传已经过另一位谱师同意\n协作者@0x4443595F#4049834（合作）\n两个人的大乱炖 混着写的 应该没啥个人味很大的段落（\n定数：18.4\n各位玩得愉快",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a0cb6dde-bf4c-49ac-8127-dc08c1edba83",
+      "preview": "https://phira.5wyxi.com/files/c44ee9e8-a461-415e-a1da-0cad484fef32",
+      "file": "https://phira.5wyxi.com/files/dc58fe62-d41f-4b0d-927a-d6c680e319ce",
+      "uploader": 3847574,
+      "tags": [
+        "高难",
+        "regular"
+      ],
+      "rating": 0.7852564,
+      "ratingCount": 0,
+      "created": "2026-09-03T15:14:41.689682Z",
+      "updated": "2026-09-03T15:15:22.416602Z",
+      "chartUpdated": "2026-09-03T15:14:41.689682Z"
+    },
+    {
+      "id": 61993,
+      "name": "Night Drawmers",
+      "level": "IN Lv.14",
+      "difficulty": 14.6,
+      "charter": "「阴」与「阳」",
+      "composer": "onoken",
+      "illustrator": "",
+      "description": "警告：请在游戏前阅读\n本谱面由于有光敏性特效，确诊光敏性癫痫的玩家禁止游玩！\n———————————\n*本视频演示谱为Phi自制谱面\n曲名:Night Drawmers\n曲师:onoken\n画师:eri kamijo\n\n谱面设计:@Celestial_bodies   @tarutoNyan   @-Esama-   @星夜_溯溡  \n\n———————————\n使用软件：\nRe: PhiEdit1.7.0  \nAdobe Photoshop 2024\n———————————\n感谢@曾不留神  的PS技术支持\n感谢@cmdysj  提供的RPE 1.7.0_a4\n———————————\n废话:\n累死哩这个板，幸好我们有PS大神救场———Cele\n蛋挞市区———tarutoNyan\n策勒好努力呀，蛋挞好温柔呀，额撒嘛好懒呀———Esama\n负责睡大觉（）———星夜",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/41603e6a-0625-40be-aa36-459b0d8b6759",
+      "preview": "https://phira.5wyxi.com/files/2e6886c3-b9a2-44e4-b338-3b1d723f5a48",
+      "file": "https://phira.5wyxi.com/files/759a0e6e-09e5-4763-89b2-05c3d2386c02",
+      "uploader": 2041908,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.94427574,
+      "ratingCount": 0,
+      "created": "2026-06-22T09:19:45.782217Z",
+      "updated": "2026-09-03T10:29:08.282934Z",
+      "chartUpdated": "2026-09-01T19:27:31.144045Z"
+    },
+    {
+      "id": 76909,
+      "name": "レビテト",
+      "level": "IN Lv.14",
+      "difficulty": 14.500002,
+      "charter": "246",
+      "composer": "PPP Sounds/重音テト",
+      "illustrator": "",
+      "description": "谱师本人上传\n群友点歌\n谱面预览BV1eLt56iEBP\n个人谱面资源群1025512620",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bea41dc6-bf17-47dd-b0ca-303332eb9fd7",
+      "preview": "https://phira.5wyxi.com/files/628edbb4-d6f6-4d8a-9e83-7aaca4e1fec7",
+      "file": "https://phira.5wyxi.com/files/44a72a6f-5936-4b49-ac1a-e7dd846e73fc",
+      "uploader": 1498506,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9156491,
+      "ratingCount": 0,
+      "created": "2026-09-02T16:23:07.096077Z",
+      "updated": "2026-09-02T16:23:07.096077Z",
+      "chartUpdated": "2026-09-02T16:23:07.096077Z"
+    },
+    {
+      "id": 76893,
+      "name": "乱序",
+      "level": "IN Lv.16",
+      "difficulty": 16.500002,
+      "charter": "L1HXj31_iM35W",
+      "composer": "塞壬唱片-MSR",
+      "illustrator": "",
+      "description": "本人上传，视频BV1z5ta6cEUo",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e793125e-8556-484e-804d-b279bea3cb27",
+      "preview": "https://phira.5wyxi.com/files/ae001a4c-4148-4fe9-8d64-157f38f7ab66",
+      "file": "https://phira.5wyxi.com/files/40fc68d6-14f5-4e0c-a6ba-e76987504d18",
+      "uploader": 96647,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8816133,
+      "ratingCount": 0,
+      "created": "2026-09-02T10:29:46.266954Z",
+      "updated": "2026-09-02T10:29:46.266954Z",
+      "chartUpdated": "2026-09-02T10:29:46.266954Z"
+    },
     {
       "id": 76067,
       "name": "Alter//Strife",
@@ -21,7 +126,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93887585,
+      "rating": 0.93786794,
       "ratingCount": 110,
       "created": "2026-08-27T14:39:56.417081Z",
       "updated": "2026-09-02T04:21:10.153281Z",
@@ -47,7 +152,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88595945,
+      "rating": 0.89632046,
       "ratingCount": 85,
       "created": "2026-08-29T11:19:48.010680Z",
       "updated": "2026-09-01T17:50:06.108502Z",
@@ -73,7 +178,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87545586,
+      "rating": 0.8752842,
       "ratingCount": 123,
       "created": "2026-08-21T03:07:25.090813Z",
       "updated": "2026-09-01T16:48:30.547454Z",
@@ -102,7 +207,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.95199937,
+      "rating": 0.95388895,
       "ratingCount": 52,
       "created": "2026-08-30T16:10:56.678247Z",
       "updated": "2026-09-01T13:31:58.609846Z",
@@ -128,7 +233,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93035764,
+      "rating": 0.93034303,
       "ratingCount": 223,
       "created": "2025-01-27T08:50:53.026113Z",
       "updated": "2026-09-01T11:13:28.208403Z",
@@ -154,7 +259,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9274686,
+      "rating": 0.9317285,
       "ratingCount": 0,
       "created": "2026-09-01T09:33:52.446252Z",
       "updated": "2026-09-01T11:03:20.448351Z",
@@ -180,7 +285,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9285455,
+      "rating": 0.9297909,
       "ratingCount": 159,
       "created": "2026-08-31T00:01:17.415312Z",
       "updated": "2026-09-01T05:12:56.074341Z",
@@ -206,7 +311,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8398084,
+      "rating": 0.8530778,
       "ratingCount": 2,
       "created": "2026-08-08T09:29:40.412072Z",
       "updated": "2026-08-31T13:24:29.073874Z",
@@ -232,7 +337,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9450905,
+      "rating": 0.9571002,
       "ratingCount": 0,
       "created": "2026-08-31T13:23:00.573085Z",
       "updated": "2026-08-31T13:23:00.573085Z",
@@ -262,7 +367,7 @@
         "nakotanmaru",
         "regular"
       ],
-      "rating": 0.937439,
+      "rating": 0.936316,
       "ratingCount": 0,
       "created": "2026-08-31T13:09:50.729440Z",
       "updated": "2026-08-31T13:09:50.729440Z",
@@ -288,7 +393,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9223206,
+      "rating": 0.92283326,
       "ratingCount": 0,
       "created": "2026-08-23T08:28:50.014174Z",
       "updated": "2026-08-31T12:19:59.720742Z",
@@ -317,7 +422,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.8605831,
+      "rating": 0.9433602,
       "ratingCount": 0,
       "created": "2026-08-31T10:29:07.621355Z",
       "updated": "2026-08-31T10:29:07.621355Z",
@@ -343,7 +448,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8565989,
+      "rating": 0.86783886,
       "ratingCount": 1,
       "created": "2026-08-15T06:36:43.454214Z",
       "updated": "2026-08-31T09:47:21.792534Z",
@@ -369,7 +474,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8176738,
+      "rating": 0.807268,
       "ratingCount": 0,
       "created": "2026-08-31T09:19:46.208719Z",
       "updated": "2026-08-31T09:19:46.208719Z",
@@ -395,7 +500,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9187571,
+      "rating": 0.92624444,
       "ratingCount": 3,
       "created": "2026-08-30T19:58:17.560777Z",
       "updated": "2026-08-31T07:24:49.084893Z",
@@ -424,7 +529,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.9602616,
+      "rating": 0.9541329,
       "ratingCount": 0,
       "created": "2026-08-31T07:13:52.314896Z",
       "updated": "2026-08-31T07:13:52.314896Z",
@@ -453,37 +558,11 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.9190083,
+      "rating": 0.9142315,
       "ratingCount": 0,
       "created": "2026-08-31T05:51:50.526787Z",
       "updated": "2026-08-31T05:51:50.526787Z",
       "chartUpdated": "2026-08-31T05:51:50.526787Z"
-    },
-    {
-      "id": 76700,
-      "name": "Never Say Goodbye",
-      "level": "HD  Lv.13",
-      "difficulty": 13.500002,
-      "charter": "007 Never Say Goodbye!",
-      "composer": "黒魔",
-      "illustrator": "",
-      "description": "B站@钻风想睡觉\n饺子醋",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/179a2209-7d98-4b1b-bff8-d8ddb3bb1891",
-      "preview": "https://phira.5wyxi.com/files/87751647-baa3-488a-bc59-4e2ad4a5ee93",
-      "file": "https://phira.5wyxi.com/files/d547a21a-56d7-41d8-b538-a25fd8c3900f",
-      "uploader": 260744,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.91037095,
-      "ratingCount": 0,
-      "created": "2026-08-31T05:12:26.891986Z",
-      "updated": "2026-08-31T05:12:26.891986Z",
-      "chartUpdated": "2026-08-31T05:12:26.891986Z"
     },
     {
       "id": 76696,
@@ -507,7 +586,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.95007527,
+      "rating": 0.9548494,
       "ratingCount": 0,
       "created": "2026-08-31T04:59:08.274779Z",
       "updated": "2026-08-31T04:59:08.274779Z",
@@ -533,7 +612,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.899769,
+      "rating": 0.8937522,
       "ratingCount": 0,
       "created": "2026-08-31T02:30:08.135367Z",
       "updated": "2026-08-31T02:30:08.135367Z",
@@ -562,7 +641,7 @@
         "耐力",
         "regular"
       ],
-      "rating": 0.92271876,
+      "rating": 0.9255144,
       "ratingCount": 1,
       "created": "2026-08-18T10:53:01.598284Z",
       "updated": "2026-08-31T00:55:15.351523Z",
@@ -591,7 +670,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.89305115,
+      "rating": 0.9258904,
       "ratingCount": 0,
       "created": "2026-08-31T00:42:42.210076Z",
       "updated": "2026-08-31T00:42:42.210076Z",
@@ -617,7 +696,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.913909,
+      "rating": 0.92152774,
       "ratingCount": 0,
       "created": "2026-08-30T16:58:03.317953Z",
       "updated": "2026-08-30T16:58:03.317953Z",
@@ -643,7 +722,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.879762,
+      "rating": 0.88403475,
       "ratingCount": 271,
       "created": "2026-08-27T14:23:41.482042Z",
       "updated": "2026-08-30T15:52:24.461230Z",
@@ -669,7 +748,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9174151,
+      "rating": 0.9197997,
       "ratingCount": 301,
       "created": "2026-08-25T15:47:28.401684Z",
       "updated": "2026-08-30T15:35:23.628839Z",
@@ -695,7 +774,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8717519,
+      "rating": 0.8707601,
       "ratingCount": 0,
       "created": "2026-08-30T12:24:50.157494Z",
       "updated": "2026-08-30T12:24:50.157494Z",
@@ -721,89 +800,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8629865,
+      "rating": 0.86375535,
       "ratingCount": 1,
       "created": "2026-08-30T11:45:26.767688Z",
       "updated": "2026-08-30T11:46:02.322540Z",
       "chartUpdated": "2026-08-30T11:45:26.767688Z"
-    },
-    {
-      "id": 76266,
-      "name": "Don't Fight The Music",
-      "level": "EX Lv.16",
-      "difficulty": 16.500002,
-      "charter": "黒精",
-      "composer": "黒魔",
-      "illustrator": "",
-      "description": "本人上傳\nb站 『一只黑精』\n本谱确认可理，本人已全谱fc，分段全谱ap\n发布手元务必艾特我\n更新使拆线更可读，让音符更早进入可读范围",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/4aba2e10-a2a7-4606-940f-f85d012a68fc",
-      "preview": "https://phira.5wyxi.com/files/24cb9f60-fb24-40e4-b814-25dfea731c5b",
-      "file": "https://phira.5wyxi.com/files/10e36acb-0990-4176-a9f8-bfc2f3aeddc9",
-      "uploader": 3725970,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88982826,
-      "ratingCount": 0,
-      "created": "2026-08-29T00:19:06.746478Z",
-      "updated": "2026-08-30T08:51:24.049797Z",
-      "chartUpdated": "2026-08-30T08:51:24.049797Z"
-    },
-    {
-      "id": 76544,
-      "name": "六兆年と一夜物語",
-      "level": "AT Lv.16",
-      "difficulty": 16.5,
-      "charter": "生天",
-      "composer": "KEMU VOXX feat.IA",
-      "illustrator": "",
-      "description": "B站 逃出生天完成任务\nbv号 BV1MLhK6LERv\n\n————————————————————\n\nしらない　しらない\nぼくは（わ）なにもしらない\n......\n\n因为喜欢六兆年，所以写了谱。感觉动效什么的写得很烂，排键也改了好几遍......\n呜哇！私わ本当にばかですqwq",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/99e4d3fe-63d2-4411-98df-4dd2730c42ba",
-      "preview": "https://phira.5wyxi.com/files/0a092d28-a698-4570-b577-2ff0dc86e08d",
-      "file": "https://phira.5wyxi.com/files/63fe2d00-3fc9-4687-af65-ff94f66b6224",
-      "uploader": 600546,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.7394274,
-      "ratingCount": 0,
-      "created": "2026-08-30T08:00:15.272542Z",
-      "updated": "2026-08-30T08:00:15.272542Z",
-      "chartUpdated": "2026-08-30T08:00:15.272542Z"
-    },
-    {
-      "id": 73884,
-      "name": "Forever",
-      "level": "AT to 4K Lv.16",
-      "difficulty": 16.0,
-      "charter": "RELIVE",
-      "composer": "PIKASONIC & islandWind",
-      "illustrator": "",
-      "description": "恭喜你发现了这个简介！(RKS+0.06)\n轻松长耐力读谱4K谱喵~\n由谱师本人 RELIVE 上传！\n……………………………………………\n谱面信息：\n曲名：Forever\n曲师：PIKASONIC & islandWind\n画师：みゆしのら葉月(Myushinora Hazuki)\n谱师：RELIVE \nBPM:  128\n物量：1472\n主要流速：前10/后11\n单曲时长：3min 13s ( 193s )\n难度：AT to 4K Lv. 16 (16.2~16.5)\n事件数：1350\n制谱用时：9h\n……………………………………………\n歌很劲爆~，感谢你看完了简介，祝您玩的开心吖！",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/d575b937-4288-4fbb-94a2-2f55a922b8ee",
-      "preview": "https://phira.5wyxi.com/files/30ae8326-c99e-4660-84e5-b9c7fba885ce",
-      "file": "https://phira.5wyxi.com/files/1dfdbe8e-d66f-48be-a528-2cb19f801a4a",
-      "uploader": 981944,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9141839,
-      "ratingCount": 2,
-      "created": "2026-08-17T05:24:37.810759Z",
-      "updated": "2026-08-30T05:52:57.470667Z",
-      "chartUpdated": "2026-08-17T05:24:37.810759Z"
     }
   ]
 }
