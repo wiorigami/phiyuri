@@ -1,6 +1,226 @@
 {
-  "count": 9502,
+  "count": 9503,
   "results": [
+    {
+      "id": 75769,
+      "name": "花与剑的轮舞 Rondeau des fleurs et des rapieres",
+      "level": "AT Lv.16",
+      "difficulty": 16.500002,
+      "charter": "Mai_Tang",
+      "composer": "HOYO-MiX",
+      "illustrator": "",
+      "description": "定数：16.5\n谱师：Mai_Tang\nBPM：183\nB站搜索麦糖酱owo\n-------\n正正好好在生日当天写完了（大部分特效），也是相当的意外\n感觉会写一点特效了\n整体配置以协调和读谱为主，键盘少\n此外，这个音乐似乎有点小声...",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/936c26e1-9962-4381-a140-57595d2f8da3",
+      "preview": "https://phira.5wyxi.com/files/d7e21e22-1003-4166-a50b-c60d06fb8a0f",
+      "file": "https://phira.5wyxi.com/files/d579198d-8a6e-4647-a9e5-d95a8467b149",
+      "uploader": 1642829,
+      "tags": [
+        "原神",
+        "regular"
+      ],
+      "rating": 0.8798841,
+      "ratingCount": 0,
+      "created": "2026-08-26T05:33:53.788257Z",
+      "updated": "2026-09-04T15:52:51.251139Z",
+      "chartUpdated": "2026-09-04T15:52:51.251139Z"
+    },
+    {
+      "id": 72364,
+      "name": "雨之城",
+      "level": "SP  Lv. rain",
+      "difficulty": 10.0,
+      "charter": "PLeaFM",
+      "composer": "Castle城",
+      "illustrator": "",
+      "description": "谱师本人上传，本家BV1NCuU66EBh",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/fd24f6de-d5ec-4e89-8ab3-04c6f629f6df",
+      "preview": "https://phira.5wyxi.com/files/0cd916cb-83de-4d55-848b-26dc15067b41",
+      "file": "https://phira.5wyxi.com/files/914ede85-191e-46ed-b68e-28331b5c0052",
+      "uploader": 2062399,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8950544,
+      "ratingCount": 8,
+      "created": "2026-08-09T17:26:48.885831Z",
+      "updated": "2026-09-04T15:00:01.010415Z",
+      "chartUpdated": "2026-08-09T17:26:48.885831Z"
+    },
+    {
+      "id": 75145,
+      "name": "彷徨いの冥~天~",
+      "level": "IN lv.14",
+      "difficulty": 14.0,
+      "charter": "XiaoQXiaoN",
+      "composer": "天宮みや & 姫城碧海",
+      "illustrator": "",
+      "description": "第五届bbc参赛谱\n会尝试申请上架，主要目的是获取建议，如果不过审的话，请stable提供建议\n幽幽子nb",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/3e5f2c02-c329-46c3-a5ad-d102705792cd",
+      "preview": "https://phira.5wyxi.com/files/5f806fdb-92ac-418f-bf53-6fc96da065e0",
+      "file": "https://phira.5wyxi.com/files/a7ac8289-c329-49f0-bf75-3ad0c1386b4f",
+      "uploader": 449625,
+      "tags": [
+        "东方project",
+        "regular"
+      ],
+      "rating": 0.88875777,
+      "ratingCount": 0,
+      "created": "2026-08-23T03:45:40.027450Z",
+      "updated": "2026-09-04T14:30:55.784435Z",
+      "chartUpdated": "2026-08-23T03:45:40.027450Z"
+    },
+    {
+      "id": 76970,
+      "name": "TRIPLE HELIX",
+      "level": "HD Lv.10",
+      "difficulty": 10.000004,
+      "charter": "YSTAR-T",
+      "composer": "Yonokid",
+      "illustrator": "",
+      "description": "谱师本人上传\n三螺旋精简风格（Ver.1.6.11）\n定数 HD Lv.10.0",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f862cae6-c8e7-432d-98cb-33bedbdb8db6",
+      "preview": "https://phira.5wyxi.com/files/186fcefc-dc32-4621-9add-efae2b1bb906",
+      "file": "https://phira.5wyxi.com/files/a9627644-6def-4db3-8988-5f82528397fe",
+      "uploader": 1213694,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.90994364,
+      "ratingCount": 0,
+      "created": "2026-09-04T02:53:21.002741Z",
+      "updated": "2026-09-04T11:14:18.024511Z",
+      "chartUpdated": "2026-09-04T11:14:18.024511Z"
+    },
+    {
+      "id": 76993,
+      "name": "Glacier",
+      "level": "AT Lv.19",
+      "difficulty": 19.0,
+      "charter": "Betrixx v.s Li",
+      "composer": "Laur",
+      "illustrator": "",
+      "description": "Glacier AT Lv.19\n曲师：Laur\n谱师：@NiLi#93670 v.s @Betrixx#435853\n双人合作高难，我负责主要配置，阿狸负责动效与修改，790-934cb的drag为全屏判定，但是经过优化后单指接长条还是可能会漏，建议多指接",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/244c4c30-6db0-4e07-a869-99215ca50919",
+      "preview": "https://phira.5wyxi.com/files/ebc9eea4-253c-4279-9705-4d382175899d",
+      "file": "https://phira.5wyxi.com/files/000cd07e-031f-4264-aa34-6f638b30c39a",
+      "uploader": 435853,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.89616287,
+      "ratingCount": 0,
+      "created": "2026-09-04T10:46:55.650179Z",
+      "updated": "2026-09-04T10:49:35.762918Z",
+      "chartUpdated": "2026-09-04T10:46:55.650179Z"
+    },
+    {
+      "id": 75358,
+      "name": "Beep Beep Im A Sheep",
+      "level": "IN Lv.14",
+      "difficulty": 14.900003,
+      "charter": "火柴人会不会梦见摇摆羊",
+      "composer": "Owen Keith",
+      "illustrator": "",
+      "description": "有点创的创意谱，3rdWMC参赛谱。谱面编号：哼",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/7584a384-88d9-4e2f-9f6e-5bdcb49ffaaf",
+      "preview": "https://phira.5wyxi.com/files/f5a02165-8883-4349-bc40-91a96598eb5c",
+      "file": "https://phira.5wyxi.com/files/1e7ed00a-c0be-4def-98c8-97b5196a3748",
+      "uploader": 812953,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.94561213,
+      "ratingCount": 5,
+      "created": "2026-08-24T05:02:28.404852Z",
+      "updated": "2026-09-04T06:29:09.482049Z",
+      "chartUpdated": "2026-08-24T05:02:28.404852Z"
+    },
+    {
+      "id": 54420,
+      "name": "パノプティコン",
+      "level": "r-Lv.14",
+      "difficulty": 14.100004,
+      "charter": "t-609",
+      "composer": "r-906",
+      "illustrator": "",
+      "description": "B站:BV1XGAAzQE94\nr-906的歌太好听了你知道吗",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/97da150a-1f1d-4f53-91a9-19fa9688ae66",
+      "preview": "https://phira.5wyxi.com/files/16d1325e-2cc0-4209-8edc-21ed2b5a09f0",
+      "file": "https://phira.5wyxi.com/files/922b8301-3b26-4beb-a3ff-d4dc024bf880",
+      "uploader": 625600,
+      "tags": [
+        "r-906",
+        "ミク",
+        "初音未来",
+        "术力口",
+        "miku",
+        "一恒",
+        "薙",
+        "regular"
+      ],
+      "rating": 0.9540564,
+      "ratingCount": 860,
+      "created": "2026-03-21T16:26:21.667609Z",
+      "updated": "2026-09-04T05:32:13.961178Z",
+      "chartUpdated": "2026-03-21T16:26:21.667609Z"
+    },
+    {
+      "id": 76747,
+      "name": "そこに在る、光。",
+      "level": "PR Lv.29",
+      "difficulty": 14.3,
+      "charter": "KafuuChino × 眠らないYY13491",
+      "composer": "DECO*27 × すりぃ feat. VOCALOIDs",
+      "illustrator": "",
+      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\r\n谱师：@香风智乃_KafuuChino × @YY13491\r\n谱师亲自上传，相关剧情可在对应的谱面预览视频简介查找。",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/6ac3172c-f5c0-4c47-8588-6304b0f11709",
+      "preview": "https://phira.5wyxi.com/files/43b161de-231d-4b0f-9ff1-9afdb0da1457",
+      "file": "https://phira.5wyxi.com/files/ae404d52-8881-4204-89a0-cdebba78d7c0",
+      "uploader": 328759,
+      "tags": [
+        "初音未来19周年",
+        "PJSK剧场版",
+        "主线章节一世界之音",
+        "regular"
+      ],
+      "rating": 0.94947165,
+      "ratingCount": 46,
+      "created": "2026-08-31T10:29:07.621355Z",
+      "updated": "2026-09-04T04:24:42.012180Z",
+      "chartUpdated": "2026-08-31T10:29:07.621355Z"
+    },
     {
       "id": 76959,
       "name": "Dimension Hacker",
@@ -22,7 +242,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.7852564,
+      "rating": 0.8489762,
       "ratingCount": 0,
       "created": "2026-09-03T15:14:41.689682Z",
       "updated": "2026-09-03T15:15:22.416602Z",
@@ -48,7 +268,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94427574,
+      "rating": 0.94483995,
       "ratingCount": 0,
       "created": "2026-06-22T09:19:45.782217Z",
       "updated": "2026-09-03T10:29:08.282934Z",
@@ -74,7 +294,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9156491,
+      "rating": 0.905553,
       "ratingCount": 0,
       "created": "2026-09-02T16:23:07.096077Z",
       "updated": "2026-09-02T16:23:07.096077Z",
@@ -100,7 +320,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8816133,
+      "rating": 0.839784,
       "ratingCount": 0,
       "created": "2026-09-02T10:29:46.266954Z",
       "updated": "2026-09-02T10:29:46.266954Z",
@@ -126,7 +346,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93786794,
+      "rating": 0.93405896,
       "ratingCount": 110,
       "created": "2026-08-27T14:39:56.417081Z",
       "updated": "2026-09-02T04:21:10.153281Z",
@@ -152,7 +372,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89632046,
+      "rating": 0.9033851,
       "ratingCount": 85,
       "created": "2026-08-29T11:19:48.010680Z",
       "updated": "2026-09-01T17:50:06.108502Z",
@@ -178,7 +398,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8752842,
+      "rating": 0.87805474,
       "ratingCount": 123,
       "created": "2026-08-21T03:07:25.090813Z",
       "updated": "2026-09-01T16:48:30.547454Z",
@@ -207,7 +427,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.95388895,
+      "rating": 0.9294795,
       "ratingCount": 52,
       "created": "2026-08-30T16:10:56.678247Z",
       "updated": "2026-09-01T13:31:58.609846Z",
@@ -233,7 +453,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93034303,
+      "rating": 0.93005216,
       "ratingCount": 223,
       "created": "2025-01-27T08:50:53.026113Z",
       "updated": "2026-09-01T11:13:28.208403Z",
@@ -259,7 +479,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9317285,
+      "rating": 0.91795975,
       "ratingCount": 0,
       "created": "2026-09-01T09:33:52.446252Z",
       "updated": "2026-09-01T11:03:20.448351Z",
@@ -285,7 +505,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9297909,
+      "rating": 0.9273188,
       "ratingCount": 159,
       "created": "2026-08-31T00:01:17.415312Z",
       "updated": "2026-09-01T05:12:56.074341Z",
@@ -311,7 +531,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8530778,
+      "rating": 0.8563054,
       "ratingCount": 2,
       "created": "2026-08-08T09:29:40.412072Z",
       "updated": "2026-08-31T13:24:29.073874Z",
@@ -337,7 +557,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9571002,
+      "rating": 0.9609764,
       "ratingCount": 0,
       "created": "2026-08-31T13:23:00.573085Z",
       "updated": "2026-08-31T13:23:00.573085Z",
@@ -367,7 +587,7 @@
         "nakotanmaru",
         "regular"
       ],
-      "rating": 0.936316,
+      "rating": 0.93233615,
       "ratingCount": 0,
       "created": "2026-08-31T13:09:50.729440Z",
       "updated": "2026-08-31T13:09:50.729440Z",
@@ -393,40 +613,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92283326,
+      "rating": 0.92294,
       "ratingCount": 0,
       "created": "2026-08-23T08:28:50.014174Z",
       "updated": "2026-08-31T12:19:59.720742Z",
       "chartUpdated": "2026-08-26T16:00:45.158934Z"
-    },
-    {
-      "id": 76747,
-      "name": "そこに在る、光。",
-      "level": "PR Lv.29",
-      "difficulty": 14.3,
-      "charter": "KafuuChino × 眠らないYY13491",
-      "composer": "DECO*27 × すりぃ feat. VOCALOIDs",
-      "illustrator": "",
-      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\r\n谱师：@香风智乃_KafuuChino × @YY13491\r\n谱师亲自上传，相关剧情可在对应的谱面预览视频简介查找。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6ac3172c-f5c0-4c47-8588-6304b0f11709",
-      "preview": "https://phira.5wyxi.com/files/43b161de-231d-4b0f-9ff1-9afdb0da1457",
-      "file": "https://phira.5wyxi.com/files/ae404d52-8881-4204-89a0-cdebba78d7c0",
-      "uploader": 328759,
-      "tags": [
-        "初音未来19周年",
-        "PJSK剧场版",
-        "主线章节一世界之音",
-        "regular"
-      ],
-      "rating": 0.9433602,
-      "ratingCount": 0,
-      "created": "2026-08-31T10:29:07.621355Z",
-      "updated": "2026-08-31T10:29:07.621355Z",
-      "chartUpdated": "2026-08-31T10:29:07.621355Z"
     },
     {
       "id": 73487,
@@ -448,7 +639,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86783886,
+      "rating": 0.87683445,
       "ratingCount": 1,
       "created": "2026-08-15T06:36:43.454214Z",
       "updated": "2026-08-31T09:47:21.792534Z",
@@ -474,7 +665,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.807268,
+      "rating": 0.8063773,
       "ratingCount": 0,
       "created": "2026-08-31T09:19:46.208719Z",
       "updated": "2026-08-31T09:19:46.208719Z",
@@ -500,7 +691,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92624444,
+      "rating": 0.92785394,
       "ratingCount": 3,
       "created": "2026-08-30T19:58:17.560777Z",
       "updated": "2026-08-31T07:24:49.084893Z",
@@ -529,7 +720,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.9541329,
+      "rating": 0.9448383,
       "ratingCount": 0,
       "created": "2026-08-31T07:13:52.314896Z",
       "updated": "2026-08-31T07:13:52.314896Z",
@@ -558,7 +749,7 @@
         "主线章节一世界之音",
         "regular"
       ],
-      "rating": 0.9142315,
+      "rating": 0.91705793,
       "ratingCount": 0,
       "created": "2026-08-31T05:51:50.526787Z",
       "updated": "2026-08-31T05:51:50.526787Z",
@@ -586,7 +777,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.9548494,
+      "rating": 0.95448565,
       "ratingCount": 0,
       "created": "2026-08-31T04:59:08.274779Z",
       "updated": "2026-08-31T04:59:08.274779Z",
@@ -612,199 +803,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8937522,
+      "rating": 0.9172356,
       "ratingCount": 0,
       "created": "2026-08-31T02:30:08.135367Z",
       "updated": "2026-08-31T02:30:08.135367Z",
       "chartUpdated": "2026-08-31T02:30:08.135367Z"
-    },
-    {
-      "id": 74144,
-      "name": "Snow Storm -euphoria-",
-      "level": "IN Lv.16",
-      "difficulty": 16.400002,
-      "charter": "Such a 『Cloudburst』!",
-      "composer": "Yoohsic Roomz",
-      "illustrator": "",
-      "description": "个人第七张谱，B站@亿战_封_神，欢迎关注～\n给同学写的生贺谱，祝@Kaigara-贝壳 17岁生日快乐！\n尝试将动效写得更简明，把配置写得更丰富（确信）",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/4f5716e4-8478-4ba6-b68c-7aef9fc89046",
-      "preview": "https://phira.5wyxi.com/files/152d3fbe-e22a-466c-b88d-49b1b275c12a",
-      "file": "https://phira.5wyxi.com/files/4362be81-4c03-4b30-9199-95a1bd887fc6",
-      "uploader": 1993478,
-      "tags": [
-        "劲爆双指",
-        "底力",
-        "耐力",
-        "regular"
-      ],
-      "rating": 0.9255144,
-      "ratingCount": 1,
-      "created": "2026-08-18T10:53:01.598284Z",
-      "updated": "2026-08-31T00:55:15.351523Z",
-      "chartUpdated": "2026-08-18T10:53:01.598284Z"
-    },
-    {
-      "id": 76673,
-      "name": "FUN!!",
-      "level": "PR Lv.30",
-      "difficulty": 14.700007,
-      "charter": "KafuuChino × FOREVER!!",
-      "composer": "DECO*27 × いよわ feat. VOCALOIDS",
-      "illustrator": "",
-      "description": "该歌曲收录于 b站@香风智乃_KafuuChino 的主线章节第一章：世界之音\r\n谱师：@香风智乃_KafuuChino × @Foreve_-白\r\n谱师亲自上传，相关剧情可在对应的谱面预览视频简介查找。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fc04c3b7-4423-49a4-9eb7-844c0a89a1b0",
-      "preview": "https://phira.5wyxi.com/files/f164b10c-6b1a-4c14-9c04-ac33fef1e2e7",
-      "file": "https://phira.5wyxi.com/files/97fe05c3-db22-4ed3-80a6-4ddcb8801d41",
-      "uploader": 328759,
-      "tags": [
-        "初音未来19周年",
-        "PJSK剧场版",
-        "主线章节一世界之音",
-        "regular"
-      ],
-      "rating": 0.9258904,
-      "ratingCount": 0,
-      "created": "2026-08-31T00:42:42.210076Z",
-      "updated": "2026-08-31T00:42:42.210076Z",
-      "chartUpdated": "2026-08-31T00:42:42.210076Z"
-    },
-    {
-      "id": 76657,
-      "name": "AMAZING MIGHTYYYY!!!!",
-      "level": "IN Lv.15",
-      "difficulty": 15.400002,
-      "charter": "WOnDERER",
-      "composer": "WAiKURO",
-      "illustrator": "",
-      "description": "0thpecjam 内场位61\n原谱链接BV1kN9MB8Edu",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ba728640-b21d-4661-b7ba-0d354dee34d6",
-      "preview": "https://phira.5wyxi.com/files/67a3c233-cb6a-4337-bc52-c6a9af3c133b",
-      "file": "https://phira.5wyxi.com/files/159cd832-c32c-4a07-9e0e-e12ec44fa5e7",
-      "uploader": 4071,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.92152774,
-      "ratingCount": 0,
-      "created": "2026-08-30T16:58:03.317953Z",
-      "updated": "2026-08-30T16:58:03.317953Z",
-      "chartUpdated": "2026-08-30T16:58:03.317953Z"
-    },
-    {
-      "id": 76064,
-      "name": "Lost Civilization",
-      "level": "IN  Lv.16",
-      "difficulty": 16.1,
-      "charter": "Kanmegrui_Ohana",
-      "composer": "Laur vs CK",
-      "illustrator": "",
-      "description": "谱面预览BV1rC496REGR 16h随手写 由于多次晚上忘关电脑导致制谱器内时长接近2d。 物量：1080 线数：37 事件：5886 已拉黑。",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/80f2f720-8f46-4014-a374-eba3e3e6756f",
-      "preview": "https://phira.5wyxi.com/files/e264fb9b-0475-45a1-8088-8476f2a1cf5e",
-      "file": "https://phira.5wyxi.com/files/38aa0b63-a8ce-48a2-b566-0f7c56d02683",
-      "uploader": 1056368,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88403475,
-      "ratingCount": 271,
-      "created": "2026-08-27T14:23:41.482042Z",
-      "updated": "2026-08-30T15:52:24.461230Z",
-      "chartUpdated": "2026-08-27T14:23:41.482042Z"
-    },
-    {
-      "id": 75704,
-      "name": "Oshama Scramble!",
-      "level": "IN Lv.15",
-      "difficulty": 15.6,
-      "charter": "h2oYue",
-      "composer": "t+pazolite",
-      "illustrator": "",
-      "description": "本人上传，3rdWMC参赛谱面（位二）\nb站：BV1zZ8v6LEQM\n\n感谢vext_ 帮我改谱",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/fab4abcd-b540-4b9f-80dc-04e80354adeb",
-      "preview": "https://phira.5wyxi.com/files/ec9f3862-e133-40ee-809f-55c36a4dfe5d",
-      "file": "https://phira.5wyxi.com/files/80ce3b3e-6749-4af8-a503-c727d1e2446a",
-      "uploader": 15744,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9197997,
-      "ratingCount": 301,
-      "created": "2026-08-25T15:47:28.401684Z",
-      "updated": "2026-08-30T15:35:23.628839Z",
-      "chartUpdated": "2026-08-30T05:45:28.539697Z"
-    },
-    {
-      "id": 76602,
-      "name": "Limen",
-      "level": "Falling Lv. Limen",
-      "difficulty": 0.0,
-      "charter": "yiQi_ within Limen",
-      "composer": "Silentroom",
-      "illustrator": "",
-      "description": "Music: Limen\nComposer: Silentroom\nCharters: yiQi_\nEditor: Re:PhiEdit © cmdysj\nRecorder: RPE Recorder © 不会特效の点缀星空\nRecording by: Axi就是阿希\nAssist: GT_CPRSFT_寒廻淤花\n\n编辑时间：约28h\n事件数量：约5500\n\n======\n\n一时灵感下，这张谱面于是诞生了。\n\n特别鸣谢：\nAxi就是阿希 —— 感谢阿希的代录~\nGT_CPRSFT_寒廻淤花 —— 感谢大姐姐为谱面提供了7~468cb的sv思路~就是写法可能有点狂野了（？）为了视觉效果的干净和思路的统一，被我删改了不少（戳手指）\n\n======\n\nB站 壹柒-Acembre\n谱面制作不易，仅供社区游玩与教学，请勿盗传。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b041599e-d8fc-45be-a68b-cd95a0798600",
-      "preview": "https://phira.5wyxi.com/files/d8898852-b49a-4d78-ac90-0c18ebbb6554",
-      "file": "https://phira.5wyxi.com/files/e40b20e1-3a2a-4880-85d4-5bda3ea753e6",
-      "uploader": 3257565,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8707601,
-      "ratingCount": 0,
-      "created": "2026-08-30T12:24:50.157494Z",
-      "updated": "2026-08-30T12:24:50.157494Z",
-      "chartUpdated": "2026-08-30T12:24:50.157494Z"
-    },
-    {
-      "id": 76596,
-      "name": "Cult future",
-      "level": "AT Lv.17+",
-      "difficulty": 17.800003,
-      "charter": "YMEA X Lage",
-      "composer": "LV.4",
-      "illustrator": "",
-      "description": "谱师本入上传\n配置由我编写，有些配置让Lage改卡手了。我说让他重改他说我不写卡手你们玩什么？（我的世界皓宸.jpg）\n特效也是Lage写的，他说这是他连着写了半天特效\n\n渲染：B站BV号：BV1NstH6CEKS\nDY处渲染由7polo（7个菠萝）发布\n\nLage:我不写卡手你们玩什么？（我的世界皓宸.jpg）\n@Lage#852606（调教）\n\nDY:YMEA\nKS x B站：洋漫YMEA\n求关注呜呜呜",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/062d5801-4969-49ac-a465-64eb63c17688",
-      "preview": "https://phira.5wyxi.com/files/5f34ba9e-aebd-43b7-9390-b5e0ed8db666",
-      "file": "https://phira.5wyxi.com/files/f38c5e3a-df67-46c3-a07b-55daba4001c4",
-      "uploader": 3470464,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.86375535,
-      "ratingCount": 1,
-      "created": "2026-08-30T11:45:26.767688Z",
-      "updated": "2026-08-30T11:46:02.322540Z",
-      "chartUpdated": "2026-08-30T11:45:26.767688Z"
     }
   ]
 }
