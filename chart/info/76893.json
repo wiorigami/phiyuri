@@ -13,14 +13,14 @@
   "name": "乱序",
   "preview": "https://phira.5wyxi.com/files/ae001a4c-4148-4fe9-8d64-157f38f7ab66",
   "ranked": false,
-  "rating": 0.839784,
-  "ratingCount": 77,
-  "reviewed": true,
+  "rating": 0.85094965,
+  "ratingCount": 122,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-02T10:29:46.266954Z",
+  "updated": "2026-09-05T16:00:55.172195Z",
   "uploader": 96647
 }
