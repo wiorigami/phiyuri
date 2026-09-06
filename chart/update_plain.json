@@ -1,6 +1,32 @@
 {
-  "count": 3248,
+  "count": 3249,
   "results": [
+    {
+      "id": 77018,
+      "name": "INTERNET YAMERO",
+      "level": "MELT Lv.19",
+      "difficulty": 19.0,
+      "charter": "∫-м1ŋμ§0Л3",
+      "composer": "Aiobahn feat. KOTOKO",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5d583cd9-c53f-418c-9e73-48cf05eb136d",
+      "preview": "https://phira.5wyxi.com/files/c83f7387-dc1a-4680-b42c-d321e5d83863",
+      "file": "https://phira.5wyxi.com/files/a15c6152-1007-4f68-ab27-d96d5819a6f5",
+      "uploader": 174984,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8423025,
+      "ratingCount": 1,
+      "created": "2026-09-04T13:02:47.678631Z",
+      "updated": "2026-09-04T13:02:47.678631Z",
+      "chartUpdated": "2026-09-04T13:02:47.678631Z"
+    },
     {
       "id": 76708,
       "name": "G4M3-0V3R (m1dy Remix)",
@@ -21,7 +47,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7478851,
+      "rating": 0.7787653,
       "ratingCount": 0,
       "created": "2026-08-31T05:21:51.848038Z",
       "updated": "2026-08-31T05:21:51.848038Z",
@@ -47,7 +73,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79426795,
+      "rating": 0.78096926,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:48.307501Z",
       "updated": "2026-08-31T05:14:48.307501Z",
@@ -73,7 +99,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83321184,
+      "rating": 0.87545687,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:22.856483Z",
       "updated": "2026-08-31T05:14:22.856483Z",
@@ -99,7 +125,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90660846,
+      "rating": 0.9165853,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:15.144480Z",
       "updated": "2026-08-31T05:14:15.144480Z",
@@ -125,7 +151,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8817029,
+      "rating": 0.9265398,
       "ratingCount": 0,
       "created": "2026-08-31T05:14:06.457482Z",
       "updated": "2026-08-31T05:14:06.457482Z",
@@ -151,7 +177,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8793752,
+      "rating": 0.88796806,
       "ratingCount": 0,
       "created": "2026-08-31T05:13:31.970159Z",
       "updated": "2026-08-31T05:13:31.970159Z",
@@ -177,7 +203,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9324383,
+      "rating": 0.9200393,
       "ratingCount": 0,
       "created": "2026-08-31T05:13:23.329119Z",
       "updated": "2026-08-31T05:13:23.329119Z",
@@ -203,7 +229,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8620138,
+      "rating": 0.8863651,
       "ratingCount": 0,
       "created": "2026-08-30T15:41:37.197951Z",
       "updated": "2026-08-30T15:41:37.197951Z",
@@ -229,7 +255,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.895487,
+      "rating": 0.9105527,
       "ratingCount": 0,
       "created": "2026-08-30T13:32:05.541245Z",
       "updated": "2026-08-30T13:32:05.541245Z",
@@ -261,7 +287,7 @@
         "15",
         "plain"
       ],
-      "rating": 0.86364126,
+      "rating": 0.87545687,
       "ratingCount": 0,
       "created": "2026-08-30T10:42:17.119314Z",
       "updated": "2026-08-30T10:42:17.119314Z",
@@ -293,7 +319,7 @@
         "15",
         "plain"
       ],
-      "rating": 0.8817029,
+      "rating": 0.8891076,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:58.222233Z",
       "updated": "2026-08-30T10:41:58.222233Z",
@@ -325,7 +351,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.86983716,
+      "rating": 0.8745728,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:36.714861Z",
       "updated": "2026-08-30T10:41:36.714861Z",
@@ -357,7 +383,7 @@
         "8",
         "plain"
       ],
-      "rating": 0.8774442,
+      "rating": 0.88511205,
       "ratingCount": 0,
       "created": "2026-08-30T10:41:14.542224Z",
       "updated": "2026-08-30T10:41:14.542224Z",
@@ -419,7 +445,7 @@
         "切换",
         "plain"
       ],
-      "rating": 0.91394347,
+      "rating": 0.92991644,
       "ratingCount": 0,
       "created": "2026-08-30T05:34:10.338410Z",
       "updated": "2026-08-30T05:34:10.338410Z",
@@ -473,7 +499,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8372131,
+      "rating": 0.83136326,
       "ratingCount": 0,
       "created": "2026-08-28T16:03:39.053237Z",
       "updated": "2026-08-28T16:03:39.053237Z",
@@ -504,7 +530,7 @@
         "s1mple",
         "plain"
       ],
-      "rating": 0.9194389,
+      "rating": 0.9188486,
       "ratingCount": 0,
       "created": "2026-08-28T13:42:14.512045Z",
       "updated": "2026-08-28T13:42:14.512045Z",
@@ -534,7 +560,7 @@
         "购物袋随便拿捏",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.70983166,
       "ratingCount": 0,
       "created": "2026-08-28T11:01:16.925420Z",
       "updated": "2026-08-28T11:01:16.925420Z",
@@ -620,7 +646,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9133662,
+      "rating": 0.9167681,
       "ratingCount": 0,
       "created": "2025-08-11T10:08:51.577333Z",
       "updated": "2026-08-25T12:04:45.687913Z",
@@ -704,7 +730,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8343981,
+      "rating": 0.83500236,
       "ratingCount": 0,
       "created": "2026-08-25T09:27:09.561731Z",
       "updated": "2026-08-25T09:27:09.561731Z",
@@ -734,7 +760,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.9034905,
+      "rating": 0.9075862,
       "ratingCount": 0,
       "created": "2026-08-24T15:40:37.312229Z",
       "updated": "2026-08-24T15:40:37.312229Z",
@@ -766,7 +792,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.9125639,
+      "rating": 0.9128865,
       "ratingCount": 0,
       "created": "2026-08-24T15:13:05.665384Z",
       "updated": "2026-08-24T15:13:05.665384Z",
@@ -830,37 +856,11 @@
         "幻",
         "plain"
       ],
-      "rating": 0.88224113,
+      "rating": 0.88426244,
       "ratingCount": 0,
       "created": "2026-08-24T15:11:34.719118Z",
       "updated": "2026-08-24T15:11:34.719118Z",
       "chartUpdated": "2026-08-24T15:11:34.719118Z"
-    },
-    {
-      "id": 75227,
-      "name": "felys -final remix-",
-      "level": "-β-",
-      "difficulty": 17.5,
-      "charter": "betrix",
-      "composer": "onoken",
-      "illustrator": "",
-      "description": "榜一送7菠萝大头照",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fa4f22dd-12e9-4e6b-b62a-794a39774adf",
-      "preview": "https://phira.5wyxi.com/files/e0db422c-847d-4d4f-8a27-0310a4d82430",
-      "file": "https://phira.5wyxi.com/files/3ae773ae-acc2-44a3-88ce-3a37d916e3d3",
-      "uploader": 435853,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.7948706,
-      "ratingCount": 0,
-      "created": "2026-08-23T11:20:37.549552Z",
-      "updated": "2026-08-23T11:20:37.549552Z",
-      "chartUpdated": "2026-08-23T11:20:37.549552Z"
     }
   ]
 }
