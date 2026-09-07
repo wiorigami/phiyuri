@@ -1,6 +1,33 @@
 {
-  "count": 166,
+  "count": 169,
   "results": [
+    {
+      "id": 77399,
+      "name": "gur yvsr(仮)",
+      "level": "■■ Lv.0",
+      "difficulty": 0.0,
+      "charter": "Lage",
+      "composer": "Frums",
+      "illustrator": "",
+      "description": "——————————\nGUR\n     YVSR\n——————————\nTHE\n     LIFE\n——————————\n         本人上传\n         半观赏谱\n         b站：Lageee\n         抖音：Lage\n——————————\n        ░※☀♥➡♡\n        ❾❸❺❹❷❿\n——————————",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3d91034d-93b0-4b7f-bed8-4b2e8080bc03",
+      "preview": "https://phira.5wyxi.com/files/de6a11e0-9b96-4625-88ec-931b98a4106f",
+      "file": "https://phira.5wyxi.com/files/0c1981cb-0483-45a7-9435-340c32b79699",
+      "uploader": 2013414,
+      "tags": [
+        "故事版",
+        "visual"
+      ],
+      "rating": 0.81567323,
+      "ratingCount": 4,
+      "created": "2026-09-06T14:08:49.175350Z",
+      "updated": "2026-09-06T14:08:49.175350Z",
+      "chartUpdated": "2026-09-06T14:08:49.175350Z"
+    },
     {
       "id": 71070,
       "name": "KIZUNA Resolution",
@@ -21,8 +48,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81757396,
-      "ratingCount": 21,
+      "rating": 0.8207242,
+      "ratingCount": 55,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
       "chartUpdated": "2026-08-04T02:57:51.609933Z"
@@ -47,8 +74,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.918934,
-      "ratingCount": 71222,
+      "rating": 0.91890246,
+      "ratingCount": 86054,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
       "chartUpdated": "2026-07-27T16:42:57.962104Z"
@@ -73,8 +100,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9388061,
-      "ratingCount": 90,
+      "rating": 0.9336935,
+      "ratingCount": 106,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
       "chartUpdated": "2026-07-12T14:52:02.432223Z"
@@ -100,10 +127,36 @@
         "visual"
       ],
       "rating": 0.85938394,
-      "ratingCount": 149,
+      "ratingCount": 166,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
       "chartUpdated": "2026-06-20T14:05:15.124654Z"
+    },
+    {
+      "id": 51874,
+      "name": "熱異常",
+      "level": "Hot Lv. ???",
+      "difficulty": 10.0,
+      "charter": "musesun",
+      "composer": "いよわ ft. 足立レイ",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/694b249e-2c67-44cb-9e19-78613d41895d",
+      "preview": "https://phira.5wyxi.com/files/60cdb8e5-5858-494a-bb4d-e97b3d645db5",
+      "file": "https://phira.5wyxi.com/files/89ae9dd4-3c69-406b-8fe8-7af30d1720d0",
+      "uploader": 1789727,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.83321184,
+      "ratingCount": 5,
+      "created": "2026-01-31T12:08:54.911616Z",
+      "updated": "2026-05-01T09:24:26.797157Z",
+      "chartUpdated": "2026-01-31T12:08:54.911616Z"
     },
     {
       "id": 56993,
@@ -126,7 +179,7 @@
         "visual"
       ],
       "rating": 0.7963532,
-      "ratingCount": 167,
+      "ratingCount": 181,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -151,8 +204,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87107766,
-      "ratingCount": 113,
+      "rating": 0.87211114,
+      "ratingCount": 123,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -177,8 +230,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81144243,
-      "ratingCount": 368,
+      "rating": 0.8114367,
+      "ratingCount": 416,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -203,8 +256,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87981015,
-      "ratingCount": 881,
+      "rating": 0.87993926,
+      "ratingCount": 938,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -232,7 +285,7 @@
         "visual"
       ],
       "rating": 0.85891557,
-      "ratingCount": 24,
+      "ratingCount": 27,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-03-03T06:49:21.192811Z",
       "chartUpdated": "2026-03-03T06:49:21.192811Z"
@@ -258,7 +311,7 @@
         "visual"
       ],
       "rating": 0.8668517,
-      "ratingCount": 153,
+      "ratingCount": 163,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
       "chartUpdated": "2026-03-01T07:33:06.760383Z"
@@ -284,7 +337,7 @@
         "visual"
       ],
       "rating": 0.86148775,
-      "ratingCount": 62,
+      "ratingCount": 64,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
       "chartUpdated": "2026-03-01T05:13:19.479990Z"
@@ -314,10 +367,38 @@
         "visual"
       ],
       "rating": 0.82119405,
-      "ratingCount": 133,
+      "ratingCount": 140,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
       "chartUpdated": "2026-02-14T09:36:44.192161Z"
+    },
+    {
+      "id": 51510,
+      "name": "Sadfgr～gunmu#Lv.UK～φ",
+      "level": "Sadfgr Lv.φ",
+      "difficulty": 10.0,
+      "charter": "Sanfgr",
+      "composer": "Sanfgr",
+      "illustrator": "",
+      "description": "滚母φ牌仿4k段位谱面，人类理论不可打，纯粪谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6deff86e-1099-4343-9d91-f14dfe0ea5a8",
+      "preview": "https://phira.5wyxi.com/files/08163204-ec36-4d6d-aef6-b30cd5929942",
+      "file": "https://phira.5wyxi.com/files/99e5ef5e-b036-428f-b67a-695b74a3f077",
+      "uploader": 842527,
+      "tags": [
+        "4k",
+        "粪谱",
+        "visual"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-01-22T13:44:38.378019Z",
+      "updated": "2026-02-13T10:32:42.217274Z",
+      "chartUpdated": "2026-01-22T13:44:38.378019Z"
     },
     {
       "id": 52561,
@@ -339,8 +420,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81339306,
-      "ratingCount": 451,
+      "rating": 0.81319946,
+      "ratingCount": 508,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -368,7 +449,7 @@
         "visual"
       ],
       "rating": 0.91333544,
-      "ratingCount": 124,
+      "ratingCount": 132,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
       "chartUpdated": "2026-02-10T06:56:11.788757Z"
@@ -424,7 +505,7 @@
         "visual"
       ],
       "rating": 0.88171256,
-      "ratingCount": 27,
+      "ratingCount": 30,
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
@@ -452,8 +533,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.68470365,
-      "ratingCount": 801,
+      "rating": 0.6847851,
+      "ratingCount": 891,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -486,7 +567,7 @@
         "visual"
       ],
       "rating": 0.8751604,
-      "ratingCount": 246,
+      "ratingCount": 260,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
       "chartUpdated": "2026-01-17T04:43:27.259439Z"
@@ -512,7 +593,7 @@
         "visual"
       ],
       "rating": 0.8441932,
-      "ratingCount": 29,
+      "ratingCount": 31,
       "created": "2026-01-16T08:59:01.533401Z",
       "updated": "2026-01-16T08:59:01.533401Z",
       "chartUpdated": "2026-01-16T08:59:01.533401Z"
@@ -537,8 +618,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82820505,
-      "ratingCount": 125,
+      "rating": 0.8266364,
+      "ratingCount": 130,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
       "chartUpdated": "2026-01-09T15:29:00.998126Z"
@@ -564,7 +645,7 @@
         "visual"
       ],
       "rating": 0.81118727,
-      "ratingCount": 163,
+      "ratingCount": 181,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -591,7 +672,7 @@
         "visual"
       ],
       "rating": 0.84503263,
-      "ratingCount": 11,
+      "ratingCount": 12,
       "created": "2025-12-23T02:14:31.171742Z",
       "updated": "2025-12-23T02:14:31.171742Z",
       "chartUpdated": "2025-12-23T02:14:31.171742Z"
@@ -616,8 +697,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9480863,
-      "ratingCount": 526,
+      "rating": 0.94836915,
+      "ratingCount": 552,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
@@ -642,8 +723,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.729213,
-      "ratingCount": 432,
+      "rating": 0.72694916,
+      "ratingCount": 480,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -668,8 +749,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8893312,
-      "ratingCount": 316,
+      "rating": 0.8890845,
+      "ratingCount": 348,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -694,8 +775,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.85331726,
-      "ratingCount": 217,
+      "rating": 0.85394853,
+      "ratingCount": 233,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
       "chartUpdated": "2025-11-28T13:26:52.363537Z"
@@ -721,88 +802,10 @@
         "visual"
       ],
       "rating": 0.88989234,
-      "ratingCount": 59,
+      "ratingCount": 66,
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
-    },
-    {
-      "id": 49215,
-      "name": "CX-ronos",
-      "level": "AT Lv.18",
-      "difficulty": 18.2,
-      "charter": "NG-ronos",
-      "composer": "CS4W",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4744f66e-1e4f-4894-90df-0ebceb64a497",
-      "preview": "https://phira.5wyxi.com/files/fb36cf79-7fd9-42c6-8eae-a8d4586f09d1",
-      "file": "https://phira.5wyxi.com/files/13f9870f-8fb9-4574-abeb-b1fd50505b38",
-      "uploader": 1026384,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.93754566,
-      "ratingCount": 152,
-      "created": "2025-11-16T11:01:11.506983Z",
-      "updated": "2025-11-16T11:01:11.506983Z",
-      "chartUpdated": "2025-11-16T11:01:11.506983Z"
-    },
-    {
-      "id": 49179,
-      "name": "靈",
-      "level": "AT Lv.17",
-      "difficulty": 17.0,
-      "charter": "Heronmony（鹭鸟音律）",
-      "composer": "MYTK",
-      "illustrator": "",
-      "description": "17.9",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/435fda4e-bc85-41ab-a3bc-d2f56f1c521f",
-      "preview": "https://phira.5wyxi.com/files/b695454c-156e-49f8-922b-adf7c8f290ee",
-      "file": "https://phira.5wyxi.com/files/ddcfbf6f-4708-4ce3-896c-1b015abd915f",
-      "uploader": 1017966,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.82004684,
-      "ratingCount": 132,
-      "created": "2025-11-16T01:44:43.045246Z",
-      "updated": "2025-11-16T01:44:43.045246Z",
-      "chartUpdated": "2025-11-16T01:44:43.045246Z"
-    },
-    {
-      "id": 48836,
-      "name": "昔涟",
-      "level": "EGO Lv.12",
-      "difficulty": 12.600002,
-      "charter": "SrY-ABYSS",
-      "composer": "张韶涵 / HOYO-MiX",
-      "illustrator": "",
-      "description": "来自游戏《崩坏星穹铁道》\n建议在黑暗环境下游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/399491ce-d9ee-4a21-aaa7-40c2ae47295a",
-      "preview": "https://phira.5wyxi.com/files/ad7db1c9-8534-423e-9f24-f19ce89f5bc4",
-      "file": "https://phira.5wyxi.com/files/1733b355-fb76-4999-967d-f20bcfff904d",
-      "uploader": 1437,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.96229756,
-      "ratingCount": 3192,
-      "created": "2025-11-08T03:06:05.755676Z",
-      "updated": "2025-11-08T03:06:05.755676Z",
-      "chartUpdated": "2025-11-08T03:06:05.755676Z"
     }
   ]
 }
