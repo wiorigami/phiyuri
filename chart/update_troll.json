@@ -1,5 +1,5 @@
 {
-  "count": 655,
+  "count": 659,
   "results": [
     {
       "id": 76134,
@@ -27,11 +27,41 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.71675605,
-      "ratingCount": 0,
+      "rating": 0.7150445,
+      "ratingCount": 1608,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
       "chartUpdated": "2026-08-28T03:56:40.337710Z"
+    },
+    {
+      "id": 34564,
+      "name": "GOODTEK",
+      "level": "4K Lv.0419",
+      "difficulty": 12.000001,
+      "charter": "EIYOMAYA",
+      "composer": "EBIMAYO",
+      "illustrator": "",
+      "description": "判定线不动，最多12      未在任何视频平台发布相关视频，谱面为本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/90848991-b98f-4883-9f9f-ecd4a0cafac6",
+      "preview": "https://phira.5wyxi.com/files/fa1adc79-e5a4-44f9-94be-c242d7a8e67a",
+      "file": "https://phira.5wyxi.com/files/9b00d843-a025-4c31-93f3-f3a67edb1b4c",
+      "uploader": 59168,
+      "tags": [
+        "变速",
+        "4k",
+        "纯配置",
+        "创",
+        "troll"
+      ],
+      "rating": 0.6201396,
+      "ratingCount": 120,
+      "created": "2025-02-28T10:34:40.050194Z",
+      "updated": "2026-08-26T14:40:36.997076Z",
+      "chartUpdated": "2025-02-28T10:34:40.050194Z"
     },
     {
       "id": 75183,
@@ -54,7 +84,7 @@
         "troll"
       ],
       "rating": 0.90054363,
-      "ratingCount": 0,
+      "ratingCount": 23,
       "created": "2026-08-23T06:57:24.807378Z",
       "updated": "2026-08-23T06:57:24.807378Z",
       "chartUpdated": "2026-08-23T06:57:24.807378Z"
@@ -80,10 +110,36 @@
         "troll"
       ],
       "rating": 0.806577,
-      "ratingCount": 23,
+      "ratingCount": 62,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
       "chartUpdated": "2026-08-20T06:03:15.738981Z"
+    },
+    {
+      "id": 52177,
+      "name": "もペもペ",
+      "level": "MOPE LV.？",
+      "difficulty": 20.0,
+      "charter": "草，一种植物",
+      "composer": "LeaF",
+      "illustrator": "",
+      "description": "谱师本人上传，谱面确认BV1WDfXBKEJd",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2c18c951-0609-41cd-ada3-1bd20327dd2d",
+      "preview": "https://phira.5wyxi.com/files/182c6687-7e13-4a98-b6f2-fa8ea521cbc0",
+      "file": "https://phira.5wyxi.com/files/ecb97a35-b077-4b21-8652-026d9715e883",
+      "uploader": 1522144,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.8876086,
+      "ratingCount": 122,
+      "created": "2026-02-06T13:44:54.628931Z",
+      "updated": "2026-08-04T00:15:48.654502Z",
+      "chartUpdated": "2026-02-06T13:44:54.628931Z"
     },
     {
       "id": 70013,
@@ -107,8 +163,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9760193,
-      "ratingCount": 90,
+      "rating": 0.97624916,
+      "ratingCount": 101,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
       "chartUpdated": "2026-07-29T17:32:44.523418Z"
@@ -133,8 +189,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8891133,
-      "ratingCount": 8471,
+      "rating": 0.8891039,
+      "ratingCount": 8841,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
       "chartUpdated": "2026-07-21T19:16:55.670015Z"
@@ -159,11 +215,37 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9508856,
-      "ratingCount": 11447,
+      "rating": 0.9507576,
+      "ratingCount": 12275,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
+    },
+    {
+      "id": 64040,
+      "name": "我在Phira里中考",
+      "level": "SP Lv.中考",
+      "difficulty": 14.3,
+      "charter": "鹅神",
+      "composer": "江西省教育考试院",
+      "illustrator": "",
+      "description": "B站 鹅神_GOOSEGOD\n本人还没中考,但是想出个谱折磨这届江西考生",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/10d2093c-e0eb-498f-bf50-83f9623209db",
+      "preview": "https://phira.5wyxi.com/files/81b05052-56c1-47cc-a710-a8f0a47f48ef",
+      "file": "https://phira.5wyxi.com/files/374de9dd-8611-4579-a23c-8c2603e16672",
+      "uploader": 2093292,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.88975453,
+      "ratingCount": 283,
+      "created": "2026-07-04T12:55:00.117032Z",
+      "updated": "2026-07-04T12:55:00.117032Z",
+      "chartUpdated": "2026-07-04T12:55:00.117032Z"
     },
     {
       "id": 63919,
@@ -186,8 +268,8 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.8867314,
-      "ratingCount": 91523,
+      "rating": 0.8866992,
+      "ratingCount": 100642,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
       "chartUpdated": "2026-07-04T06:16:16.788212Z"
@@ -212,8 +294,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8343618,
-      "ratingCount": 2869,
+      "rating": 0.83462435,
+      "ratingCount": 3349,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
       "chartUpdated": "2026-06-30T15:24:12.913392Z"
@@ -238,8 +320,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7699113,
-      "ratingCount": 15565,
+      "rating": 0.7701149,
+      "ratingCount": 16003,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -264,8 +346,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8741155,
-      "ratingCount": 9651,
+      "rating": 0.874131,
+      "ratingCount": 9921,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
       "chartUpdated": "2026-06-24T05:20:29.857028Z"
@@ -290,8 +372,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85433567,
-      "ratingCount": 88,
+      "rating": 0.85583705,
+      "ratingCount": 95,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
@@ -318,8 +400,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.96403915,
-      "ratingCount": 272,
+      "rating": 0.963911,
+      "ratingCount": 278,
       "created": "2026-02-07T14:56:35.625544Z",
       "updated": "2026-06-20T09:57:05.485341Z",
       "chartUpdated": "2026-02-07T14:56:35.625544Z"
@@ -344,8 +426,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.80647856,
-      "ratingCount": 6235,
+      "rating": 0.8063197,
+      "ratingCount": 6484,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -373,7 +455,7 @@
         "troll"
       ],
       "rating": 0.90143627,
-      "ratingCount": 95,
+      "ratingCount": 102,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
       "chartUpdated": "2026-06-07T12:21:29.348521Z"
@@ -399,10 +481,36 @@
         "troll"
       ],
       "rating": 0.8099421,
-      "ratingCount": 42,
+      "ratingCount": 44,
       "created": "2026-06-03T17:52:18.327223Z",
       "updated": "2026-06-03T17:52:18.327223Z",
       "chartUpdated": "2026-06-03T17:52:18.327223Z"
+    },
+    {
+      "id": 57271,
+      "name": "RENDA JOCEKY",
+      "level": "SP",
+      "difficulty": 16.399998,
+      "charter": "崩坏破碎之境",
+      "composer": "ルゼ",
+      "illustrator": "",
+      "description": "本人上传，一个迟到的愚人节谱面（虽然迟到好久了😭）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9de61e9a-ee26-44d0-a255-8255ab01a7eb",
+      "preview": "https://phira.5wyxi.com/files/dac64730-4730-454f-9451-ede664dbe0e5",
+      "file": "https://phira.5wyxi.com/files/65f2d4d7-9283-4940-808b-47dd1af38ecc",
+      "uploader": 10562,
+      "tags": [
+        "troll"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-04-28T10:59:02.139326Z",
+      "updated": "2026-05-26T13:36:07.642452Z",
+      "chartUpdated": "2026-04-28T10:59:02.139326Z"
     },
     {
       "id": 58838,
@@ -424,8 +532,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81038517,
-      "ratingCount": 1562,
+      "rating": 0.81069946,
+      "ratingCount": 1826,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
       "chartUpdated": "2026-05-22T15:09:41.771882Z"
@@ -450,8 +558,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8963581,
-      "ratingCount": 3228,
+      "rating": 0.89595985,
+      "ratingCount": 3771,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -477,8 +585,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.92025703,
-      "ratingCount": 1460,
+      "rating": 0.9201139,
+      "ratingCount": 1697,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -504,7 +612,7 @@
         "troll"
       ],
       "rating": 0.8456015,
-      "ratingCount": 30,
+      "ratingCount": 41,
       "created": "2026-05-05T15:11:55.046371Z",
       "updated": "2026-05-05T15:11:55.046371Z",
       "chartUpdated": "2026-05-05T15:11:55.046371Z"
@@ -529,8 +637,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7532464,
-      "ratingCount": 700,
+      "rating": 0.7531762,
+      "ratingCount": 747,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
@@ -555,8 +663,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8153102,
-      "ratingCount": 1532,
+      "rating": 0.81556207,
+      "ratingCount": 1582,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
       "chartUpdated": "2026-05-04T07:00:01.181555Z"
@@ -582,7 +690,7 @@
         "troll"
       ],
       "rating": 0.90664655,
-      "ratingCount": 300,
+      "ratingCount": 315,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
@@ -607,8 +715,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94062185,
-      "ratingCount": 3712,
+      "rating": 0.94022566,
+      "ratingCount": 4498,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -633,8 +741,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.71137613,
-      "ratingCount": 537,
+      "rating": 0.71186644,
+      "ratingCount": 599,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
@@ -659,8 +767,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75147265,
-      "ratingCount": 138,
+      "rating": 0.749972,
+      "ratingCount": 163,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
       "chartUpdated": "2026-04-20T11:21:03.671434Z"
@@ -685,121 +793,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8544365,
-      "ratingCount": 139,
+      "rating": 0.85474354,
+      "ratingCount": 145,
       "created": "2026-04-06T10:27:15.869511Z",
       "updated": "2026-04-18T16:41:21.792059Z",
       "chartUpdated": "2026-04-06T10:27:15.869511Z"
-    },
-    {
-      "id": 56541,
-      "name": "玲玲女生小姐姐",
-      "level": "SP Lv.玲玲",
-      "difficulty": 10.0,
-      "charter": "SENJIU/YULAN",
-      "composer": "玲玲",
-      "illustrator": "",
-      "description": "谱师本人上传\n音频提供者好龟龟c纤\n后期@元梦之星于岚#27683（作谱协助）\n我是个女孩子打低分就是欺负我一个女的",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/49c2332f-ae79-4d36-8960-45295e8781bb",
-      "preview": "https://phira.5wyxi.com/files/f1d5c715-435b-4c63-8f91-250b35e1bfa3",
-      "file": "https://phira.5wyxi.com/files/bc69ca3d-6406-4fad-af18-ef8218a1fb97",
-      "uploader": 934758,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8292677,
-      "ratingCount": 242,
-      "created": "2026-04-18T03:36:17.744941Z",
-      "updated": "2026-04-18T03:36:17.744941Z",
-      "chartUpdated": "2026-04-18T03:36:17.744941Z"
-    },
-    {
-      "id": 48260,
-      "name": "哈基米：Class Memories",
-      "level": "AT Lv.16",
-      "difficulty": 16.900002,
-      "charter": "funny_M3",
-      "composer": "hp-1001010",
-      "illustrator": "",
-      "description": "本人上传，此谱难度较大，推分请量力而行。\n@Cloudli_efe#81(配音)",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/07bc1f14-b5af-4e69-8e3e-a474d1ab5afa",
-      "preview": "https://phira.5wyxi.com/files/f3e0cf57-1a06-4bed-ac97-c05169a38260",
-      "file": "https://phira.5wyxi.com/files/6998e21e-2eb2-4711-81f9-376e445d230c",
-      "uploader": 1663313,
-      "tags": [
-        "音MAD",
-        "哈基米",
-        "troll"
-      ],
-      "rating": 0.881695,
-      "ratingCount": 812,
-      "created": "2025-10-20T16:14:09.063526Z",
-      "updated": "2026-04-11T16:17:35.932393Z",
-      "chartUpdated": "2025-10-20T16:14:09.063526Z"
-    },
-    {
-      "id": 56014,
-      "name": "Bitter Times",
-      "level": "RD 2-XN",
-      "difficulty": 8.2999935,
-      "charter": "DiAMONDGAMER",
-      "composer": "Celesti Whispers & Patricia_Taxxon",
-      "illustrator": "",
-      "description": "@DiAMONDGAMER#2067（曲绘制作）\n@DiAMOND_GR#841834（谱面制作）\n（？）\n\n这是一张《节奏医生》还原向谱面，区别于常规谱面。\n我们建议您先了解：\n1.不规则二拍\n2.跳过二拍\n\n（B站：@DiAMONDGAMER）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b5eb703e-2dd2-498d-8b50-6128d580d95e",
-      "preview": "https://phira.5wyxi.com/files/55042119-0837-4ac8-83d4-417105ad31b8",
-      "file": "https://phira.5wyxi.com/files/f4043c3e-7b60-42ba-b638-3e115a8f23f8",
-      "uploader": 841834,
-      "tags": [
-        "节奏医生",
-        "还原",
-        "troll"
-      ],
-      "rating": 0.95774674,
-      "ratingCount": 98,
-      "created": "2026-04-11T12:30:15.846877Z",
-      "updated": "2026-04-11T12:30:15.846877Z",
-      "chartUpdated": "2026-04-11T12:30:15.846877Z"
-    },
-    {
-      "id": 55933,
-      "name": "Wavetapper",
-      "level": "?? Lv.???",
-      "difficulty": 16.2,
-      "charter": "平方秒和立方吨",
-      "composer": "Frums",
-      "illustrator": "",
-      "description": "构思4小时，写谱4小时，速写的愚人节谱，祝大家玩的开心ww",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7566d85c-9bdc-4b32-9ff2-9a22a59f8823",
-      "preview": "https://phira.5wyxi.com/files/347111a1-bfa7-4ebe-a7f4-9809ba79f1d5",
-      "file": "https://phira.5wyxi.com/files/481b86eb-8087-4432-bbb1-043fe935044f",
-      "uploader": 257272,
-      "tags": [
-        "故事板",
-        "脑裂",
-        "troll"
-      ],
-      "rating": 0.92585105,
-      "ratingCount": 1101,
-      "created": "2026-04-11T05:52:35.527904Z",
-      "updated": "2026-04-11T05:52:35.527904Z",
-      "chartUpdated": "2026-04-11T05:52:35.527904Z"
     }
   ]
 }
