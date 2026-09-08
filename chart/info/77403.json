@@ -13,14 +13,14 @@
   "name": "Daydreama",
   "preview": "https://phira.5wyxi.com/files/57e79bab-1d8e-4e06-b5c8-aacca0f2ce2f",
   "ranked": false,
-  "rating": 0.7282429,
-  "ratingCount": 6,
-  "reviewed": true,
+  "rating": 0.75095886,
+  "ratingCount": 7,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-06T14:57:44.176136Z",
+  "updated": "2026-09-07T14:17:20.290178Z",
   "uploader": 408158
 }

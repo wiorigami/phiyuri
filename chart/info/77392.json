@@ -13,11 +13,11 @@
   "name": "唐·毒蛇",
   "preview": "https://phira.5wyxi.com/files/b766001a-b543-452b-acb5-b3eacd2e4f4a",
   "ranked": false,
-  "rating": 0.8480645,
-  "ratingCount": 20,
-  "reviewed": false,
+  "rating": 0.8637744,
+  "ratingCount": 58,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

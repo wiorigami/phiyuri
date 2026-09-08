@@ -13,11 +13,11 @@
   "name": "EGGSTREME DUCK PHONK",
   "preview": "https://phira.5wyxi.com/files/91e78e75-9576-498d-905e-65dee1b28b06",
   "ranked": false,
-  "rating": 0.85219043,
-  "ratingCount": 3589,
-  "reviewed": false,
+  "rating": 0.85180265,
+  "ratingCount": 3620,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

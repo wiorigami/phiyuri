@@ -13,14 +13,14 @@
   "name": "Reasons",
   "preview": "https://phira.5wyxi.com/files/1aeb4d91-f9fe-4490-a25f-5001f8eacf22",
   "ranked": false,
-  "rating": 0.760132,
-  "ratingCount": 3,
-  "reviewed": true,
+  "rating": 0.8253334,
+  "ratingCount": 15,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-06T14:00:54.843510Z",
+  "updated": "2026-09-07T12:48:54.801630Z",
   "uploader": 514
 }
