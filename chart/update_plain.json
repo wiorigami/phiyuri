@@ -1,6 +1,144 @@
 {
-  "count": 3305,
+  "count": 3309,
   "results": [
+    {
+      "id": 77298,
+      "name": "Rhyne Dust",
+      "level": "4K Lv.33",
+      "difficulty": 10.0,
+      "charter": "十千秋子",
+      "composer": "MK&Dom Dolla",
+      "illustrator": "",
+      "description": "BPM:174|时长3m24s\n叠谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/303196f4-8bba-4a73-ad1b-e9757f1c6268",
+      "preview": "https://phira.5wyxi.com/files/aeeda38f-652e-4479-ad8c-07394a9352e1",
+      "file": "https://phira.5wyxi.com/files/2ab8b230-1c9a-41d0-ab1c-4d40bd12fe8a",
+      "uploader": 58238,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.77245694,
+      "ratingCount": 0,
+      "created": "2026-09-06T06:03:29.515190Z",
+      "updated": "2026-09-07T12:28:20.619741477Z",
+      "chartUpdated": "2026-09-06T06:03:29.515190Z"
+    },
+    {
+      "id": 49334,
+      "name": "NULCTRL",
+      "level": "CLUB Lv.8",
+      "difficulty": 8.0,
+      "charter": "DMF_Chart Team",
+      "composer": "Silentroom",
+      "illustrator": "",
+      "description": "谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1db1e41c-cf00-4d09-9b80-b121b9b419c7",
+      "preview": "https://phira.5wyxi.com/files/a17e081b-d300-47c0-b929-29a626652107",
+      "file": "https://phira.5wyxi.com/files/c38dbdc1-e592-4eb8-8749-76d06b4982d5",
+      "uploader": 1100615,
+      "tags": [
+        "DFC",
+        "Slide",
+        "DMF",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2025-11-21T07:15:49.039035Z",
+      "updated": "2026-09-07T09:31:06.823182748Z",
+      "chartUpdated": "2025-11-21T07:15:49.039035Z"
+    },
+    {
+      "id": 48771,
+      "name": "Daisy Bell",
+      "level": "HD",
+      "difficulty": 8.0,
+      "charter": "Blicko",
+      "composer": "Harry Dacre",
+      "illustrator": "",
+      "description": "[RU/ENG]",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/50e98116-3adb-47ad-b631-aac90aa51941",
+      "preview": "https://phira.5wyxi.com/files/7640f544-8d28-4f62-ac23-0679951a0e69",
+      "file": "https://phira.5wyxi.com/files/795d1cd9-a65a-4a90-ad99-a77ee4bc83d7",
+      "uploader": 1905844,
+      "tags": [
+        "shader",
+        "shaders",
+        "plain"
+      ],
+      "rating": 0.7413558,
+      "ratingCount": 0,
+      "created": "2025-11-04T17:57:15.373976Z",
+      "updated": "2026-09-07T09:21:58.479463488Z",
+      "chartUpdated": "2025-11-04T17:57:15.373976Z"
+    },
+    {
+      "id": 48760,
+      "name": "我的好兄弟（麻油氏再混音）",
+      "level": "Lv.19",
+      "difficulty": 19.000002,
+      "charter": "秋鹤-qiuhe",
+      "composer": "EBIMAYO feat. 高进 & 小沈阳",
+      "illustrator": "",
+      "description": "抖音，B站：秋鹤-暗区突围\n本人制谱，这个谱子就不发视频了\n中途有一半没有采准，所以有一大段都是乱写的\n为了上传这个谱子，我是删掉了一个之前的以恋结缘，下一个就是粪谱了，大量叠键",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ae954a0b-f33d-4b56-84ce-f39c86bf96e3",
+      "preview": "https://phira.5wyxi.com/files/e91f39a1-fb00-426e-995d-741a1fef6d39",
+      "file": "https://phira.5wyxi.com/files/5674a142-8f74-49ba-ac1e-348e86d834a4",
+      "uploader": 1520573,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.8156982,
+      "ratingCount": 0,
+      "created": "2025-11-04T03:55:19.556131Z",
+      "updated": "2026-09-07T03:37:10.360839Z",
+      "chartUpdated": "2025-11-04T03:55:19.556131Z"
+    },
+    {
+      "id": 77419,
+      "name": "Mare Tranquillitatis",
+      "level": "8.0~Nightmare Lv.36",
+      "difficulty": 8.1,
+      "charter": "E_Rizon",
+      "composer": "mii-ru",
+      "illustrator": "",
+      "description": "使用原曲0.8倍速，键型tech，预估难度9dan+\n等我什么时候原速95了把原速也传上来嘻嘻\n感谢legitIX提供的测试与修改（加强）建议",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5234d82f-8ce0-4e96-88b2-7427e59ea96b",
+      "preview": "https://phira.5wyxi.com/files/7539b651-648f-4bcd-a622-8183e54ba8dd",
+      "file": "https://phira.5wyxi.com/files/cec95a98-7c2b-4e58-bb6f-a7e6b28bc2ce",
+      "uploader": 21375,
+      "tags": [
+        "5k",
+        "tech",
+        "plain"
+      ],
+      "rating": 0.8257282,
+      "ratingCount": 0,
+      "created": "2026-09-07T02:29:09.039935Z",
+      "updated": "2026-09-07T03:36:33.609828Z",
+      "chartUpdated": "2026-09-07T02:29:09.039935Z"
+    },
     {
       "id": 48827,
       "name": "Icyxis ~True ending~",
@@ -27,10 +165,10 @@
         "3121",
         "plain"
       ],
-      "rating": 0.70983166,
-      "ratingCount": 0,
+      "rating": 0.76018816,
+      "ratingCount": 2,
       "created": "2025-11-07T14:40:46.992198Z",
-      "updated": "2026-09-06T20:59:59.182996422Z",
+      "updated": "2026-09-06T20:59:59.182996Z",
       "chartUpdated": "2025-11-07T14:40:46.992198Z"
     },
     {
@@ -53,10 +191,10 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8883611,
       "ratingCount": 0,
       "created": "2025-08-30T23:53:28.421665Z",
-      "updated": "2026-09-06T20:59:25.024317998Z",
+      "updated": "2026-09-06T20:59:25.024317Z",
       "chartUpdated": "2025-08-30T23:53:28.421665Z"
     },
     {
@@ -79,10 +217,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 0,
+      "rating": 0.8739311,
+      "ratingCount": 2,
       "created": "2025-11-10T14:32:51.140195Z",
-      "updated": "2026-09-06T20:59:13.137682961Z",
+      "updated": "2026-09-06T20:59:13.137682Z",
       "chartUpdated": "2025-11-10T14:32:51.140195Z"
     },
     {
@@ -105,10 +243,10 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.83680755,
+      "ratingCount": 3,
       "created": "2025-11-08T08:49:10.405844Z",
-      "updated": "2026-09-06T20:59:01.829788985Z",
+      "updated": "2026-09-06T20:59:01.829788Z",
       "chartUpdated": "2025-11-08T08:49:10.405844Z"
     },
     {
@@ -131,10 +269,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85124284,
-      "ratingCount": 63,
+      "rating": 0.84894377,
+      "ratingCount": 62,
       "created": "2024-07-15T15:37:28.608297Z",
-      "updated": "2026-09-06T20:58:41.854161332Z",
+      "updated": "2026-09-06T20:58:41.854161Z",
       "chartUpdated": "2024-07-15T15:37:28.608297Z"
     },
     {
@@ -160,7 +298,7 @@
       "rating": 0.71985346,
       "ratingCount": 11,
       "created": "2024-07-21T02:21:19.232349Z",
-      "updated": "2026-09-06T20:58:26.017423131Z",
+      "updated": "2026-09-06T20:58:26.017423Z",
       "chartUpdated": "2024-07-21T02:21:19.232349Z"
     },
     {
@@ -185,10 +323,10 @@
         "这是个标签",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7803841,
       "ratingCount": 0,
       "created": "2025-11-05T16:03:06.025510Z",
-      "updated": "2026-09-06T20:58:15.993291011Z",
+      "updated": "2026-09-06T20:58:15.993291Z",
       "chartUpdated": "2025-11-05T16:03:06.025510Z"
     },
     {
@@ -212,8 +350,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.7632097,
-      "ratingCount": 3,
+      "rating": 0.8251449,
+      "ratingCount": 4,
       "created": "2026-09-06T01:44:54.145962Z",
       "updated": "2026-09-06T01:44:54.145962Z",
       "chartUpdated": "2026-09-06T01:44:54.145962Z"
@@ -265,8 +403,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8927294,
-      "ratingCount": 11,
+      "rating": 0.9141443,
+      "ratingCount": 36,
       "created": "2026-09-05T14:11:24.189740Z",
       "updated": "2026-09-05T14:11:24.189740Z",
       "chartUpdated": "2026-09-05T14:11:24.189740Z"
@@ -320,7 +458,7 @@
         "Stream",
         "plain"
       ],
-      "rating": 0.74821544,
+      "rating": 0.75974077,
       "ratingCount": 3,
       "created": "2026-04-25T12:58:26.561138Z",
       "updated": "2026-09-03T07:28:53.732866Z",
@@ -346,7 +484,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7787653,
+      "rating": 0.79453164,
       "ratingCount": 8,
       "created": "2026-08-31T05:21:51.848038Z",
       "updated": "2026-08-31T05:21:51.848038Z",
@@ -451,7 +589,7 @@
         "plain"
       ],
       "rating": 0.93140805,
-      "ratingCount": 21,
+      "ratingCount": 22,
       "created": "2026-08-31T05:14:06.457482Z",
       "updated": "2026-08-31T05:14:06.457482Z",
       "chartUpdated": "2026-08-31T05:14:06.457482Z"
@@ -476,8 +614,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88780993,
-      "ratingCount": 32,
+      "rating": 0.8916425,
+      "ratingCount": 33,
       "created": "2026-08-31T05:13:31.970159Z",
       "updated": "2026-08-31T05:13:31.970159Z",
       "chartUpdated": "2026-08-31T05:13:31.970159Z"
@@ -502,7 +640,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9166922,
+      "rating": 0.92195565,
       "ratingCount": 52,
       "created": "2026-08-31T05:13:23.329119Z",
       "updated": "2026-08-31T05:13:23.329119Z",
@@ -528,7 +666,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89843816,
+      "rating": 0.89457995,
       "ratingCount": 14,
       "created": "2026-08-30T15:41:37.197951Z",
       "updated": "2026-08-30T15:41:37.197951Z",
@@ -682,158 +820,11 @@
         "8",
         "plain"
       ],
-      "rating": 0.91274625,
+      "rating": 0.9167889,
       "ratingCount": 16,
       "created": "2026-08-30T10:41:14.542224Z",
       "updated": "2026-08-30T10:41:14.542224Z",
       "chartUpdated": "2026-08-30T10:41:14.542224Z"
-    },
-    {
-      "id": 76575,
-      "name": "East West Wobble",
-      "level": "Pattern Lv.17",
-      "difficulty": 17.400002,
-      "charter": "HRS-Team",
-      "composer": "SHK",
-      "illustrator": "",
-      "description": "HRS-Lv.17-Pattern单曲\n谱师的话：欢迎报考格雷科技新视野大学",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ba4042e2-521c-4a05-bf08-f3abd53d3ed0",
-      "preview": "https://phira.5wyxi.com/files/95577e93-d736-427f-963a-1ac92d85c254",
-      "file": "https://phira.5wyxi.com/files/4afdd74e-8600-413d-87a3-4d0b3f726f78",
-      "uploader": 4032686,
-      "tags": [
-        "HRS",
-        "双指",
-        "Pattern",
-        "瞬",
-        "17",
-        "谐律段位",
-        "plain"
-      ],
-      "rating": 0.74345326,
-      "ratingCount": 5,
-      "created": "2026-08-30T10:40:55.128847Z",
-      "updated": "2026-08-30T10:40:55.128847Z",
-      "chartUpdated": "2026-08-30T10:40:55.128847Z"
-    },
-    {
-      "id": 76514,
-      "name": "天穹之扉(Celestial::Aperture)",
-      "level": "RAINFALL LvL-5+",
-      "difficulty": 5.7,
-      "charter": "qwe_48 vs. ArtificialCore_",
-      "composer": "Salty Salt",
-      "illustrator": "",
-      "description": "B站@ArtificialCore_\n本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3e40439b-450d-49af-a8ea-62bc495c6ffb",
-      "preview": "https://phira.5wyxi.com/files/e554e10a-e4ff-4799-8892-0e09e0af11a9",
-      "file": "https://phira.5wyxi.com/files/26ad2856-ea7d-4272-a792-b50706163405",
-      "uploader": 204705,
-      "tags": [
-        "4K",
-        "24",
-        "切",
-        "切换",
-        "plain"
-      ],
-      "rating": 0.9358932,
-      "ratingCount": 31,
-      "created": "2026-08-30T05:34:10.338410Z",
-      "updated": "2026-08-30T05:34:10.338410Z",
-      "chartUpdated": "2026-08-30T05:34:10.338410Z"
-    },
-    {
-      "id": 76384,
-      "name": "κανων",
-      "level": "Sacred Lv.Χ",
-      "difficulty": 0.0,
-      "charter": "Ice747",
-      "composer": "tarolabo",
-      "illustrator": "",
-      "description": "谱师本人上传。\n这个谱还不错。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d1635b43-118e-46a2-919a-6fb44152ddd5",
-      "preview": "https://phira.5wyxi.com/files/615ce4c0-66ce-4781-9120-393011d3a360",
-      "file": "https://phira.5wyxi.com/files/1ca895c0-da81-4c77-ae03-0983f5689129",
-      "uploader": 382081,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.86019063,
-      "ratingCount": 7,
-      "created": "2026-08-29T10:37:45.678454Z",
-      "updated": "2026-08-29T10:37:45.678454Z",
-      "chartUpdated": "2026-08-29T10:37:45.678454Z"
-    },
-    {
-      "id": 76238,
-      "name": "DFC Fanmade Simрle Alpha Dan",
-      "level": "Dan Lv.11",
-      "difficulty": 11.0,
-      "charter": "MianTiao",
-      "composer": "Various Artists",
-      "illustrator": "",
-      "description": "谱师本人上传\n过段标准: 97.15\n后光标准: 98.57",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f0b7cabe-2fa7-4ac6-b497-96d69f66983f",
-      "preview": "https://phira.5wyxi.com/files/c0bfa717-2fb5-4b04-ae8f-48fe0096aa26",
-      "file": "https://phira.5wyxi.com/files/f6cb2a67-c37e-4cc0-9948-f043091cfb0e",
-      "uploader": 180995,
-      "tags": [
-        "dfc",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.83136326,
-      "ratingCount": 13,
-      "created": "2026-08-28T16:03:39.053237Z",
-      "updated": "2026-08-28T16:03:39.053237Z",
-      "chartUpdated": "2026-08-28T16:03:39.053237Z"
-    },
-    {
-      "id": 76221,
-      "name": "Paradigm Shift",
-      "level": "Simplë Lv.11",
-      "difficulty": 11.800003,
-      "charter": "qwpp Shift",
-      "composer": "Morimori Atsushi",
-      "illustrator": "",
-      "description": "本人上传\n总Notes:1777\n边缘=96.25\n过段=97.75\n后光=98.88\n击破=99.63\n前半标准技叠，后面有丶难\n总的来说有11+\n\n另外小剧透\n此谱为qwpp alpha dan叠",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4f1d86c7-ad74-4f9c-96e7-f632d51be414",
-      "preview": "https://phira.5wyxi.com/files/025978bc-7fc6-4086-b669-0753944c6755",
-      "file": "https://phira.5wyxi.com/files/e9615419-af9f-457e-a121-936c3dd746d3",
-      "uploader": 3753681,
-      "tags": [
-        "dfc",
-        "qwpp",
-        "叠",
-        "alpha",
-        "s1mple",
-        "plain"
-      ],
-      "rating": 0.9188486,
-      "ratingCount": 25,
-      "created": "2026-08-28T13:42:14.512045Z",
-      "updated": "2026-08-28T13:42:14.512045Z",
-      "chartUpdated": "2026-08-28T13:42:14.512045Z"
     }
   ]
 }
