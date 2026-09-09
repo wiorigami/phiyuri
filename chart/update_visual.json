@@ -2,6 +2,34 @@
   "count": 169,
   "results": [
     {
+      "id": 53777,
+      "name": "Ghost",
+      "level": "Double Lv.17",
+      "difficulty": 17.700003,
+      "charter": "IXIRB001泠宏",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "观赏谱，双人双指可解，谱师本人上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/9a10dddf-a64f-42d8-abcb-0c9673445a0f",
+      "preview": "https://phira.5wyxi.com/files/3904d9f8-60e6-432c-9dcb-37908ebb744c",
+      "file": "https://phira.5wyxi.com/files/c9cb0952-0c8c-4e68-93cf-7954ba5a7c5c",
+      "uploader": 37107,
+      "tags": [
+        "双人",
+        "双指",
+        "visual"
+      ],
+      "rating": 0.86330307,
+      "ratingCount": 27,
+      "created": "2026-03-03T06:49:21.192811Z",
+      "updated": "2026-09-08T13:53:41.517228Z",
+      "chartUpdated": "2026-03-03T06:49:21.192811Z"
+    },
+    {
       "id": 77399,
       "name": "gur yvsr(仮)",
       "level": "■■ Lv.0",
@@ -74,7 +102,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.91896313,
+      "rating": 0.91896826,
       "ratingCount": 86051,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -152,7 +180,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.82934225,
+      "rating": 0.83491063,
       "ratingCount": 5,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-05-01T09:24:26.797157Z",
@@ -256,39 +284,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87981385,
+      "rating": 0.8798352,
       "ratingCount": 938,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
-    },
-    {
-      "id": 53777,
-      "name": "Ghost",
-      "level": "Double Lv.17",
-      "difficulty": 17.700003,
-      "charter": "IXIRB001泠宏",
-      "composer": "Camellia",
-      "illustrator": "",
-      "description": "观赏谱，双人双指可解，谱师本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9a10dddf-a64f-42d8-abcb-0c9673445a0f",
-      "preview": "https://phira.5wyxi.com/files/3904d9f8-60e6-432c-9dcb-37908ebb744c",
-      "file": "https://phira.5wyxi.com/files/c9cb0952-0c8c-4e68-93cf-7954ba5a7c5c",
-      "uploader": 37107,
-      "tags": [
-        "双人",
-        "双指",
-        "visual"
-      ],
-      "rating": 0.85891557,
-      "ratingCount": 27,
-      "created": "2026-03-03T06:49:21.192811Z",
-      "updated": "2026-03-03T06:49:21.192811Z",
-      "chartUpdated": "2026-03-03T06:49:21.192811Z"
     },
     {
       "id": 53661,
@@ -394,7 +394,7 @@
         "粪谱",
         "visual"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2026-01-22T13:44:38.378019Z",
       "updated": "2026-02-13T10:32:42.217274Z",
@@ -420,7 +420,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8144676,
+      "rating": 0.8148363,
       "ratingCount": 507,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -533,7 +533,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.6851446,
+      "rating": 0.68527347,
       "ratingCount": 891,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -697,7 +697,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.94836915,
+      "rating": 0.9484628,
       "ratingCount": 552,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -723,7 +723,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.72637033,
+      "rating": 0.72694916,
       "ratingCount": 479,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
