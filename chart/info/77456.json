@@ -13,14 +13,14 @@
   "name": "クロマの幻聴",
   "preview": "https://phira.5wyxi.com/files/8a1ca695-84b6-4a21-a8f1-27a426309b46",
   "ranked": false,
-  "rating": 0.7702763,
-  "ratingCount": 4,
-  "reviewed": true,
+  "rating": 0.8774832,
+  "ratingCount": 43,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-07T16:32:02.010706Z",
+  "updated": "2026-09-08T13:03:47.438815Z",
   "uploader": 559587
 }

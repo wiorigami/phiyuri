@@ -13,14 +13,14 @@
   "name": "Worlders",
   "preview": "https://phira.5wyxi.com/files/e2cc2ce2-37c1-480e-aa62-b1e21da4f3af",
   "ranked": false,
-  "rating": 0.9592325,
-  "ratingCount": 177,
-  "reviewed": true,
+  "rating": 0.9524448,
+  "ratingCount": 229,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-31T13:23:00.573085Z",
+  "updated": "2026-09-08T04:15:12.070552Z",
   "uploader": 328759
 }

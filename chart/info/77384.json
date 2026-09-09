@@ -13,14 +13,14 @@
   "name": "τ(tau)",
   "preview": "https://phira.5wyxi.com/files/c7c0a247-3095-422f-a549-078ec23f065b",
   "ranked": false,
-  "rating": 0.85495716,
-  "ratingCount": 14,
-  "reviewed": true,
+  "rating": 0.88875777,
+  "ratingCount": 32,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-06T14:18:26.424418Z",
+  "updated": "2026-09-08T06:27:37.608879Z",
   "uploader": 51
 }
