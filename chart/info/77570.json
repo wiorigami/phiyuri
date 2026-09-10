@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-09-09T10:26:44.278923Z",
+  "charter": "= 239 - 67 - (2! * 3 * 9^1 / 9 / 3)",
+  "composer": "Schwank",
+  "created": "2026-09-09T10:26:44.278923Z",
+  "description": "6thWJC参赛谱",
+  "difficulty": 16.1,
+  "file": "https://phira.5wyxi.com/files/368219a9-e2cd-4575-975f-86adf0eafcfc",
+  "id": 77570,
+  "illustration": "https://phira.5wyxi.com/files/d021cf46-e573-4837-9295-f0500812ab20",
+  "illustrator": "",
+  "level": "IN  Lv.16",
+  "name": "BPM",
+  "preview": "https://phira.5wyxi.com/files/8673af40-0e16-4194-8d15-22d2239099fd",
+  "ranked": false,
+  "rating": 0.9033676,
+  "ratingCount": 19,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-09T14:31:15.537674Z",
+  "uploader": 43
+}

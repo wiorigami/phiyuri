@@ -13,14 +13,14 @@
   "name": "六兆年と一夜物語",
   "preview": "https://phira.5wyxi.com/files/0a092d28-a698-4570-b577-2ff0dc86e08d",
   "ranked": false,
-  "rating": 0.7394274,
-  "ratingCount": 4,
-  "reviewed": true,
+  "rating": 0.8671512,
+  "ratingCount": 170,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-30T08:00:15.272542Z",
+  "updated": "2026-09-09T10:40:50.302593Z",
   "uploader": 600546
 }
