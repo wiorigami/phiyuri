@@ -1,6 +1,86 @@
 {
-  "count": 3309,
+  "count": 3311,
   "results": [
+    {
+      "id": 48880,
+      "name": "Fractured Angel",
+      "level": "Gray feather",
+      "difficulty": 10.0,
+      "charter": "FengLingYingFu",
+      "composer": "DJ Raisei",
+      "illustrator": "",
+      "description": "。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8a26a30c-0809-4568-9a95-ad6aa562f833",
+      "preview": "https://phira.5wyxi.com/files/6a93aa48-c7db-4630-acee-f21a2f022fa3",
+      "file": "https://phira.5wyxi.com/files/e7173545-5eba-4b0b-a59f-3f41213c098c",
+      "uploader": 153302,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2025-11-08T14:27:31.337062Z",
+      "updated": "2026-09-10T01:47:36.277264395Z",
+      "chartUpdated": "2025-11-08T14:27:31.337062Z"
+    },
+    {
+      "id": 75562,
+      "name": "CALAMITY RHAPSODY",
+      "level": "Another Lv.35",
+      "difficulty": 35.0,
+      "charter": "Ay_bv",
+      "composer": "AIKA",
+      "illustrator": "",
+      "description": "咪",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c8f80694-d24f-436e-9ead-bdbee66a8449",
+      "preview": "https://phira.5wyxi.com/files/7c111d14-3095-408b-9480-792c3f17f751",
+      "file": "https://phira.5wyxi.com/files/426457c9-3fbf-4766-8778-9f3644c9b704",
+      "uploader": 292969,
+      "tags": [
+        "4k",
+        "stream",
+        "plain"
+      ],
+      "rating": 0.88649786,
+      "ratingCount": 0,
+      "created": "2026-08-25T03:45:04.894363Z",
+      "updated": "2026-09-09T10:10:27.402358690Z",
+      "chartUpdated": "2026-08-25T03:45:04.894363Z"
+    },
+    {
+      "id": 77547,
+      "name": "DFC FANMADE S1MPLE DAN[GAMMA]",
+      "level": "Dan Lv.13",
+      "difficulty": 13.0,
+      "charter": "Deb1ruN_",
+      "composer": "Various Artists",
+      "illustrator": "",
+      "description": "谱师本人上传\n单曲：\n速叠(Speed)：难度13.4，过段97.39\n常规(S1mple)：难度13.4，过段97.58\n满叠(Dense)：难度13.5，过段97.61\n技巧(Technical)：难度13.3，过段97.81\n全段：\n过段97.60\n后光98.80",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/08f66182-5381-45fe-8a2a-97c90228b0a7",
+      "preview": "https://phira.5wyxi.com/files/1a04c77e-72b5-4377-9526-5f0fc3dbe50e",
+      "file": "https://phira.5wyxi.com/files/ffe38050-5beb-41d0-93f9-645048b43d01",
+      "uploader": 559753,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-09-09T04:18:20.392692Z",
+      "updated": "2026-09-09T05:11:54.887001970Z",
+      "chartUpdated": "2026-09-09T04:18:20.392692Z"
+    },
     {
       "id": 77298,
       "name": "Rhyne Dust",
@@ -21,7 +101,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8226185,
+      "rating": 0.83545965,
       "ratingCount": 0,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741477Z",
@@ -50,7 +130,7 @@
         "DMF",
         "plain"
       ],
-      "rating": 0.81567323,
+      "rating": 0.8478305,
       "ratingCount": 0,
       "created": "2025-11-21T07:15:49.039035Z",
       "updated": "2026-09-07T09:31:06.823182748Z",
@@ -78,7 +158,7 @@
         "shaders",
         "plain"
       ],
-      "rating": 0.7662158,
+      "rating": 0.78411025,
       "ratingCount": 0,
       "created": "2025-11-04T17:57:15.373976Z",
       "updated": "2026-09-07T09:21:58.479463488Z",
@@ -105,7 +185,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8156982,
+      "rating": 0.78518665,
       "ratingCount": 0,
       "created": "2025-11-04T03:55:19.556131Z",
       "updated": "2026-09-07T03:37:10.360839Z",
@@ -191,7 +271,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88600284,
+      "rating": 0.8895417,
       "ratingCount": 0,
       "created": "2025-08-30T23:53:28.421665Z",
       "updated": "2026-09-06T20:59:25.024317Z",
@@ -217,7 +297,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8889581,
+      "rating": 0.8780051,
       "ratingCount": 2,
       "created": "2025-11-10T14:32:51.140195Z",
       "updated": "2026-09-06T20:59:13.137682Z",
@@ -243,7 +323,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8482159,
+      "rating": 0.86357456,
       "ratingCount": 3,
       "created": "2025-11-08T08:49:10.405844Z",
       "updated": "2026-09-06T20:59:01.829788Z",
@@ -403,7 +483,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9244879,
+      "rating": 0.927437,
       "ratingCount": 36,
       "created": "2026-09-05T14:11:24.189740Z",
       "updated": "2026-09-05T14:11:24.189740Z",
@@ -458,7 +538,7 @@
         "Stream",
         "plain"
       ],
-      "rating": 0.75974077,
+      "rating": 0.7827321,
       "ratingCount": 3,
       "created": "2026-04-25T12:58:26.561138Z",
       "updated": "2026-09-03T07:28:53.732866Z",
@@ -562,7 +642,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89601916,
+      "rating": 0.90082854,
       "ratingCount": 15,
       "created": "2026-08-31T05:14:15.144480Z",
       "updated": "2026-08-31T05:14:15.144480Z",
@@ -588,7 +668,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93392074,
+      "rating": 0.93625945,
       "ratingCount": 22,
       "created": "2026-08-31T05:14:06.457482Z",
       "updated": "2026-08-31T05:14:06.457482Z",
@@ -640,7 +720,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9238569,
+      "rating": 0.926112,
       "ratingCount": 52,
       "created": "2026-08-31T05:13:23.329119Z",
       "updated": "2026-08-31T05:13:23.329119Z",
@@ -666,7 +746,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89457995,
+      "rating": 0.8996733,
       "ratingCount": 14,
       "created": "2026-08-30T15:41:37.197951Z",
       "updated": "2026-08-30T15:41:37.197951Z",
@@ -692,7 +772,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.914745,
+      "rating": 0.9188046,
       "ratingCount": 35,
       "created": "2026-08-30T13:32:05.541245Z",
       "updated": "2026-08-30T13:32:05.541245Z",
@@ -729,102 +809,6 @@
       "created": "2026-08-30T10:42:17.119314Z",
       "updated": "2026-08-30T10:42:17.119314Z",
       "chartUpdated": "2026-08-30T10:42:17.119314Z"
-    },
-    {
-      "id": 76578,
-      "name": "氷面鏡",
-      "level": "Pattern Lv.15",
-      "difficulty": 15.499999,
-      "charter": "HRS-Team",
-      "composer": "Human Servant",
-      "illustrator": "",
-      "description": "HRS-Lv.15-Pattern单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f1677aeb-0b14-482c-b2d6-1fd46b4ebe07",
-      "preview": "https://phira.5wyxi.com/files/6b91931d-9a54-45d7-8615-c6ba0f04826c",
-      "file": "https://phira.5wyxi.com/files/f1ae3435-0164-4d68-a430-da9c64c6837a",
-      "uploader": 4032686,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "Pattern",
-        "瞬",
-        "15",
-        "plain"
-      ],
-      "rating": 0.8891076,
-      "ratingCount": 11,
-      "created": "2026-08-30T10:41:58.222233Z",
-      "updated": "2026-08-30T10:41:58.222233Z",
-      "chartUpdated": "2026-08-30T10:41:58.222233Z"
-    },
-    {
-      "id": 76577,
-      "name": "しゅわしゅわハニーレモン350ml",
-      "level": "Pattern Lv.7",
-      "difficulty": 7.1999936,
-      "charter": "HRS-Team",
-      "composer": "しゃろう",
-      "illustrator": "",
-      "description": "HRS-Lv.7-Pattern单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fa2c2442-3fac-4435-a610-4e75483cf562",
-      "preview": "https://phira.5wyxi.com/files/5db6a221-a4ff-4a09-b61f-513a7f3dabf7",
-      "file": "https://phira.5wyxi.com/files/1df55980-dba3-416f-8566-92d4bfb21110",
-      "uploader": 4032686,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "瞬",
-        "Pattern",
-        "7",
-        "plain"
-      ],
-      "rating": 0.88159287,
-      "ratingCount": 12,
-      "created": "2026-08-30T10:41:36.714861Z",
-      "updated": "2026-08-30T10:41:36.714861Z",
-      "chartUpdated": "2026-08-30T10:41:36.714861Z"
-    },
-    {
-      "id": 76576,
-      "name": "Suomi",
-      "level": "Pattern Lv.8",
-      "difficulty": 8.699995,
-      "charter": "HRS-Team",
-      "composer": "Aire",
-      "illustrator": "",
-      "description": "HRS-Lv.8-Pattern单曲\n这是换手谱，对。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e840e29a-5ea8-4cfb-b84d-941777b8c3d9",
-      "preview": "https://phira.5wyxi.com/files/0337734a-a725-4a0a-bd81-1f3d0a418015",
-      "file": "https://phira.5wyxi.com/files/86c194c6-2a90-48a5-a9ab-d0f4a29ad729",
-      "uploader": 4032686,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "Pattern",
-        "瞬",
-        "8",
-        "plain"
-      ],
-      "rating": 0.9204829,
-      "ratingCount": 16,
-      "created": "2026-08-30T10:41:14.542224Z",
-      "updated": "2026-08-30T10:41:14.542224Z",
-      "chartUpdated": "2026-08-30T10:41:14.542224Z"
     }
   ]
 }
