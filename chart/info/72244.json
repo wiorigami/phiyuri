@@ -13,14 +13,14 @@
   "name": "GOODWORLD",
   "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
   "ranked": false,
-  "rating": 0.91074973,
-  "ratingCount": 438,
-  "reviewed": true,
+  "rating": 0.91283345,
+  "ratingCount": 518,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "plain"
   ],
-  "updated": "2026-08-09T08:38:32.661075Z",
+  "updated": "2026-09-10T14:18:27.669426Z",
   "uploader": 3470464
 }

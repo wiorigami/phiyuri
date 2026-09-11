@@ -1,6 +1,89 @@
 {
-  "count": 3311,
+  "count": 3313,
   "results": [
+    {
+      "id": 72244,
+      "name": "GOODWORLD",
+      "level": "4K ANOTHER Lv.25",
+      "difficulty": 10.0,
+      "charter": "YMEA",
+      "composer": "EBIMAYO",
+      "illustrator": "",
+      "description": "写了一天，后面忘了\n不感谢@Lage#852606 的动效\n快手 X B站 洋漫YMEA\nDY YMEA",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/ff4670d4-410c-4142-83a0-fc1f15e5459d",
+      "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
+      "file": "https://phira.5wyxi.com/files/75e10da8-bd07-46ca-9d64-e108491c97bd",
+      "uploader": 3470464,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.91283345,
+      "ratingCount": 514,
+      "created": "2026-08-09T08:38:00.948937Z",
+      "updated": "2026-09-10T14:18:27.669426Z",
+      "chartUpdated": "2026-08-09T08:38:00.948937Z"
+    },
+    {
+      "id": 77633,
+      "name": "Archidoxen",
+      "level": "Sketch Lv.13",
+      "difficulty": 13.0,
+      "charter": "TEC109",
+      "composer": "Se_IRA",
+      "illustrator": "",
+      "description": "本人上传 \n748/2300，97.88%\n基本功练习一谱qwq\n双指中难谱面，多指谨慎游玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/fc854cd3-b3a0-4ded-ab9b-046b84e650e5",
+      "preview": "https://phira.5wyxi.com/files/2294fe97-5561-406a-a39a-7c6f3d14346c",
+      "file": "https://phira.5wyxi.com/files/da7adf94-9ca8-43cd-8069-9a83381fcd75",
+      "uploader": 3992187,
+      "tags": [
+        "DFC",
+        "双指",
+        "叠",
+        "耐力",
+        "爆发",
+        "plain"
+      ],
+      "rating": 0.79426795,
+      "ratingCount": 0,
+      "created": "2026-09-10T10:04:27.007149Z",
+      "updated": "2026-09-10T12:13:07.944736639Z",
+      "chartUpdated": "2026-09-10T10:04:27.007149Z"
+    },
+    {
+      "id": 77639,
+      "name": "still chasing that summer when we reached the blue together",
+      "level": "4K Summ3r Lv.34",
+      "difficulty": 34.0,
+      "charter": "sT3alth",
+      "composer": "ric3show3r",
+      "illustrator": "",
+      "description": "作者本人上传。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/baf1c10e-32a9-4173-b15d-32a8f5f5f853",
+      "preview": "https://phira.5wyxi.com/files/75572d78-0932-40fa-9352-b3abf2e5e904",
+      "file": "https://phira.5wyxi.com/files/fb42052d-9a43-455b-931a-c4c1e5e68e3b",
+      "uploader": 7748,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8083,
+      "ratingCount": 2,
+      "created": "2026-09-10T11:29:49.920094Z",
+      "updated": "2026-09-10T11:49:01.237779Z",
+      "chartUpdated": "2026-09-10T11:29:49.920094Z"
+    },
     {
       "id": 48880,
       "name": "Fractured Angel",
@@ -21,7 +104,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.63358074,
       "ratingCount": 0,
       "created": "2025-11-08T14:27:31.337062Z",
       "updated": "2026-09-10T01:47:36.277264395Z",
@@ -49,7 +132,7 @@
         "stream",
         "plain"
       ],
-      "rating": 0.88649786,
+      "rating": 0.9246941,
       "ratingCount": 0,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358690Z",
@@ -75,7 +158,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7803841,
       "ratingCount": 0,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001970Z",
@@ -101,7 +184,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83545965,
+      "rating": 0.875008,
       "ratingCount": 0,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741477Z",
@@ -158,7 +241,7 @@
         "shaders",
         "plain"
       ],
-      "rating": 0.78411025,
+      "rating": 0.8184313,
       "ratingCount": 0,
       "created": "2025-11-04T17:57:15.373976Z",
       "updated": "2026-09-07T09:21:58.479463488Z",
@@ -185,7 +268,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.78518665,
+      "rating": 0.8176738,
       "ratingCount": 0,
       "created": "2025-11-04T03:55:19.556131Z",
       "updated": "2026-09-07T03:37:10.360839Z",
@@ -245,7 +328,7 @@
         "3121",
         "plain"
       ],
-      "rating": 0.76018816,
+      "rating": 0.77977467,
       "ratingCount": 2,
       "created": "2025-11-07T14:40:46.992198Z",
       "updated": "2026-09-06T20:59:59.182996Z",
@@ -297,7 +380,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8780051,
+      "rating": 0.88597673,
       "ratingCount": 2,
       "created": "2025-11-10T14:32:51.140195Z",
       "updated": "2026-09-06T20:59:13.137682Z",
@@ -323,7 +406,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86357456,
+      "rating": 0.8612475,
       "ratingCount": 3,
       "created": "2025-11-08T08:49:10.405844Z",
       "updated": "2026-09-06T20:59:01.829788Z",
@@ -403,7 +486,7 @@
         "这是个标签",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.81567323,
       "ratingCount": 0,
       "created": "2025-11-05T16:03:06.025510Z",
       "updated": "2026-09-06T20:58:15.993291Z",
@@ -430,7 +513,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.8251449,
+      "rating": 0.8393616,
       "ratingCount": 4,
       "created": "2026-09-06T01:44:54.145962Z",
       "updated": "2026-09-06T01:44:54.145962Z",
@@ -456,7 +539,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87098867,
+      "rating": 0.8644881,
       "ratingCount": 20,
       "created": "2026-07-08T15:37:02.619991Z",
       "updated": "2026-09-05T15:49:54.840059Z",
@@ -483,7 +566,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.927437,
+      "rating": 0.9314963,
       "ratingCount": 36,
       "created": "2026-09-05T14:11:24.189740Z",
       "updated": "2026-09-05T14:11:24.189740Z",
@@ -509,7 +592,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81090474,
+      "rating": 0.7962938,
       "ratingCount": 9,
       "created": "2026-09-04T13:02:47.678631Z",
       "updated": "2026-09-04T13:02:47.678631Z",
@@ -590,7 +673,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.78082424,
+      "rating": 0.7955092,
       "ratingCount": 8,
       "created": "2026-08-31T05:14:48.307501Z",
       "updated": "2026-08-31T05:14:48.307501Z",
@@ -616,7 +699,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89014757,
+      "rating": 0.9018234,
       "ratingCount": 12,
       "created": "2026-08-31T05:14:22.856483Z",
       "updated": "2026-08-31T05:14:22.856483Z",
@@ -642,7 +725,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90082854,
+      "rating": 0.9052231,
       "ratingCount": 15,
       "created": "2026-08-31T05:14:15.144480Z",
       "updated": "2026-08-31T05:14:15.144480Z",
@@ -694,7 +777,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.894548,
+      "rating": 0.8970612,
       "ratingCount": 33,
       "created": "2026-08-31T05:13:31.970159Z",
       "updated": "2026-08-31T05:13:31.970159Z",
@@ -720,95 +803,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.926112,
+      "rating": 0.92719024,
       "ratingCount": 52,
       "created": "2026-08-31T05:13:23.329119Z",
       "updated": "2026-08-31T05:13:23.329119Z",
       "chartUpdated": "2026-08-31T05:13:23.329119Z"
-    },
-    {
-      "id": 76648,
-      "name": "Booby Trap",
-      "level": "4K Lv.31",
-      "difficulty": 10.0,
-      "charter": "十千秋子",
-      "composer": "Yooh",
-      "illustrator": "",
-      "description": "本人小号上传\nBPM:200",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/53150446-6ded-4c7c-8dda-0fa62313abbd",
-      "preview": "https://phira.5wyxi.com/files/a1387eef-e305-436d-8ecf-1eaab09ed99b",
-      "file": "https://phira.5wyxi.com/files/358dbfc0-c1f3-47fb-8b55-0f07a12c3461",
-      "uploader": 58238,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8996733,
-      "ratingCount": 14,
-      "created": "2026-08-30T15:41:37.197951Z",
-      "updated": "2026-08-30T15:41:37.197951Z",
-      "chartUpdated": "2026-08-30T15:41:37.197951Z"
-    },
-    {
-      "id": 76611,
-      "name": "THE MUZZLE FACING",
-      "level": "SSN 4K Lv.28",
-      "difficulty": 28.0,
-      "charter": "XXxx",
-      "composer": "かめりあ",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/82a2dadc-ee84-4712-ba6b-7792125b220e",
-      "preview": "https://phira.5wyxi.com/files/3fd2d742-65db-4b95-9dac-69654b0a1ecf",
-      "file": "https://phira.5wyxi.com/files/56d358f0-fad9-4395-b81e-1f61c878d63e",
-      "uploader": 1946577,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9188046,
-      "ratingCount": 35,
-      "created": "2026-08-30T13:32:05.541245Z",
-      "updated": "2026-08-30T13:32:05.541245Z",
-      "chartUpdated": "2026-08-30T13:32:05.541245Z"
-    },
-    {
-      "id": 76579,
-      "name": "きゅびびびびずむ",
-      "level": "Flow Lv.15",
-      "difficulty": 15.300001,
-      "charter": "HRS-Team",
-      "composer": "超てんちゃん/原口沙輔",
-      "illustrator": "",
-      "description": "HRS-Lv.15-Flow单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4e4ce50b-1025-4064-9ecf-e83a19c59832",
-      "preview": "https://phira.5wyxi.com/files/5e154e8e-6972-4032-a24b-197273e4c803",
-      "file": "https://phira.5wyxi.com/files/384e1f93-b7a1-43f6-8889-d83c0c006c69",
-      "uploader": 4032686,
-      "tags": [
-        "HRS",
-        "双指",
-        "谐律段位",
-        "Flow",
-        "幻",
-        "15",
-        "plain"
-      ],
-      "rating": 0.87545687,
-      "ratingCount": 10,
-      "created": "2026-08-30T10:42:17.119314Z",
-      "updated": "2026-08-30T10:42:17.119314Z",
-      "chartUpdated": "2026-08-30T10:42:17.119314Z"
     }
   ]
 }
