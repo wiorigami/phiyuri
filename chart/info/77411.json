@@ -13,14 +13,14 @@
   "name": "Elysium",
   "preview": "https://phira.5wyxi.com/files/0c79c7b3-7608-4253-b60d-e5390d8d9b39",
   "ranked": false,
-  "rating": 0.9372925,
-  "ratingCount": 210,
-  "reviewed": true,
+  "rating": 0.9395705,
+  "ratingCount": 308,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-06T17:12:57.468428Z",
+  "updated": "2026-09-11T02:41:51.960528Z",
   "uploader": 114653
 }

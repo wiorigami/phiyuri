@@ -13,14 +13,14 @@
   "name": "ACID_DROPPER",
   "preview": "https://phira.5wyxi.com/files/aa778eb8-d3ae-4cc7-aee5-1ade1e913647",
   "ranked": false,
-  "rating": 0.9534548,
-  "ratingCount": 17,
-  "reviewed": true,
+  "rating": 0.9506507,
+  "ratingCount": 21,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-09T04:41:23.449176Z",
+  "updated": "2026-09-10T14:36:59.544417Z",
   "uploader": 11
 }
