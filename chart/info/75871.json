@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-08-26T14:09:53.737236Z",
+  "charter": "Wassupt",
+  "composer": "USAO",
+  "created": "2026-08-26T14:09:53.737236Z",
+  "description": null,
+  "difficulty": 15.100002,
+  "file": "https://phira.5wyxi.com/files/05d9ed48-063f-4335-ba97-ccca6d2567f0",
+  "id": 75871,
+  "illustration": "https://phira.5wyxi.com/files/1a556665-979c-428e-a759-827bc216ce3b",
+  "illustrator": "",
+  "level": "IN",
+  "name": "Knight Rider",
+  "preview": "https://phira.5wyxi.com/files/689cdc35-047b-4ba5-9c54-d4c0b7322d24",
+  "ranked": false,
+  "rating": 0.89814997,
+  "ratingCount": 83,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-11T13:14:29.471385Z",
+  "uploader": 5903
+}
