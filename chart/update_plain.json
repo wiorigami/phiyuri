@@ -1,6 +1,59 @@
 {
-  "count": 3313,
+  "count": 3312,
   "results": [
+    {
+      "id": 77660,
+      "name": "孤独月",
+      "level": "4K MAX Lv.23",
+      "difficulty": 23.0,
+      "charter": "YMEA vs. 21394",
+      "composer": "幽閉サテライト",
+      "illustrator": "",
+      "description": "和@21394#158949 的合作谱\n一人写的一半，修改了一些段落，后面忘了\nDY YMEA\nB站 洋漫YMEA",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5d874825-816e-45dc-807d-aa5dd02c474f",
+      "preview": "https://phira.5wyxi.com/files/9c4516f0-4aa8-486a-85ec-746624b51ce1",
+      "file": "https://phira.5wyxi.com/files/bdb38b5b-7622-4276-9b75-5c85a2c62ea2",
+      "uploader": 4081817,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.88270766,
+      "ratingCount": 0,
+      "created": "2026-09-10T14:48:42.381579Z",
+      "updated": "2026-09-11T16:06:18.504476647Z",
+      "chartUpdated": "2026-09-10T14:48:42.381579Z"
+    },
+    {
+      "id": 77739,
+      "name": "DFC RW Extra Dan",
+      "level": "滚木 Lv.15",
+      "difficulty": 15.0,
+      "charter": "Jiuwenzi",
+      "composer": "V.A.",
+      "illustrator": "",
+      "description": "本谱面为RW音游战队DFC侧精英\n考核谱面\n难度：ε-\n过段acc:97.66%\n过段悬赏：7.8r\n审群：1105248898\n@Jiuwenzi#1997470（配置）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2a1e6e58-1e74-4475-8186-42e3a9e26ce1",
+      "preview": "https://phira.5wyxi.com/files/22420d0d-79d7-44fe-924d-e307d33231c1",
+      "file": "https://phira.5wyxi.com/files/7df9db01-8f20-4c90-a556-76a525328156",
+      "uploader": 1153977,
+      "tags": [
+        "DFC",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-09-11T11:55:32.748141Z",
+      "updated": "2026-09-11T13:14:46.200638993Z",
+      "chartUpdated": "2026-09-11T11:55:32.748141Z"
+    },
     {
       "id": 72244,
       "name": "GOODWORLD",
@@ -21,7 +74,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91283345,
+      "rating": 0.9151852,
       "ratingCount": 514,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-09-10T14:18:27.669426Z",
@@ -52,7 +105,7 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.79426795,
+      "rating": 0.8318756,
       "ratingCount": 0,
       "created": "2026-09-10T10:04:27.007149Z",
       "updated": "2026-09-10T12:13:07.944736639Z",
@@ -78,7 +131,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8083,
+      "rating": 0.844431,
       "ratingCount": 2,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
@@ -104,7 +157,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.63358074,
+      "rating": 0.66988,
       "ratingCount": 0,
       "created": "2025-11-08T14:27:31.337062Z",
       "updated": "2026-09-10T01:47:36.277264395Z",
@@ -132,7 +185,7 @@
         "stream",
         "plain"
       ],
-      "rating": 0.9246941,
+      "rating": 0.9370484,
       "ratingCount": 0,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358690Z",
@@ -158,7 +211,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.8257282,
       "ratingCount": 0,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001970Z",
@@ -184,7 +237,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.875008,
+      "rating": 0.85982674,
       "ratingCount": 0,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741477Z",
@@ -213,7 +266,7 @@
         "DMF",
         "plain"
       ],
-      "rating": 0.8478305,
+      "rating": 0.86019063,
       "ratingCount": 0,
       "created": "2025-11-21T07:15:49.039035Z",
       "updated": "2026-09-07T09:31:06.823182748Z",
@@ -241,7 +294,7 @@
         "shaders",
         "plain"
       ],
-      "rating": 0.8184313,
+      "rating": 0.8042582,
       "ratingCount": 0,
       "created": "2025-11-04T17:57:15.373976Z",
       "updated": "2026-09-07T09:21:58.479463488Z",
@@ -268,7 +321,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8176738,
+      "rating": 0.81735086,
       "ratingCount": 0,
       "created": "2025-11-04T03:55:19.556131Z",
       "updated": "2026-09-07T03:37:10.360839Z",
@@ -328,7 +381,7 @@
         "3121",
         "plain"
       ],
-      "rating": 0.77977467,
+      "rating": 0.7964851,
       "ratingCount": 2,
       "created": "2025-11-07T14:40:46.992198Z",
       "updated": "2026-09-06T20:59:59.182996Z",
@@ -354,7 +407,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8895417,
+      "rating": 0.8960045,
       "ratingCount": 0,
       "created": "2025-08-30T23:53:28.421665Z",
       "updated": "2026-09-06T20:59:25.024317Z",
@@ -380,7 +433,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88597673,
+      "rating": 0.9235682,
       "ratingCount": 2,
       "created": "2025-11-10T14:32:51.140195Z",
       "updated": "2026-09-06T20:59:13.137682Z",
@@ -406,7 +459,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8612475,
+      "rating": 0.8798927,
       "ratingCount": 3,
       "created": "2025-11-08T08:49:10.405844Z",
       "updated": "2026-09-06T20:59:01.829788Z",
@@ -432,7 +485,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8435726,
+      "rating": 0.8467092,
       "ratingCount": 62,
       "created": "2024-07-15T15:37:28.608297Z",
       "updated": "2026-09-06T20:58:41.854161Z",
@@ -486,7 +539,7 @@
         "这是个标签",
         "plain"
       ],
-      "rating": 0.81567323,
+      "rating": 0.8156982,
       "ratingCount": 0,
       "created": "2025-11-05T16:03:06.025510Z",
       "updated": "2026-09-06T20:58:15.993291Z",
@@ -520,32 +573,6 @@
       "chartUpdated": "2026-09-06T01:44:54.145962Z"
     },
     {
-      "id": 65049,
-      "name": "19ZZ",
-      "level": "MYSTERY Lv.19",
-      "difficulty": 20.0,
-      "charter": "fminusone",
-      "composer": "Frums（unknown “λ”）",
-      "illustrator": "",
-      "description": "可以0.25倍速听听。\n我也想知道采音哪里不行",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/db6bcded-b16d-4cf3-bc60-707fa5bd9ace",
-      "preview": "https://phira.5wyxi.com/files/301eae71-31cf-4049-9c6d-69ab0ec9f7b2",
-      "file": "https://phira.5wyxi.com/files/46b390b4-bd41-4c59-aea0-5019592b1232",
-      "uploader": 174984,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8644881,
-      "ratingCount": 20,
-      "created": "2026-07-08T15:37:02.619991Z",
-      "updated": "2026-09-05T15:49:54.840059Z",
-      "chartUpdated": "2026-07-08T15:37:02.619991Z"
-    },
-    {
       "id": 77189,
       "name": "Calamity Fortune",
       "level": "4k Lv.24",
@@ -566,7 +593,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9314963,
+      "rating": 0.9308059,
       "ratingCount": 36,
       "created": "2026-09-05T14:11:24.189740Z",
       "updated": "2026-09-05T14:11:24.189740Z",
@@ -725,7 +752,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9052231,
+      "rating": 0.9092535,
       "ratingCount": 15,
       "created": "2026-08-31T05:14:15.144480Z",
       "updated": "2026-08-31T05:14:15.144480Z",
@@ -751,7 +778,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93625945,
+      "rating": 0.93245447,
       "ratingCount": 22,
       "created": "2026-08-31T05:14:06.457482Z",
       "updated": "2026-08-31T05:14:06.457482Z",
@@ -777,37 +804,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8970612,
+      "rating": 0.90174675,
       "ratingCount": 33,
       "created": "2026-08-31T05:13:31.970159Z",
       "updated": "2026-08-31T05:13:31.970159Z",
       "chartUpdated": "2026-08-31T05:13:31.970159Z"
-    },
-    {
-      "id": 76701,
-      "name": "Smog 0 Dan",
-      "level": "Lv.start",
-      "difficulty": 20.0,
-      "charter": "NoSmoking",
-      "composer": "V.A.",
-      "illustrator": "",
-      "description": "Smog 0 Dan (Start Dan)\n\n本段位基础赏金：1元\n\nJack : Heart 111\nTechnique : Emulisy\nStream : 物凄い狂っとるフランちゃんが物凄いうた\n\n标准通过≥97.0acc  倍率x1\n高准通过≥99.2acc  倍率x4\n取得Full Combo      倍率x7\n取得All Perfect        倍率x13\n\n最终赏金：基础赏金×倍率×位次倍率\n\n⚠️段位认定细则 B站 cv52735697 请务必查看\n\n完整单曲包 QQ群：674638950\n悬赏领取联系 即时比份 QQ：1822418647",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2ad81b49-6282-4901-960d-89415071aded",
-      "preview": "https://phira.5wyxi.com/files/30ee42fa-3a93-48a9-a6d3-238b97c93fda",
-      "file": "https://phira.5wyxi.com/files/63672d8c-c899-4b06-81d8-2e498d11ff9e",
-      "uploader": 3405853,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.92719024,
-      "ratingCount": 52,
-      "created": "2026-08-31T05:13:23.329119Z",
-      "updated": "2026-08-31T05:13:23.329119Z",
-      "chartUpdated": "2026-08-31T05:13:23.329119Z"
     }
   ]
 }
