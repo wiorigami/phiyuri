@@ -1,5 +1,5 @@
 {
-  "count": 659,
+  "count": 658,
   "results": [
     {
       "id": 76134,
@@ -27,7 +27,7 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.71140504,
+      "rating": 0.7113815,
       "ratingCount": 1608,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
@@ -57,7 +57,7 @@
         "创",
         "troll"
       ],
-      "rating": 0.6255239,
+      "rating": 0.61432815,
       "ratingCount": 120,
       "created": "2025-02-28T10:34:40.050194Z",
       "updated": "2026-08-26T14:40:36.997076Z",
@@ -83,7 +83,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9073167,
+      "rating": 0.89974004,
       "ratingCount": 23,
       "created": "2026-08-23T06:57:24.807378Z",
       "updated": "2026-08-23T06:57:24.807378Z",
@@ -109,7 +109,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.80476844,
+      "rating": 0.8104106,
       "ratingCount": 62,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
@@ -135,7 +135,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8796222,
+      "rating": 0.88156295,
       "ratingCount": 122,
       "created": "2026-02-06T13:44:54.628931Z",
       "updated": "2026-08-04T00:15:48.654502Z",
@@ -163,7 +163,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9766958,
+      "rating": 0.9773352,
       "ratingCount": 101,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
@@ -189,7 +189,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.88894504,
+      "rating": 0.8891308,
       "ratingCount": 8841,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -215,37 +215,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.95078224,
+      "rating": 0.95072263,
       "ratingCount": 12275,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
-    },
-    {
-      "id": 64040,
-      "name": "我在Phira里中考",
-      "level": "SP Lv.中考",
-      "difficulty": 14.3,
-      "charter": "鹅神",
-      "composer": "江西省教育考试院",
-      "illustrator": "",
-      "description": "B站 鹅神_GOOSEGOD\n本人还没中考,但是想出个谱折磨这届江西考生",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/10d2093c-e0eb-498f-bf50-83f9623209db",
-      "preview": "https://phira.5wyxi.com/files/81b05052-56c1-47cc-a710-a8f0a47f48ef",
-      "file": "https://phira.5wyxi.com/files/374de9dd-8611-4579-a23c-8c2603e16672",
-      "uploader": 2093292,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.89036137,
-      "ratingCount": 283,
-      "created": "2026-07-04T12:55:00.117032Z",
-      "updated": "2026-07-04T12:55:00.117032Z",
-      "chartUpdated": "2026-07-04T12:55:00.117032Z"
     },
     {
       "id": 63919,
@@ -268,7 +242,7 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.8868017,
+      "rating": 0.8867966,
       "ratingCount": 100642,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
@@ -294,7 +268,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8343205,
+      "rating": 0.8343722,
       "ratingCount": 3349,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -320,7 +294,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.77029383,
+      "rating": 0.7702734,
       "ratingCount": 16003,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -346,7 +320,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8743019,
+      "rating": 0.8742891,
       "ratingCount": 9921,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -372,7 +346,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85583705,
+      "rating": 0.8558734,
       "ratingCount": 95,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
@@ -426,7 +400,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8065091,
+      "rating": 0.8066441,
       "ratingCount": 6484,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -506,7 +480,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.85669553,
+      "rating": 0.8711838,
       "ratingCount": 0,
       "created": "2026-04-28T10:59:02.139326Z",
       "updated": "2026-05-26T13:36:07.642452Z",
@@ -532,7 +506,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8116568,
+      "rating": 0.8114603,
       "ratingCount": 1826,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -558,7 +532,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8964809,
+      "rating": 0.89694214,
       "ratingCount": 3771,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -585,7 +559,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9198998,
+      "rating": 0.9199845,
       "ratingCount": 1697,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -637,7 +611,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7538446,
+      "rating": 0.7550342,
       "ratingCount": 747,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -663,7 +637,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81538695,
+      "rating": 0.8155041,
       "ratingCount": 1582,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -689,7 +663,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.90664655,
+      "rating": 0.90692085,
       "ratingCount": 315,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
@@ -715,7 +689,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9401656,
+      "rating": 0.94048434,
       "ratingCount": 4498,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -741,7 +715,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.71092033,
+      "rating": 0.7095348,
       "ratingCount": 599,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -798,6 +772,32 @@
       "created": "2026-04-06T10:27:15.869511Z",
       "updated": "2026-04-18T16:41:21.792059Z",
       "chartUpdated": "2026-04-06T10:27:15.869511Z"
+    },
+    {
+      "id": 56541,
+      "name": "玲玲女生小姐姐",
+      "level": "SP Lv.玲玲",
+      "difficulty": 10.0,
+      "charter": "SENJIU/YULAN",
+      "composer": "玲玲",
+      "illustrator": "",
+      "description": "谱师本人上传\n音频提供者好龟龟c纤\n后期@元梦之星于岚#27683（作谱协助）\n我是个女孩子打低分就是欺负我一个女的",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/49c2332f-ae79-4d36-8960-45295e8781bb",
+      "preview": "https://phira.5wyxi.com/files/f1d5c715-435b-4c63-8f91-250b35e1bfa3",
+      "file": "https://phira.5wyxi.com/files/bc69ca3d-6406-4fad-af18-ef8218a1fb97",
+      "uploader": 934758,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.8299404,
+      "ratingCount": 255,
+      "created": "2026-04-18T03:36:17.744941Z",
+      "updated": "2026-04-18T03:36:17.744941Z",
+      "chartUpdated": "2026-04-18T03:36:17.744941Z"
     }
   ]
 }
