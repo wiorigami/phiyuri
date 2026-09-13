@@ -13,14 +13,14 @@
   "name": "MARENOIA",
   "preview": "https://phira.5wyxi.com/files/2a6ec858-ce60-42d1-a18d-f334303c93cf",
   "ranked": false,
-  "rating": 0.9121497,
-  "ratingCount": 48,
-  "reviewed": true,
+  "rating": 0.89938277,
+  "ratingCount": 89,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-11T11:32:55.277368Z",
+  "updated": "2026-09-12T03:22:12.156462Z",
   "uploader": 202
 }
