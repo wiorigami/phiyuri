@@ -1,5 +1,5 @@
 {
-  "count": 169,
+  "count": 168,
   "results": [
     {
       "id": 53777,
@@ -23,38 +23,11 @@
         "双指",
         "visual"
       ],
-      "rating": 0.86330307,
+      "rating": 0.86445737,
       "ratingCount": 27,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-09-08T13:53:41.517228Z",
       "chartUpdated": "2026-03-03T06:49:21.192811Z"
-    },
-    {
-      "id": 77399,
-      "name": "gur yvsr(仮)",
-      "level": "■■ Lv.0",
-      "difficulty": 0.0,
-      "charter": "Lage",
-      "composer": "Frums",
-      "illustrator": "",
-      "description": "——————————\nGUR\n     YVSR\n——————————\nTHE\n     LIFE\n——————————\n         本人上传\n         半观赏谱\n         b站：Lageee\n         抖音：Lage\n——————————\n        ░※☀♥➡♡\n        ❾❸❺❹❷❿\n——————————",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3d91034d-93b0-4b7f-bed8-4b2e8080bc03",
-      "preview": "https://phira.5wyxi.com/files/de6a11e0-9b96-4625-88ec-931b98a4106f",
-      "file": "https://phira.5wyxi.com/files/0c1981cb-0483-45a7-9435-340c32b79699",
-      "uploader": 2013414,
-      "tags": [
-        "故事版",
-        "visual"
-      ],
-      "rating": 0.86019063,
-      "ratingCount": 5,
-      "created": "2026-09-06T14:08:49.175350Z",
-      "updated": "2026-09-06T14:08:49.175350Z",
-      "chartUpdated": "2026-09-06T14:08:49.175350Z"
     },
     {
       "id": 71070,
@@ -76,7 +49,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81173587,
+      "rating": 0.8089038,
       "ratingCount": 55,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
@@ -102,7 +75,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.91911155,
+      "rating": 0.9190809,
       "ratingCount": 86051,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -128,7 +101,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9354669,
+      "rating": 0.9322155,
       "ratingCount": 106,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
@@ -180,7 +153,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.86574084,
+      "rating": 0.8284586,
       "ratingCount": 5,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-05-01T09:24:26.797157Z",
@@ -206,7 +179,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7963532,
+      "rating": 0.7936601,
       "ratingCount": 181,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
@@ -258,7 +231,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8103966,
+      "rating": 0.8097967,
       "ratingCount": 415,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -284,7 +257,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87900853,
+      "rating": 0.8796508,
       "ratingCount": 938,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-03-28T08:54:01.211247Z",
@@ -310,7 +283,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8668517,
+      "rating": 0.8647974,
       "ratingCount": 163,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
@@ -336,7 +309,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.85938597,
+      "rating": 0.86148775,
       "ratingCount": 63,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
@@ -394,7 +367,7 @@
         "粪谱",
         "visual"
       ],
-      "rating": 0.7398136,
+      "rating": 0.75386804,
       "ratingCount": 0,
       "created": "2026-01-22T13:44:38.378019Z",
       "updated": "2026-02-13T10:32:42.217274Z",
@@ -420,7 +393,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8153695,
+      "rating": 0.81606674,
       "ratingCount": 507,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -448,7 +421,7 @@
         "创意",
         "visual"
       ],
-      "rating": 0.91333544,
+      "rating": 0.9139767,
       "ratingCount": 132,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-13T04:24:12.574293Z",
@@ -533,7 +506,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.6842482,
+      "rating": 0.6838359,
       "ratingCount": 891,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -618,7 +591,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8266364,
+      "rating": 0.82795244,
       "ratingCount": 130,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
@@ -644,7 +617,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81118727,
+      "rating": 0.8122271,
       "ratingCount": 181,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -697,7 +670,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.94874156,
+      "rating": 0.94893205,
       "ratingCount": 552,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -723,7 +696,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.72752553,
+      "rating": 0.72867095,
       "ratingCount": 479,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -749,7 +722,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.88982004,
+      "rating": 0.8901328,
       "ratingCount": 348,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
@@ -806,6 +779,32 @@
       "created": "2025-11-23T06:03:03.672667Z",
       "updated": "2025-11-23T06:03:03.672667Z",
       "chartUpdated": "2025-11-23T06:03:03.672667Z"
+    },
+    {
+      "id": 49215,
+      "name": "CX-ronos",
+      "level": "AT Lv.18",
+      "difficulty": 18.2,
+      "charter": "NG-ronos",
+      "composer": "CS4W",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4744f66e-1e4f-4894-90df-0ebceb64a497",
+      "preview": "https://phira.5wyxi.com/files/fb36cf79-7fd9-42c6-8eae-a8d4586f09d1",
+      "file": "https://phira.5wyxi.com/files/13f9870f-8fb9-4574-abeb-b1fd50505b38",
+      "uploader": 1026384,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.93754566,
+      "ratingCount": 155,
+      "created": "2025-11-16T11:01:11.506983Z",
+      "updated": "2025-11-16T11:01:11.506983Z",
+      "chartUpdated": "2025-11-16T11:01:11.506983Z"
     }
   ]
 }
