@@ -13,14 +13,14 @@
   "name": "BPM",
   "preview": "https://phira.5wyxi.com/files/8673af40-0e16-4194-8d15-22d2239099fd",
   "ranked": false,
-  "rating": 0.8809359,
-  "ratingCount": 66,
-  "reviewed": true,
+  "rating": 0.93372893,
+  "ratingCount": 119,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
-  "updated": "2026-09-09T14:31:15.537674Z",
+  "updated": "2026-09-13T04:15:20.826357Z",
   "uploader": 43
 }

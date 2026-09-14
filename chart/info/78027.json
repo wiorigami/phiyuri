@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-09-13T07:47:47.843997Z",
+  "charter": "Pigeon Heaven",
+  "composer": "かめりあ",
+  "created": "2026-09-13T07:47:47.843997Z",
+  "description": null,
+  "difficulty": 16.300001,
+  "file": "https://phira.5wyxi.com/files/1f9509cf-eb45-47ce-8d18-18a252577bd5",
+  "id": 78027,
+  "illustration": "https://phira.5wyxi.com/files/9142a0e1-27ac-4019-a10b-b8dba4032ff3",
+  "illustrator": "",
+  "level": "IN Lv.16",
+  "name": "Gray Heaven",
+  "preview": "https://phira.5wyxi.com/files/80cff66b-1dc9-428a-ab14-1414e258a996",
+  "ranked": false,
+  "rating": 0.9164518,
+  "ratingCount": 121,
+  "reviewed": false,
+  "stable": false,
+  "stableRequest": true,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-09-13T08:13:25.097049Z",
+  "uploader": 658108
+}
