@@ -1,5 +1,5 @@
 {
-  "count": 658,
+  "count": 657,
   "results": [
     {
       "id": 76134,
@@ -27,41 +27,11 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.7117687,
-      "ratingCount": 1841,
+      "rating": 0.71175843,
+      "ratingCount": 1844,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
       "chartUpdated": "2026-08-28T03:56:40.337710Z"
-    },
-    {
-      "id": 34564,
-      "name": "GOODTEK",
-      "level": "4K Lv.0419",
-      "difficulty": 12.000001,
-      "charter": "EIYOMAYA",
-      "composer": "EBIMAYO",
-      "illustrator": "",
-      "description": "判定线不动，最多12      未在任何视频平台发布相关视频，谱面为本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/90848991-b98f-4883-9f9f-ecd4a0cafac6",
-      "preview": "https://phira.5wyxi.com/files/fa1adc79-e5a4-44f9-94be-c242d7a8e67a",
-      "file": "https://phira.5wyxi.com/files/9b00d843-a025-4c31-93f3-f3a67edb1b4c",
-      "uploader": 59168,
-      "tags": [
-        "变速",
-        "4k",
-        "纯配置",
-        "创",
-        "troll"
-      ],
-      "rating": 0.62015635,
-      "ratingCount": 135,
-      "created": "2025-02-28T10:34:40.050194Z",
-      "updated": "2026-08-26T14:40:36.997076Z",
-      "chartUpdated": "2025-02-28T10:34:40.050194Z"
     },
     {
       "id": 75183,
@@ -116,32 +86,6 @@
       "chartUpdated": "2026-08-20T06:03:15.738981Z"
     },
     {
-      "id": 52177,
-      "name": "もペもペ",
-      "level": "MOPE LV.？",
-      "difficulty": 20.0,
-      "charter": "草，一种植物",
-      "composer": "LeaF",
-      "illustrator": "",
-      "description": "谱师本人上传，谱面确认BV1WDfXBKEJd",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2c18c951-0609-41cd-ada3-1bd20327dd2d",
-      "preview": "https://phira.5wyxi.com/files/182c6687-7e13-4a98-b6f2-fa8ea521cbc0",
-      "file": "https://phira.5wyxi.com/files/ecb97a35-b077-4b21-8652-026d9715e883",
-      "uploader": 1522144,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8829132,
-      "ratingCount": 207,
-      "created": "2026-02-06T13:44:54.628931Z",
-      "updated": "2026-08-04T00:15:48.654502Z",
-      "chartUpdated": "2026-02-06T13:44:54.628931Z"
-    },
-    {
       "id": 70013,
       "name": "Miracle Defibrillator",
       "level": "RD 7-X",
@@ -189,8 +133,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8890368,
-      "ratingCount": 8917,
+      "rating": 0.88898915,
+      "ratingCount": 8922,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
       "chartUpdated": "2026-07-21T19:16:55.670015Z"
@@ -215,8 +159,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9506995,
-      "ratingCount": 12366,
+      "rating": 0.950628,
+      "ratingCount": 12377,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
@@ -242,8 +186,8 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.88681084,
-      "ratingCount": 101175,
+      "rating": 0.88683355,
+      "ratingCount": 101214,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
       "chartUpdated": "2026-07-04T06:16:16.788212Z"
@@ -268,8 +212,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8343746,
-      "ratingCount": 3434,
+      "rating": 0.83410496,
+      "ratingCount": 3438,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
       "chartUpdated": "2026-06-30T15:24:12.913392Z"
@@ -294,8 +238,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7703712,
-      "ratingCount": 16082,
+      "rating": 0.77036214,
+      "ratingCount": 16089,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -320,8 +264,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.87430537,
-      "ratingCount": 9963,
+      "rating": 0.87423944,
+      "ratingCount": 9964,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
       "chartUpdated": "2026-06-24T05:20:29.857028Z"
@@ -353,34 +297,6 @@
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
     },
     {
-      "id": 52247,
-      "name": "Dreams Don't Stop",
-      "level": "RE:RD 5-X",
-      "difficulty": 7.999993,
-      "charter": "DiAMONDGAMER",
-      "composer": "fizzd feat. Mardy Leith",
-      "illustrator": "",
-      "description": "谱面为《节奏医生》5-X的还原向谱面，请先了解：\n二拍\n跳过二拍\n细分二拍\n冰冻拍子\n\nB站同名\n\n\n（简介本来有很多东西，但是Phira的词汇检测...）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3e6460ee-554f-4565-9e95-e2c68ab1dc9a",
-      "preview": "https://phira.5wyxi.com/files/2c3a3be6-8b6d-4d6b-b152-3f0ee45171ee",
-      "file": "https://phira.5wyxi.com/files/5d61a3a0-e93f-4855-abfe-63be293a9084",
-      "uploader": 2067,
-      "tags": [
-        "节奏医生",
-        "还原",
-        "troll"
-      ],
-      "rating": 0.96403915,
-      "ratingCount": 279,
-      "created": "2026-02-07T14:56:35.625544Z",
-      "updated": "2026-06-20T09:57:05.485341Z",
-      "chartUpdated": "2026-02-07T14:56:35.625544Z"
-    },
-    {
       "id": 60473,
       "name": "Six Seven",
       "level": "AT Lv.67",
@@ -400,8 +316,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.806924,
-      "ratingCount": 6546,
+      "rating": 0.80698335,
+      "ratingCount": 6548,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -461,32 +377,6 @@
       "chartUpdated": "2026-06-03T17:52:18.327223Z"
     },
     {
-      "id": 57271,
-      "name": "RENDA JOCEKY",
-      "level": "SP",
-      "difficulty": 16.399998,
-      "charter": "崩坏破碎之境",
-      "composer": "ルゼ",
-      "illustrator": "",
-      "description": "本人上传，一个迟到的愚人节谱面（虽然迟到好久了😭）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9de61e9a-ee26-44d0-a255-8255ab01a7eb",
-      "preview": "https://phira.5wyxi.com/files/dac64730-4730-454f-9451-ede664dbe0e5",
-      "file": "https://phira.5wyxi.com/files/65f2d4d7-9283-4940-808b-47dd1af38ecc",
-      "uploader": 10562,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8711838,
-      "ratingCount": 15,
-      "created": "2026-04-28T10:59:02.139326Z",
-      "updated": "2026-05-26T13:36:07.642452Z",
-      "chartUpdated": "2026-04-28T10:59:02.139326Z"
-    },
-    {
       "id": 58838,
       "name": "SOFA AWAY",
       "level": "SOFA Lv. AWAY",
@@ -506,8 +396,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8118593,
-      "ratingCount": 1867,
+      "rating": 0.8122651,
+      "ratingCount": 1871,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
       "chartUpdated": "2026-05-22T15:09:41.771882Z"
@@ -532,8 +422,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8971428,
-      "ratingCount": 3877,
+      "rating": 0.8972519,
+      "ratingCount": 3884,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -559,8 +449,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9198058,
-      "ratingCount": 1748,
+      "rating": 0.9189464,
+      "ratingCount": 1751,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -689,8 +579,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94038814,
-      "ratingCount": 4656,
+      "rating": 0.94049,
+      "ratingCount": 4670,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -715,11 +605,37 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7087478,
-      "ratingCount": 608,
+      "rating": 0.7092345,
+      "ratingCount": 609,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
+    },
+    {
+      "id": 57271,
+      "name": "RENDA JOCEKY",
+      "level": "SP",
+      "difficulty": 16.399998,
+      "charter": "崩坏破碎之境",
+      "composer": "ルゼ",
+      "illustrator": "",
+      "description": "本人上传，一个迟到的愚人节谱面（虽然迟到好久了😭）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9de61e9a-ee26-44d0-a255-8255ab01a7eb",
+      "preview": "https://phira.5wyxi.com/files/dac64730-4730-454f-9451-ede664dbe0e5",
+      "file": "https://phira.5wyxi.com/files/65f2d4d7-9283-4940-808b-47dd1af38ecc",
+      "uploader": 10562,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.8711838,
+      "ratingCount": 15,
+      "created": "2026-04-28T10:59:02.139326Z",
+      "updated": "2026-04-28T10:59:02.139326Z",
+      "chartUpdated": "2026-04-28T10:59:02.139326Z"
     },
     {
       "id": 56845,
@@ -741,37 +657,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75330055,
-      "ratingCount": 166,
+      "rating": 0.7530002,
+      "ratingCount": 167,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
       "chartUpdated": "2026-04-20T11:21:03.671434Z"
-    },
-    {
-      "id": 55191,
-      "name": "AYO WTF？！",
-      "level": "SP Lv.?",
-      "difficulty": 10.0,
-      "charter": "WTF Naughty？！",
-      "composer": "Supa7onyz",
-      "illustrator": "",
-      "description": "恶趣味十足\n\n预览BV1mJDFBTEVX",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/bcdb2186-decf-4661-b99b-86058f0165ac",
-      "preview": "https://phira.5wyxi.com/files/b5e44a02-d606-4eb9-8a91-7c572d1c5e58",
-      "file": "https://phira.5wyxi.com/files/048d6e02-06ef-4b79-9e14-10cb56f961a6",
-      "uploader": 2015676,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8557328,
-      "ratingCount": 146,
-      "created": "2026-04-06T10:27:15.869511Z",
-      "updated": "2026-04-18T16:41:21.792059Z",
-      "chartUpdated": "2026-04-06T10:27:15.869511Z"
     },
     {
       "id": 56541,
@@ -798,6 +688,116 @@
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
       "chartUpdated": "2026-04-18T03:36:17.744941Z"
+    },
+    {
+      "id": 48260,
+      "name": "哈基米：Class Memories",
+      "level": "AT Lv.16",
+      "difficulty": 16.900002,
+      "charter": "funny_M3",
+      "composer": "hp-1001010",
+      "illustrator": "",
+      "description": "本人上传，此谱难度较大，推分请量力而行。\n@Cloudli_efe#81(配音)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/07bc1f14-b5af-4e69-8e3e-a474d1ab5afa",
+      "preview": "https://phira.5wyxi.com/files/f3e0cf57-1a06-4bed-ac97-c05169a38260",
+      "file": "https://phira.5wyxi.com/files/6998e21e-2eb2-4711-81f9-376e445d230c",
+      "uploader": 1663313,
+      "tags": [
+        "音MAD",
+        "哈基米",
+        "troll"
+      ],
+      "rating": 0.88116384,
+      "ratingCount": 856,
+      "created": "2025-10-20T16:14:09.063526Z",
+      "updated": "2026-04-11T16:17:35.932393Z",
+      "chartUpdated": "2025-10-20T16:14:09.063526Z"
+    },
+    {
+      "id": 56014,
+      "name": "Bitter Times",
+      "level": "RD 2-XN",
+      "difficulty": 8.2999935,
+      "charter": "DiAMONDGAMER",
+      "composer": "Celesti Whispers & Patricia_Taxxon",
+      "illustrator": "",
+      "description": "@DiAMONDGAMER#2067（曲绘制作）\n@DiAMOND_GR#841834（谱面制作）\n（？）\n\n这是一张《节奏医生》还原向谱面，区别于常规谱面。\n我们建议您先了解：\n1.不规则二拍\n2.跳过二拍\n\n（B站：@DiAMONDGAMER）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b5eb703e-2dd2-498d-8b50-6128d580d95e",
+      "preview": "https://phira.5wyxi.com/files/55042119-0837-4ac8-83d4-417105ad31b8",
+      "file": "https://phira.5wyxi.com/files/f4043c3e-7b60-42ba-b638-3e115a8f23f8",
+      "uploader": 841834,
+      "tags": [
+        "节奏医生",
+        "还原",
+        "troll"
+      ],
+      "rating": 0.95682657,
+      "ratingCount": 101,
+      "created": "2026-04-11T12:30:15.846877Z",
+      "updated": "2026-04-11T12:30:15.846877Z",
+      "chartUpdated": "2026-04-11T12:30:15.846877Z"
+    },
+    {
+      "id": 55933,
+      "name": "Wavetapper",
+      "level": "?? Lv.???",
+      "difficulty": 16.2,
+      "charter": "平方秒和立方吨",
+      "composer": "Frums",
+      "illustrator": "",
+      "description": "构思4小时，写谱4小时，速写的愚人节谱，祝大家玩的开心ww",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7566d85c-9bdc-4b32-9ff2-9a22a59f8823",
+      "preview": "https://phira.5wyxi.com/files/347111a1-bfa7-4ebe-a7f4-9809ba79f1d5",
+      "file": "https://phira.5wyxi.com/files/481b86eb-8087-4432-bbb1-043fe935044f",
+      "uploader": 257272,
+      "tags": [
+        "故事板",
+        "脑裂",
+        "troll"
+      ],
+      "rating": 0.926058,
+      "ratingCount": 1209,
+      "created": "2026-04-11T05:52:35.527904Z",
+      "updated": "2026-04-11T05:52:35.527904Z",
+      "chartUpdated": "2026-04-11T05:52:35.527904Z"
+    },
+    {
+      "id": 55903,
+      "name": "You're Beautiful (Groan Tube Ver)",
+      "level": "ou oue uee Lv.67",
+      "difficulty": 67.0,
+      "charter": "Iam123",
+      "composer": "Justin J. More",
+      "illustrator": "",
+      "description": "本人上传，b站@_Iam123_，请勿盗传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8ce12a96-537e-453c-8b84-4e50b2b0f5b8",
+      "preview": "https://phira.5wyxi.com/files/c462dfa1-cd20-45e1-a30c-6639cd6e626c",
+      "file": "https://phira.5wyxi.com/files/6fcfd5b5-f29a-411f-991c-555bd6599353",
+      "uploader": 161832,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.8929766,
+      "ratingCount": 2470,
+      "created": "2026-04-11T02:47:02.705037Z",
+      "updated": "2026-04-11T02:47:02.705037Z",
+      "chartUpdated": "2026-04-11T02:47:02.705037Z"
     }
   ]
 }
