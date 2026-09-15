@@ -1,6 +1,192 @@
 {
-  "count": 3315,
+  "count": 3320,
   "results": [
+    {
+      "id": 37892,
+      "name": "Angelic layer",
+      "level": "Simple Lv.12",
+      "difficulty": 12.500001,
+      "charter": "miantic layer",
+      "composer": "SHIKI",
+      "illustrator": "",
+      "description": "本人上传 2025/12/17进行谱面重置",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f81ec51f-8b0d-4486-a4a5-1ba5a15b7c48",
+      "preview": "https://phira.5wyxi.com/files/96bb2519-92da-463f-9721-84cc990d2e6b",
+      "file": "https://phira.5wyxi.com/files/1380781b-d3b7-4917-a624-a7f431f6ed9d",
+      "uploader": 30929,
+      "tags": [
+        "DFC",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.83321184,
+      "ratingCount": 5,
+      "created": "2025-05-10T09:20:50.555344Z",
+      "updated": "2026-09-14T13:36:51.139700591Z",
+      "chartUpdated": "2026-09-14T13:36:51.139700591Z"
+    },
+    {
+      "id": 50152,
+      "name": "SAN値直葬",
+      "level": "DFC Lv.技(原Lv.16)",
+      "difficulty": 16.300001,
+      "charter": "風鈴 vs. 霓影   -AmA已葬-",
+      "composer": "STEAKA",
+      "illustrator": "",
+      "description": "本来是想写点特效的，结果发现导入不了制谱器，当dfc发了。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c284c374-e508-4034-8130-1aafb19a6428",
+      "preview": "https://phira.5wyxi.com/files/3b1d60ed-9687-4d70-8e3a-6eef59c44bc8",
+      "file": "https://phira.5wyxi.com/files/464a5b00-46ef-4d3d-9323-985da38b61b0",
+      "uploader": 153302,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.79426795,
+      "ratingCount": 0,
+      "created": "2025-12-13T05:09:33.831145Z",
+      "updated": "2026-09-14T13:35:58.869586999Z",
+      "chartUpdated": "2025-12-13T05:09:33.831145Z"
+    },
+    {
+      "id": 49991,
+      "name": "無機質世界に彩を",
+      "level": "Purest Lv.11",
+      "difficulty": 0.0,
+      "charter": "Hvquer",
+      "composer": "MisomyL",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/202ff049-b479-48dd-8e4e-085b553f6772",
+      "preview": "https://phira.5wyxi.com/files/606493c9-1992-4c81-8eb5-394e19ee6422",
+      "file": "https://phira.5wyxi.com/files/07ac1305-98d7-48bb-8a1e-532bbaa114d2",
+      "uploader": 2004431,
+      "tags": [
+        "DFC",
+        "plain"
+      ],
+      "rating": 0.7840579,
+      "ratingCount": 0,
+      "created": "2025-12-07T12:50:15.607564Z",
+      "updated": "2026-09-14T13:35:26.796550061Z",
+      "chartUpdated": "2025-12-07T12:50:15.607564Z"
+    },
+    {
+      "id": 49920,
+      "name": "天球(そら)のmúsica",
+      "level": "IN Lv.15",
+      "difficulty": 15.7,
+      "charter": "爱绫华的鱼",
+      "composer": "Ave Mujica",
+      "illustrator": "",
+      "description": "写的第一张谱子，还不会写特效，不喜勿喷",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f2e36088-e31d-49b4-99fd-9e4107ea1114",
+      "preview": "https://phira.5wyxi.com/files/d063ab97-0b67-4d67-8531-4bb1928617fd",
+      "file": "https://phira.5wyxi.com/files/37e51cf3-a153-4332-9a06-ec6e31eb9584",
+      "uploader": 126735,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.80552316,
+      "ratingCount": 0,
+      "created": "2025-12-07T02:02:07.214850Z",
+      "updated": "2026-09-14T13:34:52.598603729Z",
+      "chartUpdated": "2025-12-07T02:02:07.214850Z"
+    },
+    {
+      "id": 49722,
+      "name": "白菊 -shiragiku-",
+      "level": "IN 15",
+      "difficulty": 0.0,
+      "charter": "lewan",
+      "composer": "立秋",
+      "illustrator": "",
+      "description": "新人初谱，乱写的",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e8042061-4d46-4213-84fa-435a93a34f1d",
+      "preview": "https://phira.5wyxi.com/files/29104b0c-4ecc-4ebb-880b-759f4653cba6",
+      "file": "https://phira.5wyxi.com/files/3182e507-9d5a-4f2d-9ab0-a53d18f42d70",
+      "uploader": 2000597,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2025-12-01T06:09:51.671113Z",
+      "updated": "2026-09-14T13:34:19.427275338Z",
+      "chartUpdated": "2025-12-01T06:09:51.671113Z"
+    },
+    {
+      "id": 49163,
+      "name": "チェリーポップ",
+      "level": "4k lv.26",
+      "difficulty": 10.0,
+      "charter": "小可睡懒觉",
+      "composer": "DECO*27",
+      "illustrator": "",
+      "description": "萌新第一次写谱qwq\nb站关注@小可睡懒觉\n谢谢喵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bb7f31be-996d-478a-b835-0ff8a4c59869",
+      "preview": "https://phira.5wyxi.com/files/81b8d06c-6c38-4a21-b437-520621e15c64",
+      "file": "https://phira.5wyxi.com/files/c3bf387e-d6b0-436c-ac5a-1a65dccb1ba2",
+      "uploader": 1266759,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.86983716,
+      "ratingCount": 0,
+      "created": "2025-11-15T15:01:19.181163Z",
+      "updated": "2026-09-14T13:30:05.518837775Z",
+      "chartUpdated": "2025-11-15T15:01:19.181163Z"
+    },
+    {
+      "id": 49275,
+      "name": "云女孩",
+      "level": "Lv.24",
+      "difficulty": 24.0,
+      "charter": "究极音游王",
+      "composer": "符白牙/SiYFics",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b47ded15-2ee1-46c2-a231-010405e9c5ee",
+      "preview": "https://phira.5wyxi.com/files/14cb07c7-4020-4f9a-955e-0966e42b6cc1",
+      "file": "https://phira.5wyxi.com/files/9f115b6b-dec0-4a61-b105-485b938ba4e0",
+      "uploader": 519137,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8404173,
+      "ratingCount": 3,
+      "created": "2025-11-19T01:28:54.368372Z",
+      "updated": "2026-09-14T08:40:33.708514Z",
+      "chartUpdated": "2025-11-19T01:28:54.368372Z"
+    },
     {
       "id": 70212,
       "name": "Starborn of the 3rd Throne",
@@ -21,8 +207,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94786733,
-      "ratingCount": 204,
+      "rating": 0.94744354,
+      "ratingCount": 207,
       "created": "2026-07-30T16:26:45.170094Z",
       "updated": "2026-09-13T07:48:44.332803Z",
       "chartUpdated": "2026-07-30T16:26:45.170094Z"
@@ -47,8 +233,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9043083,
-      "ratingCount": 17,
+      "rating": 0.90843916,
+      "ratingCount": 18,
       "created": "2025-11-29T14:44:04.288625Z",
       "updated": "2026-09-12T14:42:48.024918Z",
       "chartUpdated": "2025-11-29T14:44:04.288625Z"
@@ -75,8 +261,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.8725262,
-      "ratingCount": 21,
+      "rating": 0.89269245,
+      "ratingCount": 24,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -103,7 +289,7 @@
         "plain"
       ],
       "rating": 0.8879031,
-      "ratingCount": 9,
+      "ratingCount": 10,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
       "chartUpdated": "2026-09-11T05:42:27.119802Z"
@@ -158,8 +344,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.80451185,
-      "ratingCount": 22,
+      "rating": 0.82906306,
+      "ratingCount": 23,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
       "chartUpdated": "2025-11-17T11:41:15.737611Z"
@@ -187,8 +373,8 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.89630234,
-      "ratingCount": 13,
+      "rating": 0.9111177,
+      "ratingCount": 15,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
       "chartUpdated": "2025-11-15T03:06:25.117678Z"
@@ -219,8 +405,8 @@
         "绀珠传",
         "plain"
       ],
-      "rating": 0.8318756,
-      "ratingCount": 6,
+      "rating": 0.821703,
+      "ratingCount": 7,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
       "chartUpdated": "2025-11-16T04:22:45.552839Z"
@@ -245,8 +431,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9411279,
-      "ratingCount": 178,
+      "rating": 0.94379514,
+      "ratingCount": 190,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -298,8 +484,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9160509,
-      "ratingCount": 585,
+      "rating": 0.9166069,
+      "ratingCount": 586,
       "created": "2026-08-09T08:38:00.948937Z",
       "updated": "2026-09-10T14:18:27.669426Z",
       "chartUpdated": "2026-08-09T08:38:00.948937Z"
@@ -355,8 +541,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8635959,
-      "ratingCount": 17,
+      "rating": 0.8763162,
+      "ratingCount": 18,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
       "chartUpdated": "2026-09-10T11:29:49.920094Z"
@@ -381,7 +567,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.6992036,
+      "rating": 0.70695394,
       "ratingCount": 7,
       "created": "2025-11-08T14:27:31.337062Z",
       "updated": "2026-09-10T01:47:36.277264Z",
@@ -409,7 +595,7 @@
         "stream",
         "plain"
       ],
-      "rating": 0.93878084,
+      "rating": 0.9427121,
       "ratingCount": 25,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
@@ -461,7 +647,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8670049,
+      "rating": 0.8720402,
       "ratingCount": 21,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
@@ -605,8 +791,8 @@
         "3121",
         "plain"
       ],
-      "rating": 0.81090474,
-      "ratingCount": 9,
+      "rating": 0.8169713,
+      "ratingCount": 10,
       "created": "2025-11-07T14:40:46.992198Z",
       "updated": "2026-09-06T20:59:59.182996Z",
       "chartUpdated": "2025-11-07T14:40:46.992198Z"
@@ -636,192 +822,6 @@
       "created": "2025-08-30T23:53:28.421665Z",
       "updated": "2026-09-06T20:59:25.024317Z",
       "chartUpdated": "2025-08-30T23:53:28.421665Z"
-    },
-    {
-      "id": 48985,
-      "name": "Tutorial (新手教程)",
-      "level": "EZ Lv.1",
-      "difficulty": 1.9000002,
-      "charter": "Another:Phigros Charting Team",
-      "composer": "Maimai Music Team",
-      "illustrator": "",
-      "description": "谱师和画师都为Pigxuan",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/493bdc44-0893-4268-85c6-23506d3f25f0",
-      "preview": "https://phira.5wyxi.com/files/d0898fac-04ca-4168-b898-c46eb1200efa",
-      "file": "https://phira.5wyxi.com/files/8b557ae7-ceac-4b99-a68f-7649ca8252e6",
-      "uploader": 1467530,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.93236595,
-      "ratingCount": 77,
-      "created": "2025-11-10T14:32:51.140195Z",
-      "updated": "2026-09-06T20:59:13.137682Z",
-      "chartUpdated": "2025-11-10T14:32:51.140195Z"
-    },
-    {
-      "id": 48858,
-      "name": "Break Through the Barrier",
-      "level": "4K Lv.35",
-      "difficulty": 10.000003,
-      "charter": "agbot123",
-      "composer": "lixound",
-      "illustrator": "",
-      "description": "没有休息段还有很长的锁手段\n\n后半段那一坨32分（应该是32分）其实是对拍和切",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d76d8f6a-1d3e-40f5-99a5-9566f4c891f5",
-      "preview": "https://phira.5wyxi.com/files/19ea1407-4d0f-4a1d-9e04-34a0dac152ec",
-      "file": "https://phira.5wyxi.com/files/c51eea2f-62c4-44f2-9790-a63e554df4a7",
-      "uploader": 1722801,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.88842773,
-      "ratingCount": 32,
-      "created": "2025-11-08T08:49:10.405844Z",
-      "updated": "2026-09-06T20:59:01.829788Z",
-      "chartUpdated": "2025-11-08T08:49:10.405844Z"
-    },
-    {
-      "id": 23539,
-      "name": "Centuries",
-      "level": "AT",
-      "difficulty": 15.000008,
-      "charter": "Flass",
-      "composer": "Full out boy",
-      "illustrator": "",
-      "description": "ma转",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a1688965-b639-4168-bede-ecf089ecb9f9",
-      "preview": "https://phira.5wyxi.com/files/da11427d-d953-4f9e-a542-16833475804b",
-      "file": "https://phira.5wyxi.com/files/bc67a122-f87f-45b9-ae79-3e1091c471d0",
-      "uploader": 541497,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.84145164,
-      "ratingCount": 67,
-      "created": "2024-07-15T15:37:28.608297Z",
-      "updated": "2026-09-06T20:58:41.854161Z",
-      "chartUpdated": "2024-07-15T15:37:28.608297Z"
-    },
-    {
-      "id": 23937,
-      "name": "sing sing red indigo",
-      "level": "@#¥$&^€***${",
-      "difficulty": 20.0,
-      "charter": "Flass",
-      "composer": "frums",
-      "illustrator": "",
-      "description": "ma转",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/eb1d6fe9-850e-46b5-bf57-9ec94e3062f5",
-      "preview": "https://phira.5wyxi.com/files/5261e12e-539b-4fed-8f26-089e76783d5a",
-      "file": "https://phira.5wyxi.com/files/d2e3454c-0662-4e00-aa69-042fb1c11de8",
-      "uploader": 541497,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.71985346,
-      "ratingCount": 11,
-      "created": "2024-07-21T02:21:19.232349Z",
-      "updated": "2026-09-06T20:58:26.017423Z",
-      "chartUpdated": "2024-07-21T02:21:19.232349Z"
-    },
-    {
-      "id": 48790,
-      "name": "MEGAMIX",
-      "level": "speed change[6K]17",
-      "difficulty": 10.0,
-      "charter": "jiachengli9527",
-      "composer": "plum",
-      "illustrator": "",
-      "description": "本人上传\n无删减 物量10110 含变速\n好听又好玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/10e04d1f-a15e-4bf4-8f29-b12637f09096",
-      "preview": "https://phira.5wyxi.com/files/22ba2176-a4f6-49f9-96f3-7b297b444117",
-      "file": "https://phira.5wyxi.com/files/92ede1f5-18b3-4ab4-a2e8-16b33f466c38",
-      "uploader": 1303132,
-      "tags": [
-        "6k",
-        "这是个标签",
-        "plain"
-      ],
-      "rating": 0.8156982,
-      "ratingCount": 5,
-      "created": "2025-11-05T16:03:06.025510Z",
-      "updated": "2026-09-06T20:58:15.993291Z",
-      "chartUpdated": "2025-11-05T16:03:06.025510Z"
-    },
-    {
-      "id": 77247,
-      "name": "Dance with Silence (Cut ver.)",
-      "level": "Eclipsed Lv.45",
-      "difficulty": 10.999993,
-      "charter": "Tsubaki_",
-      "composer": "かめりあ",
-      "illustrator": "",
-      "description": "WELCOME TO OSU!MANIA!",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a353ba89-04c6-47dc-80a6-d194c507bc9f",
-      "preview": "https://phira.5wyxi.com/files/bbe20522-a348-4ec6-927d-a117a93cffdb",
-      "file": "https://phira.5wyxi.com/files/57a5887e-d3aa-45e5-b31a-37a28e2fbe36",
-      "uploader": 3747921,
-      "tags": [
-        "4K",
-        "plain"
-      ],
-      "rating": 0.8366108,
-      "ratingCount": 10,
-      "created": "2026-09-06T01:44:54.145962Z",
-      "updated": "2026-09-06T01:44:54.145962Z",
-      "chartUpdated": "2026-09-06T01:44:54.145962Z"
-    },
-    {
-      "id": 77189,
-      "name": "Calamity Fortune",
-      "level": "4k Lv.24",
-      "difficulty": 24.0,
-      "charter": "luonianYY",
-      "composer": "LeaF",
-      "illustrator": "",
-      "description": "新人第三张4k谱，感谢游玩！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8d7716bf-9982-4d6c-9608-1a758e3e7f71",
-      "preview": "https://phira.5wyxi.com/files/11f5b6a5-89f8-4f12-a182-eac3a47e5cff",
-      "file": "https://phira.5wyxi.com/files/02250cf3-c8e5-43fc-b969-005b3b26f1c8",
-      "uploader": 1667803,
-      "tags": [
-        "4k",
-        "plain"
-      ],
-      "rating": 0.9193554,
-      "ratingCount": 159,
-      "created": "2026-09-05T14:11:24.189740Z",
-      "updated": "2026-09-05T14:11:24.189740Z",
-      "chartUpdated": "2026-09-05T14:11:24.189740Z"
     }
   ]
 }
