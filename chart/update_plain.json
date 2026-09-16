@@ -26,8 +26,8 @@
       "rating": 0.83321184,
       "ratingCount": 5,
       "created": "2025-05-10T09:20:50.555344Z",
-      "updated": "2026-09-14T13:36:51.139700591Z",
-      "chartUpdated": "2026-09-14T13:36:51.139700591Z"
+      "updated": "2026-09-14T13:36:51.139700Z",
+      "chartUpdated": "2026-09-14T13:36:51.139700Z"
     },
     {
       "id": 50152,
@@ -49,17 +49,17 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79426795,
-      "ratingCount": 0,
+      "rating": 0.8318756,
+      "ratingCount": 3,
       "created": "2025-12-13T05:09:33.831145Z",
-      "updated": "2026-09-14T13:35:58.869586999Z",
+      "updated": "2026-09-14T13:35:58.869586Z",
       "chartUpdated": "2025-12-13T05:09:33.831145Z"
     },
     {
       "id": 49991,
       "name": "無機質世界に彩を",
       "level": "Purest Lv.11",
-      "difficulty": 0.0,
+      "difficulty": 11.0,
       "charter": "Hvquer",
       "composer": "MisomyL",
       "illustrator": "",
@@ -76,10 +76,10 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.7840579,
-      "ratingCount": 0,
+      "rating": 0.80656886,
+      "ratingCount": 3,
       "created": "2025-12-07T12:50:15.607564Z",
-      "updated": "2026-09-14T13:35:26.796550061Z",
+      "updated": "2026-09-14T13:35:26.796550Z",
       "chartUpdated": "2025-12-07T12:50:15.607564Z"
     },
     {
@@ -102,17 +102,17 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80552316,
-      "ratingCount": 0,
+      "rating": 0.8515135,
+      "ratingCount": 4,
       "created": "2025-12-07T02:02:07.214850Z",
-      "updated": "2026-09-14T13:34:52.598603729Z",
+      "updated": "2026-09-14T13:34:52.598603Z",
       "chartUpdated": "2025-12-07T02:02:07.214850Z"
     },
     {
       "id": 49722,
       "name": "白菊 -shiragiku-",
       "level": "IN 15",
-      "difficulty": 0.0,
+      "difficulty": 15.0,
       "charter": "lewan",
       "composer": "立秋",
       "illustrator": "",
@@ -128,10 +128,10 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2025-12-01T06:09:51.671113Z",
-      "updated": "2026-09-14T13:34:19.427275338Z",
+      "updated": "2026-09-14T13:34:19.427275Z",
       "chartUpdated": "2025-12-01T06:09:51.671113Z"
     },
     {
@@ -155,10 +155,10 @@
         "4k",
         "plain"
       ],
-      "rating": 0.86983716,
-      "ratingCount": 0,
+      "rating": 0.914495,
+      "ratingCount": 10,
       "created": "2025-11-15T15:01:19.181163Z",
-      "updated": "2026-09-14T13:30:05.518837775Z",
+      "updated": "2026-09-14T13:30:05.518837Z",
       "chartUpdated": "2025-11-15T15:01:19.181163Z"
     },
     {
@@ -181,37 +181,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8404173,
-      "ratingCount": 3,
+      "rating": 0.87239116,
+      "ratingCount": 13,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
       "chartUpdated": "2025-11-19T01:28:54.368372Z"
-    },
-    {
-      "id": 70212,
-      "name": "Starborn of the 3rd Throne",
-      "level": "4K Lv.18",
-      "difficulty": 18.000002,
-      "charter": "Uvie Ver.3",
-      "composer": "AIKA & feat.星尘",
-      "illustrator": "",
-      "description": "Malody自制+转谱\n谱师本人上传\nBPM\n(结尾210自己测的，105×2得出)\n◆00:00-03:12◆\n⇨190 BPM\n◆03:12-04:48◆\n⇨210 BPM\nNote: 2450\nJudgeLineY: -300\nSpeed: 12\nLength: 4:48s\nLevel:18 (Malody自动测量)\n原曲绘微恐，就不用了\n从MV里截了一张改动了一下，感兴趣的可以自行搜索",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/98a3f02e-157c-499b-87fa-ef0371c7b6a1",
-      "preview": "https://phira.5wyxi.com/files/83bbb155-016c-495e-902f-d939a8aba4c3",
-      "file": "https://phira.5wyxi.com/files/7c7e887b-eb74-4abf-ba62-a8d24381c4b9",
-      "uploader": 848665,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.94744354,
-      "ratingCount": 207,
-      "created": "2026-07-30T16:26:45.170094Z",
-      "updated": "2026-09-13T07:48:44.332803Z",
-      "chartUpdated": "2026-07-30T16:26:45.170094Z"
     },
     {
       "id": 49642,
@@ -233,8 +207,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90843916,
-      "ratingCount": 18,
+      "rating": 0.91217387,
+      "ratingCount": 19,
       "created": "2025-11-29T14:44:04.288625Z",
       "updated": "2026-09-12T14:42:48.024918Z",
       "chartUpdated": "2025-11-29T14:44:04.288625Z"
@@ -261,8 +235,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.89269245,
-      "ratingCount": 24,
+      "rating": 0.9036404,
+      "ratingCount": 31,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -288,7 +262,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8879031,
+      "rating": 0.87922835,
       "ratingCount": 10,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
@@ -344,8 +318,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.82906306,
-      "ratingCount": 23,
+      "rating": 0.83476746,
+      "ratingCount": 29,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
       "chartUpdated": "2025-11-17T11:41:15.737611Z"
@@ -373,8 +347,8 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.9111177,
-      "ratingCount": 15,
+      "rating": 0.9150554,
+      "ratingCount": 17,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
       "chartUpdated": "2025-11-15T03:06:25.117678Z"
@@ -406,7 +380,7 @@
         "plain"
       ],
       "rating": 0.821703,
-      "ratingCount": 7,
+      "ratingCount": 8,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
       "chartUpdated": "2025-11-16T04:22:45.552839Z"
@@ -431,8 +405,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94379514,
-      "ratingCount": 190,
+      "rating": 0.9435385,
+      "ratingCount": 211,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -463,32 +437,6 @@
       "created": "2026-09-11T11:55:32.748141Z",
       "updated": "2026-09-11T13:14:46.200638Z",
       "chartUpdated": "2026-09-11T11:55:32.748141Z"
-    },
-    {
-      "id": 72244,
-      "name": "GOODWORLD",
-      "level": "4K ANOTHER Lv.25",
-      "difficulty": 10.0,
-      "charter": "YMEA",
-      "composer": "EBIMAYO",
-      "illustrator": "",
-      "description": "写了一天，后面忘了\n不感谢@Lage#852606 的动效\n快手 X B站 洋漫YMEA\nDY YMEA",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/ff4670d4-410c-4142-83a0-fc1f15e5459d",
-      "preview": "https://phira.5wyxi.com/files/b55de44b-59bc-4f84-85e5-f51630a705ed",
-      "file": "https://phira.5wyxi.com/files/75e10da8-bd07-46ca-9d64-e108491c97bd",
-      "uploader": 3470464,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9166069,
-      "ratingCount": 586,
-      "created": "2026-08-09T08:38:00.948937Z",
-      "updated": "2026-09-10T14:18:27.669426Z",
-      "chartUpdated": "2026-08-09T08:38:00.948937Z"
     },
     {
       "id": 77633,
@@ -541,8 +489,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8763162,
-      "ratingCount": 18,
+      "rating": 0.88117313,
+      "ratingCount": 21,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
       "chartUpdated": "2026-09-10T11:29:49.920094Z"
@@ -568,7 +516,7 @@
         "plain"
       ],
       "rating": 0.70695394,
-      "ratingCount": 7,
+      "ratingCount": 8,
       "created": "2025-11-08T14:27:31.337062Z",
       "updated": "2026-09-10T01:47:36.277264Z",
       "chartUpdated": "2025-11-08T14:27:31.337062Z"
@@ -595,8 +543,8 @@
         "stream",
         "plain"
       ],
-      "rating": 0.9427121,
-      "ratingCount": 25,
+      "rating": 0.9416259,
+      "ratingCount": 27,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
       "chartUpdated": "2026-08-25T03:45:04.894363Z"
@@ -621,7 +569,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.856128,
+      "rating": 0.8678234,
       "ratingCount": 6,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001Z",
@@ -647,8 +595,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8720402,
-      "ratingCount": 21,
+      "rating": 0.876713,
+      "ratingCount": 22,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
       "chartUpdated": "2026-09-06T06:03:29.515190Z"
@@ -822,6 +770,58 @@
       "created": "2025-08-30T23:53:28.421665Z",
       "updated": "2026-09-06T20:59:25.024317Z",
       "chartUpdated": "2025-08-30T23:53:28.421665Z"
+    },
+    {
+      "id": 48985,
+      "name": "Tutorial (新手教程)",
+      "level": "EZ Lv.1",
+      "difficulty": 1.9000002,
+      "charter": "Another:Phigros Charting Team",
+      "composer": "Maimai Music Team",
+      "illustrator": "",
+      "description": "谱师和画师都为Pigxuan",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/493bdc44-0893-4268-85c6-23506d3f25f0",
+      "preview": "https://phira.5wyxi.com/files/d0898fac-04ca-4168-b898-c46eb1200efa",
+      "file": "https://phira.5wyxi.com/files/8b557ae7-ceac-4b99-a68f-7649ca8252e6",
+      "uploader": 1467530,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.9369545,
+      "ratingCount": 83,
+      "created": "2025-11-10T14:32:51.140195Z",
+      "updated": "2026-09-06T20:59:13.137682Z",
+      "chartUpdated": "2025-11-10T14:32:51.140195Z"
+    },
+    {
+      "id": 48858,
+      "name": "Break Through the Barrier",
+      "level": "4K Lv.35",
+      "difficulty": 10.000003,
+      "charter": "agbot123",
+      "composer": "lixound",
+      "illustrator": "",
+      "description": "没有休息段还有很长的锁手段\n\n后半段那一坨32分（应该是32分）其实是对拍和切",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d76d8f6a-1d3e-40f5-99a5-9566f4c891f5",
+      "preview": "https://phira.5wyxi.com/files/19ea1407-4d0f-4a1d-9e04-34a0dac152ec",
+      "file": "https://phira.5wyxi.com/files/c51eea2f-62c4-44f2-9790-a63e554df4a7",
+      "uploader": 1722801,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8914374,
+      "ratingCount": 32,
+      "created": "2025-11-08T08:49:10.405844Z",
+      "updated": "2026-09-06T20:59:01.829788Z",
+      "chartUpdated": "2025-11-08T08:49:10.405844Z"
     }
   ]
 }
