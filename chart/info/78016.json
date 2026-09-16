@@ -13,11 +13,11 @@
   "name": "チューイン・ディスコ",
   "preview": "https://phira.5wyxi.com/files/1e9da8c4-0bd7-4e35-a104-a23ff8e41ccc",
   "ranked": false,
-  "rating": 0.90645903,
-  "ratingCount": 130,
-  "reviewed": false,
+  "rating": 0.9166543,
+  "ratingCount": 158,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],

@@ -13,11 +13,11 @@
   "name": "Meltovt Necrosys",
   "preview": "https://phira.5wyxi.com/files/a7a2cf8b-b1e7-48d0-b402-d7d7afa7b542",
   "ranked": false,
-  "rating": 0.84625804,
-  "ratingCount": 15,
-  "reviewed": false,
+  "rating": 0.8840394,
+  "ratingCount": 34,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
