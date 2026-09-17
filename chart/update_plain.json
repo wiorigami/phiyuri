@@ -2,6 +2,32 @@
   "count": 3320,
   "results": [
     {
+      "id": 77011,
+      "name": "Past life",
+      "level": "4k（lv.18）4dan",
+      "difficulty": 0.0,
+      "charter": "冷影",
+      "composer": "蛤awa",
+      "illustrator": "",
+      "description": "谱师本人上传，小鸟游星野的审判曲awa，难度约4-5dan左右，有大量锁手叠和切。叠2切5，欢迎各位挑战。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2811a082-bde7-4766-9bfb-1fc93632637a",
+      "preview": "https://phira.5wyxi.com/files/b5a9e660-fa82-4580-987c-f683e6c09888",
+      "file": "https://phira.5wyxi.com/files/cb92019f-aad7-4901-897e-5a3ce1eb39fa",
+      "uploader": 1673757,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.86439836,
+      "ratingCount": 0,
+      "created": "2026-09-04T12:13:17.799112Z",
+      "updated": "2026-09-16T14:16:56.277533472Z",
+      "chartUpdated": "2026-09-04T12:13:17.799112Z"
+    },
+    {
       "id": 37892,
       "name": "Angelic layer",
       "level": "Simple Lv.12",
@@ -49,8 +75,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8318756,
-      "ratingCount": 3,
+      "rating": 0.8761231,
+      "ratingCount": 6,
       "created": "2025-12-13T05:09:33.831145Z",
       "updated": "2026-09-14T13:35:58.869586Z",
       "chartUpdated": "2025-12-13T05:09:33.831145Z"
@@ -76,8 +102,8 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.80656886,
-      "ratingCount": 3,
+      "rating": 0.82499236,
+      "ratingCount": 4,
       "created": "2025-12-07T12:50:15.607564Z",
       "updated": "2026-09-14T13:35:26.796550Z",
       "chartUpdated": "2025-12-07T12:50:15.607564Z"
@@ -102,8 +128,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8515135,
-      "ratingCount": 4,
+      "rating": 0.8711729,
+      "ratingCount": 9,
       "created": "2025-12-07T02:02:07.214850Z",
       "updated": "2026-09-14T13:34:52.598603Z",
       "chartUpdated": "2025-12-07T02:02:07.214850Z"
@@ -129,7 +155,7 @@
         "plain"
       ],
       "rating": 0.7482895,
-      "ratingCount": 0,
+      "ratingCount": 1,
       "created": "2025-12-01T06:09:51.671113Z",
       "updated": "2026-09-14T13:34:19.427275Z",
       "chartUpdated": "2025-12-01T06:09:51.671113Z"
@@ -155,8 +181,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.914495,
-      "ratingCount": 10,
+      "rating": 0.9323994,
+      "ratingCount": 27,
       "created": "2025-11-15T15:01:19.181163Z",
       "updated": "2026-09-14T13:30:05.518837Z",
       "chartUpdated": "2025-11-15T15:01:19.181163Z"
@@ -181,8 +207,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87239116,
-      "ratingCount": 13,
+      "rating": 0.9050073,
+      "ratingCount": 20,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
       "chartUpdated": "2025-11-19T01:28:54.368372Z"
@@ -208,7 +234,7 @@
         "plain"
       ],
       "rating": 0.91217387,
-      "ratingCount": 19,
+      "ratingCount": 20,
       "created": "2025-11-29T14:44:04.288625Z",
       "updated": "2026-09-12T14:42:48.024918Z",
       "chartUpdated": "2025-11-29T14:44:04.288625Z"
@@ -235,8 +261,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.9036404,
-      "ratingCount": 31,
+      "rating": 0.91411716,
+      "ratingCount": 38,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -262,8 +288,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.87922835,
-      "ratingCount": 10,
+      "rating": 0.8863651,
+      "ratingCount": 12,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
       "chartUpdated": "2026-09-11T05:42:27.119802Z"
@@ -318,8 +344,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.83476746,
-      "ratingCount": 29,
+      "rating": 0.84219646,
+      "ratingCount": 35,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
       "chartUpdated": "2025-11-17T11:41:15.737611Z"
@@ -347,8 +373,8 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.9150554,
-      "ratingCount": 17,
+      "rating": 0.9181239,
+      "ratingCount": 20,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
       "chartUpdated": "2025-11-15T03:06:25.117678Z"
@@ -379,8 +405,8 @@
         "绀珠传",
         "plain"
       ],
-      "rating": 0.821703,
-      "ratingCount": 8,
+      "rating": 0.83433837,
+      "ratingCount": 9,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
       "chartUpdated": "2025-11-16T04:22:45.552839Z"
@@ -405,8 +431,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9435385,
-      "ratingCount": 211,
+      "rating": 0.94670963,
+      "ratingCount": 262,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -543,8 +569,8 @@
         "stream",
         "plain"
       ],
-      "rating": 0.9416259,
-      "ratingCount": 27,
+      "rating": 0.9433895,
+      "ratingCount": 28,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
       "chartUpdated": "2026-08-25T03:45:04.894363Z"
@@ -569,8 +595,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8678234,
-      "ratingCount": 6,
+      "rating": 0.8778362,
+      "ratingCount": 8,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001Z",
       "chartUpdated": "2026-09-09T04:18:20.392692Z"
@@ -595,8 +621,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.876713,
-      "ratingCount": 22,
+      "rating": 0.8776327,
+      "ratingCount": 24,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
       "chartUpdated": "2026-09-06T06:03:29.515190Z"
@@ -624,8 +650,8 @@
         "DMF",
         "plain"
       ],
-      "rating": 0.90115595,
-      "ratingCount": 12,
+      "rating": 0.9067097,
+      "ratingCount": 13,
       "created": "2025-11-21T07:15:49.039035Z",
       "updated": "2026-09-07T09:31:06.823182Z",
       "chartUpdated": "2025-11-21T07:15:49.039035Z"
@@ -739,7 +765,7 @@
         "3121",
         "plain"
       ],
-      "rating": 0.8169713,
+      "rating": 0.8115596,
       "ratingCount": 10,
       "created": "2025-11-07T14:40:46.992198Z",
       "updated": "2026-09-06T20:59:59.182996Z",
@@ -791,37 +817,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9369545,
-      "ratingCount": 83,
+      "rating": 0.9374554,
+      "ratingCount": 86,
       "created": "2025-11-10T14:32:51.140195Z",
       "updated": "2026-09-06T20:59:13.137682Z",
       "chartUpdated": "2025-11-10T14:32:51.140195Z"
-    },
-    {
-      "id": 48858,
-      "name": "Break Through the Barrier",
-      "level": "4K Lv.35",
-      "difficulty": 10.000003,
-      "charter": "agbot123",
-      "composer": "lixound",
-      "illustrator": "",
-      "description": "没有休息段还有很长的锁手段\n\n后半段那一坨32分（应该是32分）其实是对拍和切",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d76d8f6a-1d3e-40f5-99a5-9566f4c891f5",
-      "preview": "https://phira.5wyxi.com/files/19ea1407-4d0f-4a1d-9e04-34a0dac152ec",
-      "file": "https://phira.5wyxi.com/files/c51eea2f-62c4-44f2-9790-a63e554df4a7",
-      "uploader": 1722801,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8914374,
-      "ratingCount": 32,
-      "created": "2025-11-08T08:49:10.405844Z",
-      "updated": "2026-09-06T20:59:01.829788Z",
-      "chartUpdated": "2025-11-08T08:49:10.405844Z"
     }
   ]
 }
