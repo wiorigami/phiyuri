@@ -1,6 +1,32 @@
 {
-  "count": 3320,
+  "count": 3321,
   "results": [
+    {
+      "id": 78250,
+      "name": "EVERLASTING HAPPiNESS",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "小吉祥 feat.Rakio",
+      "composer": "sak（psi）",
+      "illustrator": "Convert by MVP",
+      "description": "@BF_UZQueen#675828\nrakio：有什么感言\n小吉祥：",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7bb13612-9c8c-4778-8e9f-220a3cc82e4a",
+      "preview": "https://phira.5wyxi.com/files/f881d39e-2db6-4bd6-bb39-6d9d745ab8b7",
+      "file": "https://phira.5wyxi.com/files/39dafcc2-9993-4fed-904e-6ce32802811a",
+      "uploader": 20859,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8018367,
+      "ratingCount": 0,
+      "created": "2026-09-16T15:46:38.662349Z",
+      "updated": "2026-09-17T12:49:12.462394329Z",
+      "chartUpdated": "2026-09-16T15:46:38.662349Z"
+    },
     {
       "id": 77011,
       "name": "Past life",
@@ -21,7 +47,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86439836,
+      "rating": 0.9072964,
       "ratingCount": 0,
       "created": "2026-09-04T12:13:17.799112Z",
       "updated": "2026-09-16T14:16:56.277533472Z",
@@ -75,7 +101,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8761231,
+      "rating": 0.8973801,
       "ratingCount": 6,
       "created": "2025-12-13T05:09:33.831145Z",
       "updated": "2026-09-14T13:35:58.869586Z",
@@ -128,7 +154,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8711729,
+      "rating": 0.87922835,
       "ratingCount": 9,
       "created": "2025-12-07T02:02:07.214850Z",
       "updated": "2026-09-14T13:34:52.598603Z",
@@ -154,7 +180,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.736441,
       "ratingCount": 1,
       "created": "2025-12-01T06:09:51.671113Z",
       "updated": "2026-09-14T13:34:19.427275Z",
@@ -181,7 +207,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9323994,
+      "rating": 0.94102883,
       "ratingCount": 27,
       "created": "2025-11-15T15:01:19.181163Z",
       "updated": "2026-09-14T13:30:05.518837Z",
@@ -207,7 +233,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9050073,
+      "rating": 0.9137003,
       "ratingCount": 20,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
@@ -261,7 +287,7 @@
         "5K",
         "plain"
       ],
-      "rating": 0.91411716,
+      "rating": 0.91567147,
       "ratingCount": 38,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
@@ -288,7 +314,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8863651,
+      "rating": 0.8927294,
       "ratingCount": 12,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
@@ -344,7 +370,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.84219646,
+      "rating": 0.8313229,
       "ratingCount": 35,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
@@ -373,7 +399,7 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.9181239,
+      "rating": 0.9145724,
       "ratingCount": 20,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
@@ -405,7 +431,7 @@
         "绀珠传",
         "plain"
       ],
-      "rating": 0.83433837,
+      "rating": 0.8088454,
       "ratingCount": 9,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
@@ -431,7 +457,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94670963,
+      "rating": 0.9478118,
       "ratingCount": 262,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
@@ -515,7 +541,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88117313,
+      "rating": 0.8856684,
       "ratingCount": 21,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
@@ -569,7 +595,7 @@
         "stream",
         "plain"
       ],
-      "rating": 0.9433895,
+      "rating": 0.94661963,
       "ratingCount": 28,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
@@ -678,7 +704,7 @@
         "shaders",
         "plain"
       ],
-      "rating": 0.8279445,
+      "rating": 0.82328796,
       "ratingCount": 16,
       "created": "2025-11-04T17:57:15.373976Z",
       "updated": "2026-09-07T09:21:58.479463Z",
@@ -705,7 +731,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.81735086,
+      "rating": 0.82950646,
       "ratingCount": 9,
       "created": "2025-11-04T03:55:19.556131Z",
       "updated": "2026-09-07T03:37:10.360839Z",
@@ -733,7 +759,7 @@
         "tech",
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.856128,
       "ratingCount": 5,
       "created": "2026-09-07T02:29:09.039935Z",
       "updated": "2026-09-07T03:36:33.609828Z",
@@ -791,37 +817,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89896286,
+      "rating": 0.89907694,
       "ratingCount": 31,
       "created": "2025-08-30T23:53:28.421665Z",
       "updated": "2026-09-06T20:59:25.024317Z",
       "chartUpdated": "2025-08-30T23:53:28.421665Z"
-    },
-    {
-      "id": 48985,
-      "name": "Tutorial (新手教程)",
-      "level": "EZ Lv.1",
-      "difficulty": 1.9000002,
-      "charter": "Another:Phigros Charting Team",
-      "composer": "Maimai Music Team",
-      "illustrator": "",
-      "description": "谱师和画师都为Pigxuan",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/493bdc44-0893-4268-85c6-23506d3f25f0",
-      "preview": "https://phira.5wyxi.com/files/d0898fac-04ca-4168-b898-c46eb1200efa",
-      "file": "https://phira.5wyxi.com/files/8b557ae7-ceac-4b99-a68f-7649ca8252e6",
-      "uploader": 1467530,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9374554,
-      "ratingCount": 86,
-      "created": "2025-11-10T14:32:51.140195Z",
-      "updated": "2026-09-06T20:59:13.137682Z",
-      "chartUpdated": "2025-11-10T14:32:51.140195Z"
     }
   ]
 }
