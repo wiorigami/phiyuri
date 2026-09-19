@@ -13,11 +13,11 @@
   "name": "背对背 (feat. scarletchoir)",
   "preview": "https://phira.5wyxi.com/files/fa341672-d3fb-434d-9d84-eb13737d4531",
   "ranked": false,
-  "rating": 0.9191506,
-  "ratingCount": 130,
-  "reviewed": true,
+  "rating": 0.91279554,
+  "ratingCount": 235,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
