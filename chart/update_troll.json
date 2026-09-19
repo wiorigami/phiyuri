@@ -1,6 +1,33 @@
 {
-  "count": 656,
+  "count": 657,
   "results": [
+    {
+      "id": 78138,
+      "name": "Never Say Goodbye",
+      "level": "SP Lv.17",
+      "difficulty": 17.9,
+      "charter": "xykkk",
+      "composer": "黒魔",
+      "illustrator": "山山奇 feat.Jimwaz",
+      "description": "大小键神人谱面，该谱面自带150毫秒延迟，请各位妥善调整。\n由于上传整活标签迟迟无果，所以只能上传标准区了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4102488f-ea4d-4f0d-a635-3b214bcf9d48",
+      "preview": "https://phira.5wyxi.com/files/29336616-0456-4d93-9f9c-91005b0fea8c",
+      "file": "https://phira.5wyxi.com/files/8d196695-29c6-43ad-a370-183c875dd1e5",
+      "uploader": 10896,
+      "tags": [
+        "大小键",
+        "troll"
+      ],
+      "rating": 0.86302346,
+      "ratingCount": 8,
+      "created": "2026-09-14T14:00:04.002790Z",
+      "updated": "2026-09-18T06:05:38.694380Z",
+      "chartUpdated": "2026-09-14T14:00:04.002790Z"
+    },
     {
       "id": 76134,
       "name": "我会自己上厕所",
@@ -27,8 +54,8 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.7131881,
-      "ratingCount": 1862,
+      "rating": 0.71309406,
+      "ratingCount": 1874,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
       "chartUpdated": "2026-08-28T03:56:40.337710Z"
@@ -107,8 +134,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9775407,
-      "ratingCount": 107,
+      "rating": 0.97689533,
+      "ratingCount": 108,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
       "chartUpdated": "2026-07-29T17:32:44.523418Z"
@@ -133,8 +160,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.88912416,
-      "ratingCount": 8939,
+      "rating": 0.88917696,
+      "ratingCount": 8955,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
       "chartUpdated": "2026-07-21T19:16:55.670015Z"
@@ -159,8 +186,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9506438,
-      "ratingCount": 12418,
+      "rating": 0.9505552,
+      "ratingCount": 12434,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
@@ -186,8 +213,8 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.8868494,
-      "ratingCount": 101303,
+      "rating": 0.8868661,
+      "ratingCount": 101366,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
       "chartUpdated": "2026-07-04T06:16:16.788212Z"
@@ -212,8 +239,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83410203,
-      "ratingCount": 3458,
+      "rating": 0.834352,
+      "ratingCount": 3467,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
       "chartUpdated": "2026-06-30T15:24:12.913392Z"
@@ -238,8 +265,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7704025,
-      "ratingCount": 16104,
+      "rating": 0.7703989,
+      "ratingCount": 16115,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -264,8 +291,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8741199,
-      "ratingCount": 9981,
+      "rating": 0.8741396,
+      "ratingCount": 9985,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
       "chartUpdated": "2026-06-24T05:20:29.857028Z"
@@ -290,7 +317,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8558734,
+      "rating": 0.8502793,
       "ratingCount": 97,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
@@ -316,8 +343,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.80729234,
-      "ratingCount": 6560,
+      "rating": 0.8075405,
+      "ratingCount": 6568,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
       "chartUpdated": "2026-06-10T10:26:09.350173Z"
@@ -344,8 +371,8 @@
         "纵连",
         "troll"
       ],
-      "rating": 0.90143627,
-      "ratingCount": 102,
+      "rating": 0.9023678,
+      "ratingCount": 103,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
       "chartUpdated": "2026-06-07T12:21:29.348521Z"
@@ -396,8 +423,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81261504,
-      "ratingCount": 1875,
+      "rating": 0.8133643,
+      "ratingCount": 1881,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
       "chartUpdated": "2026-05-22T15:09:41.771882Z"
@@ -422,8 +449,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8973287,
-      "ratingCount": 3904,
+      "rating": 0.89741117,
+      "ratingCount": 3918,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -449,8 +476,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.918885,
-      "ratingCount": 1760,
+      "rating": 0.9190131,
+      "ratingCount": 1763,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -501,7 +528,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75500166,
+      "rating": 0.7551941,
       "ratingCount": 756,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -527,8 +554,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81579083,
-      "ratingCount": 1594,
+      "rating": 0.8152916,
+      "ratingCount": 1596,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
       "chartUpdated": "2026-05-04T07:00:01.181555Z"
@@ -553,8 +580,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.90514374,
-      "ratingCount": 319,
+      "rating": 0.90544,
+      "ratingCount": 320,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
@@ -579,8 +606,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9406095,
-      "ratingCount": 4697,
+      "rating": 0.94074756,
+      "ratingCount": 4710,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
       "chartUpdated": "2026-05-04T04:55:04.819055Z"
@@ -605,7 +632,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7098671,
+      "rating": 0.71034956,
       "ratingCount": 611,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -631,8 +658,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8929811,
-      "ratingCount": 19,
+      "rating": 0.8943051,
+      "ratingCount": 22,
       "created": "2026-04-28T10:59:02.139326Z",
       "updated": "2026-04-28T10:59:02.139326Z",
       "chartUpdated": "2026-04-28T10:59:02.139326Z"
@@ -657,8 +684,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7530002,
-      "ratingCount": 167,
+      "rating": 0.7538671,
+      "ratingCount": 168,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
       "chartUpdated": "2026-04-20T11:21:03.671434Z"
@@ -683,7 +710,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83043313,
+      "rating": 0.82960224,
       "ratingCount": 258,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -711,8 +738,8 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.88035107,
-      "ratingCount": 857,
+      "rating": 0.8803739,
+      "ratingCount": 858,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
@@ -739,8 +766,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.95682657,
-      "ratingCount": 101,
+      "rating": 0.9580329,
+      "ratingCount": 104,
       "created": "2026-04-11T12:30:15.846877Z",
       "updated": "2026-04-11T12:30:15.846877Z",
       "chartUpdated": "2026-04-11T12:30:15.846877Z"
@@ -767,37 +794,11 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.92629665,
-      "ratingCount": 1213,
+      "rating": 0.9260607,
+      "ratingCount": 1214,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
-    },
-    {
-      "id": 55903,
-      "name": "You're Beautiful (Groan Tube Ver)",
-      "level": "ou oue uee Lv.67",
-      "difficulty": 67.0,
-      "charter": "Iam123",
-      "composer": "Justin J. More",
-      "illustrator": "",
-      "description": "本人上传，b站@_Iam123_，请勿盗传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8ce12a96-537e-453c-8b84-4e50b2b0f5b8",
-      "preview": "https://phira.5wyxi.com/files/c462dfa1-cd20-45e1-a30c-6639cd6e626c",
-      "file": "https://phira.5wyxi.com/files/6fcfd5b5-f29a-411f-991c-555bd6599353",
-      "uploader": 161832,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8929483,
-      "ratingCount": 2480,
-      "created": "2026-04-11T02:47:02.705037Z",
-      "updated": "2026-04-11T02:47:02.705037Z",
-      "chartUpdated": "2026-04-11T02:47:02.705037Z"
     }
   ]
 }
