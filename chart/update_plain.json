@@ -1,6 +1,59 @@
 {
-  "count": 3321,
+  "count": 3327,
   "results": [
+    {
+      "id": 77361,
+      "name": "Something that leads me to you.",
+      "level": "4K Extreme Lv.25",
+      "difficulty": 25.0,
+      "charter": "snlagsla",
+      "composer": "zphr",
+      "illustrator": "",
+      "description": "SHATTER_80391234本人上传\n谱师名义使用了本人马甲\n本谱关联《20th精选集》\n净时长两小时速写初稿\n最没手感的一集\n\n（说了一些不知道怎么表达的话）\n生日精选集最后还是因为没时间，烂尾了，给自己的纪念最后也没有完成，罢了，0人在意无所谓了\n以后或许会慢慢补齐（吧？\n改谱什么的你就别指望行动力低迷的我了。。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/bb2afe05-1faf-4c54-b008-4f72e4283e47",
+      "preview": "https://phira.5wyxi.com/files/6c4b1c0a-b708-436a-91b1-04761dcf927e",
+      "file": "https://phira.5wyxi.com/files/fac302af-59ff-4474-9b34-3b720ae477b1",
+      "uploader": 1711194,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8423025,
+      "ratingCount": 3,
+      "created": "2026-09-06T11:06:51.356549Z",
+      "updated": "2026-09-20T09:19:47.358191Z",
+      "chartUpdated": "2026-09-06T11:06:51.356549Z"
+    },
+    {
+      "id": 78532,
+      "name": "You're Shining(Avi8 Remix)",
+      "level": "Extreme Lv.16",
+      "difficulty": 16.0,
+      "charter": "Shadow of Shatter",
+      "composer": "Avi8",
+      "illustrator": "Convert by MVP",
+      "description": "SHATTER_80391234本人上传\n谱师名义使用了本人马甲\n本谱关联《20th精选集》\n初稿，喜欢这歌就写了，不过还是想到什么写什么。\n冷不丁塞了段键盘，纯拍砖还是太清水了（\n背景随便找的。。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/23fd1ce2-2956-405a-964c-3266e9202966",
+      "preview": "https://phira.5wyxi.com/files/acdb5304-c28c-4a21-8c94-12d010fa7c8d",
+      "file": "https://phira.5wyxi.com/files/8822af7b-076c-42df-9fed-52f975b14361",
+      "uploader": 1511560,
+      "tags": [
+        "EuphoricHardstyle",
+        "plain"
+      ],
+      "rating": 0.7334212,
+      "ratingCount": 1,
+      "created": "2026-09-19T14:44:07.962950Z",
+      "updated": "2026-09-20T09:14:53.529282Z",
+      "chartUpdated": "2026-09-19T14:44:07.962950Z"
+    },
     {
       "id": 78332,
       "name": "Towards the 300",
@@ -21,10 +74,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85115945,
-      "ratingCount": 0,
+      "rating": 0.85867137,
+      "ratingCount": 25,
       "created": "2026-09-18T04:04:38.123067Z",
-      "updated": "2026-09-19T11:49:32.409800595Z",
+      "updated": "2026-09-19T11:49:32.409800Z",
       "chartUpdated": "2026-09-18T04:04:38.123067Z"
     },
     {
@@ -50,8 +103,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8817029,
-      "ratingCount": 5,
+      "rating": 0.8891076,
+      "ratingCount": 11,
       "created": "2026-09-14T12:43:35.785355Z",
       "updated": "2026-09-18T06:01:46.056031Z",
       "chartUpdated": "2026-09-14T12:43:35.785355Z"
@@ -76,8 +129,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8757427,
-      "ratingCount": 12,
+      "rating": 0.8862783,
+      "ratingCount": 19,
       "created": "2026-09-16T15:46:38.662349Z",
       "updated": "2026-09-17T12:49:12.462394Z",
       "chartUpdated": "2026-09-16T15:46:38.662349Z"
@@ -103,7 +156,7 @@
         "plain"
       ],
       "rating": 0.9290824,
-      "ratingCount": 23,
+      "ratingCount": 34,
       "created": "2026-09-04T12:13:17.799112Z",
       "updated": "2026-09-16T14:16:56.277533Z",
       "chartUpdated": "2026-09-04T12:13:17.799112Z"
@@ -128,8 +181,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8877804,
-      "ratingCount": 68,
+      "rating": 0.89085275,
+      "ratingCount": 70,
       "created": "2026-09-15T12:23:22.830761Z",
       "updated": "2026-09-16T09:23:49.130221Z",
       "chartUpdated": "2026-09-15T12:23:22.830761Z"
@@ -182,8 +235,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9201609,
-      "ratingCount": 23,
+      "rating": 0.9174154,
+      "ratingCount": 36,
       "created": "2025-12-13T05:09:33.831145Z",
       "updated": "2026-09-14T13:35:58.869586Z",
       "chartUpdated": "2025-12-13T05:09:33.831145Z"
@@ -209,8 +262,8 @@
         "DFC",
         "plain"
       ],
-      "rating": 0.8533043,
-      "ratingCount": 5,
+      "rating": 0.86439836,
+      "ratingCount": 8,
       "created": "2025-12-07T12:50:15.607564Z",
       "updated": "2026-09-14T13:35:26.796550Z",
       "chartUpdated": "2025-12-07T12:50:15.607564Z"
@@ -235,8 +288,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87984604,
-      "ratingCount": 13,
+      "rating": 0.8810243,
+      "ratingCount": 16,
       "created": "2025-12-07T02:02:07.214850Z",
       "updated": "2026-09-14T13:34:52.598603Z",
       "chartUpdated": "2025-12-07T02:02:07.214850Z"
@@ -261,8 +314,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7669704,
-      "ratingCount": 2,
+      "rating": 0.7913506,
+      "ratingCount": 4,
       "created": "2025-12-01T06:09:51.671113Z",
       "updated": "2026-09-14T13:34:19.427275Z",
       "chartUpdated": "2025-12-01T06:09:51.671113Z"
@@ -288,8 +341,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9317623,
-      "ratingCount": 63,
+      "rating": 0.93151873,
+      "ratingCount": 93,
       "created": "2025-11-15T15:01:19.181163Z",
       "updated": "2026-09-14T13:30:05.518837Z",
       "chartUpdated": "2025-11-15T15:01:19.181163Z"
@@ -314,8 +367,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93161017,
-      "ratingCount": 50,
+      "rating": 0.9298866,
+      "ratingCount": 64,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
       "chartUpdated": "2025-11-19T01:28:54.368372Z"
@@ -340,8 +393,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.917906,
-      "ratingCount": 23,
+      "rating": 0.9170783,
+      "ratingCount": 26,
       "created": "2025-11-29T14:44:04.288625Z",
       "updated": "2026-09-12T14:42:48.024918Z",
       "chartUpdated": "2025-11-29T14:44:04.288625Z"
@@ -368,8 +421,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.91568226,
-      "ratingCount": 53,
+      "rating": 0.92033726,
+      "ratingCount": 69,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -396,7 +449,7 @@
         "plain"
       ],
       "rating": 0.9082507,
-      "ratingCount": 15,
+      "ratingCount": 16,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
       "chartUpdated": "2026-09-11T05:42:27.119802Z"
@@ -425,7 +478,7 @@
         "plain"
       ],
       "rating": 0.83321184,
-      "ratingCount": 4,
+      "ratingCount": 5,
       "created": "2026-09-12T07:48:39.927062Z",
       "updated": "2026-09-12T09:17:38.283205Z",
       "chartUpdated": "2026-09-12T07:48:39.927062Z"
@@ -451,8 +504,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.820014,
-      "ratingCount": 43,
+      "rating": 0.8277153,
+      "ratingCount": 54,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
       "chartUpdated": "2025-11-17T11:41:15.737611Z"
@@ -480,8 +533,8 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.9188961,
-      "ratingCount": 26,
+      "rating": 0.9211389,
+      "ratingCount": 32,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
       "chartUpdated": "2025-11-15T03:06:25.117678Z"
@@ -538,8 +591,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9458727,
-      "ratingCount": 332,
+      "rating": 0.94601923,
+      "ratingCount": 398,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -623,7 +676,7 @@
         "plain"
       ],
       "rating": 0.8898406,
-      "ratingCount": 22,
+      "ratingCount": 23,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
       "chartUpdated": "2026-09-10T11:29:49.920094Z"
@@ -677,7 +730,7 @@
         "plain"
       ],
       "rating": 0.95330095,
-      "ratingCount": 31,
+      "ratingCount": 36,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
       "chartUpdated": "2026-08-25T03:45:04.894363Z"
@@ -702,8 +755,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8940588,
-      "ratingCount": 8,
+      "rating": 0.889727,
+      "ratingCount": 11,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001Z",
       "chartUpdated": "2026-09-09T04:18:20.392692Z"
@@ -728,8 +781,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8776327,
-      "ratingCount": 24,
+      "rating": 0.8818067,
+      "ratingCount": 25,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
       "chartUpdated": "2026-09-06T06:03:29.515190Z"
@@ -758,65 +811,10 @@
         "plain"
       ],
       "rating": 0.9038473,
-      "ratingCount": 15,
+      "ratingCount": 17,
       "created": "2025-11-21T07:15:49.039035Z",
       "updated": "2026-09-07T09:31:06.823182Z",
       "chartUpdated": "2025-11-21T07:15:49.039035Z"
-    },
-    {
-      "id": 48771,
-      "name": "Daisy Bell",
-      "level": "HD",
-      "difficulty": 8.0,
-      "charter": "Blicko",
-      "composer": "Harry Dacre",
-      "illustrator": "",
-      "description": "[RU/ENG]",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/50e98116-3adb-47ad-b631-aac90aa51941",
-      "preview": "https://phira.5wyxi.com/files/7640f544-8d28-4f62-ac23-0679951a0e69",
-      "file": "https://phira.5wyxi.com/files/795d1cd9-a65a-4a90-ad99-a77ee4bc83d7",
-      "uploader": 1905844,
-      "tags": [
-        "shader",
-        "shaders",
-        "plain"
-      ],
-      "rating": 0.85151947,
-      "ratingCount": 20,
-      "created": "2025-11-04T17:57:15.373976Z",
-      "updated": "2026-09-07T09:21:58.479463Z",
-      "chartUpdated": "2025-11-04T17:57:15.373976Z"
-    },
-    {
-      "id": 48760,
-      "name": "我的好兄弟（麻油氏再混音）",
-      "level": "Lv.19",
-      "difficulty": 19.000002,
-      "charter": "秋鹤-qiuhe",
-      "composer": "EBIMAYO feat. 高进 & 小沈阳",
-      "illustrator": "",
-      "description": "抖音，B站：秋鹤-暗区突围\n本人制谱，这个谱子就不发视频了\n中途有一半没有采准，所以有一大段都是乱写的\n为了上传这个谱子，我是删掉了一个之前的以恋结缘，下一个就是粪谱了，大量叠键",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ae954a0b-f33d-4b56-84ce-f39c86bf96e3",
-      "preview": "https://phira.5wyxi.com/files/e91f39a1-fb00-426e-995d-741a1fef6d39",
-      "file": "https://phira.5wyxi.com/files/5674a142-8f74-49ba-ac1e-348e86d834a4",
-      "uploader": 1520573,
-      "tags": [
-        "4k",
-        "plain"
-      ],
-      "rating": 0.8526312,
-      "ratingCount": 11,
-      "created": "2025-11-04T03:55:19.556131Z",
-      "updated": "2026-09-07T03:37:10.360839Z",
-      "chartUpdated": "2025-11-04T03:55:19.556131Z"
     }
   ]
 }
