@@ -1,5 +1,5 @@
 {
-  "count": 3328,
+  "count": 3326,
   "results": [
     {
       "id": 78281,
@@ -21,8 +21,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91900337,
-      "ratingCount": 15,
+      "rating": 0.9384042,
+      "ratingCount": 53,
       "created": "2026-09-17T08:45:46.258301Z",
       "updated": "2026-09-21T09:54:43.236359Z",
       "chartUpdated": "2026-09-17T08:45:46.258301Z"
@@ -47,8 +47,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.889788,
-      "ratingCount": 15,
+      "rating": 0.91217387,
+      "ratingCount": 20,
       "created": "2026-09-06T11:06:51.356549Z",
       "updated": "2026-09-20T09:19:47.358191Z",
       "chartUpdated": "2026-09-06T11:06:51.356549Z"
@@ -74,8 +74,8 @@
         "EuphoricHardstyle",
         "plain"
       ],
-      "rating": 0.76758695,
-      "ratingCount": 2,
+      "rating": 0.85721785,
+      "ratingCount": 8,
       "created": "2026-09-19T14:44:07.962950Z",
       "updated": "2026-09-20T09:14:53.529282Z",
       "chartUpdated": "2026-09-19T14:44:07.962950Z"
@@ -100,8 +100,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87759393,
-      "ratingCount": 31,
+      "rating": 0.88386995,
+      "ratingCount": 35,
       "created": "2026-09-18T04:04:38.123067Z",
       "updated": "2026-09-19T11:49:32.409800Z",
       "chartUpdated": "2026-09-18T04:04:38.123067Z"
@@ -155,8 +155,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8951944,
-      "ratingCount": 20,
+      "rating": 0.8907115,
+      "ratingCount": 25,
       "created": "2026-09-16T15:46:38.662349Z",
       "updated": "2026-09-17T12:49:12.462394Z",
       "chartUpdated": "2026-09-16T15:46:38.662349Z"
@@ -181,8 +181,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9308959,
-      "ratingCount": 35,
+      "rating": 0.9326198,
+      "ratingCount": 36,
       "created": "2026-09-04T12:13:17.799112Z",
       "updated": "2026-09-16T14:16:56.277533Z",
       "chartUpdated": "2026-09-04T12:13:17.799112Z"
@@ -207,8 +207,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89085275,
-      "ratingCount": 70,
+      "rating": 0.89243984,
+      "ratingCount": 72,
       "created": "2026-09-15T12:23:22.830761Z",
       "updated": "2026-09-16T09:23:49.130221Z",
       "chartUpdated": "2026-09-15T12:23:22.830761Z"
@@ -235,8 +235,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8142219,
-      "ratingCount": 6,
+      "rating": 0.82934225,
+      "ratingCount": 7,
       "created": "2025-05-10T09:20:50.555344Z",
       "updated": "2026-09-14T13:36:51.139700Z",
       "chartUpdated": "2026-09-14T13:36:51.139700Z"
@@ -261,8 +261,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9169892,
-      "ratingCount": 38,
+      "rating": 0.91857123,
+      "ratingCount": 40,
       "created": "2025-12-13T05:09:33.831145Z",
       "updated": "2026-09-14T13:35:58.869586Z",
       "chartUpdated": "2025-12-13T05:09:33.831145Z"
@@ -293,32 +293,6 @@
       "created": "2025-12-07T12:50:15.607564Z",
       "updated": "2026-09-14T13:35:26.796550Z",
       "chartUpdated": "2025-12-07T12:50:15.607564Z"
-    },
-    {
-      "id": 49920,
-      "name": "天球(そら)のmúsica",
-      "level": "IN Lv.15",
-      "difficulty": 15.7,
-      "charter": "爱绫华的鱼",
-      "composer": "Ave Mujica",
-      "illustrator": "",
-      "description": "写的第一张谱子，还不会写特效，不喜勿喷",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f2e36088-e31d-49b4-99fd-9e4107ea1114",
-      "preview": "https://phira.5wyxi.com/files/d063ab97-0b67-4d67-8531-4bb1928617fd",
-      "file": "https://phira.5wyxi.com/files/37e51cf3-a153-4332-9a06-ec6e31eb9584",
-      "uploader": 126735,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.89153856,
-      "ratingCount": 18,
-      "created": "2025-12-07T02:02:07.214850Z",
-      "updated": "2026-09-14T13:34:52.598603Z",
-      "chartUpdated": "2025-12-07T02:02:07.214850Z"
     },
     {
       "id": 49722,
@@ -367,8 +341,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.92690045,
-      "ratingCount": 95,
+      "rating": 0.9285443,
+      "ratingCount": 104,
       "created": "2025-11-15T15:01:19.181163Z",
       "updated": "2026-09-14T13:30:05.518837Z",
       "chartUpdated": "2025-11-15T15:01:19.181163Z"
@@ -393,8 +367,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9324512,
-      "ratingCount": 67,
+      "rating": 0.93517816,
+      "ratingCount": 74,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
       "chartUpdated": "2025-11-19T01:28:54.368372Z"
@@ -419,8 +393,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9197279,
-      "ratingCount": 27,
+      "rating": 0.9222156,
+      "ratingCount": 28,
       "created": "2025-11-29T14:44:04.288625Z",
       "updated": "2026-09-12T14:42:48.024918Z",
       "chartUpdated": "2025-11-29T14:44:04.288625Z"
@@ -447,8 +421,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.91995597,
-      "ratingCount": 71,
+      "rating": 0.9230589,
+      "ratingCount": 74,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -530,8 +504,8 @@
         "4K",
         "plain"
       ],
-      "rating": 0.83307207,
-      "ratingCount": 56,
+      "rating": 0.83581233,
+      "ratingCount": 58,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
       "chartUpdated": "2025-11-17T11:41:15.737611Z"
@@ -559,8 +533,8 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.91307336,
-      "ratingCount": 34,
+      "rating": 0.9151934,
+      "ratingCount": 37,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
       "chartUpdated": "2025-11-15T03:06:25.117678Z"
@@ -591,8 +565,8 @@
         "绀珠传",
         "plain"
       ],
-      "rating": 0.8208402,
-      "ratingCount": 11,
+      "rating": 0.83145005,
+      "ratingCount": 12,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
       "chartUpdated": "2025-11-16T04:22:45.552839Z"
@@ -617,8 +591,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9456458,
-      "ratingCount": 417,
+      "rating": 0.94527376,
+      "ratingCount": 436,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -755,8 +729,8 @@
         "stream",
         "plain"
       ],
-      "rating": 0.9501572,
-      "ratingCount": 37,
+      "rating": 0.95134616,
+      "ratingCount": 38,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
       "chartUpdated": "2026-08-25T03:45:04.894363Z"
@@ -807,11 +781,40 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87956756,
-      "ratingCount": 25,
+      "rating": 0.8870408,
+      "ratingCount": 28,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
       "chartUpdated": "2026-09-06T06:03:29.515190Z"
+    },
+    {
+      "id": 49334,
+      "name": "NULCTRL",
+      "level": "CLUB Lv.8",
+      "difficulty": 8.0,
+      "charter": "DMF_Chart Team",
+      "composer": "Silentroom",
+      "illustrator": "",
+      "description": "谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1db1e41c-cf00-4d09-9b80-b121b9b419c7",
+      "preview": "https://phira.5wyxi.com/files/a17e081b-d300-47c0-b929-29a626652107",
+      "file": "https://phira.5wyxi.com/files/c38dbdc1-e592-4eb8-8749-76d06b4982d5",
+      "uploader": 1100615,
+      "tags": [
+        "DFC",
+        "Slide",
+        "DMF",
+        "plain"
+      ],
+      "rating": 0.9038473,
+      "ratingCount": 17,
+      "created": "2025-11-21T07:15:49.039035Z",
+      "updated": "2026-09-07T09:31:06.823182Z",
+      "chartUpdated": "2025-11-21T07:15:49.039035Z"
     }
   ]
 }
