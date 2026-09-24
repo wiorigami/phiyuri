@@ -1,6 +1,188 @@
 {
-  "count": 9644,
+  "count": 9650,
   "results": [
+    {
+      "id": 73930,
+      "name": "アクマバライ",
+      "level": "IN",
+      "difficulty": 15.0,
+      "charter": "YZZ",
+      "composer": "うちのボカロは様子がおかしい",
+      "illustrator": "",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3127c27b-6659-4602-a8b1-57cc8cd51897",
+      "preview": "https://phira.5wyxi.com/files/1a867947-8bb0-4f21-bb17-1075a796e869",
+      "file": "https://phira.5wyxi.com/files/af63c502-b027-4664-8c48-8e3dc52e64ff",
+      "uploader": 141353,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8478305,
+      "ratingCount": 0,
+      "created": "2026-08-17T10:19:52.299810Z",
+      "updated": "2026-09-24T00:52:23.620585749Z",
+      "chartUpdated": "2026-08-17T10:19:52.299810Z"
+    },
+    {
+      "id": 73592,
+      "name": "アクマバライ",
+      "level": "IN Lv.14",
+      "difficulty": 14.1,
+      "charter": "我的准度有点爆炸",
+      "composer": "我的VOCALOID有点奇怪",
+      "illustrator": "",
+      "description": "提示：3:2比例使用更佳\nB站：准度爆炸姐_\n发布相关谱面视频需标明谱师@准度爆炸姐",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/71d65232-c357-445a-9e2b-b73f9a652034",
+      "preview": "https://phira.5wyxi.com/files/03f8225f-2a9f-4395-baf8-3bab34a9f966",
+      "file": "https://phira.5wyxi.com/files/43127cf0-9e5e-4517-a48a-ba8df3d1456e",
+      "uploader": 97504,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8714135,
+      "ratingCount": 0,
+      "created": "2026-08-15T15:38:49.048950Z",
+      "updated": "2026-09-24T00:50:04.399398759Z",
+      "chartUpdated": "2026-08-15T15:38:49.048950Z"
+    },
+    {
+      "id": 77714,
+      "name": "魔ジョ狩リ",
+      "level": "AT 15",
+      "difficulty": 15.800003,
+      "charter": "Chyumix",
+      "composer": "Chiyoko/Aikapin/Nothing But Requiem",
+      "illustrator": "",
+      "description": "新人四谱，第一次尝试写多指",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e0803c76-b835-4c35-8b08-feb7c5ed1af8",
+      "preview": "https://phira.5wyxi.com/files/9bcc67d8-2169-4d8c-a18e-7d05f809cbd4",
+      "file": "https://phira.5wyxi.com/files/13b29fa8-395d-4288-8bf9-a6d2c3e1567a",
+      "uploader": 532761,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8169287,
+      "ratingCount": 0,
+      "created": "2026-09-11T07:52:29.575735Z",
+      "updated": "2026-09-23T14:08:42.027069811Z",
+      "chartUpdated": "2026-09-11T07:52:29.575735Z"
+    },
+    {
+      "id": 78740,
+      "name": "Give (Me) Your Love",
+      "level": "IN Lv.16",
+      "difficulty": 16.2,
+      "charter": "Kamoi",
+      "composer": "JAKAZiD",
+      "illustrator": "",
+      "description": "本人上传\n请支持b站@Kamoioff\n半秋生日快乐！",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/32ea8819-efdb-4d73-a8d1-6b8798e75234",
+      "preview": "https://phira.5wyxi.com/files/ce86f7f1-4b02-4670-94fe-2f176b7d69bc",
+      "file": "https://phira.5wyxi.com/files/9574d509-f584-4dd6-8c2a-1707f3249fa1",
+      "uploader": 165742,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8660221,
+      "ratingCount": 1,
+      "created": "2026-09-23T09:55:56.387659Z",
+      "updated": "2026-09-23T11:58:52.594772Z",
+      "chartUpdated": "2026-09-23T09:55:56.387659Z"
+    },
+    {
+      "id": 78675,
+      "name": "怪诞剧院",
+      "level": "IN 15.7",
+      "difficulty": 15.7,
+      "charter": "至尊小晴",
+      "composer": "虹羽RFeather",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3215fd3c-3971-4e79-a2b3-b52febdd38bb",
+      "preview": "https://phira.5wyxi.com/files/908dd857-ec8e-461e-8ec2-0d815d0ede2c",
+      "file": "https://phira.5wyxi.com/files/788eed66-47b9-4faa-8f27-50893ac15649",
+      "uploader": 2907280,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.86962265,
+      "ratingCount": 0,
+      "created": "2026-09-22T08:32:05.859862Z",
+      "updated": "2026-09-23T09:42:08.076249271Z",
+      "chartUpdated": "2026-09-22T08:32:05.859862Z"
+    },
+    {
+      "id": 78729,
+      "name": "「ごはん食べヨ」",
+      "level": "IN Lv.13",
+      "difficulty": 13.300001,
+      "charter": "Rabbit'×'Kamik",
+      "composer": "Mega Shinnosuke",
+      "illustrator": "野原广志的午餐流派",
+      "description": "好好吃饭！\n谱师本人上传\n记得调延迟哦，+50",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8ec0ad11-4e64-40c0-958a-4f3523a4f98c",
+      "preview": "https://phira.5wyxi.com/files/7dd29843-2079-4911-91e7-f38f62adf495",
+      "file": "https://phira.5wyxi.com/files/ed42a19f-2eaf-4a6b-aedf-43521e21f592",
+      "uploader": 712788,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9154581,
+      "ratingCount": 1,
+      "created": "2026-09-23T05:15:18.138854Z",
+      "updated": "2026-09-23T09:40:22.066299Z",
+      "chartUpdated": "2026-09-23T05:15:18.138854Z"
+    },
+    {
+      "id": 78723,
+      "name": "Straight into the lights",
+      "level": "IN",
+      "difficulty": 16.1,
+      "charter": "xs",
+      "composer": "Cosmograph",
+      "illustrator": "SEGA",
+      "description": "第四个谱面！如果有任何意见建议请在b站账号-xxxXSsss-的谱面演示视频提出，谢谢大家！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/83699c76-ad21-40d4-b354-07200d2dbd17",
+      "preview": "https://phira.5wyxi.com/files/1c046107-c041-4d58-aeee-9ae7f1d76150",
+      "file": "https://phira.5wyxi.com/files/a5ddcbe1-0a41-40c3-b13a-2896dfaa87a1",
+      "uploader": 159994,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8466971,
+      "ratingCount": 0,
+      "created": "2026-09-23T03:40:22.301884Z",
+      "updated": "2026-09-23T09:40:11.822885355Z",
+      "chartUpdated": "2026-09-23T03:40:22.301884Z"
+    },
     {
       "id": 78518,
       "name": "Syro",
@@ -21,7 +203,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9106987,
+      "rating": 0.9112324,
       "ratingCount": 21,
       "created": "2026-09-19T13:09:46.920384Z",
       "updated": "2026-09-22T14:39:56.181651Z",
@@ -47,7 +229,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.772721,
+      "rating": 0.72766703,
       "ratingCount": 4,
       "created": "2026-09-21T11:35:38.828137Z",
       "updated": "2026-09-22T14:33:22.421676Z",
@@ -73,7 +255,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9526467,
+      "rating": 0.9443636,
       "ratingCount": 8,
       "created": "2026-09-21T17:49:02.868601Z",
       "updated": "2026-09-22T14:32:16.353438Z",
@@ -99,7 +281,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8018367,
+      "rating": 0.82512814,
       "ratingCount": 4,
       "created": "2026-09-21T11:39:26.361189Z",
       "updated": "2026-09-22T14:31:28.259634Z",
@@ -125,7 +307,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.79313713,
+      "rating": 0.7918654,
       "ratingCount": 6,
       "created": "2026-09-21T01:18:50.949499Z",
       "updated": "2026-09-22T14:31:17.176940Z",
@@ -151,7 +333,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9278241,
+      "rating": 0.9306656,
       "ratingCount": 59,
       "created": "2026-09-20T23:41:33.815792Z",
       "updated": "2026-09-22T14:31:06.701952Z",
@@ -177,7 +359,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8545219,
+      "rating": 0.883592,
       "ratingCount": 8,
       "created": "2026-09-21T22:31:05.640598Z",
       "updated": "2026-09-22T14:15:53.385227Z",
@@ -204,7 +386,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.91932434,
+      "rating": 0.9181629,
       "ratingCount": 300,
       "created": "2026-09-20T02:49:23.113521Z",
       "updated": "2026-09-21T15:23:09.739368Z",
@@ -230,7 +412,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9262456,
+      "rating": 0.9268858,
       "ratingCount": 66,
       "created": "2026-09-11T05:07:04.626442Z",
       "updated": "2026-09-21T15:19:58.771272Z",
@@ -256,7 +438,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9244082,
+      "rating": 0.9325588,
       "ratingCount": 272,
       "created": "2026-09-21T10:55:32.449033Z",
       "updated": "2026-09-21T10:56:35.093884Z",
@@ -282,7 +464,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9250197,
+      "rating": 0.9235451,
       "ratingCount": 72,
       "created": "2026-09-21T04:46:35.079752Z",
       "updated": "2026-09-21T09:33:14.739364Z",
@@ -309,7 +491,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.9289995,
+      "rating": 0.93277204,
       "ratingCount": 95,
       "created": "2026-09-20T07:49:40.539669Z",
       "updated": "2026-09-21T07:43:05.418220Z",
@@ -335,7 +517,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9385486,
+      "rating": 0.94141465,
       "ratingCount": 196,
       "created": "2026-09-21T07:31:35.173554Z",
       "updated": "2026-09-21T07:39:24.724501Z",
@@ -361,7 +543,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.785359,
+      "rating": 0.798656,
       "ratingCount": 82,
       "created": "2026-09-19T12:43:42.434724Z",
       "updated": "2026-09-20T14:42:34.402464Z",
@@ -387,7 +569,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.97010857,
+      "rating": 0.9674498,
       "ratingCount": 780,
       "created": "2026-09-11T15:54:03.676653Z",
       "updated": "2026-09-20T14:02:57.073990Z",
@@ -415,7 +597,7 @@
         "maimaiDX",
         "regular"
       ],
-      "rating": 0.93018925,
+      "rating": 0.9301803,
       "ratingCount": 8532,
       "created": "2024-02-03T13:37:33.751759Z",
       "updated": "2026-09-20T13:50:39.501874Z",
@@ -441,7 +623,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9181358,
+      "rating": 0.9223848,
       "ratingCount": 51,
       "created": "2026-09-10T13:42:43.919179Z",
       "updated": "2026-09-20T10:45:48.827700Z",
@@ -467,7 +649,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7562098,
+      "rating": 0.73975736,
       "ratingCount": 34,
       "created": "2026-09-13T02:34:41.203562Z",
       "updated": "2026-09-20T10:43:12.147082Z",
@@ -498,7 +680,7 @@
         "miku",
         "regular"
       ],
-      "rating": 0.8949089,
+      "rating": 0.89753515,
       "ratingCount": 165,
       "created": "2026-09-20T00:44:22.750447Z",
       "updated": "2026-09-20T09:56:55.387094Z",
@@ -525,7 +707,7 @@
         "BOF2017",
         "regular"
       ],
-      "rating": 0.88995284,
+      "rating": 0.8878173,
       "ratingCount": 147,
       "created": "2026-09-19T17:21:25.420700Z",
       "updated": "2026-09-20T09:33:19.731544Z",
@@ -551,7 +733,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8815637,
+      "rating": 0.8914587,
       "ratingCount": 114,
       "created": "2026-09-19T05:53:01.566198Z",
       "updated": "2026-09-19T15:34:01.123220Z",
@@ -577,7 +759,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.913944,
+      "rating": 0.9160315,
       "ratingCount": 110,
       "created": "2026-09-19T08:57:18.442024Z",
       "updated": "2026-09-19T14:19:39.656849Z",
@@ -603,193 +785,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8007207,
+      "rating": 0.7868506,
       "ratingCount": 68,
       "created": "2026-09-19T03:48:55.126307Z",
       "updated": "2026-09-19T13:50:49.561277Z",
       "chartUpdated": "2026-09-19T03:48:55.126307Z"
-    },
-    {
-      "id": 78471,
-      "name": "别把夏天关掉",
-      "level": "IN  Lv.13",
-      "difficulty": 13.900001,
-      "charter": "芣苢子fuyi × Clarity",
-      "composer": "乐小君 feat.洛天依",
-      "illustrator": "乐小君",
-      "description": "@OldNoob#32579",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/a9736109-79f4-4a34-879e-05994b46f00c",
-      "preview": "https://phira.5wyxi.com/files/dcbba357-a725-4652-b2b9-6e17629ef546",
-      "file": "https://phira.5wyxi.com/files/4f5cc9eb-00d3-45f6-8c19-52cbc5ce8ccd",
-      "uploader": 2697302,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.94383055,
-      "ratingCount": 460,
-      "created": "2026-09-19T08:09:19.461194Z",
-      "updated": "2026-09-19T10:17:53.612777Z",
-      "chartUpdated": "2026-09-19T08:09:19.461194Z"
-    },
-    {
-      "id": 78321,
-      "name": "Garakuta Doll Play",
-      "level": "ADVANCED Lv.13.1",
-      "difficulty": 13.1,
-      "charter": "五星上将sxx",
-      "composer": "t+pazolite",
-      "illustrator": "maimai © SEGA",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8850240e-884c-4a66-b091-b9d141560843",
-      "preview": "https://phira.5wyxi.com/files/ca7f281c-308b-4113-9283-8dd347c85239",
-      "file": "https://phira.5wyxi.com/files/90e78096-9a96-4bf3-9d6e-ebedb04fa139",
-      "uploader": 1313858,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9259762,
-      "ratingCount": 114,
-      "created": "2026-09-17T16:11:59.873477Z",
-      "updated": "2026-09-19T06:25:48.451025Z",
-      "chartUpdated": "2026-09-17T16:11:59.873477Z"
-    },
-    {
-      "id": 78429,
-      "name": "13 Donkeys",
-      "level": "IN Lv.14",
-      "difficulty": 14.800003,
-      "charter": "神曲，我懂得欣赏",
-      "composer": "Massive New Krew",
-      "illustrator": "www.nipic.com/show/24965305.html",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/634af8de-51d9-4587-9502-ff942217db08",
-      "preview": "https://phira.5wyxi.com/files/5f56172b-3ec7-4632-be9e-cc8a1aa70165",
-      "file": "https://phira.5wyxi.com/files/93885228-d44b-450a-902d-57ce3e4a4cae",
-      "uploader": 540194,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.84284085,
-      "ratingCount": 33,
-      "created": "2026-09-19T03:50:53.599060Z",
-      "updated": "2026-09-19T04:19:18.588066Z",
-      "chartUpdated": "2026-09-19T03:50:53.599060Z"
-    },
-    {
-      "id": 78421,
-      "name": "どうにかなっちゃいそう！",
-      "level": "IN  Lv.15",
-      "difficulty": 15.300001,
-      "charter": "YanY",
-      "composer": "NOMELON NOLEMON",
-      "illustrator": "暗闇まよい",
-      "description": "PFM 5th Cup用谱，创作于5月初。\r\n————————————\r\n本人上传，B站@超爱吃盐的盐盐",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/75871f5b-025f-4fe6-8a7c-40163aaa9902",
-      "preview": "https://phira.5wyxi.com/files/156b238f-9f47-4d90-a6ce-6c8cfd50b769",
-      "file": "https://phira.5wyxi.com/files/226b197e-471c-417a-9c92-87b92ddd292c",
-      "uploader": 471275,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9364013,
-      "ratingCount": 240,
-      "created": "2026-09-19T03:13:03.512371Z",
-      "updated": "2026-09-19T03:20:12.504091Z",
-      "chartUpdated": "2026-09-19T03:13:03.512371Z"
-    },
-    {
-      "id": 78356,
-      "name": "狐狸の精(冰火歌会ver.)",
-      "level": "IN  Lv.15",
-      "difficulty": 15.900003,
-      "charter": "绿龙精和喵酱精",
-      "composer": "黎歌Neeko&雪狐桑",
-      "illustrator": "冰火歌会",
-      "description": "BPM230底力谱喵\n和@生肖大绿龙#249934(主要配置)的合作谱喵\n曲名“の”属于曲名一部分，请忽略",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/074a5998-7233-4e4b-a5fc-045b5d438b62",
-      "preview": "https://phira.5wyxi.com/files/8da3be44-b45e-455e-a31f-57de679bbb2f",
-      "file": "https://phira.5wyxi.com/files/1c572115-7f63-4850-a189-a876ac512b8b",
-      "uploader": 1494944,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8651413,
-      "ratingCount": 70,
-      "created": "2026-09-18T12:42:53.784863Z",
-      "updated": "2026-09-19T02:49:09.673485Z",
-      "chartUpdated": "2026-09-18T12:42:53.784863Z"
-    },
-    {
-      "id": 16069,
-      "name": "Reindeers Gifts",
-      "level": "IN Lv.15",
-      "difficulty": 15.500021,
-      "charter": "TenE",
-      "composer": "Cheetah Mobile",
-      "illustrator": "",
-      "description": "初作",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/562f6589-fd4e-4ce5-a768-5eb4a5de2d5e",
-      "preview": "https://phira.5wyxi.com/files/ef327859-4551-402b-b07d-c5ab536c6390",
-      "file": "https://phira.5wyxi.com/files/389e3dc4-4b1f-49c4-bb0f-52e362a2a0e1",
-      "uploader": 296920,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.78311706,
-      "ratingCount": 82,
-      "created": "2024-02-18T15:23:32.910052Z",
-      "updated": "2026-09-19T02:33:49.029231Z",
-      "chartUpdated": "2024-02-18T15:23:32.910052Z"
-    },
-    {
-      "id": 78377,
-      "name": "せかいから____がきえるとき",
-      "level": "IN Lv.15",
-      "difficulty": 15.799999,
-      "charter": "高高",
-      "composer": "DJ Raisei",
-      "illustrator": "ウオ",
-      "description": "曲名：せかいから____がきえるとき\n曲师：DJ Raisei\n谱师：高高\n画师：ウオ\n难度：IN Lv.15(15.8)\n物量：1691\n事件数：12542\n谱师本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4b0368b1-b279-4cb2-b7a7-30947e6e3429",
-      "preview": "https://phira.5wyxi.com/files/eb84792c-67ab-4406-b3b1-52c00ef71af2",
-      "file": "https://phira.5wyxi.com/files/4d494b59-4421-4f13-8450-111efa76022a",
-      "uploader": 1138436,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.89452195,
-      "ratingCount": 87,
-      "created": "2026-09-18T14:57:29.538500Z",
-      "updated": "2026-09-18T16:44:47.569016Z",
-      "chartUpdated": "2026-09-18T14:57:29.538500Z"
     }
   ]
 }
