@@ -1,6 +1,34 @@
 {
-  "count": 3324,
+  "count": 3325,
   "results": [
+    {
+      "id": 77493,
+      "name": "Exitium",
+      "level": "AT Lv.19",
+      "difficulty": 19.0,
+      "charter": "一轮血月映晴空",
+      "composer": "Laur",
+      "illustrator": "",
+      "description": "Ciallo～(∠・ω< )⌒☆，谱师本人上传，第一次写19，个人第四张纯配置键盘谱，谱师B站@一轮血月映晴空",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/94bc184f-eeb0-4b66-8d08-baf8d37c0c61",
+      "preview": "https://phira.5wyxi.com/files/5c64bc4c-6822-4dee-a69f-6cfc7b5cd60a",
+      "file": "https://phira.5wyxi.com/files/2a1f26f7-0307-4826-871e-aff22c4a2e65",
+      "uploader": 599898,
+      "tags": [
+        "高难",
+        "键盘",
+        "plain"
+      ],
+      "rating": 0.85104,
+      "ratingCount": 6,
+      "created": "2026-09-08T04:54:13.726290Z",
+      "updated": "2026-09-25T03:45:55.575255Z",
+      "chartUpdated": "2026-09-08T04:54:13.726290Z"
+    },
     {
       "id": 78281,
       "name": "Angel's Fake",
@@ -21,8 +49,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94009185,
-      "ratingCount": 53,
+      "rating": 0.94821405,
+      "ratingCount": 175,
       "created": "2026-09-17T08:45:46.258301Z",
       "updated": "2026-09-21T09:54:43.236359Z",
       "chartUpdated": "2026-09-17T08:45:46.258301Z"
@@ -47,7 +75,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9437803,
+      "rating": 0.93069845,
       "ratingCount": 20,
       "created": "2026-09-06T11:06:51.356549Z",
       "updated": "2026-09-20T09:19:47.358191Z",
@@ -74,8 +102,8 @@
         "EuphoricHardstyle",
         "plain"
       ],
-      "rating": 0.86983716,
-      "ratingCount": 8,
+      "rating": 0.87959594,
+      "ratingCount": 12,
       "created": "2026-09-19T14:44:07.962950Z",
       "updated": "2026-09-20T09:14:53.529282Z",
       "chartUpdated": "2026-09-19T14:44:07.962950Z"
@@ -100,8 +128,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90177435,
-      "ratingCount": 35,
+      "rating": 0.91060096,
+      "ratingCount": 50,
       "created": "2026-09-18T04:04:38.123067Z",
       "updated": "2026-09-19T11:49:32.409800Z",
       "chartUpdated": "2026-09-18T04:04:38.123067Z"
@@ -129,8 +157,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9018234,
-      "ratingCount": 11,
+      "rating": 0.9068022,
+      "ratingCount": 15,
       "created": "2026-09-14T12:43:35.785355Z",
       "updated": "2026-09-18T06:01:46.056031Z",
       "chartUpdated": "2026-09-14T12:43:35.785355Z"
@@ -155,8 +183,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.901819,
-      "ratingCount": 25,
+      "rating": 0.9070138,
+      "ratingCount": 33,
       "created": "2026-09-16T15:46:38.662349Z",
       "updated": "2026-09-17T12:49:12.462394Z",
       "chartUpdated": "2026-09-16T15:46:38.662349Z"
@@ -181,8 +209,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92940235,
-      "ratingCount": 36,
+      "rating": 0.9300131,
+      "ratingCount": 44,
       "created": "2026-09-04T12:13:17.799112Z",
       "updated": "2026-09-16T14:16:56.277533Z",
       "chartUpdated": "2026-09-04T12:13:17.799112Z"
@@ -207,8 +235,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8912583,
-      "ratingCount": 72,
+      "rating": 0.89876413,
+      "ratingCount": 82,
       "created": "2026-09-15T12:23:22.830761Z",
       "updated": "2026-09-16T09:23:49.130221Z",
       "chartUpdated": "2026-09-15T12:23:22.830761Z"
@@ -261,7 +289,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9236269,
+      "rating": 0.9246298,
       "ratingCount": 40,
       "created": "2025-12-13T05:09:33.831145Z",
       "updated": "2026-09-14T13:35:58.869586Z",
@@ -341,7 +369,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.93140846,
+      "rating": 0.9318092,
       "ratingCount": 104,
       "created": "2025-11-15T15:01:19.181163Z",
       "updated": "2026-09-14T13:30:05.518837Z",
@@ -367,7 +395,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9414044,
+      "rating": 0.9466522,
       "ratingCount": 74,
       "created": "2025-11-19T01:28:54.368372Z",
       "updated": "2026-09-14T08:40:33.708514Z",
@@ -421,8 +449,8 @@
         "5K",
         "plain"
       ],
-      "rating": 0.92859596,
-      "ratingCount": 74,
+      "rating": 0.93026894,
+      "ratingCount": 80,
       "created": "2026-09-12T07:34:14.326112Z",
       "updated": "2026-09-12T13:46:52.896777Z",
       "chartUpdated": "2026-09-12T07:34:14.326112Z"
@@ -448,8 +476,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.91242725,
-      "ratingCount": 16,
+      "rating": 0.91881377,
+      "ratingCount": 22,
       "created": "2026-09-11T05:42:27.119802Z",
       "updated": "2026-09-12T11:58:03.404343Z",
       "chartUpdated": "2026-09-11T05:42:27.119802Z"
@@ -478,7 +506,7 @@
         "plain"
       ],
       "rating": 0.8478305,
-      "ratingCount": 5,
+      "ratingCount": 6,
       "created": "2026-09-12T07:48:39.927062Z",
       "updated": "2026-09-12T09:17:38.283205Z",
       "chartUpdated": "2026-09-12T07:48:39.927062Z"
@@ -504,7 +532,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.8402338,
+      "rating": 0.85140115,
       "ratingCount": 58,
       "created": "2025-11-17T11:41:15.737611Z",
       "updated": "2026-09-12T09:17:26.251973Z",
@@ -533,7 +561,7 @@
         "六星门",
         "plain"
       ],
-      "rating": 0.91478705,
+      "rating": 0.9181046,
       "ratingCount": 37,
       "created": "2025-11-15T03:06:25.117678Z",
       "updated": "2026-09-12T08:46:46.246462Z",
@@ -565,7 +593,7 @@
         "绀珠传",
         "plain"
       ],
-      "rating": 0.8408997,
+      "rating": 0.8520769,
       "ratingCount": 12,
       "created": "2025-11-16T04:22:45.552839Z",
       "updated": "2026-09-12T03:19:57.439358Z",
@@ -591,8 +619,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9441023,
-      "ratingCount": 436,
+      "rating": 0.94369835,
+      "ratingCount": 509,
       "created": "2026-09-10T14:48:42.381579Z",
       "updated": "2026-09-11T16:06:18.504476Z",
       "chartUpdated": "2026-09-10T14:48:42.381579Z"
@@ -619,7 +647,7 @@
         "plain"
       ],
       "rating": 0.856128,
-      "ratingCount": 5,
+      "ratingCount": 6,
       "created": "2026-09-11T11:55:32.748141Z",
       "updated": "2026-09-11T13:14:46.200638Z",
       "chartUpdated": "2026-09-11T11:55:32.748141Z"
@@ -649,8 +677,8 @@
         "爆发",
         "plain"
       ],
-      "rating": 0.9251345,
-      "ratingCount": 18,
+      "rating": 0.93041843,
+      "ratingCount": 22,
       "created": "2026-09-10T10:04:27.007149Z",
       "updated": "2026-09-10T12:13:07.944736Z",
       "chartUpdated": "2026-09-10T10:04:27.007149Z"
@@ -675,8 +703,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8898406,
-      "ratingCount": 23,
+      "rating": 0.8973446,
+      "ratingCount": 25,
       "created": "2026-09-10T11:29:49.920094Z",
       "updated": "2026-09-10T11:49:01.237779Z",
       "chartUpdated": "2026-09-10T11:29:49.920094Z"
@@ -701,7 +729,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7206423,
+      "rating": 0.72477514,
       "ratingCount": 8,
       "created": "2025-11-08T14:27:31.337062Z",
       "updated": "2026-09-10T01:47:36.277264Z",
@@ -729,8 +757,8 @@
         "stream",
         "plain"
       ],
-      "rating": 0.94584876,
-      "ratingCount": 38,
+      "rating": 0.9469797,
+      "ratingCount": 43,
       "created": "2026-08-25T03:45:04.894363Z",
       "updated": "2026-09-09T10:10:27.402358Z",
       "chartUpdated": "2026-08-25T03:45:04.894363Z"
@@ -755,7 +783,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8962535,
+      "rating": 0.9072964,
       "ratingCount": 12,
       "created": "2026-09-09T04:18:20.392692Z",
       "updated": "2026-09-09T05:11:54.887001Z",
@@ -781,40 +809,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8870408,
+      "rating": 0.8904433,
       "ratingCount": 28,
       "created": "2026-09-06T06:03:29.515190Z",
       "updated": "2026-09-07T12:28:20.619741Z",
       "chartUpdated": "2026-09-06T06:03:29.515190Z"
-    },
-    {
-      "id": 49334,
-      "name": "NULCTRL",
-      "level": "CLUB Lv.8",
-      "difficulty": 8.0,
-      "charter": "DMF_Chart Team",
-      "composer": "Silentroom",
-      "illustrator": "",
-      "description": "谱师本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1db1e41c-cf00-4d09-9b80-b121b9b419c7",
-      "preview": "https://phira.5wyxi.com/files/a17e081b-d300-47c0-b929-29a626652107",
-      "file": "https://phira.5wyxi.com/files/c38dbdc1-e592-4eb8-8749-76d06b4982d5",
-      "uploader": 1100615,
-      "tags": [
-        "DFC",
-        "Slide",
-        "DMF",
-        "plain"
-      ],
-      "rating": 0.9152289,
-      "ratingCount": 17,
-      "created": "2025-11-21T07:15:49.039035Z",
-      "updated": "2026-09-07T09:31:06.823182Z",
-      "chartUpdated": "2025-11-21T07:15:49.039035Z"
     }
   ]
 }
