@@ -1,6 +1,37 @@
 {
-  "count": 169,
+  "count": 170,
   "results": [
+    {
+      "id": 60236,
+      "name": "BlazinG AIR",
+      "level": "Insane Lv.18",
+      "difficulty": 18.0,
+      "charter": "Ling-578",
+      "composer": "kanone",
+      "illustrator": "",
+      "description": "From CHUNITHM",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/fcd7c5b1-b98e-4cc3-aaaf-4b9820d4198e",
+      "preview": "https://phira.5wyxi.com/files/10a81093-da4d-4d58-9240-dd4ebb3b8eea",
+      "file": "https://phira.5wyxi.com/files/f4510b8c-0701-4ba7-82a5-c103a3f8302b",
+      "uploader": 2158037,
+      "tags": [
+        "DFC",
+        "双指",
+        "CHUNITHM",
+        "中二节奏",
+        "切门永存",
+        "visual"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 1,
+      "created": "2026-06-07T04:47:14.549941Z",
+      "updated": "2026-09-27T07:14:47.845568Z",
+      "chartUpdated": "2026-06-07T04:47:14.549941Z"
+    },
     {
       "id": 67607,
       "name": "19ZZ",
@@ -22,8 +53,8 @@
         "Frums",
         "visual"
       ],
-      "rating": 0.86328155,
-      "ratingCount": 10,
+      "rating": 0.8446154,
+      "ratingCount": 16,
       "created": "2026-07-18T20:57:06.172343Z",
       "updated": "2026-09-14T08:34:36.189090Z",
       "chartUpdated": "2026-07-18T20:57:06.172343Z"
@@ -48,8 +79,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81507707,
-      "ratingCount": 64,
+      "rating": 0.82018435,
+      "ratingCount": 70,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
       "chartUpdated": "2026-08-04T02:57:51.609933Z"
@@ -74,8 +105,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.91935205,
-      "ratingCount": 90937,
+      "rating": 0.91932803,
+      "ratingCount": 92231,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
       "chartUpdated": "2026-07-27T16:42:57.962104Z"
@@ -100,8 +131,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9342689,
-      "ratingCount": 119,
+      "rating": 0.9347946,
+      "ratingCount": 121,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
       "chartUpdated": "2026-07-12T14:52:02.432223Z"
@@ -126,8 +157,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8578391,
-      "ratingCount": 171,
+      "rating": 0.85864294,
+      "ratingCount": 176,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
       "chartUpdated": "2026-06-20T14:05:15.124654Z"
@@ -152,8 +183,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7905344,
-      "ratingCount": 185,
+      "rating": 0.7916669,
+      "ratingCount": 186,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
       "chartUpdated": "2026-04-24T11:43:14.975975Z"
@@ -179,7 +210,7 @@
         "visual"
       ],
       "rating": 0.8754951,
-      "ratingCount": 126,
+      "ratingCount": 128,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
       "chartUpdated": "2026-04-18T03:14:16.485499Z"
@@ -204,8 +235,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81025964,
-      "ratingCount": 433,
+      "rating": 0.8100182,
+      "ratingCount": 443,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
       "chartUpdated": "2026-04-02T01:53:56.151166Z"
@@ -259,7 +290,7 @@
         "visual"
       ],
       "rating": 0.86324155,
-      "ratingCount": 166,
+      "ratingCount": 169,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
       "chartUpdated": "2026-03-01T07:33:06.760383Z"
@@ -341,7 +372,7 @@
         "visual"
       ],
       "rating": 0.8133897,
-      "ratingCount": 524,
+      "ratingCount": 534,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
       "chartUpdated": "2026-02-13T07:01:51.207298Z"
@@ -394,8 +425,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8575697,
-      "ratingCount": 30,
+      "rating": 0.85065985,
+      "ratingCount": 42,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-01-31T12:08:54.911616Z",
       "chartUpdated": "2026-01-31T12:08:54.911616Z"
@@ -421,7 +452,7 @@
         "visual"
       ],
       "rating": 0.8778365,
-      "ratingCount": 972,
+      "ratingCount": 979,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
       "chartUpdated": "2026-01-23T10:04:04.163379Z"
@@ -505,7 +536,7 @@
         "visual"
       ],
       "rating": 0.87258303,
-      "ratingCount": 29,
+      "ratingCount": 31,
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
@@ -533,8 +564,8 @@
         "4K",
         "visual"
       ],
-      "rating": 0.68172914,
-      "ratingCount": 921,
+      "rating": 0.68158334,
+      "ratingCount": 939,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
       "chartUpdated": "2026-01-17T06:34:21.824030Z"
@@ -566,8 +597,8 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.8671003,
-      "ratingCount": 263,
+      "rating": 0.8675985,
+      "ratingCount": 267,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
       "chartUpdated": "2026-01-17T04:43:27.259439Z"
@@ -619,7 +650,7 @@
         "visual"
       ],
       "rating": 0.82751554,
-      "ratingCount": 132,
+      "ratingCount": 134,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
       "chartUpdated": "2026-01-09T15:29:00.998126Z"
@@ -644,8 +675,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81469655,
-      "ratingCount": 186,
+      "rating": 0.8141204,
+      "ratingCount": 187,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
       "chartUpdated": "2025-12-25T11:40:39.484054Z"
@@ -697,8 +728,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.94956815,
-      "ratingCount": 566,
+      "rating": 0.9492541,
+      "ratingCount": 571,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
@@ -723,8 +754,8 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.72902745,
-      "ratingCount": 496,
+      "rating": 0.72991765,
+      "ratingCount": 501,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
       "chartUpdated": "2025-12-06T15:38:20.222075Z"
@@ -750,7 +781,7 @@
         "visual"
       ],
       "rating": 0.89202833,
-      "ratingCount": 358,
+      "ratingCount": 362,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
@@ -775,37 +806,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.848927,
-      "ratingCount": 238,
+      "rating": 0.84955883,
+      "ratingCount": 240,
       "created": "2025-11-28T13:26:52.363537Z",
       "updated": "2025-11-28T13:26:52.363537Z",
       "chartUpdated": "2025-11-28T13:26:52.363537Z"
-    },
-    {
-      "id": 49443,
-      "name": "this is what winter feels like",
-      "level": "AT Lv.17",
-      "difficulty": 17.2,
-      "charter": "小光",
-      "composer": "JVKE",
-      "illustrator": "",
-      "description": "第一次写17，肯定有很多不好的地方，本谱脑裂部分较多，做好准备哦",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e35aa0b0-8b52-4547-916d-a85f61069fb0",
-      "preview": "https://phira.5wyxi.com/files/c588ebc9-6352-4fa0-af1c-1d472a5b6101",
-      "file": "https://phira.5wyxi.com/files/6b66b5b1-c947-42c3-a34b-4bef5153cf83",
-      "uploader": 1751106,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.89145905,
-      "ratingCount": 66,
-      "created": "2025-11-23T06:03:03.672667Z",
-      "updated": "2025-11-23T06:03:03.672667Z",
-      "chartUpdated": "2025-11-23T06:03:03.672667Z"
     }
   ]
 }
