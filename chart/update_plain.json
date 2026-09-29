@@ -1,5 +1,5 @@
 {
-  "count": 3358,
+  "count": 3357,
   "results": [
     {
       "id": 79182,
@@ -21,7 +21,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8478305,
       "ratingCount": 1,
       "created": "2026-09-26T14:33:59.285168Z",
       "updated": "2026-09-27T14:18:02.179040Z",
@@ -47,37 +47,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87541044,
+      "rating": 0.90530187,
       "ratingCount": 11,
       "created": "2026-09-23T17:52:33.035320Z",
       "updated": "2026-09-27T10:53:48.763494Z",
       "chartUpdated": "2026-09-23T17:52:33.035320Z"
-    },
-    {
-      "id": 78929,
-      "name": "AiAe",
-      "level": "SHD",
-      "difficulty": 17.0,
-      "charter": "RJHXHX",
-      "composer": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
-      "illustrator": "Convert by MVP",
-      "description": "一张以切为主带点面的谱，做了一些对于自己习惯的的改变\nB站关注 喵尾草_Official",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c994bb46-cc7e-4553-a799-e218bbbf9940",
-      "preview": "https://phira.5wyxi.com/files/fbe1a224-8798-4f10-879c-d747bf78082b",
-      "file": "https://phira.5wyxi.com/files/4f1eb53b-3687-4f56-9785-37eaf3415826",
-      "uploader": 124261,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.7482895,
-      "ratingCount": 1,
-      "created": "2026-09-25T04:55:16.063780Z",
-      "updated": "2026-09-27T10:15:43.064732Z",
-      "chartUpdated": "2026-09-25T04:55:16.063780Z"
     },
     {
       "id": 49574,
@@ -99,7 +73,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7490508,
+      "rating": 0.8112681,
       "ratingCount": 4,
       "created": "2025-11-29T03:23:52.106929Z",
       "updated": "2026-09-27T10:02:23.431429Z",
@@ -151,7 +125,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.8620138,
       "ratingCount": 4,
       "created": "2025-11-28T08:26:21.381307Z",
       "updated": "2026-09-27T09:30:19.756965Z",
@@ -257,7 +231,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8858313,
+      "rating": 0.9022731,
       "ratingCount": 15,
       "created": "2026-08-16T10:47:18.911421Z",
       "updated": "2026-09-27T08:25:25.560987Z",
@@ -284,7 +258,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.82401294,
+      "rating": 0.8447059,
       "ratingCount": 4,
       "created": "2026-08-15T04:25:08.959498Z",
       "updated": "2026-09-27T08:21:56.213710Z",
@@ -310,7 +284,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.8257282,
       "ratingCount": 2,
       "created": "2026-08-28T05:34:19.698082Z",
       "updated": "2026-09-27T07:32:42.951259Z",
@@ -338,7 +312,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.83321184,
+      "rating": 0.8478305,
       "ratingCount": 5,
       "created": "2026-08-07T09:57:53.956381Z",
       "updated": "2026-09-27T07:27:51.359137Z",
@@ -364,7 +338,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84553653,
+      "rating": 0.9005906,
       "ratingCount": 5,
       "created": "2026-07-29T08:40:37.720181Z",
       "updated": "2026-09-27T07:24:04.554925Z",
@@ -390,7 +364,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8732863,
+      "rating": 0.8817029,
       "ratingCount": 8,
       "created": "2026-07-28T09:45:51.758049Z",
       "updated": "2026-09-27T07:23:16.522715Z",
@@ -416,7 +390,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.74613625,
+      "rating": 0.7702763,
       "ratingCount": 3,
       "created": "2026-05-20T00:10:29.135452Z",
       "updated": "2026-09-27T07:14:24.902432Z",
@@ -442,7 +416,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7267729,
+      "rating": 0.74324805,
       "ratingCount": 4,
       "created": "2026-05-12T07:08:46.864050Z",
       "updated": "2026-09-27T07:14:11.887193Z",
@@ -470,7 +444,7 @@
         "camellia",
         "plain"
       ],
-      "rating": 0.72327,
+      "rating": 0.7524911,
       "ratingCount": 3,
       "created": "2026-04-22T12:47:23.987362Z",
       "updated": "2026-09-27T07:11:56.287175Z",
@@ -496,7 +470,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.68811405,
+      "rating": 0.70359933,
       "ratingCount": 14,
       "created": "2026-04-15T16:00:54.432464Z",
       "updated": "2026-09-27T07:11:33.451372Z",
@@ -522,7 +496,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.755949,
+      "rating": 0.7525544,
       "ratingCount": 2,
       "created": "2026-04-08T04:47:47.164843Z",
       "updated": "2026-09-27T07:11:18.882454Z",
@@ -548,7 +522,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.856128,
+      "rating": 0.870769,
       "ratingCount": 5,
       "created": "2026-03-12T23:59:38.126097Z",
       "updated": "2026-09-27T07:10:01.845131Z",
@@ -574,7 +548,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79227245,
+      "rating": 0.84372836,
       "ratingCount": 5,
       "created": "2026-02-25T07:13:46.624166Z",
       "updated": "2026-09-27T07:09:45.162489Z",
@@ -600,7 +574,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7571009,
+      "rating": 0.77017736,
       "ratingCount": 12,
       "created": "2026-02-23T11:10:30.800130Z",
       "updated": "2026-09-27T07:09:34.480796Z",
@@ -626,7 +600,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2026-02-21T18:09:34.027132Z",
       "updated": "2026-09-27T07:09:23.033831Z",
@@ -652,7 +626,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.73891383,
+      "rating": 0.7604506,
       "ratingCount": 5,
       "created": "2026-02-19T14:26:14.455465Z",
       "updated": "2026-09-27T07:08:56.954323Z",
@@ -704,7 +678,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89492923,
+      "rating": 0.92396104,
       "ratingCount": 9,
       "created": "2026-02-14T11:28:34.326102Z",
       "updated": "2026-09-27T07:07:59.580583Z",
@@ -732,7 +706,7 @@
         "切",
         "plain"
       ],
-      "rating": 0.88272274,
+      "rating": 0.91192687,
       "ratingCount": 13,
       "created": "2026-02-14T13:17:27.747193Z",
       "updated": "2026-09-27T07:07:37.564855Z",
@@ -758,7 +732,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8500916,
+      "rating": 0.84764564,
       "ratingCount": 9,
       "created": "2026-02-11T17:43:12.978511Z",
       "updated": "2026-09-27T07:07:23.847205Z",
@@ -789,6 +763,33 @@
       "created": "2025-11-29T04:15:48.330075Z",
       "updated": "2026-09-27T07:06:41.352411Z",
       "chartUpdated": "2025-11-29T04:15:48.330075Z"
+    },
+    {
+      "id": 49533,
+      "name": "Non-Melodic Ragez",
+      "level": "DE Lv.毁灭",
+      "difficulty": 20.0,
+      "charter": "是昀梦啊it'sYun Meng",
+      "composer": "Normal1zer",
+      "illustrator": "",
+      "description": "新人第三谱，请多多指教，B站UID:3493291223943402",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d4a65975-0911-4fac-bd86-a352a7cba8fa",
+      "preview": "https://phira.5wyxi.com/files/a8588d5c-55a6-449f-a138-9dadad8ae0f6",
+      "file": "https://phira.5wyxi.com/files/04ee46d8-6314-4330-aac0-bf0ae57f1e1c",
+      "uploader": 1655962,
+      "tags": [
+        "6k",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 1,
+      "created": "2025-11-28T08:14:29.233660Z",
+      "updated": "2026-09-27T07:06:14.074744Z",
+      "chartUpdated": "2025-11-28T08:14:29.233660Z"
     }
   ]
 }
