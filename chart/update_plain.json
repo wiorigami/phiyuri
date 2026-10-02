@@ -1,6 +1,166 @@
 {
-  "count": 3358,
+  "count": 3362,
   "results": [
+    {
+      "id": 51557,
+      "name": "Jack",
+      "level": "MKTT v1.25",
+      "difficulty": 20.0,
+      "charter": "jhyy",
+      "composer": "jhyy",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/640ee77c-9287-4b10-bcf3-36492800cab1",
+      "preview": "https://phira.5wyxi.com/files/67359621-81f2-47a3-a0dd-41a089ecfbf9",
+      "file": "https://phira.5wyxi.com/files/d6478c79-7c91-42ef-82a7-82e02fbb22d9",
+      "uploader": 2050505,
+      "tags": [
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-01-23T18:25:46.057557Z",
+      "updated": "2026-10-02T02:07:26.132095Z",
+      "chartUpdated": "2026-01-23T18:25:46.057557Z"
+    },
+    {
+      "id": 51184,
+      "name": "オーバーライド（覆写）",
+      "level": "LV.41",
+      "difficulty": 20.0,
+      "charter": "Anianfisul",
+      "composer": "吉田夜世/重音テト",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/19ad0b60-5f4f-4177-8ac7-dd4a4247d682",
+      "preview": "https://phira.5wyxi.com/files/c64e34d0-2010-474b-bfb2-4717d3255b9c",
+      "file": "https://phira.5wyxi.com/files/059a848f-a84a-4b0e-abce-ed91d0d09203",
+      "uploader": 1346676,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7619335,
+      "ratingCount": 0,
+      "created": "2026-01-11T06:56:20.370589Z",
+      "updated": "2026-10-02T02:06:53.303675967Z",
+      "chartUpdated": "2026-01-11T06:56:20.370589Z"
+    },
+    {
+      "id": 51108,
+      "name": "Inverted World",
+      "level": "4K Re:Travel Lv.27",
+      "difficulty": 27.0,
+      "charter": "sixibugugu",
+      "composer": "ARForest",
+      "illustrator": "",
+      "description": "谱师本人转谱后上传\nMalody谱面ID为c150182\nBPM为180\n流速为12.4\n\n---\n\n应该是22年末23年年初左右在Malody写的，23年末传了谱面视频到B站，但因为未取得红名（虽然因为某些原因最后取得了但当时不知情）直到25年11月才上传到Malody，期间对谱面进行了许多微调。\n希望大家多多支持。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/297540e1-bfc9-47ef-ba03-9ce1ac4f8656",
+      "preview": "https://phira.5wyxi.com/files/2de174c6-1d56-46b3-a7b5-ca08c4060e5f",
+      "file": "https://phira.5wyxi.com/files/6d832ec5-e6ac-4990-a38d-4cd4af267424",
+      "uploader": 2031520,
+      "tags": [
+        "4K",
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-01-09T11:37:18.459095Z",
+      "updated": "2026-10-02T02:06:43.603562530Z",
+      "chartUpdated": "2026-01-09T11:37:18.459095Z"
+    },
+    {
+      "id": 50318,
+      "name": "恋ひ恋ふ縁",
+      "level": "IN Lv.13",
+      "difficulty": 13.900003,
+      "charter": "Tempest",
+      "composer": "KOTOKO",
+      "illustrator": "",
+      "description": "新人初谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b000d9a1-e6d9-4e35-aa06-1063b8743d59",
+      "preview": "https://phira.5wyxi.com/files/3214159e-5753-48aa-87d6-a2cc7f2a67b7",
+      "file": "https://phira.5wyxi.com/files/927d7b9c-d659-4a86-aab0-ff968934776d",
+      "uploader": 404456,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2025-12-18T15:40:21.164460Z",
+      "updated": "2026-10-02T02:06:20.391862547Z",
+      "chartUpdated": "2025-12-18T15:40:21.164460Z"
+    },
+    {
+      "id": 40283,
+      "name": "Shuwa_Shuwa_Parfait",
+      "level": "IN",
+      "difficulty": 15.000003,
+      "charter": "danjuan233",
+      "composer": "ななひら",
+      "illustrator": "",
+      "description": "谱师本人上传\n这是优化后的版本\n第一次写谱\nby.bilibili.捣乱蛋卷\n由'久梦'提供建议优化\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e316e755-f481-4081-981e-4bc38d2b6e20",
+      "preview": "https://phira.5wyxi.com/files/5ee08d16-17a3-4e3a-8378-43b48d492102",
+      "file": "https://phira.5wyxi.com/files/9c7bc6a8-2b6b-4af8-9590-679f286d62fe",
+      "uploader": 18088,
+      "tags": [
+        "nanahira",
+        "plain"
+      ],
+      "rating": 0.71090674,
+      "ratingCount": 11,
+      "created": "2025-06-26T11:51:33.851172Z",
+      "updated": "2026-10-02T02:05:33.782226817Z",
+      "chartUpdated": "2025-06-27T11:21:15.056377Z"
+    },
+    {
+      "id": 79618,
+      "name": "BIG SHOT (Camellia Remix)",
+      "level": "Slmple Lv.11",
+      "difficulty": 11.900001,
+      "charter": "DEL-starh",
+      "composer": "Toby Fox&Camellia",
+      "illustrator": "UK",
+      "description": "Zero Horizon考核单曲\n早知道换一个曲了，写死我了\n群1105500142",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2a625459-b3b1-4a73-a363-474642138783",
+      "preview": "https://phira.5wyxi.com/files/b3a94658-2824-45a2-9360-8d20df162623",
+      "file": "https://phira.5wyxi.com/files/105c5854-7bc2-493d-879c-aa405a598564",
+      "uploader": 669384,
+      "tags": [
+        "DFC",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.76758695,
+      "ratingCount": 0,
+      "created": "2026-10-01T08:35:38.245795Z",
+      "updated": "2026-10-02T02:03:23.879974535Z",
+      "chartUpdated": "2026-10-01T08:35:38.245795Z"
+    },
     {
       "id": 79376,
       "name": "Come on, vanish, our future.",
@@ -22,7 +182,7 @@
         "Kanoguti",
         "plain"
       ],
-      "rating": 0.8423025,
+      "rating": 0.90420496,
       "ratingCount": 0,
       "created": "2026-09-28T15:44:42.914901Z",
       "updated": "2026-10-01T00:40:13.473452369Z",
@@ -48,7 +208,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8504025,
       "ratingCount": 0,
       "created": "2026-09-18T13:44:43.306364Z",
       "updated": "2026-09-30T15:15:03.494558697Z",
@@ -74,7 +234,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8817029,
+      "rating": 0.9015215,
       "ratingCount": 10,
       "created": "2026-09-26T14:33:59.285168Z",
       "updated": "2026-09-27T14:18:02.179040Z",
@@ -100,7 +260,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9362211,
+      "rating": 0.9187252,
       "ratingCount": 30,
       "created": "2026-09-23T17:52:33.035320Z",
       "updated": "2026-09-27T10:53:48.763494Z",
@@ -126,7 +286,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8211919,
+      "rating": 0.8115503,
       "ratingCount": 8,
       "created": "2025-11-29T03:23:52.106929Z",
       "updated": "2026-09-27T10:02:23.431429Z",
@@ -152,7 +312,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.76758695,
+      "rating": 0.79426795,
       "ratingCount": 1,
       "created": "2025-11-23T01:22:49.772851Z",
       "updated": "2026-09-27T09:31:28.744289Z",
@@ -178,7 +338,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88391167,
+      "rating": 0.89341927,
       "ratingCount": 9,
       "created": "2025-11-28T08:26:21.381307Z",
       "updated": "2026-09-27T09:30:19.756965Z",
@@ -232,7 +392,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.69771326,
+      "rating": 0.6916632,
       "ratingCount": 2,
       "created": "2026-08-31T01:59:31.841459Z",
       "updated": "2026-09-27T09:16:22.704664Z",
@@ -258,7 +418,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92064863,
+      "rating": 0.9204714,
       "ratingCount": 37,
       "created": "2026-08-16T10:47:18.911421Z",
       "updated": "2026-09-27T08:25:25.560987Z",
@@ -285,7 +445,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.89014757,
+      "rating": 0.8991904,
       "ratingCount": 7,
       "created": "2026-08-15T04:25:08.959498Z",
       "updated": "2026-09-27T08:21:56.213710Z",
@@ -311,7 +471,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8891076,
+      "rating": 0.88708305,
       "ratingCount": 7,
       "created": "2026-08-28T05:34:19.698082Z",
       "updated": "2026-09-27T07:32:42.951259Z",
@@ -339,7 +499,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8956693,
+      "rating": 0.9067715,
       "ratingCount": 7,
       "created": "2026-08-07T09:57:53.956381Z",
       "updated": "2026-09-27T07:27:51.359137Z",
@@ -365,7 +525,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93792886,
+      "rating": 0.94559,
       "ratingCount": 35,
       "created": "2026-07-29T08:40:37.720181Z",
       "updated": "2026-09-27T07:24:04.554925Z",
@@ -391,7 +551,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9027553,
+      "rating": 0.9004874,
       "ratingCount": 15,
       "created": "2026-07-28T09:45:51.758049Z",
       "updated": "2026-09-27T07:23:16.522715Z",
@@ -417,7 +577,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79336566,
+      "rating": 0.7728544,
       "ratingCount": 6,
       "created": "2026-05-20T00:10:29.135452Z",
       "updated": "2026-09-27T07:14:24.902432Z",
@@ -443,7 +603,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7087659,
+      "rating": 0.7299312,
       "ratingCount": 7,
       "created": "2026-05-12T07:08:46.864050Z",
       "updated": "2026-09-27T07:14:11.887193Z",
@@ -471,7 +631,7 @@
         "camellia",
         "plain"
       ],
-      "rating": 0.74969316,
+      "rating": 0.77485085,
       "ratingCount": 4,
       "created": "2026-04-22T12:47:23.987362Z",
       "updated": "2026-09-27T07:11:56.287175Z",
@@ -497,7 +657,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.68494976,
+      "rating": 0.6651028,
       "ratingCount": 17,
       "created": "2026-04-15T16:00:54.432464Z",
       "updated": "2026-09-27T07:11:33.451372Z",
@@ -523,8 +683,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83230233,
-      "ratingCount": 5,
+      "rating": 0.83278084,
+      "ratingCount": 9,
       "created": "2026-04-08T04:47:47.164843Z",
       "updated": "2026-09-27T07:11:18.882454Z",
       "chartUpdated": "2026-04-08T04:47:47.164843Z"
@@ -549,7 +709,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9143137,
+      "rating": 0.9187944,
       "ratingCount": 16,
       "created": "2026-03-12T23:59:38.126097Z",
       "updated": "2026-09-27T07:10:01.845131Z",
@@ -575,7 +735,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8944556,
+      "rating": 0.9152449,
       "ratingCount": 12,
       "created": "2026-02-25T07:13:46.624166Z",
       "updated": "2026-09-27T07:09:45.162489Z",
@@ -601,7 +761,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.77957726,
+      "rating": 0.7969277,
       "ratingCount": 17,
       "created": "2026-02-23T11:10:30.800130Z",
       "updated": "2026-09-27T07:09:34.480796Z",
@@ -632,164 +792,6 @@
       "created": "2026-02-21T18:09:34.027132Z",
       "updated": "2026-09-27T07:09:23.033831Z",
       "chartUpdated": "2026-02-21T18:09:34.027132Z"
-    },
-    {
-      "id": 53007,
-      "name": "MONTAGEM SEM PARA",
-      "level": "IN LV.15",
-      "difficulty": 15.0,
-      "charter": "xr aurora",
-      "composer": "DJ FKU/DJ MOIGUS/DJ PETYA",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/bb9c50fa-8415-4c0e-9513-34ceac2a886b",
-      "preview": "https://phira.5wyxi.com/files/a3aea940-cf26-4d84-b072-34fe26b5da27",
-      "file": "https://phira.5wyxi.com/files/53812c7d-979f-4f56-a73d-e672e9394ec2",
-      "uploader": 1786195,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.78237695,
-      "ratingCount": 8,
-      "created": "2026-02-19T14:26:14.455465Z",
-      "updated": "2026-09-27T07:08:56.954323Z",
-      "chartUpdated": "2026-02-19T14:26:14.455465Z"
-    },
-    {
-      "id": 52905,
-      "name": "だんだん早くなる  LV.12",
-      "level": "LV. 12",
-      "difficulty": 8.0,
-      "charter": "肆肆",
-      "composer": "40mP/初音ミク",
-      "illustrator": "",
-      "description": "噔↑噔↑噔↑   就能ap啦",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/204b308e-b295-48d3-863b-87d49ee3393b",
-      "preview": "https://phira.5wyxi.com/files/1304137c-b314-4610-b18e-0fdc0889f344",
-      "file": "https://phira.5wyxi.com/files/94ae88fb-5c41-42a5-a796-3833cfa69de4",
-      "uploader": 508753,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.75549215,
-      "ratingCount": 4,
-      "created": "2026-02-18T10:10:54.692480Z",
-      "updated": "2026-09-27T07:08:26.687423Z",
-      "chartUpdated": "2026-02-18T10:10:54.692480Z"
-    },
-    {
-      "id": 52657,
-      "name": "Straight into the lights",
-      "level": "4k Lv.21",
-      "difficulty": 20.0,
-      "charter": "ShidoraX",
-      "composer": "Cosmograph",
-      "illustrator": "",
-      "description": "奶龙大战麦当劳是什么歌？",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/456487f9-5f8d-4348-a9b3-25cb4d095fd0",
-      "preview": "https://phira.5wyxi.com/files/322d32b9-0ecd-4a18-afbc-b3543d98323f",
-      "file": "https://phira.5wyxi.com/files/9049b872-7af3-4c71-b34a-c9018224987a",
-      "uploader": 2082892,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9445755,
-      "ratingCount": 25,
-      "created": "2026-02-14T11:28:34.326102Z",
-      "updated": "2026-09-27T07:07:59.580583Z",
-      "chartUpdated": "2026-02-14T11:28:34.326102Z"
-    },
-    {
-      "id": 52667,
-      "name": "彼方へ、名もなき海辺より",
-      "level": "4k Lv.22",
-      "difficulty": 22.0,
-      "charter": "Shidora",
-      "composer": "打打だいず&月乃",
-      "illustrator": "",
-      "description": "好玩的切 大概4~5dan\n本人上传 B站：Shidora喵  欢迎来教我写谱喵！\n最后 祝玩的开心！",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/897d0973-4a3c-4aed-84fb-2bb4326760fc",
-      "preview": "https://phira.5wyxi.com/files/960c72b9-6c93-47b2-a3ff-c01fa87eafac",
-      "file": "https://phira.5wyxi.com/files/e44efc42-b835-4a10-8d25-abb131f838f3",
-      "uploader": 2082892,
-      "tags": [
-        "4k",
-        "切",
-        "plain"
-      ],
-      "rating": 0.9339562,
-      "ratingCount": 30,
-      "created": "2026-02-14T13:17:27.747193Z",
-      "updated": "2026-09-27T07:07:37.564855Z",
-      "chartUpdated": "2026-02-14T13:17:27.747193Z"
-    },
-    {
-      "id": 52475,
-      "name": "うそつきマカロン",
-      "level": "jack ",
-      "difficulty": 21.0,
-      "charter": "XL_rubin",
-      "composer": "暴飲暴食P",
-      "illustrator": "",
-      "description": "本人在这张谱下了很大工夫的（，玩的开心kksk",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/3dbe897b-7e4e-48c0-9378-c268cfa207f8",
-      "preview": "https://phira.5wyxi.com/files/ec4ed6b1-7547-41bc-8439-5da611420df4",
-      "file": "https://phira.5wyxi.com/files/1ea0b78a-6cc0-4321-a118-a4475302d4b1",
-      "uploader": 514754,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8790617,
-      "ratingCount": 19,
-      "created": "2026-02-11T17:43:12.978511Z",
-      "updated": "2026-09-27T07:07:23.847205Z",
-      "chartUpdated": "2026-02-11T17:43:12.978511Z"
-    },
-    {
-      "id": 49576,
-      "name": "回音如果",
-      "level": "IN Lv.16",
-      "difficulty": 16.500002,
-      "charter": "薛定谔の猫",
-      "composer": "黄霄雲",
-      "illustrator": "",
-      "description": "谱师本人，收了说明你有1Dan",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/eacfdef8-5b34-4155-b1dd-36f46e500aae",
-      "preview": "https://phira.5wyxi.com/files/3c16e113-c3b4-433d-856c-314492778b93",
-      "file": "https://phira.5wyxi.com/files/c40ebb31-101b-4e2e-ab99-a5ab64d5703c",
-      "uploader": 1614899,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.7482895,
-      "ratingCount": 0,
-      "created": "2025-11-29T04:15:48.330075Z",
-      "updated": "2026-09-27T07:06:41.352411Z",
-      "chartUpdated": "2025-11-29T04:15:48.330075Z"
     }
   ]
 }
