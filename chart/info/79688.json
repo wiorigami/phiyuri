@@ -1,0 +1,26 @@
+{
+  "chartUpdated": "2026-10-01T13:43:15.658480Z",
+  "charter": "nana",
+  "composer": "打打だいず",
+  "created": "2026-10-01T13:43:15.658480Z",
+  "description": null,
+  "difficulty": 16.5,
+  "file": "https://phira.5wyxi.com/files/b2072a5d-38f3-4fa4-b0c1-50ad8e109ac0",
+  "id": 79688,
+  "illustration": "https://phira.5wyxi.com/files/ea616c1e-519a-4169-ae39-0070a07dd9cb",
+  "illustrator": "",
+  "level": "AT Lv16",
+  "name": "Marshmallow Nyam",
+  "preview": "https://phira.5wyxi.com/files/b5099796-0113-40a9-ab78-2f209b2d201b",
+  "ranked": false,
+  "rating": 0.7997404,
+  "ratingCount": 10,
+  "reviewed": true,
+  "stable": false,
+  "stableRequest": false,
+  "tags": [
+    "regular"
+  ],
+  "updated": "2026-10-02T02:00:28.456844Z",
+  "uploader": 3368611
+}
