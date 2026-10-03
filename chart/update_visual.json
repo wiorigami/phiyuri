@@ -1,6 +1,40 @@
 {
-  "count": 170,
+  "count": 171,
   "results": [
+    {
+      "id": 79472,
+      "name": "Fallen symphony",
+      "level": "邪神る猫敗の",
+      "difficulty": 20.0,
+      "charter": "吹风扇的猫败",
+      "composer": "Ludicin",
+      "illustrator": "riunusk",
+      "description": "猫败退坑谱\n在2025/12开始写谱，直到现在2026/9/30写了53张谱我真的累了，这张谱应该是我唯一一张你们能在这玩到的了（希望一直可以吧），原视频b站搜索吹风扇的猫败",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b77d8a2e-6317-490e-bcd6-0d49fcf30338",
+      "preview": "https://phira.5wyxi.com/files/c20d3910-f67d-4063-a8a5-b13c7cdd5ce4",
+      "file": "https://phira.5wyxi.com/files/e81a1f3e-330a-4589-97b1-95f46b392a07",
+      "uploader": 2360752,
+      "tags": [
+        "超高难",
+        "退坑谱",
+        "Ludicin",
+        "吹风扇的猫败",
+        "故事版",
+        "shader",
+        "大鸽子咕咕咕",
+        "原神启动",
+        "visual"
+      ],
+      "rating": 0.5032785,
+      "ratingCount": 0,
+      "created": "2026-09-30T09:55:25.988502Z",
+      "updated": "2026-10-02T08:16:38.531728500Z",
+      "chartUpdated": "2026-09-30T09:55:25.988502Z"
+    },
     {
       "id": 60236,
       "name": "BlazinG AIR",
@@ -26,7 +60,7 @@
         "切门永存",
         "visual"
       ],
-      "rating": 0.7840579,
+      "rating": 0.80729604,
       "ratingCount": 2,
       "created": "2026-06-07T04:47:14.549941Z",
       "updated": "2026-09-27T07:14:47.845568Z",
@@ -53,7 +87,7 @@
         "Frums",
         "visual"
       ],
-      "rating": 0.8446154,
+      "rating": 0.85181123,
       "ratingCount": 16,
       "created": "2026-07-18T20:57:06.172343Z",
       "updated": "2026-09-14T08:34:36.189090Z",
@@ -79,7 +113,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81288373,
+      "rating": 0.8178516,
       "ratingCount": 70,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
@@ -105,7 +139,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9194338,
+      "rating": 0.9194604,
       "ratingCount": 92562,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -131,7 +165,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9347946,
+      "rating": 0.9353119,
       "ratingCount": 122,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
@@ -157,7 +191,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8604417,
+      "rating": 0.8612133,
       "ratingCount": 176,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
@@ -251,9 +285,9 @@
       "illustrator": "",
       "description": "观赏谱，双人双指可解，谱师本人上传",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
+      "stableRequest": false,
       "illustration": "https://phira.5wyxi.com/files/9a10dddf-a64f-42d8-abcb-0c9673445a0f",
       "preview": "https://phira.5wyxi.com/files/3904d9f8-60e6-432c-9dcb-37908ebb744c",
       "file": "https://phira.5wyxi.com/files/c9cb0952-0c8c-4e68-93cf-7954ba5a7c5c",
@@ -371,7 +405,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.815087,
+      "rating": 0.81522286,
       "ratingCount": 535,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -425,7 +459,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.859442,
+      "rating": 0.86260206,
       "ratingCount": 44,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-01-31T12:08:54.911616Z",
@@ -451,7 +485,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87746763,
+      "rating": 0.87763786,
       "ratingCount": 981,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
@@ -564,7 +598,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.6832912,
+      "rating": 0.6837726,
       "ratingCount": 942,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -597,7 +631,7 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.8682101,
+      "rating": 0.8664443,
       "ratingCount": 267,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
@@ -728,7 +762,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9495241,
+      "rating": 0.9496992,
       "ratingCount": 572,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
@@ -754,7 +788,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.72642356,
+      "rating": 0.72708386,
       "ratingCount": 503,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
@@ -780,37 +814,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8921815,
+      "rating": 0.8927688,
       "ratingCount": 364,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
       "chartUpdated": "2025-11-30T11:58:17.258754Z"
-    },
-    {
-      "id": 49554,
-      "name": "人マニア",
-      "level": "Mania Lv.狂",
-      "difficulty": 10.0,
-      "charter": "MIKU MANIA - UNPLAYABLE",
-      "composer": "原口沙輔 feat. 重音テト",
-      "illustrator": "",
-      "description": "b站谱师@HTNMiku_NewSEKAI 本人自己上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ab0d35c8-5609-4a98-bf71-01544d3e6915",
-      "preview": "https://phira.5wyxi.com/files/18e80fe3-0ad3-40b1-ba6d-fa5f87855082",
-      "file": "https://phira.5wyxi.com/files/f5baeb76-1a9b-49c1-a4fb-f5f17476ba23",
-      "uploader": 1846534,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.84955883,
-      "ratingCount": 240,
-      "created": "2025-11-28T13:26:52.363537Z",
-      "updated": "2025-11-28T13:26:52.363537Z",
-      "chartUpdated": "2025-11-28T13:26:52.363537Z"
     }
   ]
 }

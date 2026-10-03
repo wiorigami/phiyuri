@@ -15,9 +15,9 @@
   "ranked": false,
   "rating": 0.86445737,
   "ratingCount": 29,
-  "reviewed": false,
+  "reviewed": true,
   "stable": false,
-  "stableRequest": true,
+  "stableRequest": false,
   "tags": [
     "双人",
     "双指",
