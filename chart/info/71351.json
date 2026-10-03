@@ -12,15 +12,15 @@
   "level": "IN  Lv.16",
   "name": "Fatum Cantabile",
   "preview": "https://phira.5wyxi.com/files/98970bc4-6f2f-40e5-9b7f-bb038b14a37f",
-  "ranked": false,
-  "rating": 0.9196509,
-  "ratingCount": 411,
-  "reviewed": false,
-  "stable": false,
-  "stableRequest": true,
+  "ranked": true,
+  "rating": 0.92338353,
+  "ratingCount": 615,
+  "reviewed": true,
+  "stable": true,
+  "stableRequest": false,
   "tags": [
     "regular"
   ],
-  "updated": "2026-08-11T16:43:22.986940Z",
+  "updated": "2026-10-02T13:30:58.567242Z",
   "uploader": 344689
 }
