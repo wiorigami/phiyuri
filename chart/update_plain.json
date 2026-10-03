@@ -1,6 +1,35 @@
 {
-  "count": 3362,
+  "count": 3361,
   "results": [
+    {
+      "id": 56172,
+      "name": "雲鶴サクリファイス",
+      "level": "IN Lv.12",
+      "difficulty": 12.0,
+      "charter": "メアサクリファイス",
+      "composer": "Ton Magie&Sun1ight&nakotanmaru",
+      "illustrator": "彩",
+      "description": "@アシェリーペッカー#457677（Yukitsubaki组合-谱师）\n@星辰雪夜#763475（Yukitsubaki组合-录制）\n\n谱师本人上传\nMade by Malody\n旧谱：https://b23.tv/GMgNjT2\n\n2026/10/02 更新谱面\n\n可憐な瞳逸らして 呟くの\n「お別れの日だね…」\n生命の欠片と引き換えに\n手に入れた雀の涙",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/627aa68e-a53c-4234-a0d3-a607d10cf670",
+      "preview": "https://phira.5wyxi.com/files/55464d33-6f71-4f3a-b994-00c80ff2272d",
+      "file": "https://phira.5wyxi.com/files/d60e6098-62f5-4772-af59-83371c6470af",
+      "uploader": 457677,
+      "tags": [
+        "nakotanmaru",
+        "ナナツカゼ",
+        "雲鶴サクリファイス",
+        "plain"
+      ],
+      "rating": 0.9185723,
+      "ratingCount": 172,
+      "created": "2026-04-12T09:33:08.219681Z",
+      "updated": "2026-10-02T05:41:45.953342554Z",
+      "chartUpdated": "2026-10-02T05:41:45.953342554Z"
+    },
     {
       "id": 51557,
       "name": "Jack",
@@ -21,7 +50,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.70769215,
       "ratingCount": 0,
       "created": "2026-01-23T18:25:46.057557Z",
       "updated": "2026-10-02T02:07:26.132095Z",
@@ -47,7 +76,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7619335,
+      "rating": 0.8887631,
       "ratingCount": 0,
       "created": "2026-01-11T06:56:20.370589Z",
       "updated": "2026-10-02T02:06:53.303675967Z",
@@ -74,7 +103,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.9500756,
       "ratingCount": 0,
       "created": "2026-01-09T11:37:18.459095Z",
       "updated": "2026-10-02T02:06:43.603562530Z",
@@ -100,7 +129,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8452362,
       "ratingCount": 0,
       "created": "2025-12-18T15:40:21.164460Z",
       "updated": "2026-10-02T02:06:20.391862547Z",
@@ -127,7 +156,7 @@
         "nanahira",
         "plain"
       ],
-      "rating": 0.71090674,
+      "rating": 0.743724,
       "ratingCount": 11,
       "created": "2025-06-26T11:51:33.851172Z",
       "updated": "2026-10-02T02:05:33.782226817Z",
@@ -155,7 +184,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.76758695,
+      "rating": 0.81567323,
       "ratingCount": 0,
       "created": "2026-10-01T08:35:38.245795Z",
       "updated": "2026-10-02T02:03:23.879974535Z",
@@ -182,7 +211,7 @@
         "Kanoguti",
         "plain"
       ],
-      "rating": 0.90420496,
+      "rating": 0.897439,
       "ratingCount": 0,
       "created": "2026-09-28T15:44:42.914901Z",
       "updated": "2026-10-01T00:40:13.473452369Z",
@@ -208,7 +237,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8504025,
+      "rating": 0.8690693,
       "ratingCount": 0,
       "created": "2026-09-18T13:44:43.306364Z",
       "updated": "2026-09-30T15:15:03.494558697Z",
@@ -234,7 +263,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9015215,
+      "rating": 0.9067715,
       "ratingCount": 10,
       "created": "2026-09-26T14:33:59.285168Z",
       "updated": "2026-09-27T14:18:02.179040Z",
@@ -260,7 +289,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9187252,
+      "rating": 0.91751575,
       "ratingCount": 30,
       "created": "2026-09-23T17:52:33.035320Z",
       "updated": "2026-09-27T10:53:48.763494Z",
@@ -286,7 +315,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8115503,
+      "rating": 0.83073723,
       "ratingCount": 8,
       "created": "2025-11-29T03:23:52.106929Z",
       "updated": "2026-09-27T10:02:23.431429Z",
@@ -338,7 +367,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89341927,
+      "rating": 0.90465945,
       "ratingCount": 9,
       "created": "2025-11-28T08:26:21.381307Z",
       "updated": "2026-09-27T09:30:19.756965Z",
@@ -418,7 +447,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9204714,
+      "rating": 0.9271657,
       "ratingCount": 37,
       "created": "2026-08-16T10:47:18.911421Z",
       "updated": "2026-09-27T08:25:25.560987Z",
@@ -445,7 +474,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8991904,
+      "rating": 0.9038473,
       "ratingCount": 7,
       "created": "2026-08-15T04:25:08.959498Z",
       "updated": "2026-09-27T08:21:56.213710Z",
@@ -471,7 +500,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88708305,
+      "rating": 0.87277704,
       "ratingCount": 7,
       "created": "2026-08-28T05:34:19.698082Z",
       "updated": "2026-09-27T07:32:42.951259Z",
@@ -499,7 +528,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9067715,
+      "rating": 0.91579604,
       "ratingCount": 7,
       "created": "2026-08-07T09:57:53.956381Z",
       "updated": "2026-09-27T07:27:51.359137Z",
@@ -525,7 +554,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94559,
+      "rating": 0.9518299,
       "ratingCount": 35,
       "created": "2026-07-29T08:40:37.720181Z",
       "updated": "2026-09-27T07:24:04.554925Z",
@@ -551,7 +580,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9004874,
+      "rating": 0.90716136,
       "ratingCount": 15,
       "created": "2026-07-28T09:45:51.758049Z",
       "updated": "2026-09-27T07:23:16.522715Z",
@@ -577,7 +606,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7728544,
+      "rating": 0.77496386,
       "ratingCount": 6,
       "created": "2026-05-20T00:10:29.135452Z",
       "updated": "2026-09-27T07:14:24.902432Z",
@@ -631,7 +660,7 @@
         "camellia",
         "plain"
       ],
-      "rating": 0.77485085,
+      "rating": 0.7920713,
       "ratingCount": 4,
       "created": "2026-04-22T12:47:23.987362Z",
       "updated": "2026-09-27T07:11:56.287175Z",
@@ -683,7 +712,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83278084,
+      "rating": 0.8468615,
       "ratingCount": 9,
       "created": "2026-04-08T04:47:47.164843Z",
       "updated": "2026-09-27T07:11:18.882454Z",
@@ -709,7 +738,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9187944,
+      "rating": 0.931661,
       "ratingCount": 16,
       "created": "2026-03-12T23:59:38.126097Z",
       "updated": "2026-09-27T07:10:01.845131Z",
@@ -735,7 +764,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9152449,
+      "rating": 0.9260665,
       "ratingCount": 12,
       "created": "2026-02-25T07:13:46.624166Z",
       "updated": "2026-09-27T07:09:45.162489Z",
@@ -761,37 +790,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7969277,
+      "rating": 0.8062041,
       "ratingCount": 17,
       "created": "2026-02-23T11:10:30.800130Z",
       "updated": "2026-09-27T07:09:34.480796Z",
       "chartUpdated": "2026-02-23T11:10:30.800130Z"
-    },
-    {
-      "id": 53142,
-      "name": "幸せになれる隠しコマンドがあるらしい",
-      "level": "4k Lv.37",
-      "difficulty": 18.4,
-      "charter": "WHQ-IIN",
-      "composer": "うたたP",
-      "illustrator": "",
-      "description": "听说你喜欢打纵？",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2b59fdc6-cdc5-40c2-9232-33176d52b612",
-      "preview": "https://phira.5wyxi.com/files/b95dc062-b97c-4132-9a6b-4b75298ac237",
-      "file": "https://phira.5wyxi.com/files/69716324-d53d-4870-8449-c014013208de",
-      "uploader": 27814,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.80552316,
-      "ratingCount": 2,
-      "created": "2026-02-21T18:09:34.027132Z",
-      "updated": "2026-09-27T07:09:23.033831Z",
-      "chartUpdated": "2026-02-21T18:09:34.027132Z"
     }
   ]
 }
