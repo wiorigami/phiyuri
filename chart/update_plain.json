@@ -1,6 +1,34 @@
 {
-  "count": 3361,
+  "count": 3362,
   "results": [
+    {
+      "id": 79353,
+      "name": "AiAe",
+      "level": "6K[17]Lv.29",
+      "difficulty": 17.0,
+      "charter": "RJHXHX",
+      "composer": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
+      "illustrator": "Convert by MVP",
+      "description": "一张以切为主带点面的谱，做了一些对于自己习惯的的改变\nB站关注 喵尾草_Official",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ec3bc5f7-3706-4562-8301-d3b2f8a4271f",
+      "preview": "https://phira.5wyxi.com/files/dc710ccd-088a-4e7a-bca0-39833683dc57",
+      "file": "https://phira.5wyxi.com/files/f73838d6-a617-4b03-9506-e2bfab29309f",
+      "uploader": 124261,
+      "tags": [
+        "6K",
+        "",
+        "plain"
+      ],
+      "rating": 0.8801934,
+      "ratingCount": 0,
+      "created": "2026-09-28T10:10:02.405006Z",
+      "updated": "2026-10-03T08:18:49.379464652Z",
+      "chartUpdated": "2026-09-28T10:10:02.405006Z"
+    },
     {
       "id": 56172,
       "name": "雲鶴サクリファイス",
@@ -24,7 +52,7 @@
         "雲鶴サクリファイス",
         "plain"
       ],
-      "rating": 0.9185723,
+      "rating": 0.91902995,
       "ratingCount": 172,
       "created": "2026-04-12T09:33:08.219681Z",
       "updated": "2026-10-02T05:41:45.953342554Z",
@@ -76,7 +104,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8887631,
+      "rating": 0.9075862,
       "ratingCount": 0,
       "created": "2026-01-11T06:56:20.370589Z",
       "updated": "2026-10-02T02:06:53.303675967Z",
@@ -103,7 +131,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.9500756,
+      "rating": 0.96107423,
       "ratingCount": 0,
       "created": "2026-01-09T11:37:18.459095Z",
       "updated": "2026-10-02T02:06:43.603562530Z",
@@ -129,7 +157,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8452362,
+      "rating": 0.88025624,
       "ratingCount": 0,
       "created": "2025-12-18T15:40:21.164460Z",
       "updated": "2026-10-02T02:06:20.391862547Z",
@@ -184,7 +212,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.81567323,
+      "rating": 0.83764946,
       "ratingCount": 0,
       "created": "2026-10-01T08:35:38.245795Z",
       "updated": "2026-10-02T02:03:23.879974535Z",
@@ -211,7 +239,7 @@
         "Kanoguti",
         "plain"
       ],
-      "rating": 0.897439,
+      "rating": 0.891679,
       "ratingCount": 0,
       "created": "2026-09-28T15:44:42.914901Z",
       "updated": "2026-10-01T00:40:13.473452369Z",
@@ -237,7 +265,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8690693,
+      "rating": 0.88251835,
       "ratingCount": 0,
       "created": "2026-09-18T13:44:43.306364Z",
       "updated": "2026-09-30T15:15:03.494558697Z",
@@ -289,7 +317,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91751575,
+      "rating": 0.91793174,
       "ratingCount": 30,
       "created": "2026-09-23T17:52:33.035320Z",
       "updated": "2026-09-27T10:53:48.763494Z",
@@ -315,7 +343,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.83073723,
+      "rating": 0.8438433,
       "ratingCount": 8,
       "created": "2025-11-29T03:23:52.106929Z",
       "updated": "2026-09-27T10:02:23.431429Z",
@@ -341,7 +369,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.79426795,
+      "rating": 0.8251449,
       "ratingCount": 1,
       "created": "2025-11-23T01:22:49.772851Z",
       "updated": "2026-09-27T09:31:28.744289Z",
@@ -367,7 +395,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90465945,
+      "rating": 0.91035634,
       "ratingCount": 9,
       "created": "2025-11-28T08:26:21.381307Z",
       "updated": "2026-09-27T09:30:19.756965Z",
@@ -421,7 +449,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.6916632,
+      "rating": 0.6863171,
       "ratingCount": 2,
       "created": "2026-08-31T01:59:31.841459Z",
       "updated": "2026-09-27T09:16:22.704664Z",
@@ -447,7 +475,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9271657,
+      "rating": 0.92209285,
       "ratingCount": 37,
       "created": "2026-08-16T10:47:18.911421Z",
       "updated": "2026-09-27T08:25:25.560987Z",
@@ -474,7 +502,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9038473,
+      "rating": 0.8952692,
       "ratingCount": 7,
       "created": "2026-08-15T04:25:08.959498Z",
       "updated": "2026-09-27T08:21:56.213710Z",
@@ -500,7 +528,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87277704,
+      "rating": 0.8716472,
       "ratingCount": 7,
       "created": "2026-08-28T05:34:19.698082Z",
       "updated": "2026-09-27T07:32:42.951259Z",
@@ -528,7 +556,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.91579604,
+      "rating": 0.9197004,
       "ratingCount": 7,
       "created": "2026-08-07T09:57:53.956381Z",
       "updated": "2026-09-27T07:27:51.359137Z",
@@ -554,7 +582,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9518299,
+      "rating": 0.9532299,
       "ratingCount": 35,
       "created": "2026-07-29T08:40:37.720181Z",
       "updated": "2026-09-27T07:24:04.554925Z",
@@ -580,7 +608,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90716136,
+      "rating": 0.9125859,
       "ratingCount": 15,
       "created": "2026-07-28T09:45:51.758049Z",
       "updated": "2026-09-27T07:23:16.522715Z",
@@ -686,7 +714,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.6651028,
+      "rating": 0.67657447,
       "ratingCount": 17,
       "created": "2026-04-15T16:00:54.432464Z",
       "updated": "2026-09-27T07:11:33.451372Z",
@@ -712,7 +740,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8468615,
+      "rating": 0.8602259,
       "ratingCount": 9,
       "created": "2026-04-08T04:47:47.164843Z",
       "updated": "2026-09-27T07:11:18.882454Z",
@@ -738,7 +766,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.931661,
+      "rating": 0.94052386,
       "ratingCount": 16,
       "created": "2026-03-12T23:59:38.126097Z",
       "updated": "2026-09-27T07:10:01.845131Z",
@@ -764,37 +792,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9260665,
+      "rating": 0.9207113,
       "ratingCount": 12,
       "created": "2026-02-25T07:13:46.624166Z",
       "updated": "2026-09-27T07:09:45.162489Z",
       "chartUpdated": "2026-02-25T07:13:46.624166Z"
-    },
-    {
-      "id": 53249,
-      "name": "Jipper EX",
-      "level": "4K Lv.17",
-      "difficulty": 17.900002,
-      "charter": "Zoom001 & wildcanyon",
-      "composer": "zsry",
-      "illustrator": "",
-      "description": "合作谱捏=ω=。3dan+左右。\n然后就是。写的我好爽啊！！！\n还有没写sv。⊙▽⊙",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ef6d04e1-73dd-45f7-a7f5-85522d5f1e2c",
-      "preview": "https://phira.5wyxi.com/files/6616a534-7405-4bd4-bbf4-41755750e76f",
-      "file": "https://phira.5wyxi.com/files/1d57bc74-5d73-431f-b6b8-cbb945d41283",
-      "uploader": 151573,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8062041,
-      "ratingCount": 17,
-      "created": "2026-02-23T11:10:30.800130Z",
-      "updated": "2026-09-27T07:09:34.480796Z",
-      "chartUpdated": "2026-02-23T11:10:30.800130Z"
     }
   ]
 }
