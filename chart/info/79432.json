@@ -13,11 +13,11 @@
   "name": "Restoration Lake",
   "preview": "https://phira.5wyxi.com/files/8d5064e2-3e87-41d4-b523-307c021a6ac3",
   "ranked": false,
-  "rating": 0.81871986,
-  "ratingCount": 28,
-  "reviewed": true,
+  "rating": 0.81907547,
+  "ratingCount": 32,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
