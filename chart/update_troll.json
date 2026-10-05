@@ -1,6 +1,32 @@
 {
-  "count": 656,
+  "count": 657,
   "results": [
+    {
+      "id": 80016,
+      "name": "冰冰冰。！！！",
+      "level": "AT Lv.冰叠",
+      "difficulty": 17.7,
+      "charter": "冰冰斯(SuOnaSi)",
+      "composer": "银花花",
+      "illustrator": "抖音某视频",
+      "description": "瞎几把写的\n这歌真给我听入迷了老铁\nb站-SuOnaSi-",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/3c8047b2-3ce5-4a43-b7ad-ed39f367d715",
+      "preview": "https://phira.5wyxi.com/files/be35731d-89bb-4977-a4c3-db82b3702d8c",
+      "file": "https://phira.5wyxi.com/files/9cf35c76-5edc-4f9f-8cca-4c384eb8db50",
+      "uploader": 146515,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.81546074,
+      "ratingCount": 4,
+      "created": "2026-10-03T16:15:30.784068Z",
+      "updated": "2026-10-04T09:01:50.574286509Z",
+      "chartUpdated": "2026-10-03T16:15:30.784068Z"
+    },
     {
       "id": 78138,
       "name": "Never Say Goodbye",
@@ -22,7 +48,7 @@
         "大小键",
         "troll"
       ],
-      "rating": 0.8969241,
+      "rating": 0.9010924,
       "ratingCount": 55,
       "created": "2026-09-14T14:00:04.002790Z",
       "updated": "2026-09-18T06:05:38.694380Z",
@@ -54,7 +80,7 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.71331006,
+      "rating": 0.71329767,
       "ratingCount": 1998,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
@@ -160,7 +186,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.88998103,
+      "rating": 0.89009094,
       "ratingCount": 9077,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -186,7 +212,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9501539,
+      "rating": 0.9499869,
       "ratingCount": 12732,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -213,7 +239,7 @@
         "整活啊",
         "troll"
       ],
-      "rating": 0.88688534,
+      "rating": 0.8868929,
       "ratingCount": 101989,
       "created": "2026-07-04T06:16:16.788212Z",
       "updated": "2026-07-04T06:16:16.788212Z",
@@ -239,7 +265,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8330077,
+      "rating": 0.8328636,
       "ratingCount": 3599,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -265,7 +291,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.77046996,
+      "rating": 0.7705798,
       "ratingCount": 16236,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -291,7 +317,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.87450904,
+      "rating": 0.8746218,
       "ratingCount": 10070,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -343,7 +369,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8087824,
+      "rating": 0.8090069,
       "ratingCount": 6667,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -423,7 +449,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81209517,
+      "rating": 0.81249624,
       "ratingCount": 1960,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -449,7 +475,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.897416,
+      "rating": 0.8973503,
       "ratingCount": 4072,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -476,7 +502,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.92016274,
+      "rating": 0.9206139,
       "ratingCount": 1848,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -528,7 +554,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7573161,
+      "rating": 0.7575008,
       "ratingCount": 768,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -554,7 +580,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81579494,
+      "rating": 0.815909,
       "ratingCount": 1618,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -606,7 +632,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94094545,
+      "rating": 0.9408801,
       "ratingCount": 4929,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -632,7 +658,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.70797086,
+      "rating": 0.706927,
       "ratingCount": 631,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -684,7 +710,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76590896,
+      "rating": 0.7659906,
       "ratingCount": 184,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -738,7 +764,7 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.880979,
+      "rating": 0.88127583,
       "ratingCount": 864,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
@@ -771,34 +797,6 @@
       "created": "2026-04-11T12:30:15.846877Z",
       "updated": "2026-04-11T12:30:15.846877Z",
       "chartUpdated": "2026-04-11T12:30:15.846877Z"
-    },
-    {
-      "id": 55933,
-      "name": "Wavetapper",
-      "level": "?? Lv.???",
-      "difficulty": 16.2,
-      "charter": "平方秒和立方吨",
-      "composer": "Frums",
-      "illustrator": "",
-      "description": "构思4小时，写谱4小时，速写的愚人节谱，祝大家玩的开心ww",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7566d85c-9bdc-4b32-9ff2-9a22a59f8823",
-      "preview": "https://phira.5wyxi.com/files/347111a1-bfa7-4ebe-a7f4-9809ba79f1d5",
-      "file": "https://phira.5wyxi.com/files/481b86eb-8087-4432-bbb1-043fe935044f",
-      "uploader": 257272,
-      "tags": [
-        "故事板",
-        "脑裂",
-        "troll"
-      ],
-      "rating": 0.92511714,
-      "ratingCount": 1242,
-      "created": "2026-04-11T05:52:35.527904Z",
-      "updated": "2026-04-11T05:52:35.527904Z",
-      "chartUpdated": "2026-04-11T05:52:35.527904Z"
     }
   ]
 }
