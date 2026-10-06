@@ -1,6 +1,58 @@
 {
-  "count": 9688,
+  "count": 9686,
   "results": [
+    {
+      "id": 80339,
+      "name": "推活天使ビビアンちゃん ",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "殇儿打不动",
+      "composer": "DJ Myosuke&ファル公 ",
+      "illustrator": "ファル公 ",
+      "description": "NOVA PULSE CUP彩蛋谱\n@殇儿打不动#684149(谱师)\n谱师已同意",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/fbe7d08b-155f-4b30-a13b-741071b170f2",
+      "preview": "https://phira.5wyxi.com/files/f99074f1-00ca-428f-9a74-93b014ff0b65",
+      "file": "https://phira.5wyxi.com/files/ef79d066-5863-4ab1-a5ad-497d88610b5d",
+      "uploader": 173948,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8082398,
+      "ratingCount": 0,
+      "created": "2026-10-05T16:45:53.137853Z",
+      "updated": "2026-10-06T03:14:50.262140159Z",
+      "chartUpdated": "2026-10-05T16:45:53.137853Z"
+    },
+    {
+      "id": 80170,
+      "name": "天元枢机([Central Prayer Unit])",
+      "level": "AT Lv.16",
+      "difficulty": 16.900003,
+      "charter": "「Mare Diracicum」",
+      "composer": "\"L\" for Laplace",
+      "illustrator": "「From Rythm Master」",
+      "description": "PTCC比赛供谱 ------------------------------------------------ 曲名：天元枢机([Central Prayer Unit])  曲师：\"L\" for Laplace 谱师：「Mare Diracicum」（@Annelotte#8883  /@Necrologist#977148 /@Yurisky_#89136 ） 难度：AT Lv.16 物量：1286",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6b341fc2-6422-4877-9422-065c4dc8c569",
+      "preview": "https://phira.5wyxi.com/files/45a47a06-7c33-4139-8d98-5e6efb41d052",
+      "file": "https://phira.5wyxi.com/files/85c2b2e7-ad05-4d03-b5e7-6495ccca0a5b",
+      "uploader": 89136,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.91806346,
+      "ratingCount": 0,
+      "created": "2026-10-04T15:40:01.052692Z",
+      "updated": "2026-10-05T13:41:04.407106276Z",
+      "chartUpdated": "2026-10-04T15:40:01.052692Z"
+    },
     {
       "id": 72194,
       "name": "巴拉莱卡",
@@ -21,7 +73,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9191451,
+      "rating": 0.91920567,
       "ratingCount": 2549,
       "created": "2026-08-09T03:06:55.852572Z",
       "updated": "2026-10-04T16:19:02.063809997Z",
@@ -48,7 +100,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.88352185,
+      "rating": 0.8742596,
       "ratingCount": 17,
       "created": "2026-10-04T10:52:50.642109Z",
       "updated": "2026-10-04T15:40:02.122505857Z",
@@ -74,7 +126,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92610204,
+      "rating": 0.92784286,
       "ratingCount": 202,
       "created": "2026-09-24T16:19:55.109529Z",
       "updated": "2026-10-04T14:18:30.255741377Z",
@@ -100,7 +152,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91117287,
+      "rating": 0.90799105,
       "ratingCount": 541,
       "created": "2026-10-04T11:56:17.807467Z",
       "updated": "2026-10-04T14:06:14.292346438Z",
@@ -126,7 +178,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9283646,
+      "rating": 0.92837346,
       "ratingCount": 2051,
       "created": "2026-09-21T10:55:32.449033Z",
       "updated": "2026-10-04T13:08:06.821065407Z",
@@ -155,7 +207,7 @@
         "低难",
         "regular"
       ],
-      "rating": 0.8608354,
+      "rating": 0.87759256,
       "ratingCount": 0,
       "created": "2026-10-03T06:54:39.873222Z",
       "updated": "2026-10-04T10:08:38.824464Z",
@@ -181,7 +233,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9417964,
+      "rating": 0.93750983,
       "ratingCount": 0,
       "created": "2026-10-03T16:04:27.659179Z",
       "updated": "2026-10-04T09:19:25.503266686Z",
@@ -209,7 +261,7 @@
         "骐骥杯",
         "regular"
       ],
-      "rating": 0.8795031,
+      "rating": 0.8824409,
       "ratingCount": 6,
       "created": "2026-10-04T05:09:03.819356Z",
       "updated": "2026-10-04T05:20:17.313159Z",
@@ -237,7 +289,7 @@
         "CHUNITHM",
         "regular"
       ],
-      "rating": 0.8641034,
+      "rating": 0.8575468,
       "ratingCount": 18,
       "created": "2026-10-04T03:11:51.818261Z",
       "updated": "2026-10-04T03:15:17.893926Z",
@@ -264,7 +316,7 @@
         "FX战士久留美",
         "regular"
       ],
-      "rating": 0.95669305,
+      "rating": 0.9449493,
       "ratingCount": 1,
       "created": "2026-10-03T18:08:56.887645Z",
       "updated": "2026-10-03T18:18:09.397552Z",
@@ -290,7 +342,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84148455,
+      "rating": 0.8387049,
       "ratingCount": 5,
       "created": "2026-10-03T03:07:46.604999Z",
       "updated": "2026-10-03T13:53:22.296729Z",
@@ -316,7 +368,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86826426,
+      "rating": 0.87489253,
       "ratingCount": 9,
       "created": "2026-10-01T23:21:35.843218Z",
       "updated": "2026-10-03T05:01:30.383311Z",
@@ -342,7 +394,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86111593,
+      "rating": 0.8614526,
       "ratingCount": 767,
       "created": "2023-08-07T13:17:52.157977Z",
       "updated": "2026-10-02T14:01:01.825123Z",
@@ -369,7 +421,7 @@
         "KALPA",
         "regular"
       ],
-      "rating": 0.8463618,
+      "rating": 0.8399734,
       "ratingCount": 421,
       "created": "2025-08-17T15:42:07.381155Z",
       "updated": "2026-10-02T13:46:53.306875Z",
@@ -395,7 +447,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92063195,
+      "rating": 0.9187027,
       "ratingCount": 601,
       "created": "2026-08-05T05:49:40.432207Z",
       "updated": "2026-10-02T13:30:58.567242Z",
@@ -421,7 +473,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94225854,
+      "rating": 0.93943536,
       "ratingCount": 16,
       "created": "2026-10-02T11:17:46.536913Z",
       "updated": "2026-10-02T11:22:50.980117Z",
@@ -447,7 +499,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8891109,
+      "rating": 0.88858783,
       "ratingCount": 0,
       "created": "2026-10-02T08:56:38.303131Z",
       "updated": "2026-10-02T09:11:33.724012879Z",
@@ -473,7 +525,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.873806,
+      "rating": 0.8549783,
       "ratingCount": 0,
       "created": "2026-09-15T11:19:47.213776Z",
       "updated": "2026-10-02T06:26:25.664800909Z",
@@ -500,7 +552,7 @@
         "Plum",
         "regular"
       ],
-      "rating": 0.9530644,
+      "rating": 0.9530048,
       "ratingCount": 1856,
       "created": "2023-12-31T14:44:34.498346Z",
       "updated": "2026-10-02T04:43:54.519772Z",
@@ -529,7 +581,7 @@
         "星星批",
         "regular"
       ],
-      "rating": 0.8754683,
+      "rating": 0.8765305,
       "ratingCount": 0,
       "created": "2026-09-19T04:14:35.496154Z",
       "updated": "2026-10-02T03:32:50.209135117Z",
@@ -555,7 +607,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.81246775,
+      "rating": 0.8173462,
       "ratingCount": 37,
       "created": "2026-09-27T08:09:53.439488Z",
       "updated": "2026-10-02T02:19:35.046264Z",
@@ -581,7 +633,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8952487,
+      "rating": 0.8959728,
       "ratingCount": 126,
       "created": "2026-09-28T04:59:32.146860Z",
       "updated": "2026-10-02T02:19:12.091053Z",
@@ -607,7 +659,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.80596805,
+      "rating": 0.8271923,
       "ratingCount": 0,
       "created": "2026-10-01T13:43:15.658480Z",
       "updated": "2026-10-02T02:00:28.456844431Z",
@@ -639,7 +691,7 @@
         "幽默",
         "regular"
       ],
-      "rating": 0.78028023,
+      "rating": 0.78026015,
       "ratingCount": 0,
       "created": "2026-10-02T01:18:02.537167Z",
       "updated": "2026-10-02T01:58:39.396490889Z",
@@ -668,7 +720,7 @@
         "面条",
         "regular"
       ],
-      "rating": 0.8480854,
+      "rating": 0.85110486,
       "ratingCount": 0,
       "created": "2026-10-01T14:41:13.764853Z",
       "updated": "2026-10-02T01:22:07.485951045Z",
@@ -694,7 +746,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91241175,
+      "rating": 0.91387385,
       "ratingCount": 0,
       "created": "2026-10-01T10:12:11.152582Z",
       "updated": "2026-10-01T10:17:43.758242Z",
@@ -720,10 +772,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89152443,
-      "ratingCount": 0,
+      "rating": 0.9012244,
+      "ratingCount": 184,
       "created": "2026-10-01T08:40:30.732777Z",
-      "updated": "2026-10-01T08:45:25.567642111Z",
+      "updated": "2026-10-01T08:45:25.567642Z",
       "chartUpdated": "2026-10-01T08:40:30.732777Z"
     },
     {
@@ -751,64 +803,11 @@
         "6thWJC",
         "regular"
       ],
-      "rating": 0.89756715,
+      "rating": 0.8958277,
       "ratingCount": 150,
       "created": "2026-09-11T10:25:03.572349Z",
       "updated": "2026-10-01T08:04:42.727692797Z",
       "chartUpdated": "2026-09-11T10:25:03.572349Z"
-    },
-    {
-      "id": 79542,
-      "name": "FIGHT BACK",
-      "level": "IN  Lv.15",
-      "difficulty": 15.700003,
-      "charter": "Array & BeVeath",
-      "composer": "Minty",
-      "illustrator": "From Beast Beat",
-      "description": "此谱为合作谱，另一位谱师：@BeVeath#1962292",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fccb2327-f1ff-4e94-8cb0-c9e4fd7ec3f5",
-      "preview": "https://phira.5wyxi.com/files/f8e184ec-df25-494e-a026-bcc9277b1e64",
-      "file": "https://phira.5wyxi.com/files/ef389661-a773-4844-97e5-b0705eaedbb8",
-      "uploader": 565722,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8922962,
-      "ratingCount": 0,
-      "created": "2026-09-30T16:27:00.765247Z",
-      "updated": "2026-10-01T07:47:22.250732982Z",
-      "chartUpdated": "2026-09-30T16:27:00.765247Z"
-    },
-    {
-      "id": 79606,
-      "name": "风的来信",
-      "level": "IN Lv.12",
-      "difficulty": 12.300001,
-      "charter": "小鱼仔娱乐",
-      "composer": "HOYO-MIX",
-      "illustrator": "HOYO-MIX",
-      "description": "本人上传\r\nwow！三天就肝完了，总之祝各位国庆节快乐！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e91ff392-aec7-494a-adaf-79025a590e72",
-      "preview": "https://phira.5wyxi.com/files/e6601b8b-21cb-4367-b449-e58de8947b3a",
-      "file": "https://phira.5wyxi.com/files/baa39803-d318-44c5-a89f-7f67943026b6",
-      "uploader": 4189652,
-      "tags": [
-        "原神",
-        "regular"
-      ],
-      "rating": 0.9277972,
-      "ratingCount": 0,
-      "created": "2026-10-01T06:50:04.936061Z",
-      "updated": "2026-10-01T06:59:50.452074842Z",
-      "chartUpdated": "2026-10-01T06:50:04.936061Z"
     }
   ]
 }
