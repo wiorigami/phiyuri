@@ -1,6 +1,86 @@
 {
-  "count": 3366,
+  "count": 3369,
   "results": [
+    {
+      "id": 79358,
+      "name": "Aquaris",
+      "level": "6k lv.11",
+      "difficulty": 11.200001,
+      "charter": "细菌w",
+      "composer": "Croove",
+      "illustrator": "Unknow",
+      "description": "新人谱师第一作！\n我喜欢这首歌，但是没看到有6k的，于是自己做了个玩。\n作者b站UID：399061775\n欢迎大家来关注我！现在写喜欢的歌曲，做点谱面积累经验，以后可能会有群吧。\n总之，这是一张6k谱，大概0~1dan的难度吧，希望大家玩得开心！！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ceaf472a-c418-4f8f-833d-93976bf27485",
+      "preview": "https://phira.5wyxi.com/files/b488b3b0-a9d1-4946-a2a4-d08f589e3a6a",
+      "file": "https://phira.5wyxi.com/files/696c12c3-c807-4aa9-91da-e54b0ce57a7d",
+      "uploader": 148811,
+      "tags": [
+        "6k",
+        "plain"
+      ],
+      "rating": 0.8499726,
+      "ratingCount": 0,
+      "created": "2026-09-28T11:46:15.596696Z",
+      "updated": "2026-10-05T14:55:40.552545716Z",
+      "chartUpdated": "2026-09-28T11:46:15.596696Z"
+    },
+    {
+      "id": 79336,
+      "name": "拂晓Proi Proi",
+      "level": "AT18",
+      "difficulty": 18.0,
+      "charter": "冷影",
+      "composer": "崩坏：星穹铁道",
+      "illustrator": "崩坏：星穹铁道",
+      "description": "冷影初键盘谱，前后改了10几次，各位玩的开心",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/50d1aa9b-91b5-4959-92eb-bfb4b9ed6d95",
+      "preview": "https://phira.5wyxi.com/files/b1a05867-99fe-4d3d-b83c-86a06379fda2",
+      "file": "https://phira.5wyxi.com/files/ad0a72b6-5f8d-43dc-bd4a-bb273d7a5e4b",
+      "uploader": 4174080,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.88324606,
+      "ratingCount": 0,
+      "created": "2026-09-28T05:01:57.662580Z",
+      "updated": "2026-10-05T11:17:01.301523397Z",
+      "chartUpdated": "2026-09-28T05:01:57.662580Z"
+    },
+    {
+      "id": 75901,
+      "name": "Bass **** but ** has more ******** and ******",
+      "level": "s1mple Lv.14+",
+      "difficulty": 14.500001,
+      "charter": "zzzb",
+      "composer": "V.A.",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/860585ca-f544-4c00-a7fd-4ce30f161b58",
+      "preview": "https://phira.5wyxi.com/files/55da8e85-3b5d-4dcc-846d-cf5133da9478",
+      "file": "https://phira.5wyxi.com/files/ed392660-06e2-4aee-aded-b59f9197dfcb",
+      "uploader": 3997613,
+      "tags": [
+        "dfc",
+        "plain"
+      ],
+      "rating": 0.80656886,
+      "ratingCount": 0,
+      "created": "2026-08-26T17:04:35.727371Z",
+      "updated": "2026-10-05T04:05:02.970359834Z",
+      "chartUpdated": "2026-08-26T17:04:35.727371Z"
+    },
     {
       "id": 80133,
       "name": "HRS ~ 3rd Dan ~",
@@ -27,7 +107,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.85678554,
       "ratingCount": 0,
       "created": "2026-10-04T12:48:16.178270Z",
       "updated": "2026-10-04T16:20:58.147116855Z",
@@ -59,7 +139,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.81567323,
+      "rating": 0.8231751,
       "ratingCount": 0,
       "created": "2026-10-04T12:32:46.185840Z",
       "updated": "2026-10-04T16:20:50.509243421Z",
@@ -90,7 +170,7 @@
         "Pattern",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.90804744,
       "ratingCount": 0,
       "created": "2026-10-04T12:30:36.536055Z",
       "updated": "2026-10-04T16:20:38.891363051Z",
@@ -122,7 +202,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8423025,
       "ratingCount": 0,
       "created": "2026-10-04T11:50:39.394839Z",
       "updated": "2026-10-04T16:20:25.384774070Z",
@@ -154,7 +234,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.95725,
+      "rating": 0.93735737,
       "ratingCount": 0,
       "created": "2026-10-04T11:50:15.005290Z",
       "updated": "2026-10-04T13:39:13.514645390Z",
@@ -182,7 +262,7 @@
         "",
         "plain"
       ],
-      "rating": 0.907659,
+      "rating": 0.9113551,
       "ratingCount": 0,
       "created": "2026-09-28T10:10:02.405006Z",
       "updated": "2026-10-03T08:18:49.379464652Z",
@@ -237,7 +317,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.70769215,
+      "rating": 0.6721459,
       "ratingCount": 0,
       "created": "2026-01-23T18:25:46.057557Z",
       "updated": "2026-10-02T02:07:26.132095Z",
@@ -263,7 +343,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91719294,
+      "rating": 0.9289306,
       "ratingCount": 0,
       "created": "2026-01-11T06:56:20.370589Z",
       "updated": "2026-10-02T02:06:53.303675967Z",
@@ -290,7 +370,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.96350807,
+      "rating": 0.95564705,
       "ratingCount": 0,
       "created": "2026-01-09T11:37:18.459095Z",
       "updated": "2026-10-02T02:06:43.603562530Z",
@@ -316,7 +396,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8920957,
+      "rating": 0.90188324,
       "ratingCount": 0,
       "created": "2025-12-18T15:40:21.164460Z",
       "updated": "2026-10-02T02:06:20.391862547Z",
@@ -371,7 +451,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.85275257,
+      "rating": 0.87883484,
       "ratingCount": 0,
       "created": "2026-10-01T08:35:38.245795Z",
       "updated": "2026-10-02T02:03:23.879974535Z",
@@ -398,7 +478,7 @@
         "Kanoguti",
         "plain"
       ],
-      "rating": 0.89172184,
+      "rating": 0.89571536,
       "ratingCount": 0,
       "created": "2026-09-28T15:44:42.914901Z",
       "updated": "2026-10-01T00:40:13.473452369Z",
@@ -424,7 +504,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.888986,
+      "rating": 0.885876,
       "ratingCount": 0,
       "created": "2026-09-18T13:44:43.306364Z",
       "updated": "2026-09-30T15:15:03.494558697Z",
@@ -450,7 +530,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9067715,
+      "rating": 0.911506,
       "ratingCount": 10,
       "created": "2026-09-26T14:33:59.285168Z",
       "updated": "2026-09-27T14:18:02.179040Z",
@@ -476,7 +556,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91878176,
+      "rating": 0.91819483,
       "ratingCount": 30,
       "created": "2026-09-23T17:52:33.035320Z",
       "updated": "2026-09-27T10:53:48.763494Z",
@@ -502,7 +582,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86792415,
+      "rating": 0.8621914,
       "ratingCount": 8,
       "created": "2025-11-29T03:23:52.106929Z",
       "updated": "2026-09-27T10:02:23.431429Z",
@@ -554,7 +634,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9101681,
+      "rating": 0.92164695,
       "ratingCount": 9,
       "created": "2025-11-28T08:26:21.381307Z",
       "updated": "2026-09-27T09:30:19.756965Z",
@@ -634,7 +714,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91783994,
+      "rating": 0.9238699,
       "ratingCount": 37,
       "created": "2026-08-16T10:47:18.911421Z",
       "updated": "2026-09-27T08:25:25.560987Z",
@@ -687,7 +767,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.87570196,
+      "rating": 0.88231593,
       "ratingCount": 7,
       "created": "2026-08-28T05:34:19.698082Z",
       "updated": "2026-09-27T07:32:42.951259Z",
@@ -715,7 +795,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.91794014,
+      "rating": 0.90151745,
       "ratingCount": 7,
       "created": "2026-08-07T09:57:53.956381Z",
       "updated": "2026-09-27T07:27:51.359137Z",
@@ -741,89 +821,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95821327,
+      "rating": 0.9568562,
       "ratingCount": 35,
       "created": "2026-07-29T08:40:37.720181Z",
       "updated": "2026-09-27T07:24:04.554925Z",
       "chartUpdated": "2026-07-29T08:40:37.720181Z"
-    },
-    {
-      "id": 69690,
-      "name": "MONTAGEM PERIGOSA",
-      "level": "4K - Lv.25",
-      "difficulty": 10.0,
-      "charter": "辰旭",
-      "composer": "KVRXD/SEKIMANE/DJ Samir",
-      "illustrator": "",
-      "description": "鸽了10000年终于想起还有这首歌了\n本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0e4bb5c2-84fe-472d-af38-0187cd24a141",
-      "preview": "https://phira.5wyxi.com/files/d914fe63-4d41-45bb-9706-8a8c552bab2a",
-      "file": "https://phira.5wyxi.com/files/cb7cb23c-9009-492e-a28d-0e28d137565f",
-      "uploader": 461388,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9149224,
-      "ratingCount": 15,
-      "created": "2026-07-28T09:45:51.758049Z",
-      "updated": "2026-09-27T07:23:16.522715Z",
-      "chartUpdated": "2026-07-28T09:45:51.758049Z"
-    },
-    {
-      "id": 58704,
-      "name": "BPM=RT",
-      "level": "4K 25",
-      "difficulty": 16.4,
-      "charter": "张三焱",
-      "composer": "t+pazolite",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5b7e6884-a0e6-4124-8fa0-881f9847723c",
-      "preview": "https://phira.5wyxi.com/files/f04074d3-e465-4e98-85bc-56f2f22f9226",
-      "file": "https://phira.5wyxi.com/files/de6cd42e-c09c-4d56-a1e6-f2f71f99e63e",
-      "uploader": 80262,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.77496386,
-      "ratingCount": 6,
-      "created": "2026-05-20T00:10:29.135452Z",
-      "updated": "2026-09-27T07:14:24.902432Z",
-      "chartUpdated": "2026-05-20T00:10:29.135452Z"
-    },
-    {
-      "id": 58254,
-      "name": "せいかいら_____がきえるとき",
-      "level": "4k",
-      "difficulty": 0.0,
-      "charter": "Nishuodeduidui",
-      "composer": "DJ Raisei",
-      "illustrator": "",
-      "description": "求过审",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/831a15b8-55ff-4211-9698-990a7679a481",
-      "preview": "https://phira.5wyxi.com/files/49497b22-ba6b-4608-8e4f-b07aca0c654b",
-      "file": "https://phira.5wyxi.com/files/710d72d4-2578-4474-a646-0db2fe9ea5b0",
-      "uploader": 569560,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.7482453,
-      "ratingCount": 7,
-      "created": "2026-05-12T07:08:46.864050Z",
-      "updated": "2026-09-27T07:14:11.887193Z",
-      "chartUpdated": "2026-05-12T07:08:46.864050Z"
     }
   ]
 }
