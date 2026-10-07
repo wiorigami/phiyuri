@@ -13,11 +13,11 @@
   "name": "Aquaris",
   "preview": "https://phira.5wyxi.com/files/b488b3b0-a9d1-4946-a2a4-d08f589e3a6a",
   "ranked": false,
-  "rating": 0.8499726,
-  "ratingCount": 8,
-  "reviewed": true,
+  "rating": 0.9041144,
+  "ratingCount": 22,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "6k",
     "plain"
