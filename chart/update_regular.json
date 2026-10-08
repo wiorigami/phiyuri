@@ -1,6 +1,117 @@
 {
-  "count": 9691,
+  "count": 9692,
   "results": [
+    {
+      "id": 80561,
+      "name": "Melodiniq",
+      "level": "AT  Lv.18",
+      "difficulty": 18.500002,
+      "charter": "∅Memoir of \"Administrat∅R\"∅",
+      "composer": "onoken a.k.a. owl*tree",
+      "illustrator": "",
+      "description": "该谱面为 WSRT x 云梦杯 比赛供谱的改版。为避免清榜，谱师团队选择了重新上传差分谱。————————————————\n曲名：Melodiniq\n曲师：onoken a.k.a. owl*tree\n谱师：∅Memoir of \"Administrat∅R\"∅\n难度：ULT Lv.18\n物量：2026\r\n@scniscn#4071（特效）@Baize1133#448065（修缮）",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/7d3ebec8-5071-4f56-aa37-2d78078a92b2",
+      "preview": "https://phira.5wyxi.com/files/5b72bedb-963a-40ef-b397-80e964ba1536",
+      "file": "https://phira.5wyxi.com/files/c43851fc-b85f-4eb8-b095-46a74c792443",
+      "uploader": 148983,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.94966173,
+      "ratingCount": 0,
+      "created": "2026-10-07T16:25:17.707194Z",
+      "updated": "2026-10-07T16:37:30.183549Z",
+      "chartUpdated": "2026-10-07T16:25:17.707194Z"
+    },
+    {
+      "id": 80113,
+      "name": "シアトリカル·ケース",
+      "level": "IN Lv.15",
+      "difficulty": 15.800003,
+      "charter": "Squarish",
+      "composer": "ユリイ・カノン feat.ウォルピスカーター&まひる",
+      "illustrator": "しきみ",
+      "description": "本人上传，表演很区的三谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9ce32e4c-0968-4b7c-8752-bee7cc61fdc3",
+      "preview": "https://phira.5wyxi.com/files/6bd8db62-f0e3-42f4-b259-b5d25667ebab",
+      "file": "https://phira.5wyxi.com/files/f603a19f-6807-44db-b70f-a2961e8a5678",
+      "uploader": 2037105,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.87876964,
+      "ratingCount": 6,
+      "created": "2026-10-04T11:00:02.353286Z",
+      "updated": "2026-10-07T11:59:46.026764Z",
+      "chartUpdated": "2026-10-04T11:00:02.353286Z"
+    },
+    {
+      "id": 79517,
+      "name": "YUMEND",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "EventideAirlines",
+      "composer": "MYUKKE.",
+      "illustrator": "MYUKKE.",
+      "description": "新人首谱awa\n本人发布，b站@Aviation广域初晓\n此谱谱面演示已于B站发布，详见 BV1sx3T6ZE5t\n录制手元视频标注谱师即可（b站名与phira名均可）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/69e6e1f4-7fb7-45fb-96a1-051e12a8ae21",
+      "preview": "https://phira.5wyxi.com/files/34a4d2fb-e65a-42be-8962-b4faaa7411e6",
+      "file": "https://phira.5wyxi.com/files/ebb1817c-5eac-4456-8321-bbe6c55949f8",
+      "uploader": 1709558,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9176226,
+      "ratingCount": 43,
+      "created": "2026-09-30T14:43:41.192453Z",
+      "updated": "2026-10-07T09:34:05.967699Z",
+      "chartUpdated": "2026-09-30T14:43:41.192453Z"
+    },
+    {
+      "id": 80511,
+      "name": "Computer Cornflakes",
+      "level": "AT Lv.18",
+      "difficulty": 18.700003,
+      "charter": "Reticent_Dust vs. NothinGSensez",
+      "composer": "Kobaryo",
+      "illustrator": "KEI",
+      "description": "@NothinGSensez#1026384",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c6eabde7-de5f-4c41-bac2-303fb0e49f48",
+      "preview": "https://phira.5wyxi.com/files/5b6f1ea0-d406-46bb-ac81-5ac27b8ef695",
+      "file": "https://phira.5wyxi.com/files/07e544b8-fc83-4614-b1fb-21cd300a2b04",
+      "uploader": 2110584,
+      "tags": [
+        "高难",
+        "多指",
+        "光反是我包子",
+        "小白是我包子",
+        "月白是我包子",
+        "雨忆是我包子",
+        "瑞希是给",
+        "regular"
+      ],
+      "rating": 0.8482159,
+      "ratingCount": 10,
+      "created": "2026-10-07T05:53:49.638456Z",
+      "updated": "2026-10-07T08:11:05.092231Z",
+      "chartUpdated": "2026-10-07T08:11:05.092231Z"
+    },
     {
       "id": 80490,
       "name": "Rule The World",
@@ -11,9 +122,9 @@
       "illustrator": "-九-秋-向-",
       "description": "曲：Rule The World\n曲师：Vau Boy\n谱师：日向666 \nRizline段原谱师：198\n画师：九，Autumn001_黄秋 ，日向666 \n难度：15.0\n物量：1000\n\n注：1.为避免谱面穿帮，请将谱面比例调整为为3:2（1.5）后进行游玩，请勿在黑暗条件下进行游玩（不然会看不清note）\n2.谱面后半段为全屏判定，点击屏幕任意位置即可判定。\n——\n谱面由谱师本人（日向666）制作并上传。",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/c7e6e913-b333-48c6-902c-1d8dea03e714",
       "preview": "https://phira.5wyxi.com/files/b72a59e4-561f-43fb-9da1-89fe548928ee",
       "file": "https://phira.5wyxi.com/files/60383e50-0b61-4083-af75-5b75978bf669",
@@ -21,10 +132,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8423025,
-      "ratingCount": 0,
+      "rating": 0.9394739,
+      "ratingCount": 50,
       "created": "2026-10-07T03:01:17.240460Z",
-      "updated": "2026-10-07T03:34:41.036572515Z",
+      "updated": "2026-10-07T03:34:41.036572Z",
       "chartUpdated": "2026-10-07T03:01:17.240460Z"
     },
     {
@@ -47,10 +158,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7237355,
-      "ratingCount": 0,
+      "rating": 0.8419377,
+      "ratingCount": 25,
       "created": "2026-10-06T15:51:40.219754Z",
-      "updated": "2026-10-07T02:48:12.622123007Z",
+      "updated": "2026-10-07T02:48:12.622123Z",
       "chartUpdated": "2026-10-06T15:51:40.219754Z"
     },
     {
@@ -73,10 +184,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7485947,
-      "ratingCount": 0,
+      "rating": 0.665138,
+      "ratingCount": 24,
       "created": "2026-10-06T21:34:53.236446Z",
-      "updated": "2026-10-07T01:15:32.133831201Z",
+      "updated": "2026-10-07T01:15:32.133831Z",
       "chartUpdated": "2026-10-06T21:34:53.236446Z"
     },
     {
@@ -100,10 +211,10 @@
         "CORTIS",
         "regular"
       ],
-      "rating": 0.8977494,
-      "ratingCount": 0,
+      "rating": 0.93178976,
+      "ratingCount": 206,
       "created": "2026-07-30T07:34:03.585277Z",
-      "updated": "2026-10-06T23:57:04.129417867Z",
+      "updated": "2026-10-06T23:57:04.129417Z",
       "chartUpdated": "2026-07-30T07:34:03.585277Z"
     },
     {
@@ -127,10 +238,10 @@
         "JSB",
         "regular"
       ],
-      "rating": 0.87241614,
-      "ratingCount": 0,
+      "rating": 0.8914491,
+      "ratingCount": 26,
       "created": "2026-07-30T04:31:00.405464Z",
-      "updated": "2026-10-06T15:05:07.660610570Z",
+      "updated": "2026-10-06T15:05:07.660610Z",
       "chartUpdated": "2026-07-30T04:31:00.405464Z"
     },
     {
@@ -153,10 +264,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8522441,
-      "ratingCount": 0,
+      "rating": 0.8502076,
+      "ratingCount": 24,
       "created": "2026-10-06T13:08:44.052850Z",
-      "updated": "2026-10-06T15:01:53.005568050Z",
+      "updated": "2026-10-06T15:01:53.005568Z",
       "chartUpdated": "2026-10-06T13:08:44.052850Z"
     },
     {
@@ -179,10 +290,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88674766,
-      "ratingCount": 0,
+      "rating": 0.9125656,
+      "ratingCount": 43,
       "created": "2026-10-01T12:00:10.854575Z",
-      "updated": "2026-10-06T14:58:12.503983859Z",
+      "updated": "2026-10-06T14:58:12.503983Z",
       "chartUpdated": "2026-10-01T12:00:10.854575Z"
     },
     {
@@ -205,8 +316,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8386254,
-      "ratingCount": 0,
+      "rating": 0.8784349,
+      "ratingCount": 54,
       "created": "2026-10-06T14:27:46.862405Z",
       "updated": "2026-10-06T14:57:34.105717Z",
       "chartUpdated": "2026-10-06T14:27:46.862405Z"
@@ -231,10 +342,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9232508,
-      "ratingCount": 0,
+      "rating": 0.92976403,
+      "ratingCount": 212,
       "created": "2026-10-05T04:43:17.032627Z",
-      "updated": "2026-10-06T11:01:33.136995977Z",
+      "updated": "2026-10-06T11:01:33.136995Z",
       "chartUpdated": "2026-10-05T04:43:17.032627Z"
     },
     {
@@ -257,8 +368,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95694673,
-      "ratingCount": 1,
+      "rating": 0.9540205,
+      "ratingCount": 87,
       "created": "2026-10-06T06:12:53.151359Z",
       "updated": "2026-10-06T06:31:38.048317Z",
       "chartUpdated": "2026-10-06T06:12:53.151359Z"
@@ -283,8 +394,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86760384,
-      "ratingCount": 12,
+      "rating": 0.8726419,
+      "ratingCount": 38,
       "created": "2026-10-05T15:09:51.992919Z",
       "updated": "2026-10-06T05:29:17.472550Z",
       "chartUpdated": "2026-10-05T15:09:51.992919Z"
@@ -309,10 +420,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7794319,
-      "ratingCount": 0,
+      "rating": 0.7809866,
+      "ratingCount": 50,
       "created": "2026-10-05T16:45:53.137853Z",
-      "updated": "2026-10-06T03:14:50.262140159Z",
+      "updated": "2026-10-06T03:14:50.262140Z",
       "chartUpdated": "2026-10-05T16:45:53.137853Z"
     },
     {
@@ -335,10 +446,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90910774,
-      "ratingCount": 0,
+      "rating": 0.9064146,
+      "ratingCount": 76,
       "created": "2026-10-04T15:40:01.052692Z",
-      "updated": "2026-10-05T13:41:04.407106276Z",
+      "updated": "2026-10-05T13:41:04.407106Z",
       "chartUpdated": "2026-10-04T15:40:01.052692Z"
     },
     {
@@ -361,11 +472,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9179645,
-      "ratingCount": 2549,
+      "rating": 0.9184456,
+      "ratingCount": 3860,
       "created": "2026-08-09T03:06:55.852572Z",
-      "updated": "2026-10-04T16:19:02.063809997Z",
-      "chartUpdated": "2026-10-04T16:19:02.063809997Z"
+      "updated": "2026-10-04T16:19:02.063809Z",
+      "chartUpdated": "2026-10-04T16:19:02.063809Z"
     },
     {
       "id": 80112,
@@ -388,11 +499,11 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.88254166,
-      "ratingCount": 17,
+      "rating": 0.88297594,
+      "ratingCount": 93,
       "created": "2026-10-04T10:52:50.642109Z",
-      "updated": "2026-10-04T15:40:02.122505857Z",
-      "chartUpdated": "2026-10-04T15:40:02.122505857Z"
+      "updated": "2026-10-04T15:40:02.122505Z",
+      "chartUpdated": "2026-10-04T15:40:02.122505Z"
     },
     {
       "id": 78876,
@@ -414,11 +525,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92342675,
-      "ratingCount": 202,
+      "rating": 0.9238162,
+      "ratingCount": 315,
       "created": "2026-09-24T16:19:55.109529Z",
-      "updated": "2026-10-04T14:18:30.255741377Z",
-      "chartUpdated": "2026-10-04T14:18:30.255741377Z"
+      "updated": "2026-10-04T14:18:30.255741Z",
+      "chartUpdated": "2026-10-04T14:18:30.255741Z"
     },
     {
       "id": 80126,
@@ -440,10 +551,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9064147,
-      "ratingCount": 541,
+      "rating": 0.90679485,
+      "ratingCount": 6546,
       "created": "2026-10-04T11:56:17.807467Z",
-      "updated": "2026-10-04T14:06:14.292346438Z",
+      "updated": "2026-10-04T14:06:14.292346Z",
       "chartUpdated": "2026-10-04T11:56:17.807467Z"
     },
     {
@@ -466,11 +577,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92909056,
-      "ratingCount": 2051,
+      "rating": 0.92840713,
+      "ratingCount": 2345,
       "created": "2026-09-21T10:55:32.449033Z",
-      "updated": "2026-10-04T13:08:06.821065407Z",
-      "chartUpdated": "2026-10-04T13:08:06.821065407Z"
+      "updated": "2026-10-04T13:08:06.821065Z",
+      "chartUpdated": "2026-10-04T13:08:06.821065Z"
     },
     {
       "id": 79931,
@@ -495,8 +606,8 @@
         "低难",
         "regular"
       ],
-      "rating": 0.8667946,
-      "ratingCount": 59,
+      "rating": 0.8733931,
+      "ratingCount": 69,
       "created": "2026-10-03T06:54:39.873222Z",
       "updated": "2026-10-04T10:08:38.824464Z",
       "chartUpdated": "2026-10-03T06:54:39.873222Z"
@@ -521,10 +632,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9335453,
-      "ratingCount": 0,
+      "rating": 0.93119484,
+      "ratingCount": 2426,
       "created": "2026-10-03T16:04:27.659179Z",
-      "updated": "2026-10-04T09:19:25.503266686Z",
+      "updated": "2026-10-04T09:19:25.503266Z",
       "chartUpdated": "2026-10-03T16:04:27.659179Z"
     },
     {
@@ -549,8 +660,8 @@
         "骐骥杯",
         "regular"
       ],
-      "rating": 0.8824054,
-      "ratingCount": 6,
+      "rating": 0.8802496,
+      "ratingCount": 81,
       "created": "2026-10-04T05:09:03.819356Z",
       "updated": "2026-10-04T05:20:17.313159Z",
       "chartUpdated": "2026-10-04T05:09:03.819356Z"
@@ -577,8 +688,8 @@
         "CHUNITHM",
         "regular"
       ],
-      "rating": 0.85978675,
-      "ratingCount": 18,
+      "rating": 0.8694533,
+      "ratingCount": 115,
       "created": "2026-10-04T03:11:51.818261Z",
       "updated": "2026-10-04T03:15:17.893926Z",
       "chartUpdated": "2026-10-04T03:11:51.818261Z"
@@ -604,8 +715,8 @@
         "FX战士久留美",
         "regular"
       ],
-      "rating": 0.9403957,
-      "ratingCount": 1,
+      "rating": 0.9403942,
+      "ratingCount": 298,
       "created": "2026-10-03T18:08:56.887645Z",
       "updated": "2026-10-03T18:18:09.397552Z",
       "chartUpdated": "2026-10-03T18:08:56.887645Z"
@@ -630,8 +741,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84491384,
-      "ratingCount": 5,
+      "rating": 0.8489302,
+      "ratingCount": 78,
       "created": "2026-10-03T03:07:46.604999Z",
       "updated": "2026-10-03T13:53:22.296729Z",
       "chartUpdated": "2026-10-03T03:07:46.604999Z"
@@ -656,8 +767,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86307055,
-      "ratingCount": 9,
+      "rating": 0.8630191,
+      "ratingCount": 479,
       "created": "2026-10-01T23:21:35.843218Z",
       "updated": "2026-10-03T05:01:30.383311Z",
       "chartUpdated": "2026-10-01T23:21:35.843218Z"
@@ -682,116 +793,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86220545,
-      "ratingCount": 767,
+      "rating": 0.8623598,
+      "ratingCount": 809,
       "created": "2023-08-07T13:17:52.157977Z",
       "updated": "2026-10-02T14:01:01.825123Z",
       "chartUpdated": "2023-08-07T13:17:52.157977Z"
-    },
-    {
-      "id": 44992,
-      "name": "Dear Farthest You",
-      "level": "AT Lv.19",
-      "difficulty": 19.100004,
-      "charter": "KaNoteN-禁压%...#%-",
-      "composer": "くるぶっこちゃん",
-      "illustrator": "QueseraGames Co., Ltd.",
-      "description": "云梦杯EX区决赛原创谱",
-      "ranked": true,
-      "reviewed": true,
-      "stable": true,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/df90f140-a578-4ae3-999c-6f3c9c1b2aa1",
-      "preview": "https://phira.5wyxi.com/files/9c81ff46-f7bf-44be-924f-1d3f1a437aeb",
-      "file": "https://phira.5wyxi.com/files/f1f02a3b-b6a6-465e-80ed-61ce23da9296",
-      "uploader": 1279,
-      "tags": [
-        "KALPA",
-        "regular"
-      ],
-      "rating": 0.84055835,
-      "ratingCount": 421,
-      "created": "2025-08-17T15:42:07.381155Z",
-      "updated": "2026-10-02T13:46:53.306875Z",
-      "chartUpdated": "2025-08-17T15:42:07.381155Z"
-    },
-    {
-      "id": 71351,
-      "name": "Fatum Cantabile",
-      "level": "IN  Lv.16",
-      "difficulty": 16.300001,
-      "charter": "中微子",
-      "composer": "ああああ",
-      "illustrator": "",
-      "description": "《凌梦杯2026》(Rising-Dream Cup)，是一个围绕游戏 Phigros 创办的赛事，赛事组汇集了众多音游爱好者。本届比赛为TGL赛事组创办的第六届系列赛事，全方位升级了赛事规模。\r\n_______________________________________________________________\r\n\r\n基本信息 // Basic Info\r\n曲名 // Title : Fatum Cantabile\r\n曲师 // Composer : ああああ\r\n曲绘 // Artist : Hg3Ng6\r\n_______________________________________________________________\r\n\r\n谱面信息 // Chart Info\r\n谱师名义 // Level Designer : 中微子\r\n难度 // Difficulty : IN Lv.16\r\n\r\n特别感谢 // Special Thanks\r\n录制软件提供 // Record App Support : @不会特效の点缀星空\r\n曲绘包装设计 // Illustration Design : @SJR哈\r\n赛事主办 // Event Host : @克里Crimo\r\n_______________________________________________________________\r\n\r\n额外信息 // Others\r\n©TGL, 2026 ALL RIGHTS RESERVED",
-      "ranked": true,
-      "reviewed": true,
-      "stable": true,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8a3d5a43-47c0-44f5-b426-f61354eabd8e",
-      "preview": "https://phira.5wyxi.com/files/98970bc4-6f2f-40e5-9b7f-bb038b14a37f",
-      "file": "https://phira.5wyxi.com/files/a8a3a01c-2175-4b70-9279-1a6625082377",
-      "uploader": 344689,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9205293,
-      "ratingCount": 601,
-      "created": "2026-08-05T05:49:40.432207Z",
-      "updated": "2026-10-02T13:30:58.567242Z",
-      "chartUpdated": "2026-08-11T15:48:14.884832Z"
-    },
-    {
-      "id": 79814,
-      "name": "キミのとなりで",
-      "level": "IN Lv.15",
-      "difficulty": 15.800003,
-      "charter": "朝日の锁",
-      "composer": "伊藤翼",
-      "illustrator": "柚原もけ",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/fc8870fc-b860-4294-9f1b-ded70fffa4d7",
-      "preview": "https://phira.5wyxi.com/files/5b2ac2c3-0945-4af8-ba61-a66442de6851",
-      "file": "https://phira.5wyxi.com/files/733bee03-4a17-4bd8-b3bb-243deb36150a",
-      "uploader": 192860,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9391429,
-      "ratingCount": 16,
-      "created": "2026-10-02T11:17:46.536913Z",
-      "updated": "2026-10-02T11:22:50.980117Z",
-      "chartUpdated": "2026-10-02T11:17:46.536913Z"
-    },
-    {
-      "id": 79798,
-      "name": "琵琶曲（DJ版）",
-      "level": "Balls of Steel！",
-      "difficulty": 10.0,
-      "charter": "zwz",
-      "composer": "郑浩Z-Hao, DJ小楷",
-      "illustrator": "Kotte Animation",
-      "description": "谱师本人（中微子）上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2c3d19c0-e97e-4e6e-a7fd-9db98b49ad00",
-      "preview": "https://phira.5wyxi.com/files/5cb4843e-7dfe-4a23-817c-c190c0e2a74c",
-      "file": "https://phira.5wyxi.com/files/3923f4a4-157f-4a73-a5a9-e258e8f21765",
-      "uploader": 344689,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88833493,
-      "ratingCount": 0,
-      "created": "2026-10-02T08:56:38.303131Z",
-      "updated": "2026-10-02T09:11:33.724012879Z",
-      "chartUpdated": "2026-10-02T08:56:38.303131Z"
     }
   ]
 }

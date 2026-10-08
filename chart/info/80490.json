@@ -13,11 +13,11 @@
   "name": "Rule The World",
   "preview": "https://phira.5wyxi.com/files/b72a59e4-561f-43fb-9da1-89fe548928ee",
   "ranked": false,
-  "rating": 0.8423025,
-  "ratingCount": 5,
-  "reviewed": true,
+  "rating": 0.9394739,
+  "ratingCount": 55,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
