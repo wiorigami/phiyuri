@@ -2,6 +2,59 @@
   "count": 3378,
   "results": [
     {
+      "id": 60800,
+      "name": "Find_Me",
+      "level": "4K Lv.Me",
+      "difficulty": 10.0,
+      "charter": "LTYKH",
+      "composer": "K-Forest",
+      "illustrator": "",
+      "description": "B站：Red_五重Reveal\n本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/59dc6a94-ada8-4e4e-b87f-72ebb4e50017",
+      "preview": "https://phira.5wyxi.com/files/76f9a8c7-626f-4ddd-ba7c-527c4bb1dde1",
+      "file": "https://phira.5wyxi.com/files/0e9aa7f0-d6d8-40d3-8949-451dd4da16cb",
+      "uploader": 2410,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-06-13T08:16:09.554849Z",
+      "updated": "2026-10-09T02:58:20.517572551Z",
+      "chartUpdated": "2026-06-13T08:16:09.554849Z"
+    },
+    {
+      "id": 49876,
+      "name": "《偏愛》 ～ Shattered Memories",
+      "level": "MASTER",
+      "difficulty": 14.400001,
+      "charter": "ARiV",
+      "composer": "3R2",
+      "illustrator": "",
+      "description": "谱面预览：BV1Jj29BNEQ6 非常好听遂写了一张4k，配置可能会有点卡手，前后难度有点不均，但是感觉总体质量还可以",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ae654414-c516-4041-a944-87020196c3dd",
+      "preview": "https://phira.5wyxi.com/files/cb94da67-a2b5-46fa-8559-7d90222846e8",
+      "file": "https://phira.5wyxi.com/files/77bac0ae-037f-4091-af01-cde678d84e60",
+      "uploader": 562298,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.870769,
+      "ratingCount": 0,
+      "created": "2025-12-06T11:09:18.048820Z",
+      "updated": "2026-10-08T12:49:29.679250989Z",
+      "chartUpdated": "2025-12-06T11:09:18.048820Z"
+    },
+    {
       "id": 72142,
       "name": "河南dan",
       "level": "无轨 Lv.19",
@@ -25,7 +78,7 @@
         "无理",
         "plain"
       ],
-      "rating": 0.810589,
+      "rating": 0.83181083,
       "ratingCount": 6,
       "created": "2026-08-08T15:33:04.959993Z",
       "updated": "2026-10-07T01:09:08.706635Z",
@@ -53,7 +106,7 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.8156982,
+      "rating": 0.8360731,
       "ratingCount": 5,
       "created": "2026-08-08T15:41:54.567745Z",
       "updated": "2026-10-07T01:09:02.879723Z",
@@ -80,7 +133,7 @@
         "6k",
         "plain"
       ],
-      "rating": 0.85721785,
+      "rating": 0.8868994,
       "ratingCount": 7,
       "created": "2026-08-08T04:08:21.847745Z",
       "updated": "2026-10-06T15:07:29.711593Z",
@@ -107,7 +160,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.80552316,
       "ratingCount": 2,
       "created": "2026-09-24T16:22:20.219692Z",
       "updated": "2026-10-06T15:07:11.828981Z",
@@ -133,7 +186,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9311034,
+      "rating": 0.9402487,
       "ratingCount": 51,
       "created": "2026-10-05T13:27:07.600099Z",
       "updated": "2026-10-06T12:52:38.163033Z",
@@ -163,7 +216,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.89492923,
+      "rating": 0.90115595,
       "ratingCount": 10,
       "created": "2026-10-06T00:19:37.385324Z",
       "updated": "2026-10-06T11:41:54.463145Z",
@@ -191,7 +244,7 @@
         "CHUNITHM",
         "plain"
       ],
-      "rating": 0.8973801,
+      "rating": 0.89704335,
       "ratingCount": 14,
       "created": "2026-03-19T16:00:54.649531Z",
       "updated": "2026-10-06T07:02:56.512938Z",
@@ -217,7 +270,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90660846,
+      "rating": 0.91186756,
       "ratingCount": 11,
       "created": "2025-12-06T13:26:57.312338Z",
       "updated": "2026-10-06T07:00:08.460503Z",
@@ -244,7 +297,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.95563465,
+      "rating": 0.95699525,
       "ratingCount": 93,
       "created": "2026-10-05T16:53:47.435909Z",
       "updated": "2026-10-06T04:04:19.949760Z",
@@ -271,7 +324,7 @@
         "6k",
         "plain"
       ],
-      "rating": 0.91360414,
+      "rating": 0.90537643,
       "ratingCount": 25,
       "created": "2026-09-28T11:46:15.596696Z",
       "updated": "2026-10-05T14:55:40.552545Z",
@@ -356,7 +409,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.8756408,
+      "rating": 0.8897356,
       "ratingCount": 54,
       "created": "2026-10-04T12:48:16.178270Z",
       "updated": "2026-10-04T16:20:58.147116Z",
@@ -388,7 +441,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.8165138,
+      "rating": 0.8203153,
       "ratingCount": 44,
       "created": "2026-10-04T12:32:46.185840Z",
       "updated": "2026-10-04T16:20:50.509243Z",
@@ -419,7 +472,7 @@
         "Pattern",
         "plain"
       ],
-      "rating": 0.91527265,
+      "rating": 0.9183935,
       "ratingCount": 244,
       "created": "2026-10-04T12:30:36.536055Z",
       "updated": "2026-10-04T16:20:38.891363Z",
@@ -451,7 +504,7 @@
         "幻",
         "plain"
       ],
-      "rating": 0.8778362,
+      "rating": 0.88649786,
       "ratingCount": 8,
       "created": "2026-10-04T11:50:39.394839Z",
       "updated": "2026-10-04T16:20:25.384774Z",
@@ -483,7 +536,7 @@
         "协",
         "plain"
       ],
-      "rating": 0.93365335,
+      "rating": 0.93354714,
       "ratingCount": 1153,
       "created": "2026-10-04T11:50:15.005290Z",
       "updated": "2026-10-04T13:39:13.514645Z",
@@ -511,7 +564,7 @@
         "",
         "plain"
       ],
-      "rating": 0.9113041,
+      "rating": 0.9145392,
       "ratingCount": 22,
       "created": "2026-09-28T10:10:02.405006Z",
       "updated": "2026-10-03T08:18:49.379464Z",
@@ -592,7 +645,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93794215,
+      "rating": 0.9407617,
       "ratingCount": 37,
       "created": "2026-01-11T06:56:20.370589Z",
       "updated": "2026-10-02T02:06:53.303675Z",
@@ -619,7 +672,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.9546097,
+      "rating": 0.9559764,
       "ratingCount": 144,
       "created": "2026-01-09T11:37:18.459095Z",
       "updated": "2026-10-02T02:06:43.603562Z",
@@ -645,7 +698,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9205186,
+      "rating": 0.92368513,
       "ratingCount": 36,
       "created": "2025-12-18T15:40:21.164460Z",
       "updated": "2026-10-02T02:06:20.391862Z",
@@ -672,7 +725,7 @@
         "nanahira",
         "plain"
       ],
-      "rating": 0.75751454,
+      "rating": 0.76991284,
       "ratingCount": 14,
       "created": "2025-06-26T11:51:33.851172Z",
       "updated": "2026-10-02T02:05:33.782226Z",
@@ -727,7 +780,7 @@
         "Kanoguti",
         "plain"
       ],
-      "rating": 0.89216894,
+      "rating": 0.8939122,
       "ratingCount": 243,
       "created": "2026-09-28T15:44:42.914901Z",
       "updated": "2026-10-01T00:40:13.473452Z",
@@ -784,58 +837,6 @@
       "created": "2026-09-26T14:33:59.285168Z",
       "updated": "2026-09-27T14:18:02.179040Z",
       "chartUpdated": "2026-09-26T14:33:59.285168Z"
-    },
-    {
-      "id": 78778,
-      "name": "蝶乱飞雷",
-      "level": "耐6dan（lv24）",
-      "difficulty": 0.0,
-      "charter": "冷影",
-      "composer": "ITY的安瑞世界",
-      "illustrator": "豆包",
-      "description": "谱师本人上传，切4+，乱7+，很耐的谱子，综合6dan。曲子来源于b站的“用音游曲的方式打开审判曲”os：曲名是自己编的，曲师没有起名，后续出了就改）\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e9a5bf93-6078-441f-81a7-3ab6ad4a0d2b",
-      "preview": "https://phira.5wyxi.com/files/b96a5dd7-b706-4cbb-829f-bc79b94ce32f",
-      "file": "https://phira.5wyxi.com/files/acd6549c-7da6-4399-adf4-eca2eaec3219",
-      "uploader": 1673757,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.92122316,
-      "ratingCount": 117,
-      "created": "2026-09-23T17:52:33.035320Z",
-      "updated": "2026-09-27T10:53:48.763494Z",
-      "chartUpdated": "2026-09-23T17:52:33.035320Z"
-    },
-    {
-      "id": 49574,
-      "name": "リレイアウター",
-      "level": "4k",
-      "difficulty": 26.0,
-      "charter": "woodspoo2",
-      "composer": "稲葉曇",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/dd1a345c-f2cb-4ad5-bff2-0f1eb2d6d36b",
-      "preview": "https://phira.5wyxi.com/files/6368bfb2-9173-4ca3-b0f9-31544763cd13",
-      "file": "https://phira.5wyxi.com/files/7b519e97-0c38-4508-ba01-b58cb94e48f9",
-      "uploader": 93353,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.868777,
-      "ratingCount": 29,
-      "created": "2025-11-29T03:23:52.106929Z",
-      "updated": "2026-09-27T10:02:23.431429Z",
-      "chartUpdated": "2025-11-29T03:23:52.106929Z"
     }
   ]
 }
