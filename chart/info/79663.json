@@ -13,11 +13,11 @@
   "name": "Reboot",
   "preview": "https://phira.5wyxi.com/files/3a3f2636-2f12-42a9-b1da-b5425399a56e",
   "ranked": false,
-  "rating": 0.9125656,
-  "ratingCount": 47,
-  "reviewed": true,
+  "rating": 0.9207231,
+  "ratingCount": 58,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
