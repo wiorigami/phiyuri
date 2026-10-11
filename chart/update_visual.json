@@ -1,32 +1,6 @@
 {
-  "count": 174,
+  "count": 173,
   "results": [
-    {
-      "id": 53896,
-      "name": "Hello（BPM）2026",
-      "level": "SP Lv.？",
-      "difficulty": 0.0,
-      "charter": "kekfoejflea",
-      "composer": "かめりあ",
-      "illustrator": "",
-      "description": "本人制作并上传\nMalody转谱\n哔哩哔哩：陂黎揠瘩娣\nMV视频：BV1MzAezvEJK\n谱面展示：BV1jFP8zzEp9",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/90b4da17-e53e-4f4f-a7e4-9f449d782749",
-      "preview": "https://phira.5wyxi.com/files/59c1460e-54ec-4adb-9a19-14b8d285ac9b",
-      "file": "https://phira.5wyxi.com/files/25fb5889-45d7-4072-97e4-9fdb28509183",
-      "uploader": 1646792,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.66978484,
-      "ratingCount": 0,
-      "created": "2026-03-07T00:18:09.626512Z",
-      "updated": "2026-10-09T15:07:37.923634417Z",
-      "chartUpdated": "2026-03-07T00:18:09.626512Z"
-    },
     {
       "id": 51510,
       "name": "Sadfgr～gunmu#Lv.UK～φ",
@@ -75,7 +49,7 @@
       "tags": [
         "visual"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2026-08-18T11:56:45.304155Z",
       "updated": "2026-10-09T15:05:02.927646905Z",
@@ -101,7 +75,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7455494,
+      "rating": 0.72038907,
       "ratingCount": 0,
       "created": "2026-02-13T04:52:09.828968Z",
       "updated": "2026-10-09T15:01:27.340451268Z",
@@ -135,7 +109,7 @@
         "原神启动",
         "visual"
       ],
-      "rating": 0.49199158,
+      "rating": 0.49876148,
       "ratingCount": 75,
       "created": "2026-09-30T09:55:25.988502Z",
       "updated": "2026-10-02T08:16:38.531728Z",
@@ -219,7 +193,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8225619,
+      "rating": 0.81720096,
       "ratingCount": 74,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
@@ -245,7 +219,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9194593,
+      "rating": 0.9194685,
       "ratingCount": 96315,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -429,7 +403,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.86324155,
+      "rating": 0.86404175,
       "ratingCount": 169,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
@@ -511,7 +485,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.814837,
+      "rating": 0.81498855,
       "ratingCount": 560,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -591,7 +565,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87754744,
+      "rating": 0.8769647,
       "ratingCount": 993,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
@@ -676,7 +650,7 @@
         "4K",
         "visual"
       ],
-      "rating": 0.68095696,
+      "rating": 0.68069685,
       "ratingCount": 972,
       "created": "2026-01-17T06:34:21.824030Z",
       "updated": "2026-01-17T06:34:21.824030Z",
@@ -819,6 +793,32 @@
       "created": "2025-12-23T02:14:31.171742Z",
       "updated": "2025-12-23T02:14:31.171742Z",
       "chartUpdated": "2025-12-23T02:14:31.171742Z"
+    },
+    {
+      "id": 50470,
+      "name": "星间萤火",
+      "level": "Firefly Lv.14",
+      "difficulty": 14.300001,
+      "charter": "SrY-ABYSS",
+      "composer": "CARDINAL星海 / 霍鹭鹭",
+      "illustrator": "",
+      "description": "崩坏星穹铁道 流萤 同人曲\n视频预览：BV1yvBEBRE9C",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c2a7b948-7094-4efe-aac2-ee686cab4db1",
+      "preview": "https://phira.5wyxi.com/files/6b1a299f-c020-4e4e-86be-86e58b3ad3b2",
+      "file": "https://phira.5wyxi.com/files/e7e7ad22-e5b8-49b6-9be5-82eac9208284",
+      "uploader": 1437,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.95030266,
+      "ratingCount": 585,
+      "created": "2025-12-21T16:50:09.078652Z",
+      "updated": "2025-12-21T16:50:09.078652Z",
+      "chartUpdated": "2025-12-21T16:50:09.078652Z"
     }
   ]
 }
