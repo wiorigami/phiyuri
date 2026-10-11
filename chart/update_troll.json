@@ -1,5 +1,5 @@
 {
-  "count": 657,
+  "count": 656,
   "results": [
     {
       "id": 78561,
@@ -21,7 +21,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7702763,
+      "rating": 0.8632565,
       "ratingCount": 1,
       "created": "2026-09-20T04:58:01.649579Z",
       "updated": "2026-10-09T14:59:07.492521Z",
@@ -47,7 +47,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7965614,
+      "rating": 0.79827493,
       "ratingCount": 5180,
       "created": "2026-10-03T16:15:30.784068Z",
       "updated": "2026-10-04T09:01:50.574286Z",
@@ -74,7 +74,7 @@
         "大小键",
         "troll"
       ],
-      "rating": 0.9048402,
+      "rating": 0.9059468,
       "ratingCount": 81,
       "created": "2026-09-14T14:00:04.002790Z",
       "updated": "2026-09-18T06:05:38.694380Z",
@@ -106,7 +106,7 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.7144719,
+      "rating": 0.7152348,
       "ratingCount": 2108,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
@@ -186,7 +186,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9772719,
+      "rating": 0.9774639,
       "ratingCount": 114,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
@@ -212,7 +212,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89015543,
+      "rating": 0.89018404,
       "ratingCount": 9176,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -238,38 +238,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94973135,
+      "rating": 0.9496891,
       "ratingCount": 13036,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
-    },
-    {
-      "id": 63919,
-      "name": "中奖概率倍儿高",
-      "level": "SP Lv.?",
-      "difficulty": 10.0,
-      "charter": "Comfortableの华",
-      "composer": "肥龙和老西",
-      "illustrator": "",
-      "description": "比利哔哩关足:Comfortableの华   谢谢喵\n群号:1044626820\n欢迎来玩哦\n这是整活谱啊，有些时长比我还短都过了\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b902a622-9672-4c39-855c-75cbb945725b",
-      "preview": "https://phira.5wyxi.com/files/f55655e9-0d91-4c57-b105-6e0ca09465bc",
-      "file": "https://phira.5wyxi.com/files/f373c15e-0966-44c6-9cf6-1995fff78262",
-      "uploader": 913010,
-      "tags": [
-        "整活啊",
-        "troll"
-      ],
-      "rating": 0.8869035,
-      "ratingCount": 102592,
-      "created": "2026-07-04T06:16:16.788212Z",
-      "updated": "2026-07-04T06:16:16.788212Z",
-      "chartUpdated": "2026-07-04T06:16:16.788212Z"
     },
     {
       "id": 63339,
@@ -291,7 +264,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83347374,
+      "rating": 0.8335685,
       "ratingCount": 3712,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -317,7 +290,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.77060366,
+      "rating": 0.77066106,
       "ratingCount": 16384,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -343,7 +316,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8746149,
+      "rating": 0.87461066,
       "ratingCount": 10136,
       "created": "2026-06-24T05:20:29.857028Z",
       "updated": "2026-06-24T05:20:29.857028Z",
@@ -395,7 +368,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8093684,
+      "rating": 0.8093733,
       "ratingCount": 6786,
       "created": "2026-06-09T08:29:38.646388Z",
       "updated": "2026-06-10T10:26:09.350173Z",
@@ -475,7 +448,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81300795,
+      "rating": 0.81231153,
       "ratingCount": 2041,
       "created": "2026-05-22T15:09:41.771882Z",
       "updated": "2026-05-22T15:09:41.771882Z",
@@ -501,7 +474,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89749753,
+      "rating": 0.8975463,
       "ratingCount": 4263,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -528,7 +501,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9201592,
+      "rating": 0.9203448,
       "ratingCount": 1938,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -554,7 +527,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8619635,
+      "rating": 0.86445457,
       "ratingCount": 50,
       "created": "2026-05-05T15:11:55.046371Z",
       "updated": "2026-05-05T15:11:55.046371Z",
@@ -606,7 +579,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.81577516,
+      "rating": 0.8158889,
       "ratingCount": 1634,
       "created": "2026-05-04T07:00:01.181555Z",
       "updated": "2026-05-04T07:00:01.181555Z",
@@ -658,7 +631,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94072825,
+      "rating": 0.9408574,
       "ratingCount": 5141,
       "created": "2026-05-04T04:55:04.819055Z",
       "updated": "2026-05-04T04:55:04.819055Z",
@@ -684,7 +657,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.70952374,
+      "rating": 0.7076641,
       "ratingCount": 653,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -762,7 +735,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8325393,
+      "rating": 0.83315605,
       "ratingCount": 272,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -795,6 +768,34 @@
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
+    },
+    {
+      "id": 56014,
+      "name": "Bitter Times",
+      "level": "RD 2-XN",
+      "difficulty": 8.2999935,
+      "charter": "DiAMONDGAMER",
+      "composer": "Celesti Whispers & Patricia_Taxxon",
+      "illustrator": "",
+      "description": "@DiAMONDGAMER#2067（曲绘制作）\n@DiAMOND_GR#841834（谱面制作）\n（？）\n\n这是一张《节奏医生》还原向谱面，区别于常规谱面。\n我们建议您先了解：\n1.不规则二拍\n2.跳过二拍\n\n（B站：@DiAMONDGAMER）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b5eb703e-2dd2-498d-8b50-6128d580d95e",
+      "preview": "https://phira.5wyxi.com/files/55042119-0837-4ac8-83d4-417105ad31b8",
+      "file": "https://phira.5wyxi.com/files/f4043c3e-7b60-42ba-b638-3e115a8f23f8",
+      "uploader": 841834,
+      "tags": [
+        "节奏医生",
+        "还原",
+        "troll"
+      ],
+      "rating": 0.95779586,
+      "ratingCount": 109,
+      "created": "2026-04-11T12:30:15.846877Z",
+      "updated": "2026-04-11T12:30:15.846877Z",
+      "chartUpdated": "2026-04-11T12:30:15.846877Z"
     }
   ]
 }
