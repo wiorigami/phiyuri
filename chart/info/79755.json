@@ -13,11 +13,11 @@
   "name": "Melodiniq",
   "preview": "https://phira.5wyxi.com/files/ab65c6d7-975e-46a4-bbec-c87c6ac3891b",
   "ranked": false,
-  "rating": 0.8411921,
-  "ratingCount": 15,
-  "reviewed": true,
+  "rating": 0.8738353,
+  "ratingCount": 44,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
