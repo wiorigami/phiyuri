@@ -1,6 +1,32 @@
 {
-  "count": 9724,
+  "count": 9722,
   "results": [
+    {
+      "id": 80878,
+      "name": "Phantigma",
+      "level": "AT  Lv.18",
+      "difficulty": 18.500002,
+      "charter": "betrix & Yandere",
+      "composer": "打打だいず",
+      "illustrator": "Schuld",
+      "description": "@2222ββββ#2035（配置）\n约稿，所有谱师均同意上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/feecdee9-0fee-4eb4-8c95-833101a2552d",
+      "preview": "https://phira.5wyxi.com/files/7145767a-a599-4eeb-8fd1-0a041ae4ed88",
+      "file": "https://phira.5wyxi.com/files/5ab71279-3512-4fa5-aab6-7f585b97040d",
+      "uploader": 471275,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8561231,
+      "ratingCount": 0,
+      "created": "2026-10-11T15:35:14.412547Z",
+      "updated": "2026-10-11T15:57:10.241463528Z",
+      "chartUpdated": "2026-10-11T15:35:14.412547Z"
+    },
     {
       "id": 80768,
       "name": "無機質世界に彩を",
@@ -21,7 +47,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8678234,
+      "rating": 0.91070867,
       "ratingCount": 6,
       "created": "2026-10-11T00:37:11.431205Z",
       "updated": "2026-10-11T03:09:32.978443Z",
@@ -47,7 +73,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9457014,
+      "rating": 0.94413036,
       "ratingCount": 0,
       "created": "2026-10-10T15:59:45.864180Z",
       "updated": "2026-10-10T16:02:10.350843043Z",
@@ -63,9 +89,9 @@
       "illustrator": "UK",
       "description": "Create by Myself.",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/b0d0ff1f-8ff8-4bd4-819a-fe925bcef214",
       "preview": "https://phira.5wyxi.com/files/af8efd41-a03c-4fd1-9e86-93b71edc396f",
       "file": "https://phira.5wyxi.com/files/1330904b-c54d-411d-b0e7-05a3115dd7e4",
@@ -73,10 +99,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91049916,
-      "ratingCount": 0,
+      "rating": 0.9157334,
+      "ratingCount": 34,
       "created": "2026-09-28T09:30:52.780451Z",
-      "updated": "2026-10-10T13:20:26.091834978Z",
+      "updated": "2026-10-10T13:20:26.091834Z",
       "chartUpdated": "2026-09-28T09:30:52.780451Z"
     },
     {
@@ -99,7 +125,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.876913,
+      "rating": 0.8896844,
       "ratingCount": 0,
       "created": "2026-07-27T10:46:55.091053Z",
       "updated": "2026-10-10T11:37:51.553250713Z",
@@ -127,7 +153,7 @@
         "TAKUMI³",
         "regular"
       ],
-      "rating": 0.79373825,
+      "rating": 0.8401867,
       "ratingCount": 0,
       "created": "2026-08-12T04:16:01.671231Z",
       "updated": "2026-10-10T11:31:25.125868680Z",
@@ -153,7 +179,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93808204,
+      "rating": 0.94026166,
       "ratingCount": 0,
       "created": "2026-10-03T08:59:27.762977Z",
       "updated": "2026-10-09T19:15:50.691200593Z",
@@ -179,7 +205,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9186574,
+      "rating": 0.9335892,
       "ratingCount": 2,
       "created": "2026-08-19T04:55:05.845928Z",
       "updated": "2026-10-09T14:53:39.096498Z",
@@ -206,7 +232,7 @@
         "蔚蓝档案",
         "regular"
       ],
-      "rating": 0.96251565,
+      "rating": 0.96267,
       "ratingCount": 0,
       "created": "2026-10-09T10:02:36.521682Z",
       "updated": "2026-10-09T14:53:12.272970691Z",
@@ -235,7 +261,7 @@
         "歌词故事板",
         "regular"
       ],
-      "rating": 0.9343224,
+      "rating": 0.9343932,
       "ratingCount": 65070,
       "created": "2026-05-29T02:18:35.248207Z",
       "updated": "2026-10-09T14:12:10.988455327Z",
@@ -261,7 +287,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9121939,
+      "rating": 0.91523576,
       "ratingCount": 0,
       "created": "2026-09-30T15:37:15.908771Z",
       "updated": "2026-10-09T13:06:07.130662511Z",
@@ -287,7 +313,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9437064,
+      "rating": 0.9427177,
       "ratingCount": 0,
       "created": "2026-10-09T09:45:50.185793Z",
       "updated": "2026-10-09T10:08:33.484532630Z",
@@ -313,7 +339,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8119125,
+      "rating": 0.8098963,
       "ratingCount": 0,
       "created": "2026-08-23T05:35:32.528927Z",
       "updated": "2026-10-09T10:05:52.527011311Z",
@@ -339,7 +365,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9292402,
+      "rating": 0.92702895,
       "ratingCount": 0,
       "created": "2026-08-26T04:42:13.398485Z",
       "updated": "2026-10-09T10:04:23.482417085Z",
@@ -365,7 +391,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9412513,
+      "rating": 0.93728125,
       "ratingCount": 0,
       "created": "2026-08-27T11:39:46.467141Z",
       "updated": "2026-10-09T10:03:22.010509981Z",
@@ -391,7 +417,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9004048,
+      "rating": 0.91612226,
       "ratingCount": 0,
       "created": "2026-09-13T03:27:35.045095Z",
       "updated": "2026-10-09T09:55:41.553985340Z",
@@ -417,7 +443,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9476379,
+      "rating": 0.94730663,
       "ratingCount": 0,
       "created": "2026-09-17T07:59:37.081924Z",
       "updated": "2026-10-09T09:54:58.113752908Z",
@@ -443,7 +469,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.82113594,
+      "rating": 0.8306768,
       "ratingCount": 0,
       "created": "2026-09-19T08:26:09.846931Z",
       "updated": "2026-10-09T09:54:10.229251116Z",
@@ -469,7 +495,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8122171,
+      "rating": 0.83766794,
       "ratingCount": 0,
       "created": "2026-09-24T14:12:35.317128Z",
       "updated": "2026-10-09T09:53:19.576339500Z",
@@ -495,7 +521,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8594415,
+      "rating": 0.88022506,
       "ratingCount": 0,
       "created": "2026-09-26T03:03:43.368093Z",
       "updated": "2026-10-09T09:52:02.611484018Z",
@@ -522,7 +548,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.8793971,
+      "rating": 0.8799074,
       "ratingCount": 80,
       "created": "2026-09-28T09:26:06.344784Z",
       "updated": "2026-10-09T09:50:19.319845590Z",
@@ -548,7 +574,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9054609,
+      "rating": 0.90836924,
       "ratingCount": 223,
       "created": "2026-10-01T08:40:30.732777Z",
       "updated": "2026-10-09T09:48:44.142324343Z",
@@ -574,8 +600,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8738353,
-      "ratingCount": 19,
+      "rating": 0.8892142,
+      "ratingCount": 60,
       "created": "2026-10-02T05:03:37.288740Z",
       "updated": "2026-10-09T09:47:22.924953Z",
       "chartUpdated": "2026-10-02T05:03:37.288740Z"
@@ -600,7 +626,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93047243,
+      "rating": 0.93289644,
       "ratingCount": 0,
       "created": "2026-10-02T11:22:25.649639Z",
       "updated": "2026-10-09T09:45:54.598762792Z",
@@ -626,7 +652,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9091435,
+      "rating": 0.92049783,
       "ratingCount": 0,
       "created": "2026-10-04T10:43:41.032893Z",
       "updated": "2026-10-09T09:42:50.525622885Z",
@@ -652,7 +678,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.80674666,
+      "rating": 0.8307277,
       "ratingCount": 0,
       "created": "2026-10-05T02:08:48.869646Z",
       "updated": "2026-10-09T09:41:59.333003585Z",
@@ -678,7 +704,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84445226,
+      "rating": 0.8776864,
       "ratingCount": 0,
       "created": "2026-10-05T07:01:40.779137Z",
       "updated": "2026-10-09T09:41:32.010158620Z",
@@ -704,7 +730,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9268165,
+      "rating": 0.93359214,
       "ratingCount": 0,
       "created": "2026-10-05T05:32:23.090430Z",
       "updated": "2026-10-09T09:41:16.995886001Z",
@@ -730,7 +756,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86354226,
+      "rating": 0.8430302,
       "ratingCount": 0,
       "created": "2026-10-08T07:26:42.593930Z",
       "updated": "2026-10-09T07:29:25.593013876Z",
@@ -756,38 +782,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89513135,
+      "rating": 0.8968487,
       "ratingCount": 0,
       "created": "2026-10-08T05:18:47.026470Z",
       "updated": "2026-10-09T07:25:59.727757401Z",
       "chartUpdated": "2026-10-08T05:18:47.026470Z"
-    },
-    {
-      "id": 80369,
-      "name": "Cyberneko Pulse",
-      "level": "AT Lv.17",
-      "difficulty": 17.800003,
-      "charter": "three or four",
-      "composer": "Connexio",
-      "illustrator": "keckyx",
-      "description": "谱师本人代表上传，此为星脉杯比赛原创曲谱，本曲仅供音游比赛及自制谱演示，未进行公开配信，请勿转载。\n\n参与谱师:\n\n@EG_KS#230\n@伍零柒壹_1#464049\n@awa123#101\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/89be52c1-3fb7-4486-b0af-3d2b3c6e9b43",
-      "preview": "https://phira.5wyxi.com/files/8b376c17-95a0-4cc1-b71b-5c8bf496b80f",
-      "file": "https://phira.5wyxi.com/files/74d67424-b57d-4f23-bcc2-7b1f6101f784",
-      "uploader": 3742,
-      "tags": [
-        "星脉杯",
-        "regular"
-      ],
-      "rating": 0.9276425,
-      "ratingCount": 1,
-      "created": "2026-10-06T03:48:09.524977Z",
-      "updated": "2026-10-09T04:14:06.947330Z",
-      "chartUpdated": "2026-10-06T03:48:09.524977Z"
     }
   ]
 }
