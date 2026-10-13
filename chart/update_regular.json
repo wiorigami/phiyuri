@@ -1,6 +1,137 @@
 {
-  "count": 9722,
+  "count": 9724,
   "results": [
+    {
+      "id": 79631,
+      "name": "IF = Infinity",
+      "level": "AT  Lv.17",
+      "difficulty": 17.400002,
+      "charter": "InFinity Charting Team",
+      "composer": "Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi",
+      "illustrator": "渗透物",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4899baef-c45f-41e7-95c0-e0b379c477ef",
+      "preview": "https://phira.5wyxi.com/files/c34ccb5f-c9d8-4114-8a33-6835e72a7aa8",
+      "file": "https://phira.5wyxi.com/files/23d6ef9d-b3ad-4fdd-a776-528b051b0974",
+      "uploader": 1018746,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.88530535,
+      "ratingCount": 14,
+      "created": "2026-10-01T09:22:05.072431Z",
+      "updated": "2026-10-12T15:28:22.654224Z",
+      "chartUpdated": "2026-10-01T09:22:05.072431Z"
+    },
+    {
+      "id": 80937,
+      "name": "起死開戰",
+      "level": "AT  Lv.17",
+      "difficulty": 17.2,
+      "charter": "「Mille Corsage.」",
+      "composer": "millsage",
+      "illustrator": "ブシロード (Chloe Modified)",
+      "description": "@Ex1stenS#1503（忍者特效制作）\n——————\n曲目：起死開戦\n曲师：millsage\n谱师：「Mille Corsage.」\n难度：AT Lv.17.2\n——————\n这次踩音真的好好，爽谱呀",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/82deba5f-baf3-4414-a7ce-a063b4be0f79",
+      "preview": "https://phira.5wyxi.com/files/765e6a52-dedc-4605-ba5a-e0b56a22c2ea",
+      "file": "https://phira.5wyxi.com/files/c04621a1-84b8-4cd2-971b-4b3d2ef9ad05",
+      "uploader": 22147,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8911643,
+      "ratingCount": 23,
+      "created": "2026-10-12T14:03:24.680763Z",
+      "updated": "2026-10-12T14:11:51.224701Z",
+      "chartUpdated": "2026-10-12T14:03:24.680763Z"
+    },
+    {
+      "id": 75049,
+      "name": "くねくね",
+      "level": "IN  Lv.13",
+      "difficulty": 13.0,
+      "charter": "江天凌",
+      "composer": "しぜんすい",
+      "illustrator": "",
+      "description": "本谱面为谱师本人上传 BV1YtcHzqE5H",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c27b8594-54e1-4bef-be61-fca11a279927",
+      "preview": "https://phira.5wyxi.com/files/710c5619-1c3a-43e4-a986-57e0ec85a898",
+      "file": "https://phira.5wyxi.com/files/8c426eb8-4071-4491-9422-fb11c559947d",
+      "uploader": 10281,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9528965,
+      "ratingCount": 174,
+      "created": "2026-08-22T13:57:14.060554Z",
+      "updated": "2026-10-12T12:40:37.698780Z",
+      "chartUpdated": "2026-08-22T13:57:14.060554Z"
+    },
+    {
+      "id": 80626,
+      "name": "Expo Festa",
+      "level": "IN Lv.14",
+      "difficulty": 14.500002,
+      "charter": "福符fufurisk",
+      "composer": "EmoCosine",
+      "illustrator": "NEXON Games",
+      "description": "蔚蓝档案Code:BOX主题曲\n曲名：Blue Archive OST 245 (或 Expo Festa)\n曲师：EmoCosine\n谱师：B站 坚守二次元（本人上传）\n—————————————————————\n该说不说这曲真豪庭\n反馈意见可通过私信我，每个都会看的\n还有，小圣娅可爱捏(≧▽≦)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/af2432e7-ac20-4f38-aa50-ad46b5ec8a80",
+      "preview": "https://phira.5wyxi.com/files/b4d6d0c2-06dd-4a10-993d-23f1d8329bf4",
+      "file": "https://phira.5wyxi.com/files/16ec1a2c-8e88-4c48-b406-9e3a411125d5",
+      "uploader": 1286073,
+      "tags": [
+        "蔚蓝档案",
+        "regular"
+      ],
+      "rating": 0.94764173,
+      "ratingCount": 113,
+      "created": "2026-10-09T08:06:42.104345Z",
+      "updated": "2026-10-12T10:55:09.554267Z",
+      "chartUpdated": "2026-10-09T08:06:42.104345Z"
+    },
+    {
+      "id": 80641,
+      "name": "インフェルノシティ",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "SPtam",
+      "composer": "Ponchi♪ feat.はぁち",
+      "illustrator": "LESYEF & 藍瀬 まなみ",
+      "description": "谱师上传，定数为新版17.0（记得开启新速度缓动，这个流速会有点慢建议开1.05玩），B站关注SPtam谢谢喵qwq",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4c46ff4f-787b-4e00-9424-39383365e78b",
+      "preview": "https://phira.5wyxi.com/files/54c85133-e197-4de4-a30a-2e1ae4359af6",
+      "file": "https://phira.5wyxi.com/files/1d93bfa8-2053-4809-b8b1-8d7ec427d96f",
+      "uploader": 1995191,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9240469,
+      "ratingCount": 80,
+      "created": "2026-10-09T10:48:33.579799Z",
+      "updated": "2026-10-12T08:54:47.497887Z",
+      "chartUpdated": "2026-10-09T10:48:33.579799Z"
+    },
     {
       "id": 80878,
       "name": "Phantigma",
@@ -21,10 +152,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8561231,
-      "ratingCount": 0,
+      "rating": 0.8871238,
+      "ratingCount": 30,
       "created": "2026-10-11T15:35:14.412547Z",
-      "updated": "2026-10-11T15:57:10.241463528Z",
+      "updated": "2026-10-11T15:57:10.241463Z",
       "chartUpdated": "2026-10-11T15:35:14.412547Z"
     },
     {
@@ -47,8 +178,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91070867,
-      "ratingCount": 6,
+      "rating": 0.89202994,
+      "ratingCount": 43,
       "created": "2026-10-11T00:37:11.431205Z",
       "updated": "2026-10-11T03:09:32.978443Z",
       "chartUpdated": "2026-10-11T00:37:11.431205Z"
@@ -73,10 +204,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94413036,
-      "ratingCount": 0,
+      "rating": 0.9450581,
+      "ratingCount": 2629,
       "created": "2026-10-10T15:59:45.864180Z",
-      "updated": "2026-10-10T16:02:10.350843043Z",
+      "updated": "2026-10-10T16:02:10.350843Z",
       "chartUpdated": "2026-10-10T15:59:45.864180Z"
     },
     {
@@ -99,8 +230,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9157334,
-      "ratingCount": 34,
+      "rating": 0.92204165,
+      "ratingCount": 58,
       "created": "2026-09-28T09:30:52.780451Z",
       "updated": "2026-10-10T13:20:26.091834Z",
       "chartUpdated": "2026-09-28T09:30:52.780451Z"
@@ -125,10 +256,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8896844,
-      "ratingCount": 0,
+      "rating": 0.8859006,
+      "ratingCount": 318,
       "created": "2026-07-27T10:46:55.091053Z",
-      "updated": "2026-10-10T11:37:51.553250713Z",
+      "updated": "2026-10-10T11:37:51.553250Z",
       "chartUpdated": "2026-07-27T10:46:55.091053Z"
     },
     {
@@ -153,10 +284,10 @@
         "TAKUMI³",
         "regular"
       ],
-      "rating": 0.8401867,
-      "ratingCount": 0,
+      "rating": 0.85035443,
+      "ratingCount": 40,
       "created": "2026-08-12T04:16:01.671231Z",
-      "updated": "2026-10-10T11:31:25.125868680Z",
+      "updated": "2026-10-10T11:31:25.125868Z",
       "chartUpdated": "2026-08-12T04:16:01.671231Z"
     },
     {
@@ -179,10 +310,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94026166,
-      "ratingCount": 0,
+      "rating": 0.9433568,
+      "ratingCount": 242,
       "created": "2026-10-03T08:59:27.762977Z",
-      "updated": "2026-10-09T19:15:50.691200593Z",
+      "updated": "2026-10-09T19:15:50.691200Z",
       "chartUpdated": "2026-10-03T08:59:27.762977Z"
     },
     {
@@ -205,8 +336,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9335892,
-      "ratingCount": 2,
+      "rating": 0.9335214,
+      "ratingCount": 111,
       "created": "2026-08-19T04:55:05.845928Z",
       "updated": "2026-10-09T14:53:39.096498Z",
       "chartUpdated": "2026-08-19T04:55:05.845928Z"
@@ -232,10 +363,10 @@
         "蔚蓝档案",
         "regular"
       ],
-      "rating": 0.96267,
-      "ratingCount": 0,
+      "rating": 0.96350974,
+      "ratingCount": 828,
       "created": "2026-10-09T10:02:36.521682Z",
-      "updated": "2026-10-09T14:53:12.272970691Z",
+      "updated": "2026-10-09T14:53:12.272970Z",
       "chartUpdated": "2026-10-09T10:02:36.521682Z"
     },
     {
@@ -261,11 +392,11 @@
         "歌词故事板",
         "regular"
       ],
-      "rating": 0.9343932,
-      "ratingCount": 65070,
+      "rating": 0.9344195,
+      "ratingCount": 66175,
       "created": "2026-05-29T02:18:35.248207Z",
-      "updated": "2026-10-09T14:12:10.988455327Z",
-      "chartUpdated": "2026-10-09T14:12:10.988455327Z"
+      "updated": "2026-10-09T14:12:10.988455Z",
+      "chartUpdated": "2026-10-09T14:12:10.988455Z"
     },
     {
       "id": 79524,
@@ -287,10 +418,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91523576,
-      "ratingCount": 0,
+      "rating": 0.92123985,
+      "ratingCount": 64,
       "created": "2026-09-30T15:37:15.908771Z",
-      "updated": "2026-10-09T13:06:07.130662511Z",
+      "updated": "2026-10-09T13:06:07.130662Z",
       "chartUpdated": "2026-09-30T15:37:15.908771Z"
     },
     {
@@ -313,10 +444,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9427177,
-      "ratingCount": 0,
+      "rating": 0.9390074,
+      "ratingCount": 173,
       "created": "2026-10-09T09:45:50.185793Z",
-      "updated": "2026-10-09T10:08:33.484532630Z",
+      "updated": "2026-10-09T10:08:33.484532Z",
       "chartUpdated": "2026-10-09T09:45:50.185793Z"
     },
     {
@@ -339,10 +470,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8098963,
-      "ratingCount": 0,
+      "rating": 0.8074747,
+      "ratingCount": 23,
       "created": "2026-08-23T05:35:32.528927Z",
-      "updated": "2026-10-09T10:05:52.527011311Z",
+      "updated": "2026-10-09T10:05:52.527011Z",
       "chartUpdated": "2026-08-23T05:35:32.528927Z"
     },
     {
@@ -365,10 +496,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92702895,
-      "ratingCount": 0,
+      "rating": 0.92930984,
+      "ratingCount": 112,
       "created": "2026-08-26T04:42:13.398485Z",
-      "updated": "2026-10-09T10:04:23.482417085Z",
+      "updated": "2026-10-09T10:04:23.482417Z",
       "chartUpdated": "2026-08-26T04:42:13.398485Z"
     },
     {
@@ -391,10 +522,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93728125,
-      "ratingCount": 0,
+      "rating": 0.9271424,
+      "ratingCount": 70,
       "created": "2026-08-27T11:39:46.467141Z",
-      "updated": "2026-10-09T10:03:22.010509981Z",
+      "updated": "2026-10-09T10:03:22.010509Z",
       "chartUpdated": "2026-08-27T11:39:46.467141Z"
     },
     {
@@ -417,10 +548,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91612226,
-      "ratingCount": 0,
+      "rating": 0.92557603,
+      "ratingCount": 72,
       "created": "2026-09-13T03:27:35.045095Z",
-      "updated": "2026-10-09T09:55:41.553985340Z",
+      "updated": "2026-10-09T09:55:41.553985Z",
       "chartUpdated": "2026-09-13T03:27:35.045095Z"
     },
     {
@@ -443,10 +574,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94730663,
-      "ratingCount": 0,
+      "rating": 0.9472337,
+      "ratingCount": 3741,
       "created": "2026-09-17T07:59:37.081924Z",
-      "updated": "2026-10-09T09:54:58.113752908Z",
+      "updated": "2026-10-09T09:54:58.113752Z",
       "chartUpdated": "2026-09-17T07:59:37.081924Z"
     },
     {
@@ -469,10 +600,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8306768,
-      "ratingCount": 0,
+      "rating": 0.8250581,
+      "ratingCount": 18,
       "created": "2026-09-19T08:26:09.846931Z",
-      "updated": "2026-10-09T09:54:10.229251116Z",
+      "updated": "2026-10-09T09:54:10.229251Z",
       "chartUpdated": "2026-09-19T08:26:09.846931Z"
     },
     {
@@ -495,10 +626,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83766794,
-      "ratingCount": 0,
+      "rating": 0.8498641,
+      "ratingCount": 19,
       "created": "2026-09-24T14:12:35.317128Z",
-      "updated": "2026-10-09T09:53:19.576339500Z",
+      "updated": "2026-10-09T09:53:19.576339Z",
       "chartUpdated": "2026-09-24T14:12:35.317128Z"
     },
     {
@@ -521,10 +652,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88022506,
-      "ratingCount": 0,
+      "rating": 0.8717101,
+      "ratingCount": 59,
       "created": "2026-09-26T03:03:43.368093Z",
-      "updated": "2026-10-09T09:52:02.611484018Z",
+      "updated": "2026-10-09T09:52:02.611484Z",
       "chartUpdated": "2026-09-26T03:03:43.368093Z"
     },
     {
@@ -548,10 +679,10 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.8799074,
-      "ratingCount": 80,
+      "rating": 0.88561356,
+      "ratingCount": 103,
       "created": "2026-09-28T09:26:06.344784Z",
-      "updated": "2026-10-09T09:50:19.319845590Z",
+      "updated": "2026-10-09T09:50:19.319845Z",
       "chartUpdated": "2026-09-28T09:26:06.344784Z"
     },
     {
@@ -574,10 +705,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90836924,
-      "ratingCount": 223,
+      "rating": 0.90974075,
+      "ratingCount": 261,
       "created": "2026-10-01T08:40:30.732777Z",
-      "updated": "2026-10-09T09:48:44.142324343Z",
+      "updated": "2026-10-09T09:48:44.142324Z",
       "chartUpdated": "2026-10-01T08:40:30.732777Z"
     },
     {
@@ -600,8 +731,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8892142,
-      "ratingCount": 60,
+      "rating": 0.8785134,
+      "ratingCount": 78,
       "created": "2026-10-02T05:03:37.288740Z",
       "updated": "2026-10-09T09:47:22.924953Z",
       "chartUpdated": "2026-10-02T05:03:37.288740Z"
@@ -626,10 +757,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93289644,
-      "ratingCount": 0,
+      "rating": 0.9309667,
+      "ratingCount": 573,
       "created": "2026-10-02T11:22:25.649639Z",
-      "updated": "2026-10-09T09:45:54.598762792Z",
+      "updated": "2026-10-09T09:45:54.598762Z",
       "chartUpdated": "2026-10-02T11:22:25.649639Z"
     },
     {
@@ -652,141 +783,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92049783,
-      "ratingCount": 0,
+      "rating": 0.92528033,
+      "ratingCount": 29,
       "created": "2026-10-04T10:43:41.032893Z",
-      "updated": "2026-10-09T09:42:50.525622885Z",
+      "updated": "2026-10-09T09:42:50.525622Z",
       "chartUpdated": "2026-10-04T10:43:41.032893Z"
-    },
-    {
-      "id": 80198,
-      "name": "Never Say Goodbye",
-      "level": "IN Lv.15",
-      "difficulty": 15.0,
-      "charter": "X5ter",
-      "composer": "黒魔",
-      "illustrator": "山山奇",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c286c2eb-d91f-4d41-a035-3fba008a454d",
-      "preview": "https://phira.5wyxi.com/files/d8e1a2d4-6a8b-4ea6-a614-df7a8d2f59f0",
-      "file": "https://phira.5wyxi.com/files/296fc299-770e-4b08-acef-ebd690d00fd1",
-      "uploader": 1908475,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8307277,
-      "ratingCount": 0,
-      "created": "2026-10-05T02:08:48.869646Z",
-      "updated": "2026-10-09T09:41:59.333003585Z",
-      "chartUpdated": "2026-10-05T02:08:48.869646Z"
-    },
-    {
-      "id": 80239,
-      "name": "Memory Fragments",
-      "level": "IN Lv.15",
-      "difficulty": 15.400002,
-      "charter": "Marvelous Future",
-      "composer": "Aero_ChordFlux",
-      "illustrator": "沉默喵",
-      "description": "第三届求救战争D组决赛谱\n\n第四届圣杯战争常规谱",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a21745d8-3ec4-4aa7-b8f6-444789c0fa73",
-      "preview": "https://phira.5wyxi.com/files/37c3b038-0199-4fd2-9b0f-a06e4c213d77",
-      "file": "https://phira.5wyxi.com/files/a89cc27d-cd06-4a34-b978-de8e2ed6a54f",
-      "uploader": 1419127,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8776864,
-      "ratingCount": 0,
-      "created": "2026-10-05T07:01:40.779137Z",
-      "updated": "2026-10-09T09:41:32.010158620Z",
-      "chartUpdated": "2026-10-05T07:01:40.779137Z"
-    },
-    {
-      "id": 80228,
-      "name": "YOUNITHM",
-      "level": "IN Lv.16",
-      "difficulty": 16.500002,
-      "charter": "一緒に、向星流引以翎羽（Lq_Fri）",
-      "composer": "大国奏音",
-      "illustrator": "煎茶",
-      "description": "真的是本人上传！b站预览BV18rH769Eh7",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/012744a7-818a-46a6-9cd3-1b2f0d125044",
-      "preview": "https://phira.5wyxi.com/files/d6015543-b107-4334-b1ee-a120b78bf4a1",
-      "file": "https://phira.5wyxi.com/files/cfc1dc7f-b645-453d-b93d-2c1c81967185",
-      "uploader": 3199253,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93359214,
-      "ratingCount": 0,
-      "created": "2026-10-05T05:32:23.090430Z",
-      "updated": "2026-10-09T09:41:16.995886001Z",
-      "chartUpdated": "2026-10-05T05:32:23.090430Z"
-    },
-    {
-      "id": 80582,
-      "name": "world.execute(me);",
-      "level": "IN 15",
-      "difficulty": 15.0,
-      "charter": "绮晓络",
-      "composer": "Mili",
-      "illustrator": "藤森蒼 ",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/77ab3757-42bd-41aa-8d1b-e36e204c202b",
-      "preview": "https://phira.5wyxi.com/files/e4ec8672-1a56-4213-85e7-8ccc6dd2d009",
-      "file": "https://phira.5wyxi.com/files/dabe4585-3a1e-4bc1-81d1-ebf46517b38b",
-      "uploader": 27141,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8430302,
-      "ratingCount": 0,
-      "created": "2026-10-08T07:26:42.593930Z",
-      "updated": "2026-10-09T07:29:25.593013876Z",
-      "chartUpdated": "2026-10-08T07:26:42.593930Z"
-    },
-    {
-      "id": 80574,
-      "name": "FX戦士くるみちゃん",
-      "level": "AT Lv.16",
-      "difficulty": 16.9,
-      "charter": "W·¥·G",
-      "composer": "福賀くるみ(CV:鈴木愛奈)",
-      "illustrator": "Passione",
-      "description": "本人@NWM_與我無關 上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6f1a5bfd-18ba-4037-8124-c375999d5ccd",
-      "preview": "https://phira.5wyxi.com/files/6d4377dc-490a-4d42-b748-1a4f165a491a",
-      "file": "https://phira.5wyxi.com/files/8a884142-a647-493a-9e04-554a058da30b",
-      "uploader": 2075,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8968487,
-      "ratingCount": 0,
-      "created": "2026-10-08T05:18:47.026470Z",
-      "updated": "2026-10-09T07:25:59.727757401Z",
-      "chartUpdated": "2026-10-08T05:18:47.026470Z"
     }
   ]
 }
