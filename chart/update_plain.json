@@ -1,6 +1,86 @@
 {
-  "count": 3387,
+  "count": 3390,
   "results": [
+    {
+      "id": 73235,
+      "name": "Glitch Street",
+      "level": "4K Lv.20",
+      "difficulty": 6.0,
+      "charter": "Aminos",
+      "composer": "KARUT",
+      "illustrator": "",
+      "description": "谱师本人上转\n这是一张存货，用Malody制作，然后进行了转谱\n认为这是一张做的比较好的4kMalody谱，我已经上传了\n可能不久后就下架，看一下反响如何吧\nB站上就不发视频了\n\nB站:阿米诺斯_阿米诺斯",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ac6ca21f-ab83-48d7-86b7-37f237e705ab",
+      "preview": "https://phira.5wyxi.com/files/54c10582-b41c-4669-bb20-74fd60344bc8",
+      "file": "https://phira.5wyxi.com/files/9f22b7ae-e828-4b91-8c88-c49abc4ece3b",
+      "uploader": 180864,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-08-14T01:28:01.763755Z",
+      "updated": "2026-10-14T01:49:22.990514Z",
+      "chartUpdated": "2026-08-14T01:28:01.763755Z"
+    },
+    {
+      "id": 80756,
+      "name": "アンクローズ·ヒューマン",
+      "level": "4k Unclose Lv.31",
+      "difficulty": 30.0,
+      "charter": "DIZzY",
+      "composer": "カジャ",
+      "illustrator": "UK",
+      "description": "各位好我是DIZzY\n这个是我的初谱\n这首歌是打舞萌的时候一见钟情的 后来了解了背景更是感触很深\n但是发现好像没人写这首\n是全曲 希望更多的人能听到这首歌\n后面升调段有一个爆发的乱各位注意一下\n谢谢大家支持www\n感谢类纸的修改还有洋漫帮我写的结尾对\n——————\nB站：ResoNancE27\nDy：S.R",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/541d8e43-014c-48ed-9d1a-ad03b526c717",
+      "preview": "https://phira.5wyxi.com/files/aff0a6fb-ed31-49be-be42-6881fc58b8d7",
+      "file": "https://phira.5wyxi.com/files/b936bc0d-033d-4464-89cd-ef933ad1c54e",
+      "uploader": 2326063,
+      "tags": [
+        "4k",
+        "",
+        "plain"
+      ],
+      "rating": 0.80552316,
+      "ratingCount": 0,
+      "created": "2026-10-10T16:02:15.406371Z",
+      "updated": "2026-10-14T00:41:15.585165404Z",
+      "chartUpdated": "2026-10-10T16:02:15.406371Z"
+    },
+    {
+      "id": 80770,
+      "name": "Nijuu",
+      "level": "4K Jack Lv.36",
+      "difficulty": 38.0,
+      "charter": "YMEA",
+      "composer": "DJ TECHNORCH",
+      "illustrator": "UK",
+      "description": "Crft 4K 周年庆谱\n其实之前传过一遍，后来删了。因为现在发高烧清假了，没时间抽出来写谱（写这个简介时我就在学校的路上了。）\n\n过段99.45\n后光99.90\n难度约e4\n\n快手 x B站 洋漫YMEA\nDY YMEA",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b341fae8-fb3d-4442-b083-328ab3ab5201",
+      "preview": "https://phira.5wyxi.com/files/3522ba63-1852-4e6f-a0aa-8f70b77c7400",
+      "file": "https://phira.5wyxi.com/files/f3ba2102-4b71-4219-ad4c-c7e5e8121f46",
+      "uploader": 4268032,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-10-11T00:48:12.777610Z",
+      "updated": "2026-10-13T13:38:34.186701044Z",
+      "chartUpdated": "2026-10-11T00:48:12.777610Z"
+    },
     {
       "id": 80771,
       "name": "Observation",
@@ -23,7 +103,7 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8156982,
       "ratingCount": 1,
       "created": "2026-10-11T01:00:46.425631Z",
       "updated": "2026-10-12T18:56:39.679237Z",
@@ -49,7 +129,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.6778104,
       "ratingCount": 0,
       "created": "2026-02-09T20:15:09.952027Z",
       "updated": "2026-10-12T18:08:00.601653Z",
@@ -101,7 +181,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90689886,
+      "rating": 0.9165598,
       "ratingCount": 46,
       "created": "2026-10-11T13:46:24.548675Z",
       "updated": "2026-10-11T13:52:47.089972Z",
@@ -127,7 +207,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8833537,
+      "rating": 0.87423533,
       "ratingCount": 33,
       "created": "2026-10-10T15:40:38.033766Z",
       "updated": "2026-10-10T16:13:20.554585Z",
@@ -153,7 +233,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92398024,
+      "rating": 0.9116623,
       "ratingCount": 34,
       "created": "2026-10-10T15:33:56.000342Z",
       "updated": "2026-10-10T15:36:00.670487Z",
@@ -210,7 +290,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.91826,
+      "rating": 0.91116315,
       "ratingCount": 24,
       "created": "2026-09-27T03:20:40.756625Z",
       "updated": "2026-10-09T09:51:23.601910Z",
@@ -236,7 +316,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.794412,
+      "rating": 0.80598044,
       "ratingCount": 12,
       "created": "2026-10-03T16:52:18.107320Z",
       "updated": "2026-10-09T09:44:08.074844Z",
@@ -322,7 +402,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9003968,
+      "rating": 0.9040573,
       "ratingCount": 22,
       "created": "2026-10-06T14:03:30.644559Z",
       "updated": "2026-10-09T09:35:53.897428Z",
@@ -350,7 +430,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9086554,
+      "rating": 0.9111835,
       "ratingCount": 31,
       "created": "2026-10-06T13:47:02.583639Z",
       "updated": "2026-10-09T09:35:39.927297Z",
@@ -379,7 +459,7 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.79313713,
+      "rating": 0.8236625,
       "ratingCount": 6,
       "created": "2025-12-07T06:41:09.742056Z",
       "updated": "2026-10-09T07:34:41.490896Z",
@@ -525,7 +605,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8285204,
+      "rating": 0.8431304,
       "ratingCount": 37,
       "created": "2026-10-07T17:54:28.859750Z",
       "updated": "2026-10-09T07:29:54.784364Z",
@@ -552,7 +632,7 @@
         "5k",
         "plain"
       ],
-      "rating": 0.7868611,
+      "rating": 0.8190769,
       "ratingCount": 6,
       "created": "2026-10-06T15:27:45.532207Z",
       "updated": "2026-10-09T07:28:01.425834Z",
@@ -578,7 +658,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84344405,
+      "rating": 0.8415292,
       "ratingCount": 8,
       "created": "2026-06-13T08:16:09.554849Z",
       "updated": "2026-10-09T02:58:20.517572Z",
@@ -605,7 +685,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9143137,
+      "rating": 0.90877795,
       "ratingCount": 22,
       "created": "2025-12-06T11:09:18.048820Z",
       "updated": "2026-10-08T12:49:29.679250Z",
@@ -663,7 +743,7 @@
         "无轨",
         "plain"
       ],
-      "rating": 0.86566526,
+      "rating": 0.8718753,
       "ratingCount": 16,
       "created": "2026-08-08T15:41:54.567745Z",
       "updated": "2026-10-07T01:09:02.879723Z",
@@ -743,92 +823,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9509005,
+      "rating": 0.94916344,
       "ratingCount": 169,
       "created": "2026-10-05T13:27:07.600099Z",
       "updated": "2026-10-06T12:52:38.163033Z",
       "chartUpdated": "2026-10-05T13:27:07.600099Z"
-    },
-    {
-      "id": 54303,
-      "name": "輪廻玲々",
-      "level": "Master 15.4",
-      "difficulty": 17.5,
-      "charter": "weicaoNya",
-      "composer": "suzu",
-      "illustrator": "",
-      "description": "note:1897\n实际定数:17.4-17.5\n新人第二张铺，相对于初铺神鸣没那么蹭了\n本铺旨在还原并优化本家的配置，重写一些还原无理的配置，其中许多配置加入了我打本家的小巧思（（（\n泰斯塔蒙特好可爱（",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b4f5a0e2-6f4c-4a72-9ae4-1987eef219ad",
-      "preview": "https://phira.5wyxi.com/files/070c0617-373b-4d0b-be08-1c9ed5d6b54e",
-      "file": "https://phira.5wyxi.com/files/d189c050-fe82-4415-a741-93d615dc5be9",
-      "uploader": 2107728,
-      "tags": [
-        "chunithm",
-        "CHUNITHM",
-        "plain"
-      ],
-      "rating": 0.9073167,
-      "ratingCount": 25,
-      "created": "2026-03-19T16:00:54.649531Z",
-      "updated": "2026-10-06T07:02:56.512938Z",
-      "chartUpdated": "2026-03-19T16:00:54.649531Z"
-    },
-    {
-      "id": 49891,
-      "name": "ΩZСÜRIDΛD",
-      "level": "耐力lv.17",
-      "difficulty": 17.0,
-      "charter": "XXY",
-      "composer": "猎影双煞NonNam/Notanote",
-      "illustrator": "",
-      "description": "比较简单的耐力谱-v-\n难度分布/中间最难\n——最高48分/BPM126\nawa\n谱面由我本人（小小雨）上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fe271ceb-e5a6-4c75-973c-d9b642e079de",
-      "preview": "https://phira.5wyxi.com/files/017debaa-5ad1-4eee-a4b7-323d696d1700",
-      "file": "https://phira.5wyxi.com/files/39deb055-8fdf-4f63-bddf-9b8fabdf8568",
-      "uploader": 1496223,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9210463,
-      "ratingCount": 23,
-      "created": "2025-12-06T13:26:57.312338Z",
-      "updated": "2026-10-06T07:00:08.460503Z",
-      "chartUpdated": "2025-12-06T13:26:57.312338Z"
-    },
-    {
-      "id": 80340,
-      "name": "Overdrive",
-      "level": "4K HARD Lv.22",
-      "difficulty": 22.0,
-      "charter": "Sayu_92 & WXY0641",
-      "composer": "seatrus",
-      "illustrator": "Ness feat. TAKADA",
-      "description": "谱面为本人上传\n本曲目来自专辑 《Project:DISRUPTION》\n发布谱面内容请注明谱师信息谢谢\n---------------------------------\nMusic：Overdrive\nComposer: seatrus\nBPM:166\nTime:3min16s\nCreator:Sayu_92 & WXY0641\n\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7dd434fa-fba0-410b-b0aa-6a4bedd183b6",
-      "preview": "https://phira.5wyxi.com/files/d0fa3506-c3ac-4b43-a469-2f01cbb81269",
-      "file": "https://phira.5wyxi.com/files/f0c85acf-b0e4-4684-b8d8-9cdab8f19824",
-      "uploader": 4240643,
-      "tags": [
-        "4K",
-        "plain"
-      ],
-      "rating": 0.95069075,
-      "ratingCount": 164,
-      "created": "2026-10-05T16:53:47.435909Z",
-      "updated": "2026-10-06T04:04:19.949760Z",
-      "chartUpdated": "2026-10-05T16:53:47.435909Z"
     }
   ]
 }
