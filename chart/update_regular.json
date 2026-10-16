@@ -1,6 +1,87 @@
 {
-  "count": 9746,
+  "count": 9748,
   "results": [
+    {
+      "id": 69298,
+      "name": "Melonaid",
+      "level": "AT Lv.16",
+      "difficulty": 16.2,
+      "charter": "Nyiounaid",
+      "composer": "KATOMORI",
+      "illustrator": "",
+      "description": "五譜OwO\n為Hypernaid的前作，寫譜思路也幾乎相似OAO\n定數：16.2\n物量：1071\nbpm：145",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/27c2be58-8dc7-4719-a7b0-c87a7580a6fe",
+      "preview": "https://phira.5wyxi.com/files/26de1fb4-e1e9-4d32-8d95-a284f9447e53",
+      "file": "https://phira.5wyxi.com/files/52b0a920-9dc3-40d9-9fee-3a2f15d47d7f",
+      "uploader": 439874,
+      "tags": [
+        "DJMAX",
+        "多指",
+        "KATOMORI",
+        "regular"
+      ],
+      "rating": 0.7841069,
+      "ratingCount": 9,
+      "created": "2026-07-26T08:50:11.153552Z",
+      "updated": "2026-10-15T14:43:21.555664Z",
+      "chartUpdated": "2026-07-26T08:50:11.153552Z"
+    },
+    {
+      "id": 79463,
+      "name": "Soulless 5",
+      "level": "AT Lv. 21",
+      "difficulty": 21.0,
+      "charter": "HHmeowmeows",
+      "composer": "ExileLord",
+      "illustrator": "",
+      "description": "This took me so long to make",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/85d53fd9-dcf9-41f1-b000-2f7511348f3c",
+      "preview": "https://phira.5wyxi.com/files/3301f589-082b-4087-b1f3-1b637c0dfb1d",
+      "file": "https://phira.5wyxi.com/files/d538db31-a57a-4db2-b275-10308f0b434d",
+      "uploader": 1564878,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.6916632,
+      "ratingCount": 0,
+      "created": "2026-09-30T08:07:20.993622Z",
+      "updated": "2026-10-15T14:41:07.107087495Z",
+      "chartUpdated": "2026-09-30T08:07:20.993622Z"
+    },
+    {
+      "id": 79913,
+      "name": "ATLAS RUSH",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "XXXX RUSH",
+      "composer": "kanone",
+      "illustrator": "Khronetic(Chloe modified)",
+      "description": "0pj参赛谱三改\n删榜致歉\n感谢FM壹某和vex，以及0pj观众与评议给出的建议",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2aa3c61e-9f30-40ec-9fc4-f1d6e3fcd674",
+      "preview": "https://phira.5wyxi.com/files/33eab54a-2068-47a4-bb96-f5375cd0e177",
+      "file": "https://phira.5wyxi.com/files/dac38990-37cb-4cf1-84e7-ea7f1c2296b4",
+      "uploader": 18678,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9059218,
+      "ratingCount": 0,
+      "created": "2026-10-03T04:38:14.194042Z",
+      "updated": "2026-10-15T08:54:48.308395894Z",
+      "chartUpdated": "2026-10-03T04:38:14.194042Z"
+    },
     {
       "id": 80190,
       "name": "Roar of the Jungle Dragon",
@@ -21,7 +102,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.70983166,
+      "rating": 0.8082902,
       "ratingCount": 0,
       "created": "2026-10-04T20:32:50.799863Z",
       "updated": "2026-10-15T00:25:48.939049474Z",
@@ -51,7 +132,7 @@
         "喵",
         "regular"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8635927,
       "ratingCount": 0,
       "created": "2026-10-06T14:47:28.561809Z",
       "updated": "2026-10-15T00:23:58.283028940Z",
@@ -67,9 +148,9 @@
       "illustrator": "えいりな刃物",
       "description": "本人上传\n某个㊗在上传的时候一次简介没写清楚被打回一次写了简介没保存固换我传。\n一个双人合作谱，仅3k事件让玩家有“窒息”的体验～（？）\n玩得开心！\n@XTTTT#3982 (后半段)",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/3f2cb812-92ae-4f8d-b4b1-08077c0a1d4c",
       "preview": "https://phira.5wyxi.com/files/f9078dd9-edde-474c-906a-0b2d8147c59e",
       "file": "https://phira.5wyxi.com/files/5f5e0442-e0e0-431c-ba89-630c011c6c7f",
@@ -77,10 +158,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87260044,
-      "ratingCount": 0,
+      "rating": 0.9291208,
+      "ratingCount": 70,
       "created": "2026-10-09T14:15:38.426484Z",
-      "updated": "2026-10-15T00:19:44.368141963Z",
+      "updated": "2026-10-15T00:19:44.368141Z",
       "chartUpdated": "2026-10-09T14:15:38.426484Z"
     },
     {
@@ -103,7 +184,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8962535,
+      "rating": 0.9141634,
       "ratingCount": 0,
       "created": "2026-10-13T15:19:29.168364Z",
       "updated": "2026-10-15T00:19:14.874015366Z",
@@ -129,7 +210,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8837763,
+      "rating": 0.8823039,
       "ratingCount": 613,
       "created": "2025-08-26T10:41:40.012959Z",
       "updated": "2026-10-15T00:11:05.744701243Z",
@@ -155,7 +236,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8678234,
+      "rating": 0.90503293,
       "ratingCount": 0,
       "created": "2026-07-28T10:56:16.707832Z",
       "updated": "2026-10-14T16:21:23.426530776Z",
@@ -181,7 +262,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8544268,
+      "rating": 0.82936436,
       "ratingCount": 0,
       "created": "2026-07-28T09:08:11.246507Z",
       "updated": "2026-10-14T16:20:32.482647540Z",
@@ -209,7 +290,7 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.9439336,
+      "rating": 0.940119,
       "ratingCount": 187,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-10-14T14:26:44.558761Z",
@@ -235,7 +316,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7774543,
+      "rating": 0.8171983,
       "ratingCount": 0,
       "created": "2026-10-14T12:35:08.930157Z",
       "updated": "2026-10-14T13:56:55.534941742Z",
@@ -261,7 +342,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7560403,
+      "rating": 0.8203339,
       "ratingCount": 0,
       "created": "2026-10-14T08:52:16.044868Z",
       "updated": "2026-10-14T13:03:37.351981804Z",
@@ -290,7 +371,7 @@
         "かめりあ",
         "regular"
       ],
-      "rating": 0.9499068,
+      "rating": 0.9222048,
       "ratingCount": 17,
       "created": "2026-10-13T09:26:01.248432Z",
       "updated": "2026-10-14T06:07:38.224455642Z",
@@ -318,7 +399,7 @@
         "骐骥杯",
         "regular"
       ],
-      "rating": 0.8880166,
+      "rating": 0.8930092,
       "ratingCount": 97,
       "created": "2026-10-04T05:09:03.819356Z",
       "updated": "2026-10-14T02:50:03.022764001Z",
@@ -344,7 +425,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.956925,
+      "rating": 0.95457876,
       "ratingCount": 0,
       "created": "2026-10-04T08:43:35.515806Z",
       "updated": "2026-10-14T01:49:38.899708154Z",
@@ -370,7 +451,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9081082,
+      "rating": 0.9247097,
       "ratingCount": 0,
       "created": "2026-10-13T16:42:26.464792Z",
       "updated": "2026-10-14T00:46:42.095168174Z",
@@ -396,7 +477,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94523793,
+      "rating": 0.9415457,
       "ratingCount": 0,
       "created": "2026-10-10T10:31:23.867796Z",
       "updated": "2026-10-13T18:22:08.635568231Z",
@@ -422,7 +503,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.775724,
+      "rating": 0.7779184,
       "ratingCount": 250,
       "created": "2026-08-10T15:23:38.564039Z",
       "updated": "2026-10-13T15:43:39.453659140Z",
@@ -448,7 +529,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8403496,
+      "rating": 0.8572969,
       "ratingCount": 0,
       "created": "2026-10-05T16:13:13.990469Z",
       "updated": "2026-10-13T13:42:14.658183183Z",
@@ -474,7 +555,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89030653,
+      "rating": 0.89144415,
       "ratingCount": 322,
       "created": "2026-10-05T18:45:59.363574Z",
       "updated": "2026-10-13T13:42:03.424289Z",
@@ -500,8 +581,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93835294,
-      "ratingCount": 21,
+      "rating": 0.9394379,
+      "ratingCount": 78,
       "created": "2026-10-06T14:15:10.270148Z",
       "updated": "2026-10-13T13:41:46.608802Z",
       "chartUpdated": "2026-10-06T14:15:10.270148Z"
@@ -526,7 +607,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9438269,
+      "rating": 0.9398508,
       "ratingCount": 0,
       "created": "2026-10-07T04:39:34.201189Z",
       "updated": "2026-10-13T13:40:15.590195644Z",
@@ -557,7 +638,7 @@
         "特大",
         "regular"
       ],
-      "rating": 0.73270243,
+      "rating": 0.77159846,
       "ratingCount": 0,
       "created": "2026-10-07T09:52:43.474930Z",
       "updated": "2026-10-13T13:40:05.027642367Z",
@@ -583,7 +664,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8885545,
+      "rating": 0.8923331,
       "ratingCount": 28,
       "created": "2026-10-08T01:59:47.394025Z",
       "updated": "2026-10-13T13:39:49.935273129Z",
@@ -609,7 +690,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92250097,
+      "rating": 0.9275092,
       "ratingCount": 0,
       "created": "2026-10-09T08:26:44.891629Z",
       "updated": "2026-10-13T13:39:23.662444368Z",
@@ -635,7 +716,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7258942,
+      "rating": 0.7348461,
       "ratingCount": 0,
       "created": "2026-10-09T12:02:17.155427Z",
       "updated": "2026-10-13T13:39:06.464316883Z",
@@ -661,7 +742,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88530535,
+      "rating": 0.8632307,
       "ratingCount": 0,
       "created": "2026-10-09T09:30:36.812695Z",
       "updated": "2026-10-13T13:38:53.309734531Z",
@@ -687,7 +768,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90488696,
+      "rating": 0.9133195,
       "ratingCount": 20,
       "created": "2026-10-12T03:26:57.123438Z",
       "updated": "2026-10-13T13:38:11.365109Z",
@@ -713,89 +794,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9094728,
+      "rating": 0.8994379,
       "ratingCount": 0,
       "created": "2026-09-13T13:16:47.855257Z",
       "updated": "2026-10-13T13:05:00.163701558Z",
       "chartUpdated": "2026-09-13T13:16:47.855257Z"
-    },
-    {
-      "id": 78073,
-      "name": "三相奇谈 (SKa2or Remix)",
-      "level": "IN Lv.15",
-      "difficulty": 15.200001,
-      "charter": "小狐狸默凛",
-      "composer": "奥田友幸/SKa2or",
-      "illustrator": "",
-      "description": "作者：哔哩哔哩 雪福默凛\n感谢引羽小垚老师的精美开头和微调修改和某位不愿透漏的祭司小狍子老师的休息段配置贡献~",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d0e358c4-ee8d-460a-ab56-3a73ec7918d9",
-      "preview": "https://phira.5wyxi.com/files/d2ffc00e-1c76-49dd-8a7b-72862bb8a905",
-      "file": "https://phira.5wyxi.com/files/0afd9c4c-638e-4eb1-99db-e4841c75f00a",
-      "uploader": 1242416,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88396406,
-      "ratingCount": 0,
-      "created": "2026-09-13T13:00:02.534603Z",
-      "updated": "2026-10-13T13:04:45.485874894Z",
-      "chartUpdated": "2026-09-13T13:00:02.534603Z"
-    },
-    {
-      "id": 80937,
-      "name": "起死開戰",
-      "level": "AT  Lv.17",
-      "difficulty": 17.400002,
-      "charter": "「Mille Corsage.」",
-      "composer": "millsage",
-      "illustrator": "ブシロード (Chloe Modified)",
-      "description": "@Ex1stenS#1503（忍者特效制作）\n——————\n曲目：起死開戦\n曲师：millsage\n谱师：「Mille Corsage.」\n难度：AT Lv.17\n——————\n这次踩音真的好好，爽谱呀",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/69ab3c3d-13d8-4529-bd31-c20ed8021363",
-      "preview": "https://phira.5wyxi.com/files/413740fb-c2ee-4030-a8aa-2a1efa8ae0a1",
-      "file": "https://phira.5wyxi.com/files/0f41473b-2c15-4b5d-aa6b-cff95a6594a5",
-      "uploader": 22147,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9328705,
-      "ratingCount": 36,
-      "created": "2026-10-12T14:03:24.680763Z",
-      "updated": "2026-10-13T07:05:54.413803886Z",
-      "chartUpdated": "2026-10-12T14:03:24.680763Z"
-    },
-    {
-      "id": 79631,
-      "name": "IF = Infinity",
-      "level": "AT  Lv.17",
-      "difficulty": 17.400002,
-      "charter": "InFinity Charting Team",
-      "composer": "Remnlar & プシ & Particulate & Nanchou & 艾苏凛 & Jiuwenzi",
-      "illustrator": "渗透物",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4899baef-c45f-41e7-95c0-e0b379c477ef",
-      "preview": "https://phira.5wyxi.com/files/c34ccb5f-c9d8-4114-8a33-6835e72a7aa8",
-      "file": "https://phira.5wyxi.com/files/23d6ef9d-b3ad-4fdd-a776-528b051b0974",
-      "uploader": 1018746,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9357966,
-      "ratingCount": 14,
-      "created": "2026-10-01T09:22:05.072431Z",
-      "updated": "2026-10-12T15:28:22.654224Z",
-      "chartUpdated": "2026-10-01T09:22:05.072431Z"
     }
   ]
 }

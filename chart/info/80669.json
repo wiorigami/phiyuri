@@ -13,11 +13,11 @@
   "name": "ノンブレス・オブリージュ",
   "preview": "https://phira.5wyxi.com/files/f9078dd9-edde-474c-906a-0b2d8147c59e",
   "ranked": false,
-  "rating": 0.87260044,
-  "ratingCount": 13,
-  "reviewed": true,
+  "rating": 0.9291208,
+  "ratingCount": 177,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
