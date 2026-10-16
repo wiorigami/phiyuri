@@ -1,6 +1,38 @@
 {
-  "count": 3401,
+  "count": 3402,
   "results": [
+    {
+      "id": 79710,
+      "name": "Eternal SubconsciencƎ",
+      "level": "Eternal Lv.14",
+      "difficulty": 14.300001,
+      "charter": "moutao",
+      "composer": "JinoBeats/XH",
+      "illustrator": "",
+      "description": "谱师本人上传\n\n第一次写谱选择潜意识\n含有超级位移大技\n2709/6000\n边缘＝97.03\n过段＝98.22\n后光＝99.11\n击破＝99.70\n两段纵连速度均为22下/s\n含有微量近乎不影响读谱的变速",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/850cd572-b90e-459e-ac7e-4c25400ed405",
+      "preview": "https://phira.5wyxi.com/files/baeb8c57-ed81-436b-97ec-cbf858228152",
+      "file": "https://phira.5wyxi.com/files/0f0c2a48-6614-4e36-833d-df611c1a99f0",
+      "uploader": 19448,
+      "tags": [
+        "dfc",
+        "双指",
+        "位移",
+        "综合",
+        "爆发",
+        "速划",
+        "plain"
+      ],
+      "rating": 0.76758695,
+      "ratingCount": 0,
+      "created": "2026-10-01T16:08:41.690863Z",
+      "updated": "2026-10-15T08:04:10.369574534Z",
+      "chartUpdated": "2026-10-01T16:08:41.690863Z"
+    },
     {
       "id": 80191,
       "name": "Abandoned Planet",
@@ -23,7 +55,7 @@
         "tech",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8257282,
       "ratingCount": 0,
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901604Z",
@@ -50,7 +82,7 @@
         "人鱼陷落",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7198484,
       "ratingCount": 0,
       "created": "2026-10-06T15:04:26.791669Z",
       "updated": "2026-10-15T00:24:32.120021357Z",
@@ -76,7 +108,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7749479,
       "ratingCount": 0,
       "created": "2026-10-06T14:55:12.365944Z",
       "updated": "2026-10-15T00:24:10.260925Z",
@@ -106,7 +138,7 @@
         "S1mple",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.80552316,
       "ratingCount": 0,
       "created": "2026-10-09T14:31:13.234935Z",
       "updated": "2026-10-15T00:20:27.766921517Z",
@@ -132,7 +164,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.8083,
       "ratingCount": 0,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190542Z",
@@ -158,10 +190,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 0,
+      "rating": 0.76047105,
+      "ratingCount": 2,
       "created": "2026-01-13T05:55:30.098831Z",
-      "updated": "2026-10-15T00:15:52.670008487Z",
+      "updated": "2026-10-15T00:15:52.670008Z",
       "chartUpdated": "2026-01-13T05:55:30.098831Z"
     },
     {
@@ -188,7 +220,7 @@
         "双指",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.75425804,
       "ratingCount": 0,
       "created": "2026-01-11T17:08:58.493443Z",
       "updated": "2026-10-15T00:15:37.708497004Z",
@@ -215,7 +247,7 @@
         "节奏大师",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7517219,
       "ratingCount": 0,
       "created": "2025-12-22T16:24:47.895776Z",
       "updated": "2026-10-15T00:14:42.080726478Z",
@@ -271,7 +303,7 @@
         "Plain",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.89492923,
       "ratingCount": 0,
       "created": "2025-11-20T22:18:29.986358Z",
       "updated": "2026-10-15T00:12:17.826159019Z",
@@ -331,7 +363,7 @@
         "常规",
         "plain"
       ],
-      "rating": 0.9670744,
+      "rating": 0.9672668,
       "ratingCount": 338,
       "created": "2025-08-09T10:53:37.503691Z",
       "updated": "2026-10-15T00:10:27.793440869Z",
@@ -358,7 +390,7 @@
         "JumpStyle",
         "plain"
       ],
-      "rating": 0.8982173,
+      "rating": 0.91073626,
       "ratingCount": 0,
       "created": "2026-09-24T03:47:42.157039Z",
       "updated": "2026-10-14T10:01:47.731796786Z",
@@ -384,7 +416,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9181861,
+      "rating": 0.9321122,
       "ratingCount": 0,
       "created": "2026-08-14T01:28:01.763755Z",
       "updated": "2026-10-14T01:49:22.990514Z",
@@ -412,7 +444,7 @@
         "",
         "plain"
       ],
-      "rating": 0.9015215,
+      "rating": 0.89252967,
       "ratingCount": 0,
       "created": "2026-10-10T16:02:15.406371Z",
       "updated": "2026-10-14T00:41:15.585165404Z",
@@ -466,7 +498,7 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8318756,
+      "rating": 0.85721785,
       "ratingCount": 1,
       "created": "2026-10-11T01:00:46.425631Z",
       "updated": "2026-10-12T18:56:39.679237Z",
@@ -492,7 +524,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.72103184,
+      "rating": 0.74005264,
       "ratingCount": 0,
       "created": "2026-02-09T20:15:09.952027Z",
       "updated": "2026-10-12T18:08:00.601653Z",
@@ -544,7 +576,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9194261,
+      "rating": 0.9168755,
       "ratingCount": 46,
       "created": "2026-10-11T13:46:24.548675Z",
       "updated": "2026-10-11T13:52:47.089972Z",
@@ -570,7 +602,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8824934,
+      "rating": 0.88873416,
       "ratingCount": 33,
       "created": "2026-10-10T15:40:38.033766Z",
       "updated": "2026-10-10T16:13:20.554585Z",
@@ -596,7 +628,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9155057,
+      "rating": 0.9170147,
       "ratingCount": 34,
       "created": "2026-10-10T15:33:56.000342Z",
       "updated": "2026-10-10T15:36:00.670487Z",
@@ -653,7 +685,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.9138361,
+      "rating": 0.91873175,
       "ratingCount": 24,
       "created": "2026-09-27T03:20:40.756625Z",
       "updated": "2026-10-09T09:51:23.601910Z",
@@ -679,7 +711,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80598044,
+      "rating": 0.81633824,
       "ratingCount": 12,
       "created": "2026-10-03T16:52:18.107320Z",
       "updated": "2026-10-09T09:44:08.074844Z",
@@ -765,7 +797,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9040573,
+      "rating": 0.90722173,
       "ratingCount": 22,
       "created": "2026-10-06T14:03:30.644559Z",
       "updated": "2026-10-09T09:35:53.897428Z",
@@ -793,40 +825,11 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.91799855,
+      "rating": 0.91680926,
       "ratingCount": 31,
       "created": "2026-10-06T13:47:02.583639Z",
       "updated": "2026-10-09T09:35:39.927297Z",
       "chartUpdated": "2026-10-06T13:47:02.583639Z"
-    },
-    {
-      "id": 49951,
-      "name": "Cold Planet",
-      "level": "Cold Lv.9",
-      "difficulty": 9.1,
-      "charter": "Cold Miantiao",
-      "composer": "Knot",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/311cad6e-b7b1-4918-8adb-cd4e1af7ec79",
-      "preview": "https://phira.5wyxi.com/files/42cbd5f7-7485-491e-995b-a19d659bb030",
-      "file": "https://phira.5wyxi.com/files/c3096f1c-4844-420c-82e5-abebab6a42b8",
-      "uploader": 2004525,
-      "tags": [
-        "DFC",
-        "双指",
-        "儿歌",
-        "plain"
-      ],
-      "rating": 0.8353863,
-      "ratingCount": 6,
-      "created": "2025-12-07T06:41:09.742056Z",
-      "updated": "2026-10-09T07:34:41.490896Z",
-      "chartUpdated": "2025-12-07T06:41:09.742056Z"
     }
   ]
 }
