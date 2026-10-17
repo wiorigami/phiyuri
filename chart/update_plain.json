@@ -1,6 +1,86 @@
 {
-  "count": 3402,
+  "count": 3403,
   "results": [
+    {
+      "id": 81173,
+      "name": "璀璨星空",
+      "level": "Star.",
+      "difficulty": 18.000002,
+      "charter": "冷影",
+      "composer": "Kn_bAiBIn",
+      "illustrator": "F_K_W",
+      "description": "本人上传，难度不到3dan，玩的开心",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2c0aa7f3-22f4-47aa-9e5d-49fb46b6aa0b",
+      "preview": "https://phira.5wyxi.com/files/d6415644-c498-41df-ba86-b2bb6e520c76",
+      "file": "https://phira.5wyxi.com/files/f3c8754d-459c-44b4-9ecf-9f1f6a186192",
+      "uploader": 4174080,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.927627,
+      "ratingCount": 0,
+      "created": "2026-10-16T13:31:27.269193Z",
+      "updated": "2026-10-16T13:42:07.673537929Z",
+      "chartUpdated": "2026-10-16T13:31:27.269193Z"
+    },
+    {
+      "id": 81150,
+      "name": "宿命邀约 (NEMESIS)",
+      "level": "4K - SV Lv.29",
+      "difficulty": 20.0,
+      "charter": "夏鹬",
+      "composer": "Castle H X Whisty",
+      "illustrator": "Unknow",
+      "description": "阿峦同款变速 不比阿峦粪\n音乐提供：开心のsilly猫oO",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d10d013d-b352-4a55-b330-97a540cb1581",
+      "preview": "https://phira.5wyxi.com/files/e9297ef4-c8b6-4382-825b-8aab5ac41523",
+      "file": "https://phira.5wyxi.com/files/e1908f0a-b2cd-4065-a951-fb9e8c442383",
+      "uploader": 800533,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.82499236,
+      "ratingCount": 0,
+      "created": "2026-10-16T10:12:18.087108Z",
+      "updated": "2026-10-16T13:00:55.975682694Z",
+      "chartUpdated": "2026-10-16T10:12:18.087108Z"
+    },
+    {
+      "id": 80175,
+      "name": "Seven Days of Genesis",
+      "level": "【21】6K Lv.27",
+      "difficulty": 16.6,
+      "charter": "咖小啡",
+      "composer": "Scarlette",
+      "illustrator": "Convert by MVP",
+      "description": "个人生日作，140bpm卡手耐力叠\n前三位acc＞98.91%发布手元视频可以在B站/快手@谁家咖啡/Cafe咖小啡领取悬赏金\n第一名:50r\n第二名:30r\n第三名:15r\n仅在10月17日之后发布的视频有效，根据发布视频的先后顺序排名次",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/00c483e0-e35b-4468-84de-4a1c83ddefdc",
+      "preview": "https://phira.5wyxi.com/files/5ce446f6-194e-47b6-9ccb-1f2826d1d88b",
+      "file": "https://phira.5wyxi.com/files/a4e04efb-50de-4cbf-bf26-2922e777b984",
+      "uploader": 204,
+      "tags": [
+        "6K",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-10-04T16:47:33.094394Z",
+      "updated": "2026-10-16T09:43:29.301107972Z",
+      "chartUpdated": "2026-10-04T16:47:33.094394Z"
+    },
     {
       "id": 79710,
       "name": "Eternal SubconsciencƎ",
@@ -27,7 +107,7 @@
         "速划",
         "plain"
       ],
-      "rating": 0.76758695,
+      "rating": 0.85248584,
       "ratingCount": 0,
       "created": "2026-10-01T16:08:41.690863Z",
       "updated": "2026-10-15T08:04:10.369574534Z",
@@ -55,7 +135,7 @@
         "tech",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8423025,
       "ratingCount": 0,
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901604Z",
@@ -82,7 +162,7 @@
         "人鱼陷落",
         "plain"
       ],
-      "rating": 0.7198484,
+      "rating": 0.7315582,
       "ratingCount": 0,
       "created": "2026-10-06T15:04:26.791669Z",
       "updated": "2026-10-15T00:24:32.120021357Z",
@@ -108,41 +188,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7749479,
+      "rating": 0.7984545,
       "ratingCount": 0,
       "created": "2026-10-06T14:55:12.365944Z",
       "updated": "2026-10-15T00:24:10.260925Z",
       "chartUpdated": "2026-10-06T14:55:12.365944Z"
-    },
-    {
-      "id": 80671,
-      "name": "燐寸と緞帳 feat. 綜花",
-      "level": "S1mple Lv.13",
-      "difficulty": 13.7,
-      "charter": "细菌w",
-      "composer": "Juka_Box/綜花",
-      "illustrator": "Unknow",
-      "description": "新人第二作，采音准了\nb站UID：399061775\n难度约Gamma(13.7)，Drag占比250/1830\n标准分为97.37%\n歌曲时长：2:35， BPM：152\n配置是塞了点乱的爆发叠，希望大家玩得开心!",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0cf1709e-f577-496b-9cf6-5462dba161f2",
-      "preview": "https://phira.5wyxi.com/files/f58ae016-5093-4a8e-9382-28dadeafaecd",
-      "file": "https://phira.5wyxi.com/files/830c58b8-2c4b-4d2b-8c91-a945a78e1724",
-      "uploader": 148811,
-      "tags": [
-        "dfc",
-        "双指",
-        "Gamma",
-        "S1mple",
-        "plain"
-      ],
-      "rating": 0.80552316,
-      "ratingCount": 0,
-      "created": "2026-10-09T14:31:13.234935Z",
-      "updated": "2026-10-15T00:20:27.766921517Z",
-      "chartUpdated": "2026-10-09T14:31:13.234935Z"
     },
     {
       "id": 51430,
@@ -164,7 +214,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8083,
+      "rating": 0.81652206,
       "ratingCount": 0,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190542Z",
@@ -190,7 +240,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.76047105,
+      "rating": 0.7838534,
       "ratingCount": 2,
       "created": "2026-01-13T05:55:30.098831Z",
       "updated": "2026-10-15T00:15:52.670008Z",
@@ -220,7 +270,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.75425804,
+      "rating": 0.81247854,
       "ratingCount": 0,
       "created": "2026-01-11T17:08:58.493443Z",
       "updated": "2026-10-15T00:15:37.708497004Z",
@@ -247,7 +297,7 @@
         "节奏大师",
         "plain"
       ],
-      "rating": 0.7517219,
+      "rating": 0.82753205,
       "ratingCount": 0,
       "created": "2025-12-22T16:24:47.895776Z",
       "updated": "2026-10-15T00:14:42.080726478Z",
@@ -303,7 +353,7 @@
         "Plain",
         "plain"
       ],
-      "rating": 0.89492923,
+      "rating": 0.92303354,
       "ratingCount": 0,
       "created": "2025-11-20T22:18:29.986358Z",
       "updated": "2026-10-15T00:12:17.826159019Z",
@@ -332,7 +382,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.96415037,
+      "rating": 0.9635086,
       "ratingCount": 88,
       "created": "2025-09-29T01:21:36.570547Z",
       "updated": "2026-10-15T00:11:18.929831682Z",
@@ -363,7 +413,7 @@
         "常规",
         "plain"
       ],
-      "rating": 0.9672668,
+      "rating": 0.96783066,
       "ratingCount": 338,
       "created": "2025-08-09T10:53:37.503691Z",
       "updated": "2026-10-15T00:10:27.793440869Z",
@@ -390,7 +440,7 @@
         "JumpStyle",
         "plain"
       ],
-      "rating": 0.91073626,
+      "rating": 0.92231685,
       "ratingCount": 0,
       "created": "2026-09-24T03:47:42.157039Z",
       "updated": "2026-10-14T10:01:47.731796786Z",
@@ -416,7 +466,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9321122,
+      "rating": 0.9351163,
       "ratingCount": 0,
       "created": "2026-08-14T01:28:01.763755Z",
       "updated": "2026-10-14T01:49:22.990514Z",
@@ -444,7 +494,7 @@
         "",
         "plain"
       ],
-      "rating": 0.89252967,
+      "rating": 0.9021948,
       "ratingCount": 0,
       "created": "2026-10-10T16:02:15.406371Z",
       "updated": "2026-10-14T00:41:15.585165404Z",
@@ -498,7 +548,7 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.85721785,
+      "rating": 0.8801934,
       "ratingCount": 1,
       "created": "2026-10-11T01:00:46.425631Z",
       "updated": "2026-10-12T18:56:39.679237Z",
@@ -524,7 +574,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.74005264,
+      "rating": 0.7749632,
       "ratingCount": 0,
       "created": "2026-02-09T20:15:09.952027Z",
       "updated": "2026-10-12T18:08:00.601653Z",
@@ -576,7 +626,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9168755,
+      "rating": 0.9105435,
       "ratingCount": 46,
       "created": "2026-10-11T13:46:24.548675Z",
       "updated": "2026-10-11T13:52:47.089972Z",
@@ -602,7 +652,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88873416,
+      "rating": 0.88702273,
       "ratingCount": 33,
       "created": "2026-10-10T15:40:38.033766Z",
       "updated": "2026-10-10T16:13:20.554585Z",
@@ -628,7 +678,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9170147,
+      "rating": 0.92034036,
       "ratingCount": 34,
       "created": "2026-10-10T15:33:56.000342Z",
       "updated": "2026-10-10T15:36:00.670487Z",
@@ -685,7 +735,7 @@
         "4K",
         "plain"
       ],
-      "rating": 0.91873175,
+      "rating": 0.9231061,
       "ratingCount": 24,
       "created": "2026-09-27T03:20:40.756625Z",
       "updated": "2026-10-09T09:51:23.601910Z",
@@ -741,7 +791,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8970813,
+      "rating": 0.9018402,
       "ratingCount": 15,
       "created": "2026-10-06T00:19:37.385324Z",
       "updated": "2026-10-09T09:37:24.123196Z",
@@ -774,62 +824,6 @@
       "created": "2026-10-06T14:00:23.257844Z",
       "updated": "2026-10-09T09:36:46.700697Z",
       "chartUpdated": "2026-10-06T14:00:23.257844Z"
-    },
-    {
-      "id": 80432,
-      "name": "春(Chinese ver.)",
-      "level": "4K Jack ~Regular2~",
-      "difficulty": 10.0,
-      "charter": "食欲でちゅん",
-      "composer": "bunny rhyTHm/缨缨Ei/琉芸Miruku",
-      "illustrator": "From Internet",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0928c9d0-9fb7-4357-987c-b4fcb80a15bf",
-      "preview": "https://phira.5wyxi.com/files/e33b4f7f-3d4a-4973-a749-c7087959e2d3",
-      "file": "https://phira.5wyxi.com/files/20eea51a-c531-473f-a3f7-c4afd4a87314",
-      "uploader": 4248638,
-      "tags": [
-        "4K",
-        "Jack",
-        "plain"
-      ],
-      "rating": 0.90722173,
-      "ratingCount": 22,
-      "created": "2026-10-06T14:03:30.644559Z",
-      "updated": "2026-10-09T09:35:53.897428Z",
-      "chartUpdated": "2026-10-06T14:03:30.644559Z"
-    },
-    {
-      "id": 80429,
-      "name": "Secret Illumination",
-      "level": "4K Jack ~Regular5~",
-      "difficulty": 10.0,
-      "charter": "食欲でちゅん",
-      "composer": "Yooh",
-      "illustrator": "From Internet",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2ffee684-c161-44dd-9756-dc7d6a4bd3d2",
-      "preview": "https://phira.5wyxi.com/files/61696cf2-5011-4ab9-b1dc-01d4f4cf745d",
-      "file": "https://phira.5wyxi.com/files/60073288-e07a-4fbb-bdc6-5931dc276fd2",
-      "uploader": 2052613,
-      "tags": [
-        "4K",
-        "Jack",
-        "plain"
-      ],
-      "rating": 0.91680926,
-      "ratingCount": 31,
-      "created": "2026-10-06T13:47:02.583639Z",
-      "updated": "2026-10-09T09:35:39.927297Z",
-      "chartUpdated": "2026-10-06T13:47:02.583639Z"
     }
   ]
 }
