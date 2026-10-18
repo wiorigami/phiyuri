@@ -1,6 +1,35 @@
 {
-  "count": 658,
+  "count": 554,
   "results": [
+    {
+      "id": 76477,
+      "name": "像素方块的硬核才是王道",
+      "level": "SP Lv.？",
+      "difficulty": 14.8,
+      "charter": "鹅神",
+      "composer": "哇伊老爷 / 豆包AI",
+      "illustrator": "",
+      "description": "FNF神曲警告⚠️⚠️⚠️，后面还原本家(豆包生成的就是fnf所以本家是它没问题)\nB站@鹅神GooseGod 其他平台同名，原视频由B站的哇伊老爷使用豆包生成，只有10秒，加长版2分钟作者未知\n曲绘使用原版画面上传不了，给他俩加了衣服\n发布该谱面内容请标注作者，自动游玩请@",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/981a907d-bb52-4772-8b9f-253e887557d7",
+      "preview": "https://phira.5wyxi.com/files/4ddd623c-6db7-4bcd-8234-fb08ba1d7c5c",
+      "file": "https://phira.5wyxi.com/files/1d74dc4b-3dac-4600-b681-190f63cc0ff1",
+      "uploader": 2093292,
+      "tags": [
+        "FNF",
+        "MC",
+        "迷你世界",
+        "troll"
+      ],
+      "rating": 0.91791093,
+      "ratingCount": 1,
+      "created": "2026-08-30T01:34:18.748125Z",
+      "updated": "2026-10-17T17:35:47.810482817Z",
+      "chartUpdated": "2026-08-30T01:34:18.748125Z"
+    },
     {
       "id": 69316,
       "name": "Du bist gut genug(大狗嚼版)",
@@ -27,7 +56,7 @@
         "整活",
         "troll"
       ],
-      "rating": 0.8988132,
+      "rating": 0.9159979,
       "ratingCount": 7,
       "created": "2026-07-26T10:04:06.923218Z",
       "updated": "2026-10-12T12:13:21.089723Z",
@@ -53,7 +82,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8517302,
+      "rating": 0.8458594,
       "ratingCount": 4,
       "created": "2026-07-20T23:32:59.882245Z",
       "updated": "2026-10-12T12:13:16.349178Z",
@@ -79,7 +108,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9263226,
+      "rating": 0.9215156,
       "ratingCount": 54,
       "created": "2026-09-20T04:58:01.649579Z",
       "updated": "2026-10-09T14:59:07.492521Z",
@@ -105,7 +134,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.79811156,
+      "rating": 0.7998378,
       "ratingCount": 7414,
       "created": "2026-10-03T16:15:30.784068Z",
       "updated": "2026-10-04T09:01:50.574286Z",
@@ -132,7 +161,7 @@
         "大小键",
         "troll"
       ],
-      "rating": 0.9038639,
+      "rating": 0.899938,
       "ratingCount": 83,
       "created": "2026-09-14T14:00:04.002790Z",
       "updated": "2026-09-18T06:05:38.694380Z",
@@ -164,7 +193,7 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.7151019,
+      "rating": 0.71552384,
       "ratingCount": 2125,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
@@ -244,7 +273,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9778384,
+      "rating": 0.978021,
       "ratingCount": 116,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
@@ -270,7 +299,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89026266,
+      "rating": 0.8902566,
       "ratingCount": 9193,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -296,7 +325,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94966346,
+      "rating": 0.94951767,
       "ratingCount": 13098,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -322,7 +351,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83366925,
+      "rating": 0.8339899,
       "ratingCount": 3760,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -348,37 +377,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.77079797,
+      "rating": 0.7707382,
       "ratingCount": 16421,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
-    },
-    {
-      "id": 62224,
-      "name": "我用电动车载了你三年",
-      "level": "电饭煲",
-      "difficulty": 10.0,
-      "charter": "是啊，吃什么",
-      "composer": "电饭煲",
-      "illustrator": "",
-      "description": "BV1JAj96ZE6y\n本人上传\n整活，，，，，",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5a2d3ca3-2638-48b9-9b33-65cd7d5cf9d1",
-      "preview": "https://phira.5wyxi.com/files/4e5f9ad3-f84f-4901-8e39-d504723f80de",
-      "file": "https://phira.5wyxi.com/files/bc575fb6-e0b6-4cfd-8817-ca206a55316a",
-      "uploader": 227110,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.87443304,
-      "ratingCount": 10159,
-      "created": "2026-06-24T05:20:29.857028Z",
-      "updated": "2026-06-24T05:20:29.857028Z",
-      "chartUpdated": "2026-06-24T05:20:29.857028Z"
     },
     {
       "id": 61747,
@@ -405,32 +408,6 @@
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
-    },
-    {
-      "id": 60473,
-      "name": "Six Seven",
-      "level": "AT Lv.67",
-      "difficulty": 30.0,
-      "charter": "Nagayo-67",
-      "composer": "From Internet",
-      "illustrator": "",
-      "description": "本人上傳",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e2200056-76c3-4ee6-9eb2-7e6fcdd53ea3",
-      "preview": "https://phira.5wyxi.com/files/b6b2230c-b8a8-492b-8573-8ccd70823bfb",
-      "file": "https://phira.5wyxi.com/files/0d673ada-68ea-4088-afef-0cab52961cb3",
-      "uploader": 452558,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8094887,
-      "ratingCount": 6822,
-      "created": "2026-06-09T08:29:38.646388Z",
-      "updated": "2026-06-10T10:26:09.350173Z",
-      "chartUpdated": "2026-06-10T10:26:09.350173Z"
     },
     {
       "id": 60296,
@@ -487,32 +464,6 @@
       "chartUpdated": "2026-06-03T17:52:18.327223Z"
     },
     {
-      "id": 58838,
-      "name": "SOFA AWAY",
-      "level": "SOFA Lv. AWAY",
-      "difficulty": 10.0,
-      "charter": "SAWA AWAY",
-      "composer": "M/D/J/R",
-      "illustrator": "",
-      "description": "小时候刚拿到rpe花15分钟写着玩的，不用太认真XwX。                                                                本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0ffcd3c4-54a8-4ded-9d88-c5f2c166e798",
-      "preview": "https://phira.5wyxi.com/files/1304e7aa-4db0-41ad-8ee9-714f476f25af",
-      "file": "https://phira.5wyxi.com/files/157b2cec-6bee-4b37-bdbe-0781368e190d",
-      "uploader": 1336708,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.8127585,
-      "ratingCount": 2072,
-      "created": "2026-05-22T15:09:41.771882Z",
-      "updated": "2026-05-22T15:09:41.771882Z",
-      "chartUpdated": "2026-05-22T15:09:41.771882Z"
-    },
-    {
       "id": 58542,
       "name": "熊大快跑",
       "level": "SP Lv.?",
@@ -532,7 +483,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8973974,
+      "rating": 0.8972874,
       "ratingCount": 4323,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -559,7 +510,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9200859,
+      "rating": 0.9204397,
       "ratingCount": 1960,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -611,37 +562,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7577979,
+      "rating": 0.75623316,
       "ratingCount": 779,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
-    },
-    {
-      "id": 57780,
-      "name": "ym是谁",
-      "level": "YM Lv.nm",
-      "difficulty": 20.0,
-      "charter": "Eyxing",
-      "composer": "凝梦",
-      "illustrator": "",
-      "description": "洋漫是谁啊？\n@Eyxing#1115861（配置）\n后面忘了",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e9d8b266-4351-4acd-9178-e229be44189b",
-      "preview": "https://phira.5wyxi.com/files/0f88ab42-77f8-47c7-8b57-818b5bac4bad",
-      "file": "https://phira.5wyxi.com/files/2c2aff7b-6759-457d-9bc9-34a07dba644b",
-      "uploader": 5238,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.81564105,
-      "ratingCount": 1635,
-      "created": "2026-05-04T07:00:01.181555Z",
-      "updated": "2026-05-04T07:00:01.181555Z",
-      "chartUpdated": "2026-05-04T07:00:01.181555Z"
     },
     {
       "id": 57773,
@@ -663,37 +588,11 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9071376,
+      "rating": 0.90541005,
       "ratingCount": 328,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
-    },
-    {
-      "id": 57768,
-      "name": "测测你的屏幕比例",
-      "level": "SP Lv.?",
-      "difficulty": 1.0,
-      "charter": "4Leaf",
-      "composer": "音效库",
-      "illustrator": "",
-      "description": "一共做了2:3 1:1 4:3 3:2 16:10 16:9 2:1 20:9 3:1这几个比例，如果不是这几个比例会显示为空白\n由于铺面设置为2:1，Phira的机制为 铺面宽于屏幕->屏幕比例 屏幕宽于铺面->铺面比例\n故手机或更宽的屏幕 看到的均为2:1，平板或更窄的铺面 看到的则为真实比例\n你问我 为什么不把铺面比例设为100:1 彻底解决问题？因为手机比例太多了，我懒得做了xwx\n如果你想看看其他比例，可以在phira的铺面设置内 修改铺面比例并打开强制宽高比 就能看到啦\n如果好奇原理可以导出铺面去RPE看哦~（有彩蛋！）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/efe365da-e99f-4bc0-a02b-f69b11dfecd4",
-      "preview": "https://phira.5wyxi.com/files/e276561e-2186-4a8e-b15f-95db7a74ef94",
-      "file": "https://phira.5wyxi.com/files/dcaeee43-a8c1-498f-a5cd-ad45da9d7f29",
-      "uploader": 1492121,
-      "tags": [
-        "troll"
-      ],
-      "rating": 0.9406921,
-      "ratingCount": 5187,
-      "created": "2026-05-04T04:55:04.819055Z",
-      "updated": "2026-05-04T04:55:04.819055Z",
-      "chartUpdated": "2026-05-04T04:55:04.819055Z"
     },
     {
       "id": 57582,
@@ -715,7 +614,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7061487,
+      "rating": 0.7054706,
       "ratingCount": 667,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -741,7 +640,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.91238624,
+      "rating": 0.9136669,
       "ratingCount": 58,
       "created": "2026-04-28T10:59:02.139326Z",
       "updated": "2026-04-28T10:59:02.139326Z",
@@ -793,11 +692,121 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83315605,
+      "rating": 0.8337682,
       "ratingCount": 273,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
       "chartUpdated": "2026-04-18T03:36:17.744941Z"
+    },
+    {
+      "id": 48260,
+      "name": "哈基米：Class Memories",
+      "level": "AT Lv.16",
+      "difficulty": 16.900002,
+      "charter": "funny_M3",
+      "composer": "hp-1001010",
+      "illustrator": "",
+      "description": "本人上传，此谱难度较大，推分请量力而行。\n@Cloudli_efe#81(配音)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/07bc1f14-b5af-4e69-8e3e-a474d1ab5afa",
+      "preview": "https://phira.5wyxi.com/files/f3e0cf57-1a06-4bed-ac97-c05169a38260",
+      "file": "https://phira.5wyxi.com/files/6998e21e-2eb2-4711-81f9-376e445d230c",
+      "uploader": 1663313,
+      "tags": [
+        "音MAD",
+        "哈基米",
+        "troll"
+      ],
+      "rating": 0.8821571,
+      "ratingCount": 877,
+      "created": "2025-10-20T16:14:09.063526Z",
+      "updated": "2026-04-11T16:17:35.932393Z",
+      "chartUpdated": "2025-10-20T16:14:09.063526Z"
+    },
+    {
+      "id": 56014,
+      "name": "Bitter Times",
+      "level": "RD 2-XN",
+      "difficulty": 8.2999935,
+      "charter": "DiAMONDGAMER",
+      "composer": "Celesti Whispers & Patricia_Taxxon",
+      "illustrator": "",
+      "description": "@DiAMONDGAMER#2067（曲绘制作）\n@DiAMOND_GR#841834（谱面制作）\n（？）\n\n这是一张《节奏医生》还原向谱面，区别于常规谱面。\n我们建议您先了解：\n1.不规则二拍\n2.跳过二拍\n\n（B站：@DiAMONDGAMER）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b5eb703e-2dd2-498d-8b50-6128d580d95e",
+      "preview": "https://phira.5wyxi.com/files/55042119-0837-4ac8-83d4-417105ad31b8",
+      "file": "https://phira.5wyxi.com/files/f4043c3e-7b60-42ba-b638-3e115a8f23f8",
+      "uploader": 841834,
+      "tags": [
+        "节奏医生",
+        "还原",
+        "troll"
+      ],
+      "rating": 0.95779586,
+      "ratingCount": 110,
+      "created": "2026-04-11T12:30:15.846877Z",
+      "updated": "2026-04-11T12:30:15.846877Z",
+      "chartUpdated": "2026-04-11T12:30:15.846877Z"
+    },
+    {
+      "id": 55933,
+      "name": "Wavetapper",
+      "level": "?? Lv.???",
+      "difficulty": 16.2,
+      "charter": "平方秒和立方吨",
+      "composer": "Frums",
+      "illustrator": "",
+      "description": "构思4小时，写谱4小时，速写的愚人节谱，祝大家玩的开心ww",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7566d85c-9bdc-4b32-9ff2-9a22a59f8823",
+      "preview": "https://phira.5wyxi.com/files/347111a1-bfa7-4ebe-a7f4-9809ba79f1d5",
+      "file": "https://phira.5wyxi.com/files/481b86eb-8087-4432-bbb1-043fe935044f",
+      "uploader": 257272,
+      "tags": [
+        "故事板",
+        "脑裂",
+        "troll"
+      ],
+      "rating": 0.92494553,
+      "ratingCount": 1273,
+      "created": "2026-04-11T05:52:35.527904Z",
+      "updated": "2026-04-11T05:52:35.527904Z",
+      "chartUpdated": "2026-04-11T05:52:35.527904Z"
+    },
+    {
+      "id": 55903,
+      "name": "You're Beautiful (Groan Tube Ver)",
+      "level": "ou oue uee Lv.67",
+      "difficulty": 67.0,
+      "charter": "Iam123",
+      "composer": "Justin J. More",
+      "illustrator": "",
+      "description": "本人上传，b站@_Iam123_，请勿盗传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8ce12a96-537e-453c-8b84-4e50b2b0f5b8",
+      "preview": "https://phira.5wyxi.com/files/c462dfa1-cd20-45e1-a30c-6639cd6e626c",
+      "file": "https://phira.5wyxi.com/files/6fcfd5b5-f29a-411f-991c-555bd6599353",
+      "uploader": 161832,
+      "tags": [
+        "troll"
+      ],
+      "rating": 0.89320856,
+      "ratingCount": 2591,
+      "created": "2026-04-11T02:47:02.705037Z",
+      "updated": "2026-04-11T02:47:02.705037Z",
+      "chartUpdated": "2026-04-11T02:47:02.705037Z"
     }
   ]
 }
