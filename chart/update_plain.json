@@ -1,6 +1,85 @@
 {
-  "count": 3403,
+  "count": 3390,
   "results": [
+    {
+      "id": 81396,
+      "name": "Possesed By The Blood Moon",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "深海鲈鱼",
+      "composer": "ReeK",
+      "illustrator": "UK",
+      "description": "CrFt二周年纯配置供谱\nCr二周年\n感谢有你陪伴\nCrFt考核群：893861203",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/245ccea8-bfac-4233-93b5-1b4c753a5fb7",
+      "preview": "https://phira.5wyxi.com/files/39de2c9f-885f-40d9-ab63-1a87ac826857",
+      "file": "https://phira.5wyxi.com/files/b9e22480-651d-4075-9d9b-2a12aa8f4a01",
+      "uploader": 214000,
+      "tags": [
+        "CrFt",
+        "plain"
+      ],
+      "rating": 0.8678234,
+      "ratingCount": 0,
+      "created": "2026-10-17T15:58:37.646211Z",
+      "updated": "2026-10-17T16:01:45.125064764Z",
+      "chartUpdated": "2026-10-17T15:58:37.646211Z"
+    },
+    {
+      "id": 81389,
+      "name": "おべんきょうたいむ",
+      "level": "4K Master Lv.26",
+      "difficulty": 26.0,
+      "charter": "YMEA",
+      "composer": "litmus feat. 足立レイ",
+      "illustrator": "Lage",
+      "description": "写谱日期：2026.8.17-2026.10.17\n（其实是写了一半的废稿后面又补上了）\n后面让@Lage#852606（设计）重新设计了一下曲绘\n\n其实当时趴床上写谱，写一半的时候写睡着了，后面又赶紧写了\n\n快手 x B站 洋漫YMEA\nDY YMEA\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/658cf7e6-e6d5-4035-b401-fc7d580b66cf",
+      "preview": "https://phira.5wyxi.com/files/7acc3ad6-471d-4698-89e4-6c51a2123fff",
+      "file": "https://phira.5wyxi.com/files/cb1b411a-9a72-4b74-beed-e8151938fe83",
+      "uploader": 4268032,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.90864,
+      "ratingCount": 0,
+      "created": "2026-10-17T15:22:47.377627Z",
+      "updated": "2026-10-17T15:41:42.259065695Z",
+      "chartUpdated": "2026-10-17T15:22:47.377627Z"
+    },
+    {
+      "id": 78242,
+      "name": "12 little fragments of silence",
+      "level": "6k",
+      "difficulty": 20.0,
+      "charter": "Rulaifozu",
+      "composer": "Betwixt & Between",
+      "illustrator": "",
+      "description": "难度 20-\nbpm 220\n首个acc99.85%以上可找我领取疯狂星期四一顿(最好有屏元或手元)\nb站:Rulaifouzu\n感谢寇拉普斯提供的难度参考，么么哒",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c783d9ff-a5ea-4e34-90a9-1865200b5aaa",
+      "preview": "https://phira.5wyxi.com/files/2c46f843-2cfe-4015-87ac-4cdf37790eea",
+      "file": "https://phira.5wyxi.com/files/628d798b-c90f-4d83-9f2e-c30f98f3e5b9",
+      "uploader": 175134,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-09-16T14:21:13.113830Z",
+      "updated": "2026-10-17T12:36:32.351726047Z",
+      "chartUpdated": "2026-09-16T14:21:13.113830Z"
+    },
     {
       "id": 81173,
       "name": "璀璨星空",
@@ -22,7 +101,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.927627,
+      "rating": 0.9056878,
       "ratingCount": 0,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537929Z",
@@ -48,7 +127,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.82499236,
+      "rating": 0.85333097,
       "ratingCount": 0,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682694Z",
@@ -75,7 +154,7 @@
         "6K",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.8257282,
       "ratingCount": 0,
       "created": "2026-10-04T16:47:33.094394Z",
       "updated": "2026-10-16T09:43:29.301107972Z",
@@ -107,7 +186,7 @@
         "速划",
         "plain"
       ],
-      "rating": 0.85248584,
+      "rating": 0.86364126,
       "ratingCount": 0,
       "created": "2026-10-01T16:08:41.690863Z",
       "updated": "2026-10-15T08:04:10.369574534Z",
@@ -162,7 +241,7 @@
         "人鱼陷落",
         "plain"
       ],
-      "rating": 0.7315582,
+      "rating": 0.759944,
       "ratingCount": 0,
       "created": "2026-10-06T15:04:26.791669Z",
       "updated": "2026-10-15T00:24:32.120021357Z",
@@ -188,7 +267,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7984545,
+      "rating": 0.7998207,
       "ratingCount": 0,
       "created": "2026-10-06T14:55:12.365944Z",
       "updated": "2026-10-15T00:24:10.260925Z",
@@ -214,7 +293,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81652206,
+      "rating": 0.8673358,
       "ratingCount": 0,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190542Z",
@@ -240,7 +319,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7838534,
+      "rating": 0.8071445,
       "ratingCount": 2,
       "created": "2026-01-13T05:55:30.098831Z",
       "updated": "2026-10-15T00:15:52.670008Z",
@@ -270,7 +349,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.81247854,
+      "rating": 0.81311786,
       "ratingCount": 0,
       "created": "2026-01-11T17:08:58.493443Z",
       "updated": "2026-10-15T00:15:37.708497004Z",
@@ -297,7 +376,7 @@
         "节奏大师",
         "plain"
       ],
-      "rating": 0.82753205,
+      "rating": 0.8459055,
       "ratingCount": 0,
       "created": "2025-12-22T16:24:47.895776Z",
       "updated": "2026-10-15T00:14:42.080726478Z",
@@ -353,7 +432,7 @@
         "Plain",
         "plain"
       ],
-      "rating": 0.92303354,
+      "rating": 0.94617695,
       "ratingCount": 0,
       "created": "2025-11-20T22:18:29.986358Z",
       "updated": "2026-10-15T00:12:17.826159019Z",
@@ -382,7 +461,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9635086,
+      "rating": 0.96365654,
       "ratingCount": 88,
       "created": "2025-09-29T01:21:36.570547Z",
       "updated": "2026-10-15T00:11:18.929831682Z",
@@ -413,7 +492,7 @@
         "常规",
         "plain"
       ],
-      "rating": 0.96783066,
+      "rating": 0.9681054,
       "ratingCount": 338,
       "created": "2025-08-09T10:53:37.503691Z",
       "updated": "2026-10-15T00:10:27.793440869Z",
@@ -440,7 +519,7 @@
         "JumpStyle",
         "plain"
       ],
-      "rating": 0.92231685,
+      "rating": 0.92556983,
       "ratingCount": 0,
       "created": "2026-09-24T03:47:42.157039Z",
       "updated": "2026-10-14T10:01:47.731796786Z",
@@ -466,7 +545,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9351163,
+      "rating": 0.9335321,
       "ratingCount": 0,
       "created": "2026-08-14T01:28:01.763755Z",
       "updated": "2026-10-14T01:49:22.990514Z",
@@ -494,7 +573,7 @@
         "",
         "plain"
       ],
-      "rating": 0.9021948,
+      "rating": 0.91300786,
       "ratingCount": 0,
       "created": "2026-10-10T16:02:15.406371Z",
       "updated": "2026-10-14T00:41:15.585165404Z",
@@ -520,7 +599,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7840579,
+      "rating": 0.80656886,
       "ratingCount": 0,
       "created": "2026-10-11T00:48:12.777610Z",
       "updated": "2026-10-13T13:38:34.186701044Z",
@@ -548,7 +627,7 @@
         "键盘",
         "plain"
       ],
-      "rating": 0.8801934,
+      "rating": 0.89833695,
       "ratingCount": 1,
       "created": "2026-10-11T01:00:46.425631Z",
       "updated": "2026-10-12T18:56:39.679237Z",
@@ -574,7 +653,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7749632,
+      "rating": 0.7487079,
       "ratingCount": 0,
       "created": "2026-02-09T20:15:09.952027Z",
       "updated": "2026-10-12T18:08:00.601653Z",
@@ -600,7 +679,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.80552316,
       "ratingCount": 2,
       "created": "2026-10-12T13:00:12.674335Z",
       "updated": "2026-10-12T13:02:03.535137Z",
@@ -626,7 +705,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9105435,
+      "rating": 0.90956587,
       "ratingCount": 46,
       "created": "2026-10-11T13:46:24.548675Z",
       "updated": "2026-10-11T13:52:47.089972Z",
@@ -652,7 +731,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88702273,
+      "rating": 0.88632846,
       "ratingCount": 33,
       "created": "2026-10-10T15:40:38.033766Z",
       "updated": "2026-10-10T16:13:20.554585Z",
@@ -678,7 +757,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92034036,
+      "rating": 0.9258398,
       "ratingCount": 34,
       "created": "2026-10-10T15:33:56.000342Z",
       "updated": "2026-10-10T15:36:00.670487Z",
@@ -708,7 +787,7 @@
         "生贺谱",
         "plain"
       ],
-      "rating": 0.7828839,
+      "rating": 0.77299917,
       "ratingCount": 7,
       "created": "2026-10-04T14:00:34.840663Z",
       "updated": "2026-10-09T13:45:39.545556Z",
@@ -735,95 +814,11 @@
         "4K",
         "plain"
       ],
-      "rating": 0.9231061,
-      "ratingCount": 24,
+      "rating": 0.92703766,
+      "ratingCount": 35,
       "created": "2026-09-27T03:20:40.756625Z",
       "updated": "2026-10-09T09:51:23.601910Z",
       "chartUpdated": "2026-09-27T03:20:40.756625Z"
-    },
-    {
-      "id": 80025,
-      "name": "Knight Rider",
-      "level": "4K - Lv.32",
-      "difficulty": 32.0,
-      "charter": "Shuoyu",
-      "composer": "USAO",
-      "illustrator": "UK",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f23a40f3-cd4e-42a3-b1d8-d1183a529bb0",
-      "preview": "https://phira.5wyxi.com/files/591539e4-182a-44a9-af64-27cc23ebc00e",
-      "file": "https://phira.5wyxi.com/files/cf135151-e30a-4418-b80b-5bd4803b3c9e",
-      "uploader": 1343365,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.81633824,
-      "ratingCount": 12,
-      "created": "2026-10-03T16:52:18.107320Z",
-      "updated": "2026-10-09T09:44:08.074844Z",
-      "chartUpdated": "2026-10-03T16:52:18.107320Z"
-    },
-    {
-      "id": 80355,
-      "name": "Scorpion Dance",
-      "level": "Classic Lv.11",
-      "difficulty": 11.400002,
-      "charter": "TEC109",
-      "composer": "Litmus*",
-      "illustrator": "Malody",
-      "description": "本人上传\n1009/2500，98.09\n来点经典练习谱\n双指低难谱面，多指谨慎游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ffafccba-0736-4c68-bb3e-455e112059de",
-      "preview": "https://phira.5wyxi.com/files/da2bd658-93a5-4fb9-b27e-7735aeaa2d7d",
-      "file": "https://phira.5wyxi.com/files/19116e23-b996-4a47-a798-76f45d5326ca",
-      "uploader": 3992187,
-      "tags": [
-        "DFC",
-        "双指",
-        "叠",
-        "耐力",
-        "plain"
-      ],
-      "rating": 0.9018402,
-      "ratingCount": 15,
-      "created": "2026-10-06T00:19:37.385324Z",
-      "updated": "2026-10-09T09:37:24.123196Z",
-      "chartUpdated": "2026-10-06T00:19:37.385324Z"
-    },
-    {
-      "id": 80431,
-      "name": "Remind a locus",
-      "level": "4K Tech ~Regular10~",
-      "difficulty": 10.0,
-      "charter": "食欲でちゅん",
-      "composer": "Void",
-      "illustrator": "From Internet",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9de9165f-a55b-46ba-8ace-c183fe117107",
-      "preview": "https://phira.5wyxi.com/files/8af1863f-0f39-4ed6-87e2-42febbb6e820",
-      "file": "https://phira.5wyxi.com/files/19916457-ce8e-45ae-a39c-702947400b8d",
-      "uploader": 4248638,
-      "tags": [
-        "4K",
-        "Technical",
-        "plain"
-      ],
-      "rating": 0.87833697,
-      "ratingCount": 14,
-      "created": "2026-10-06T14:00:23.257844Z",
-      "updated": "2026-10-09T09:36:46.700697Z",
-      "chartUpdated": "2026-10-06T14:00:23.257844Z"
     }
   ]
 }
