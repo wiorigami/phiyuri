@@ -1,6 +1,85 @@
 {
-  "count": 9748,
+  "count": 9734,
   "results": [
+    {
+      "id": 81387,
+      "name": "瞬时永远",
+      "level": "IN  Lv.13",
+      "difficulty": 13.800003,
+      "charter": "生肖大绿龙",
+      "composer": "雪狐桑",
+      "illustrator": "Y_Y",
+      "description": "本谱为谱师 生肖大绿龙 本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/811e31a9-2d37-4ae0-8be8-cda5de8cd232",
+      "preview": "https://phira.5wyxi.com/files/10ee98b5-e160-455c-bc9f-72fcf4d8a891",
+      "file": "https://phira.5wyxi.com/files/d507cc5c-63e8-4e3b-8e15-47a71c46aec7",
+      "uploader": 249934,
+      "tags": [
+        "雪狐桑",
+        "regular"
+      ],
+      "rating": 0.9110365,
+      "ratingCount": 0,
+      "created": "2026-10-17T15:09:43.800138Z",
+      "updated": "2026-10-17T16:12:23.329075553Z",
+      "chartUpdated": "2026-10-17T15:09:43.800138Z"
+    },
+    {
+      "id": 81394,
+      "name": "the hyperflip to j-core pipeline",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "the Lvdou to the XSlience_10231 to the  sqg_6 to the FLfldyf to the 5071 to the EG_KS Chartline",
+      "composer": "Reallerr",
+      "illustrator": "Unknow",
+      "description": "来自CrFt二周年供谱\n感谢各位谱师的支持\n从去年的Agni到今年的这张\n不仅是难度的上升\n也是战队越来越壮大的脚步\nCrFt二周年感谢有你\n爱一稀的路.                  -罚站\nCrFt考核群号：893861203\n欢迎来玩",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5c84f170-5418-413c-b949-62b8cfd9335b",
+      "preview": "https://phira.5wyxi.com/files/2bba9a9a-3a7a-4433-a02b-786eee57d686",
+      "file": "https://phira.5wyxi.com/files/946ec186-0760-46d2-a05c-5f0b972f8696",
+      "uploader": 1916026,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.86681914,
+      "ratingCount": 0,
+      "created": "2026-10-17T15:38:50.527056Z",
+      "updated": "2026-10-17T15:48:57.524007292Z",
+      "chartUpdated": "2026-10-17T15:38:50.527056Z"
+    },
+    {
+      "id": 81372,
+      "name": "蝴蝶",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "Team.RZ",
+      "composer": "瞿子千",
+      "illustrator": "Team.RZ",
+      "description": "欢迎进入小窝1032562434获取谱面文件喵\r\nbilibili@Ratzen \r\n蝴蝶V1.0.0\r\n本次更新内容\r\n1.替换曲绘\r\n2.修复bug\r\n删榜致歉",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a506b4c1-e6c0-4027-acd5-70136ad798f0",
+      "preview": "https://phira.5wyxi.com/files/80be718c-2177-4807-8e94-ff549eaf7bc7",
+      "file": "https://phira.5wyxi.com/files/b351037e-8ff0-4496-ac81-f6c0e953c17b",
+      "uploader": 2538,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9510646,
+      "ratingCount": 0,
+      "created": "2026-10-17T14:17:34.538761Z",
+      "updated": "2026-10-17T14:19:30.183402831Z",
+      "chartUpdated": "2026-10-17T14:17:34.538761Z"
+    },
     {
       "id": 69298,
       "name": "Melonaid",
@@ -24,8 +103,8 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.88262355,
-      "ratingCount": 9,
+      "rating": 0.8934341,
+      "ratingCount": 61,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-15T14:43:21.555664Z",
       "chartUpdated": "2026-07-26T08:50:11.153552Z"
@@ -50,7 +129,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.69839364,
+      "rating": 0.72265786,
       "ratingCount": 0,
       "created": "2026-09-30T08:07:20.993622Z",
       "updated": "2026-10-15T14:41:07.107087495Z",
@@ -76,7 +155,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93014026,
+      "rating": 0.9330474,
       "ratingCount": 40,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-10-15T08:54:48.308395Z",
@@ -102,7 +181,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.81449974,
+      "rating": 0.8550434,
       "ratingCount": 0,
       "created": "2026-10-04T20:32:50.799863Z",
       "updated": "2026-10-15T00:25:48.939049474Z",
@@ -132,7 +211,7 @@
         "喵",
         "regular"
       ],
-      "rating": 0.8808011,
+      "rating": 0.87945735,
       "ratingCount": 0,
       "created": "2026-10-06T14:47:28.561809Z",
       "updated": "2026-10-15T00:23:58.283028940Z",
@@ -158,7 +237,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.921319,
+      "rating": 0.92086786,
       "ratingCount": 70,
       "created": "2026-10-09T14:15:38.426484Z",
       "updated": "2026-10-15T00:19:44.368141Z",
@@ -184,7 +263,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9191143,
+      "rating": 0.91086227,
       "ratingCount": 0,
       "created": "2026-10-13T15:19:29.168364Z",
       "updated": "2026-10-15T00:19:14.874015366Z",
@@ -210,7 +289,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88166696,
+      "rating": 0.8851346,
       "ratingCount": 613,
       "created": "2025-08-26T10:41:40.012959Z",
       "updated": "2026-10-15T00:11:05.744701243Z",
@@ -236,7 +315,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91117626,
+      "rating": 0.91398686,
       "ratingCount": 0,
       "created": "2026-07-28T10:56:16.707832Z",
       "updated": "2026-10-14T16:21:23.426530776Z",
@@ -262,7 +341,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8378588,
+      "rating": 0.8542748,
       "ratingCount": 0,
       "created": "2026-07-28T09:08:11.246507Z",
       "updated": "2026-10-14T16:20:32.482647540Z",
@@ -290,7 +369,7 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.94556355,
+      "rating": 0.9502972,
       "ratingCount": 187,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-10-14T14:26:44.558761Z",
@@ -316,10 +395,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8479249,
-      "ratingCount": 0,
+      "rating": 0.8830874,
+      "ratingCount": 49,
       "created": "2026-10-14T12:35:08.930157Z",
-      "updated": "2026-10-14T13:56:55.534941742Z",
+      "updated": "2026-10-14T13:56:55.534941Z",
       "chartUpdated": "2026-10-14T12:35:08.930157Z"
     },
     {
@@ -342,7 +421,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84018064,
+      "rating": 0.84223336,
       "ratingCount": 0,
       "created": "2026-10-14T08:52:16.044868Z",
       "updated": "2026-10-14T13:03:37.351981804Z",
@@ -371,7 +450,7 @@
         "かめりあ",
         "regular"
       ],
-      "rating": 0.9178668,
+      "rating": 0.91428345,
       "ratingCount": 17,
       "created": "2026-10-13T09:26:01.248432Z",
       "updated": "2026-10-14T06:07:38.224455642Z",
@@ -399,7 +478,7 @@
         "骐骥杯",
         "regular"
       ],
-      "rating": 0.8928059,
+      "rating": 0.88461345,
       "ratingCount": 97,
       "created": "2026-10-04T05:09:03.819356Z",
       "updated": "2026-10-14T02:50:03.022764001Z",
@@ -425,7 +504,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9515602,
+      "rating": 0.9504818,
       "ratingCount": 0,
       "created": "2026-10-04T08:43:35.515806Z",
       "updated": "2026-10-14T01:49:38.899708154Z",
@@ -451,7 +530,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93535167,
+      "rating": 0.9404938,
       "ratingCount": 0,
       "created": "2026-10-13T16:42:26.464792Z",
       "updated": "2026-10-14T00:46:42.095168174Z",
@@ -477,7 +556,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9411624,
+      "rating": 0.93881553,
       "ratingCount": 0,
       "created": "2026-10-10T10:31:23.867796Z",
       "updated": "2026-10-13T18:22:08.635568231Z",
@@ -503,7 +582,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7771968,
+      "rating": 0.7750913,
       "ratingCount": 250,
       "created": "2026-08-10T15:23:38.564039Z",
       "updated": "2026-10-13T15:43:39.453659140Z",
@@ -529,7 +608,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8669783,
+      "rating": 0.8741326,
       "ratingCount": 0,
       "created": "2026-10-05T16:13:13.990469Z",
       "updated": "2026-10-13T13:42:14.658183183Z",
@@ -555,7 +634,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8883866,
+      "rating": 0.88794136,
       "ratingCount": 322,
       "created": "2026-10-05T18:45:59.363574Z",
       "updated": "2026-10-13T13:42:03.424289Z",
@@ -581,7 +660,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93771863,
+      "rating": 0.9390256,
       "ratingCount": 78,
       "created": "2026-10-06T14:15:10.270148Z",
       "updated": "2026-10-13T13:41:46.608802Z",
@@ -607,42 +686,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9276969,
+      "rating": 0.9275072,
       "ratingCount": 0,
       "created": "2026-10-07T04:39:34.201189Z",
       "updated": "2026-10-13T13:40:15.590195644Z",
       "chartUpdated": "2026-10-07T04:39:34.201189Z"
-    },
-    {
-      "id": 80533,
-      "name": "MRS FCO (Original Mix)",
-      "level": "IN Lv.17",
-      "difficulty": 17.000002,
-      "charter": "Sylphy",
-      "composer": "Voiski",
-      "illustrator": "ゆぅ",
-      "description": "B站：露菲Sylphy\n\n------\n\n新人初谱。\n\n鉴于目前进阶双指交互（包括点划，三角交互，全换交互，纵连，天地交互，轴交互）练习谱的匮乏，本人缝合已有的交互配置写了这张练习谱面。\n\n需要开启双押提示，高亮音符为右手。\n\n本谱是练习谱。0:10~0:30为大位移4k交互；0:30~1:50为需要精确规划位移的全换交互；1:50~3:06为天地交互；3:06~4:00为特大轴交互；4:00~4:10尾杀为bof式交互，需要认真研究手序。\n\n本谱仅考虑了练习性质。作为新一代交互博物馆，它把各种谱面中最棘手的交互部分了整合。鉴于其远超ieo的协调要求与学习成本，以及许多堪称大胆的交互配置写法，收歌难度定为17.0，手感不佳请见谅。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/57fa5f68-51d4-4fc7-a4d1-95ae772d64fc",
-      "preview": "https://phira.5wyxi.com/files/48ff4324-3106-44d8-8d44-9b7a26d6811a",
-      "file": "https://phira.5wyxi.com/files/c92ab267-f561-4c51-88fc-df29c25ee892",
-      "uploader": 1855550,
-      "tags": [
-        "交互",
-        "双指",
-        "全换",
-        "拆谱",
-        "特大",
-        "regular"
-      ],
-      "rating": 0.7577652,
-      "ratingCount": 0,
-      "created": "2026-10-07T09:52:43.474930Z",
-      "updated": "2026-10-13T13:40:05.027642367Z",
-      "chartUpdated": "2026-10-07T09:52:43.474930Z"
     },
     {
       "id": 80572,
@@ -664,7 +712,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8884489,
+      "rating": 0.894421,
       "ratingCount": 28,
       "created": "2026-10-08T01:59:47.394025Z",
       "updated": "2026-10-13T13:39:49.935273129Z",
@@ -690,7 +738,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9273026,
+      "rating": 0.9132535,
       "ratingCount": 0,
       "created": "2026-10-09T08:26:44.891629Z",
       "updated": "2026-10-13T13:39:23.662444368Z",
@@ -716,7 +764,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.68647593,
+      "rating": 0.6900525,
       "ratingCount": 0,
       "created": "2026-10-09T12:02:17.155427Z",
       "updated": "2026-10-13T13:39:06.464316883Z",
@@ -742,63 +790,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85593486,
+      "rating": 0.85921746,
       "ratingCount": 0,
       "created": "2026-10-09T09:30:36.812695Z",
       "updated": "2026-10-13T13:38:53.309734531Z",
       "chartUpdated": "2026-10-09T09:30:36.812695Z"
-    },
-    {
-      "id": 80893,
-      "name": "Phantigma",
-      "level": "IN Lv.16",
-      "difficulty": 16.100004,
-      "charter": "Nyiou",
-      "composer": "打打だいず",
-      "illustrator": "Lai。 / Star4th / Schuld / poca_p0ca",
-      "description": "八譜OuO\n稍微認真寫了一些故事(?)和表演\n第一次寫了近三分鐘的歌，稍微吃力一些OAO\n\n定數：16.1\n物量：1633\nbpm：210",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/a8d4085b-1972-49eb-bc2b-c0e4db5d72ac",
-      "preview": "https://phira.5wyxi.com/files/38934d5b-9202-4795-b33e-0fbf731929d0",
-      "file": "https://phira.5wyxi.com/files/640958dc-4073-46e1-a21f-923bb37bdd9e",
-      "uploader": 439874,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9194462,
-      "ratingCount": 20,
-      "created": "2026-10-12T03:26:57.123438Z",
-      "updated": "2026-10-13T13:38:11.365109Z",
-      "chartUpdated": "2026-10-12T03:26:57.123438Z"
-    },
-    {
-      "id": 78075,
-      "name": "Blessing",
-      "level": "IN Lv.15",
-      "difficulty": 15.300001,
-      "charter": "小狐狸默凛",
-      "composer": "初音未来，镜音铃，镜音连，巡音，kaito,meiko",
-      "illustrator": "",
-      "description": "作者：哔哩哔哩搜“雪福默凛”\n彩蛋：搜画师名字找相关视频对比谱面哦，而且谱面也会有意想不到的惊喜",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8574c99c-8e5f-40e0-ad9d-b134ef6fed70",
-      "preview": "https://phira.5wyxi.com/files/36eed622-7d18-4be4-9d01-98b8e126f4b1",
-      "file": "https://phira.5wyxi.com/files/787fb485-2bd7-46a0-9564-d007c49ee6f1",
-      "uploader": 1242416,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.91445476,
-      "ratingCount": 0,
-      "created": "2026-09-13T13:16:47.855257Z",
-      "updated": "2026-10-13T13:05:00.163701558Z",
-      "chartUpdated": "2026-09-13T13:16:47.855257Z"
     }
   ]
 }
