@@ -1,5 +1,5 @@
 {
-  "count": 172,
+  "count": 169,
   "results": [
     {
       "id": 51510,
@@ -23,7 +23,7 @@
         "粪谱",
         "visual"
       ],
-      "rating": 0.8303784,
+      "rating": 0.8269615,
       "ratingCount": 12,
       "created": "2026-01-22T13:44:38.378019Z",
       "updated": "2026-10-09T15:06:26.188948Z",
@@ -50,7 +50,7 @@
         "visual"
       ],
       "rating": 0.77245694,
-      "ratingCount": 2,
+      "ratingCount": 3,
       "created": "2026-08-18T11:56:45.304155Z",
       "updated": "2026-10-09T15:05:02.927646Z",
       "chartUpdated": "2026-08-18T11:56:45.304155Z"
@@ -109,7 +109,7 @@
         "原神启动",
         "visual"
       ],
-      "rating": 0.5352625,
+      "rating": 0.5470147,
       "ratingCount": 80,
       "created": "2026-09-30T09:55:25.988502Z",
       "updated": "2026-10-02T08:16:38.531728Z",
@@ -167,7 +167,7 @@
         "Frums",
         "visual"
       ],
-      "rating": 0.86439997,
+      "rating": 0.8761003,
       "ratingCount": 19,
       "created": "2026-07-18T20:57:06.172343Z",
       "updated": "2026-09-14T08:34:36.189090Z",
@@ -219,7 +219,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9195313,
+      "rating": 0.91955566,
       "ratingCount": 96581,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -349,7 +349,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81115085,
+      "rating": 0.8107879,
       "ratingCount": 460,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -485,7 +485,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8144413,
+      "rating": 0.81425774,
       "ratingCount": 564,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -513,7 +513,7 @@
         "创意",
         "visual"
       ],
-      "rating": 0.9164495,
+      "rating": 0.91704565,
       "ratingCount": 137,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-10T06:56:11.788757Z",
@@ -539,7 +539,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.85863173,
+      "rating": 0.86641496,
       "ratingCount": 66,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-01-31T12:08:54.911616Z",
@@ -565,7 +565,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8769463,
+      "rating": 0.8765134,
       "ratingCount": 995,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
@@ -628,35 +628,6 @@
       "chartUpdated": "2026-01-18T12:40:43.156324Z"
     },
     {
-      "id": 51310,
-      "name": "今天来diss个人",
-      "level": "4K Lv.114514",
-      "difficulty": 114514.0,
-      "charter": "四川也是川（各视频平台同名）",
-      "composer": "骨折鸠（雨落的帅气）反初婉汐",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7e715791-31bc-4b34-85e0-9560872ce8c3",
-      "preview": "https://phira.5wyxi.com/files/4319b193-e1b0-4c1a-8c91-57725933ffd9",
-      "file": "https://phira.5wyxi.com/files/678c2ea3-1103-47c9-abdb-52fce63ac25e",
-      "uploader": 1905105,
-      "tags": [
-        "音游",
-        "雨落的帅气",
-        "4K",
-        "visual"
-      ],
-      "rating": 0.68052244,
-      "ratingCount": 981,
-      "created": "2026-01-17T06:34:21.824030Z",
-      "updated": "2026-01-17T06:34:21.824030Z",
-      "chartUpdated": "2026-01-17T06:34:21.824030Z"
-    },
-    {
       "id": 51301,
       "name": "男よ、来い",
       "level": "/ Lv.19",
@@ -683,7 +654,7 @@
         "故事板",
         "visual"
       ],
-      "rating": 0.8595247,
+      "rating": 0.86002386,
       "ratingCount": 278,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
@@ -735,7 +706,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8266492,
+      "rating": 0.82791865,
       "ratingCount": 135,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
@@ -761,7 +732,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.80894643,
+      "rating": 0.8049096,
       "ratingCount": 193,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
@@ -814,11 +785,37 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9500751,
+      "rating": 0.94983506,
       "ratingCount": 588,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z"
+    },
+    {
+      "id": 49901,
+      "name": "怪獣になりたい",
+      "level": "4k Lv.lunitic?!",
+      "difficulty": 20.0,
+      "charter": "LsenY",
+      "composer": "Sakuzyo",
+      "illustrator": "",
+      "description": "本人上传 我真的求你了我求你了给我过审吧我错了我错了我错了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7bf3f5f6-5d0f-43f8-9549-f45cf8d78f6e",
+      "preview": "https://phira.5wyxi.com/files/4e242a84-ad9e-47f8-a88d-7eb55404a70e",
+      "file": "https://phira.5wyxi.com/files/3848f77d-595e-4c29-9232-037c6a288dd5",
+      "uploader": 714570,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.72776026,
+      "ratingCount": 523,
+      "created": "2025-12-06T15:38:20.222075Z",
+      "updated": "2025-12-06T15:38:20.222075Z",
+      "chartUpdated": "2025-12-06T15:38:20.222075Z"
     }
   ]
 }
