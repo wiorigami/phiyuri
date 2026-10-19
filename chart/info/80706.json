@@ -13,11 +13,11 @@
   "name": "ツムギボシ",
   "preview": "https://phira.5wyxi.com/files/079d5837-0a13-4b53-a952-accc2969dd21",
   "ranked": false,
-  "rating": 0.93881553,
-  "ratingCount": 157,
-  "reviewed": true,
+  "rating": 0.942958,
+  "ratingCount": 177,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
