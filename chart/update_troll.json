@@ -1,5 +1,5 @@
 {
-  "count": 554,
+  "count": 553,
   "results": [
     {
       "id": 76477,
@@ -24,10 +24,10 @@
         "迷你世界",
         "troll"
       ],
-      "rating": 0.91791093,
-      "ratingCount": 1,
+      "rating": 0.95022935,
+      "ratingCount": 53,
       "created": "2026-08-30T01:34:18.748125Z",
-      "updated": "2026-10-17T17:35:47.810482817Z",
+      "updated": "2026-10-17T17:35:47.810482Z",
       "chartUpdated": "2026-08-30T01:34:18.748125Z"
     },
     {
@@ -56,8 +56,8 @@
         "整活",
         "troll"
       ],
-      "rating": 0.9159979,
-      "ratingCount": 7,
+      "rating": 0.9159253,
+      "ratingCount": 117,
       "created": "2026-07-26T10:04:06.923218Z",
       "updated": "2026-10-12T12:13:21.089723Z",
       "chartUpdated": "2026-07-26T10:04:06.923218Z"
@@ -82,8 +82,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8458594,
-      "ratingCount": 4,
+      "rating": 0.8536659,
+      "ratingCount": 14,
       "created": "2026-07-20T23:32:59.882245Z",
       "updated": "2026-10-12T12:13:16.349178Z",
       "chartUpdated": "2026-07-20T23:32:59.882245Z"
@@ -108,8 +108,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9215156,
-      "ratingCount": 54,
+      "rating": 0.91867673,
+      "ratingCount": 111,
       "created": "2026-09-20T04:58:01.649579Z",
       "updated": "2026-10-09T14:59:07.492521Z",
       "chartUpdated": "2026-09-20T04:58:01.649579Z"
@@ -134,8 +134,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7998378,
-      "ratingCount": 7414,
+      "rating": 0.7989349,
+      "ratingCount": 10332,
       "created": "2026-10-03T16:15:30.784068Z",
       "updated": "2026-10-04T09:01:50.574286Z",
       "chartUpdated": "2026-10-03T16:15:30.784068Z"
@@ -161,8 +161,8 @@
         "大小键",
         "troll"
       ],
-      "rating": 0.899938,
-      "ratingCount": 83,
+      "rating": 0.89994854,
+      "ratingCount": 88,
       "created": "2026-09-14T14:00:04.002790Z",
       "updated": "2026-09-18T06:05:38.694380Z",
       "chartUpdated": "2026-09-14T14:00:04.002790Z"
@@ -193,8 +193,8 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.71552384,
-      "ratingCount": 2125,
+      "rating": 0.71540856,
+      "ratingCount": 2143,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
       "chartUpdated": "2026-08-28T03:56:40.337710Z"
@@ -273,8 +273,8 @@
         "还原",
         "troll"
       ],
-      "rating": 0.978021,
-      "ratingCount": 116,
+      "rating": 0.97557056,
+      "ratingCount": 118,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
       "chartUpdated": "2026-07-29T17:32:44.523418Z"
@@ -299,8 +299,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8902566,
-      "ratingCount": 9193,
+      "rating": 0.8902212,
+      "ratingCount": 9213,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
       "chartUpdated": "2026-07-21T19:16:55.670015Z"
@@ -325,8 +325,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.94951767,
-      "ratingCount": 13098,
+      "rating": 0.9494952,
+      "ratingCount": 13225,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
       "chartUpdated": "2025-07-25T15:04:48.494577Z"
@@ -351,8 +351,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8339899,
-      "ratingCount": 3760,
+      "rating": 0.83401424,
+      "ratingCount": 3827,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
       "chartUpdated": "2026-06-30T15:24:12.913392Z"
@@ -377,8 +377,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7707382,
-      "ratingCount": 16421,
+      "rating": 0.77076757,
+      "ratingCount": 16467,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
       "chartUpdated": "2026-06-29T11:40:00.080895Z"
@@ -403,8 +403,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8546446,
-      "ratingCount": 100,
+      "rating": 0.8560436,
+      "ratingCount": 101,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
       "chartUpdated": "2026-06-20T14:20:00.970999Z"
@@ -432,7 +432,7 @@
         "troll"
       ],
       "rating": 0.9006647,
-      "ratingCount": 112,
+      "ratingCount": 113,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
       "chartUpdated": "2026-06-07T12:21:29.348521Z"
@@ -483,8 +483,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8972874,
-      "ratingCount": 4323,
+      "rating": 0.89741576,
+      "ratingCount": 4382,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
       "chartUpdated": "2026-05-17T02:53:25.213374Z"
@@ -510,8 +510,8 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.9204397,
-      "ratingCount": 1960,
+      "rating": 0.92069894,
+      "ratingCount": 1997,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
       "chartUpdated": "2026-05-12T12:28:56.857895Z"
@@ -536,8 +536,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8668575,
-      "ratingCount": 53,
+      "rating": 0.8600453,
+      "ratingCount": 54,
       "created": "2026-05-05T15:11:55.046371Z",
       "updated": "2026-05-05T15:11:55.046371Z",
       "chartUpdated": "2026-05-05T15:11:55.046371Z"
@@ -563,7 +563,7 @@
         "troll"
       ],
       "rating": 0.75623316,
-      "ratingCount": 779,
+      "ratingCount": 783,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
       "chartUpdated": "2026-05-04T09:55:06.699202Z"
@@ -589,7 +589,7 @@
         "troll"
       ],
       "rating": 0.90541005,
-      "ratingCount": 328,
+      "ratingCount": 330,
       "created": "2026-05-04T06:00:03.413888Z",
       "updated": "2026-05-04T06:00:03.413888Z",
       "chartUpdated": "2026-05-04T06:00:03.413888Z"
@@ -615,7 +615,7 @@
         "troll"
       ],
       "rating": 0.7054706,
-      "ratingCount": 667,
+      "ratingCount": 676,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
       "chartUpdated": "2026-05-02T11:42:36.588167Z"
@@ -640,8 +640,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9136669,
-      "ratingCount": 58,
+      "rating": 0.91466075,
+      "ratingCount": 67,
       "created": "2026-04-28T10:59:02.139326Z",
       "updated": "2026-04-28T10:59:02.139326Z",
       "chartUpdated": "2026-04-28T10:59:02.139326Z"
@@ -666,7 +666,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76451874,
+      "rating": 0.7652118,
       "ratingCount": 193,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -693,7 +693,7 @@
         "troll"
       ],
       "rating": 0.8337682,
-      "ratingCount": 273,
+      "ratingCount": 274,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
       "chartUpdated": "2026-04-18T03:36:17.744941Z"
@@ -720,8 +720,8 @@
         "哈基米",
         "troll"
       ],
-      "rating": 0.8821571,
-      "ratingCount": 877,
+      "rating": 0.88229173,
+      "ratingCount": 882,
       "created": "2025-10-20T16:14:09.063526Z",
       "updated": "2026-04-11T16:17:35.932393Z",
       "chartUpdated": "2025-10-20T16:14:09.063526Z"
@@ -776,8 +776,8 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.92494553,
-      "ratingCount": 1273,
+      "rating": 0.9249162,
+      "ratingCount": 1286,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
       "chartUpdated": "2026-04-11T05:52:35.527904Z"
@@ -802,8 +802,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89320856,
-      "ratingCount": 2591,
+      "rating": 0.8930812,
+      "ratingCount": 2607,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
       "chartUpdated": "2026-04-11T02:47:02.705037Z"
