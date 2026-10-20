@@ -1,6 +1,166 @@
 {
-  "count": 9736,
+  "count": 9737,
   "results": [
+    {
+      "id": 81480,
+      "name": "Tell Your World — 月見ヤチヨ（CV.早見沙織）cover",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "hsd221",
+      "composer": "kz (livetune) / 月見ヤチヨ (cv.早見沙織) cover",
+      "illustrator": "LAM / 超かぐや姫！",
+      "description": "第一张谱，不足之处和我说我改改\r\nB站@hsd221，可以关注吗orz",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/95b71e3d-f22b-48ce-9323-777f6ffd2283",
+      "preview": "https://phira.5wyxi.com/files/4d495542-1dd4-4061-8e5c-771e45698547",
+      "file": "https://phira.5wyxi.com/files/bc7f729e-112f-4a4e-8f2b-e8f3d64856da",
+      "uploader": 4219413,
+      "tags": [
+        "超かぐや姫",
+        "TellYourWorld",
+        "月見ヤチヨ",
+        "早見沙織",
+        "regular"
+      ],
+      "rating": 0.83680755,
+      "ratingCount": 0,
+      "created": "2026-10-18T05:49:38.625568Z",
+      "updated": "2026-10-19T16:31:15.881116813Z",
+      "chartUpdated": "2026-10-18T05:49:38.625568Z"
+    },
+    {
+      "id": 81603,
+      "name": "VEZZELiX",
+      "level": "IN",
+      "difficulty": 16.1,
+      "charter": "wassupt",
+      "composer": "Reku Mochizuki",
+      "illustrator": "",
+      "description": "新人三谱，希望你们喜欢",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4a7d5c84-5f5e-4e8f-8c27-a4e7a80315a1",
+      "preview": "https://phira.5wyxi.com/files/d632a5fd-5f10-47bd-a579-d9cfe6ce7a75",
+      "file": "https://phira.5wyxi.com/files/85f57af4-0681-48db-92fd-41242b189128",
+      "uploader": 5903,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7855685,
+      "ratingCount": 0,
+      "created": "2026-10-19T05:16:29.376480Z",
+      "updated": "2026-10-19T16:30:30.622212327Z",
+      "chartUpdated": "2026-10-19T05:16:29.376480Z"
+    },
+    {
+      "id": 81501,
+      "name": "「ごはん食べヨ」",
+      "level": "IN Lv.13",
+      "difficulty": 13.900003,
+      "charter": "Rabbit'×'Kamik",
+      "composer": "Mega Shinnosuke",
+      "illustrator": "野原广志的午餐流派",
+      "description": "好好吃饭！\n谱师本人上传\n记得调延迟哦，+50\nb站视频：BV1L7hx61EAK",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/fbeb429e-1aef-406e-82f4-32bfaf2608fd",
+      "preview": "https://phira.5wyxi.com/files/274d2548-6f92-416e-b9f8-d8edb182f624",
+      "file": "https://phira.5wyxi.com/files/d5cdd0aa-2f78-4577-92c1-613da523f0b4",
+      "uploader": 712788,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7962938,
+      "ratingCount": 0,
+      "created": "2026-10-18T06:48:43.220519Z",
+      "updated": "2026-10-19T16:24:55.479504Z",
+      "chartUpdated": "2026-10-18T06:48:43.220519Z"
+    },
+    {
+      "id": 81598,
+      "name": "綿菓子RUSH",
+      "level": "IN Lv.16",
+      "difficulty": 16.300001,
+      "charter": "komone_neko222",
+      "composer": "takehirotei & SiLiS",
+      "illustrator": "polychromatic",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e3dfaa3f-cd95-4f8b-9b24-daa8d0cd0d5f",
+      "preview": "https://phira.5wyxi.com/files/1fc21e1e-07b2-49b1-b0cd-abe25ae00f29",
+      "file": "https://phira.5wyxi.com/files/8f7faf1b-f171-46c7-ae36-4b3e689cd1e6",
+      "uploader": 463282,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8879023,
+      "ratingCount": 0,
+      "created": "2026-10-18T20:34:56.634634Z",
+      "updated": "2026-10-19T13:12:10.441750379Z",
+      "chartUpdated": "2026-10-18T20:34:56.634634Z"
+    },
+    {
+      "id": 56463,
+      "name": "encounter",
+      "level": "IN  Lv.15",
+      "difficulty": 15.0,
+      "charter": "Axi vs.雨巷猫归",
+      "composer": "佐藤直之",
+      "illustrator": "Super All Star Bros.",
+      "description": "谱面原视频：BV1bHDiBrEWv\n感谢@雨巷猫归#1352658 的谱面协助",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/b65ae6ff-5ea2-4efa-a0f8-1982b136e614",
+      "preview": "https://phira.5wyxi.com/files/d78f1882-4cdb-4f47-8857-fc89dbf30d1b",
+      "file": "https://phira.5wyxi.com/files/05eacc8a-6768-4008-a4f7-ebbfaa29accc",
+      "uploader": 62,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.86326206,
+      "ratingCount": 9,
+      "created": "2026-04-17T04:19:08.718164Z",
+      "updated": "2026-10-19T05:52:28.680371017Z",
+      "chartUpdated": "2026-10-19T05:52:28.680371017Z"
+    },
+    {
+      "id": 80093,
+      "name": "isomorph",
+      "level": "IN  Lv.14",
+      "difficulty": 14.1,
+      "charter": "1s0ra",
+      "composer": "linear ring",
+      "illustrator": "linear ring",
+      "description": "[6thwjc参赛谱 G2 No.12]，本人亲自上传。\n         这里是あ姊喵，又来上传良谱了，这次是我自己独立创作的第四张谱子，也是耗费时间最多的一张谱子。放眼望去phi里对于换手的配置少之又少，所以本谱是用来弥补这一项的，当然我也没写太多换手要不然太难了）第一次可能有点初见建议多练练，有兴趣也可以看我的b站视频：“BV1yZbW6QE97”谢谢喵。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c538e114-f8df-479b-ac5e-535f85897d7a",
+      "preview": "https://phira.5wyxi.com/files/cb6ad84b-7337-49f4-a444-c9f1cd40e348",
+      "file": "https://phira.5wyxi.com/files/24576c42-5028-4190-97ae-a4aa4e5ce1e2",
+      "uploader": 61473,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.92234457,
+      "ratingCount": 0,
+      "created": "2026-10-04T08:37:52.799880Z",
+      "updated": "2026-10-19T05:51:55.490125120Z",
+      "chartUpdated": "2026-10-04T08:37:52.799880Z"
+    },
     {
       "id": 81379,
       "name": "Last Dance",
@@ -21,7 +181,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9010061,
+      "rating": 0.92548096,
       "ratingCount": 0,
       "created": "2026-10-17T14:52:36.124485Z",
       "updated": "2026-10-18T13:28:49.475439414Z",
@@ -47,7 +207,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8268493,
+      "rating": 0.8268759,
       "ratingCount": 4459,
       "created": "2024-09-30T20:13:03.466067Z",
       "updated": "2026-10-18T13:28:18.136952273Z",
@@ -73,7 +233,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84290606,
+      "rating": 0.8793422,
       "ratingCount": 0,
       "created": "2026-10-18T13:22:57.808622Z",
       "updated": "2026-10-18T13:27:21.980924Z",
@@ -99,7 +259,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9438966,
+      "rating": 0.9455037,
       "ratingCount": 129,
       "created": "2026-09-12T03:53:15.906014Z",
       "updated": "2026-10-18T13:03:03.768529476Z",
@@ -125,7 +285,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.888731,
+      "rating": 0.892263,
       "ratingCount": 775,
       "created": "2023-08-10T11:27:14.145619Z",
       "updated": "2026-10-18T11:42:27.520085099Z",
@@ -151,10 +311,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8535916,
-      "ratingCount": 1,
+      "rating": 0.8814853,
+      "ratingCount": 66,
       "created": "2026-10-17T08:28:37.581865Z",
-      "updated": "2026-10-18T09:01:00.647798646Z",
+      "updated": "2026-10-18T09:01:00.647798Z",
       "chartUpdated": "2026-10-17T08:28:37.581865Z"
     },
     {
@@ -177,7 +337,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9145824,
+      "rating": 0.91743386,
       "ratingCount": 18,
       "created": "2026-10-16T06:22:27.676524Z",
       "updated": "2026-10-18T04:52:38.010523Z",
@@ -204,7 +364,7 @@
         "雪狐桑",
         "regular"
       ],
-      "rating": 0.9166601,
+      "rating": 0.91955155,
       "ratingCount": 135,
       "created": "2026-10-17T15:09:43.800138Z",
       "updated": "2026-10-17T16:12:23.329075Z",
@@ -230,7 +390,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8811971,
+      "rating": 0.86791843,
       "ratingCount": 26,
       "created": "2026-10-17T15:38:50.527056Z",
       "updated": "2026-10-17T15:48:57.524007Z",
@@ -256,7 +416,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93698186,
+      "rating": 0.937722,
       "ratingCount": 527,
       "created": "2026-10-17T14:17:34.538761Z",
       "updated": "2026-10-17T14:19:30.183402Z",
@@ -285,7 +445,7 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.9004253,
+      "rating": 0.8990545,
       "ratingCount": 77,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-15T14:43:21.555664Z",
@@ -311,7 +471,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.70380133,
+      "rating": 0.7060908,
       "ratingCount": 30,
       "created": "2026-09-30T08:07:20.993622Z",
       "updated": "2026-10-15T14:41:07.107087Z",
@@ -337,7 +497,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9355175,
+      "rating": 0.93285435,
       "ratingCount": 132,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-10-15T08:54:48.308395Z",
@@ -363,7 +523,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86887133,
+      "rating": 0.8734514,
       "ratingCount": 43,
       "created": "2026-10-04T20:32:50.799863Z",
       "updated": "2026-10-15T00:25:48.939049Z",
@@ -393,7 +553,7 @@
         "喵",
         "regular"
       ],
-      "rating": 0.882657,
+      "rating": 0.8831219,
       "ratingCount": 63,
       "created": "2026-10-06T14:47:28.561809Z",
       "updated": "2026-10-15T00:23:58.283028Z",
@@ -419,7 +579,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92233753,
+      "rating": 0.92158777,
       "ratingCount": 707,
       "created": "2026-10-09T14:15:38.426484Z",
       "updated": "2026-10-15T00:19:44.368141Z",
@@ -445,7 +605,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91074747,
+      "rating": 0.90993655,
       "ratingCount": 1416,
       "created": "2026-10-13T15:19:29.168364Z",
       "updated": "2026-10-15T00:19:14.874015Z",
@@ -471,7 +631,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88582903,
+      "rating": 0.88681185,
       "ratingCount": 716,
       "created": "2025-08-26T10:41:40.012959Z",
       "updated": "2026-10-15T00:11:05.744701Z",
@@ -497,7 +657,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91089934,
+      "rating": 0.91562474,
       "ratingCount": 101,
       "created": "2026-07-28T10:56:16.707832Z",
       "updated": "2026-10-14T16:21:23.426530Z",
@@ -523,7 +683,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85508114,
+      "rating": 0.86014926,
       "ratingCount": 88,
       "created": "2026-07-28T09:08:11.246507Z",
       "updated": "2026-10-14T16:20:32.482647Z",
@@ -551,7 +711,7 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.95205325,
+      "rating": 0.950515,
       "ratingCount": 376,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-10-14T14:26:44.558761Z",
@@ -577,7 +737,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8837447,
+      "rating": 0.8810526,
       "ratingCount": 55,
       "created": "2026-10-14T12:35:08.930157Z",
       "updated": "2026-10-14T13:56:55.534941Z",
@@ -603,7 +763,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8339021,
+      "rating": 0.8346876,
       "ratingCount": 192,
       "created": "2026-10-14T08:52:16.044868Z",
       "updated": "2026-10-14T13:03:37.351981Z",
@@ -632,169 +792,11 @@
         "かめりあ",
         "regular"
       ],
-      "rating": 0.9180058,
+      "rating": 0.9177594,
       "ratingCount": 53,
       "created": "2026-10-13T09:26:01.248432Z",
       "updated": "2026-10-14T06:07:38.224455Z",
       "chartUpdated": "2026-10-14T06:07:38.224455Z"
-    },
-    {
-      "id": 80069,
-      "name": "Melodiniq(低配）",
-      "level": "IN Lv.16",
-      "difficulty": 16.900002,
-      "charter": "母鸡Sama",
-      "composer": "onoken a.k.a owl*tree",
-      "illustrator": "煎茶",
-      "description": "谱师本人上传 谱面为 骐骥杯 比赛谱面，特别感谢Ezcape_82对多指段的修缮",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c4575cd6-e1e7-4f7c-b0c6-46348f182f4d",
-      "preview": "https://phira.5wyxi.com/files/989d966c-bb1c-4814-b4a1-0ef895f1ad7d",
-      "file": "https://phira.5wyxi.com/files/ff5b0bed-4e1a-49fa-b281-6ab2d9e228e5",
-      "uploader": 3742,
-      "tags": [
-        "CHUNITHM",
-        "骐骥杯",
-        "regular"
-      ],
-      "rating": 0.8869937,
-      "ratingCount": 141,
-      "created": "2026-10-04T05:09:03.819356Z",
-      "updated": "2026-10-14T02:50:03.022764Z",
-      "chartUpdated": "2026-10-04T05:09:03.819356Z"
-    },
-    {
-      "id": 80094,
-      "name": "You're my princess",
-      "level": "IN Lv.12",
-      "difficulty": 12.0,
-      "charter": "Aminos",
-      "composer": "Yostar",
-      "illustrator": "Yostar",
-      "description": "谱师本人上传\n\n不知道说什么了，祝大家玩的开心！\n感谢大家的建议！\n\n第一次修改:修复了两条判定线表演没有显示的问题\n\nB站名:阿米诺斯_阿米诺斯",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e600e3d3-3781-4bd5-bd51-70853cc65e10",
-      "preview": "https://phira.5wyxi.com/files/cb839810-4ad5-4e5f-8703-5b90e8a4c761",
-      "file": "https://phira.5wyxi.com/files/d0d5d202-5532-4c46-b997-38ab0426a0dc",
-      "uploader": 180864,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9492858,
-      "ratingCount": 1022,
-      "created": "2026-10-04T08:43:35.515806Z",
-      "updated": "2026-10-14T01:49:38.899708Z",
-      "chartUpdated": "2026-10-04T08:43:35.515806Z"
-    },
-    {
-      "id": 81009,
-      "name": "「Darling Warning!」",
-      "level": "AT  Lv.16",
-      "difficulty": 16.600002,
-      "charter": "小玖_UwUELE",
-      "composer": "風音/西坂恭平 from STRIKERS",
-      "illustrator": "まろたろ",
-      "description": "16岁生贺谱\n第1次写键盘，很多配置不完善\n谱师本人已自作自收\n祝大家玩的开心喵\nb站@小玖_UwUELE\n视频BV1tgpz6EEX2\n---------分割线---------\n历时8h+\n共用24根线\n3500+事件",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4e72408f-1de7-4716-ace6-c2e4a7c8fd11",
-      "preview": "https://phira.5wyxi.com/files/9269df10-0fa8-4bdc-851a-cd9732c75941",
-      "file": "https://phira.5wyxi.com/files/9748256b-ad0b-4d2b-a748-c6df19e26b88",
-      "uploader": 2201071,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9418187,
-      "ratingCount": 117,
-      "created": "2026-10-13T16:42:26.464792Z",
-      "updated": "2026-10-14T00:46:42.095168Z",
-      "chartUpdated": "2026-10-13T16:42:26.464792Z"
-    },
-    {
-      "id": 80706,
-      "name": "ツムギボシ",
-      "level": "IN Lv.15",
-      "difficulty": 15.500002,
-      "charter": "STAR⭐Yu_qing",
-      "composer": "大国奏音 feat.timao",
-      "illustrator": "SEGA",
-      "description": "写完了啊，第五张谱子，感谢所有为该谱子提供宝贵意见的朋友们，也感谢屏幕前你的游玩，谱面预览在B站BV1Vu8F6wE3H，谱师B站名：屑中之屑-Yu_qing，关注谱师谢谢喵",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/baa084ac-0675-4ca1-ad27-2b33d6fecd64",
-      "preview": "https://phira.5wyxi.com/files/079d5837-0a13-4b53-a952-accc2969dd21",
-      "file": "https://phira.5wyxi.com/files/4bc263a3-6345-4cec-861b-4b838c3f48b9",
-      "uploader": 33877,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.942958,
-      "ratingCount": 164,
-      "created": "2026-10-10T10:31:23.867796Z",
-      "updated": "2026-10-13T18:22:08.635568Z",
-      "chartUpdated": "2026-10-10T10:31:23.867796Z"
-    },
-    {
-      "id": 72595,
-      "name": "τ (tau)",
-      "level": "Uncertainty",
-      "difficulty": 0.0,
-      "charter": "UnDIEcided.",
-      "composer": "Wooden",
-      "illustrator": "Square01",
-      "description": "请与 云梦杯 × WRST 比赛使用的版本区分。\r\n\r\n本人上传，b站@NECA_\r\n比赛版本将由赛事方自行发布，本人发布版本将作为个人谱面进行后续修改，修改时间不定，频率不定。请做好清除排行榜成绩的准备。\n评议直接打回就行了，玩来的。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/4ef65a1c-8c79-41b4-b868-fcd61f9cec6e",
-      "preview": "https://phira.5wyxi.com/files/b165abf3-9e5e-4415-8d91-2ea786ae3ec3",
-      "file": "https://phira.5wyxi.com/files/12f1cd67-a4cf-4d07-84da-d0241b6489e6",
-      "uploader": 679160,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.7742471,
-      "ratingCount": 275,
-      "created": "2026-08-10T15:23:38.564039Z",
-      "updated": "2026-10-13T15:43:39.453659Z",
-      "chartUpdated": "2026-08-10T15:23:38.564039Z"
-    },
-    {
-      "id": 80335,
-      "name": "Equation+**",
-      "level": "IN  Lv.15",
-      "difficulty": 15.200001,
-      "charter": "くれうわごと",
-      "composer": "椎名もた",
-      "illustrator": "Project DIVA",
-      "description": "是我本来打算写给某位前亲友的谱面。原本只剩下一个废稿视频，但是最近灵感枯竭，所以翻出来复刻并且修改了一下，同时把没写完的表演也补上了。\r\n\r\n原稿是2023年的谱子了，所以这个谱会有些年代感，这也正常。\r\n\r\n谱师本人上传，B站@暮呓_くれうわごと",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/31d08a54-d0c1-4c74-9141-8f28c4e7413e",
-      "preview": "https://phira.5wyxi.com/files/1a8f6ba6-1f9c-4daf-8c23-fc9b0a45c563",
-      "file": "https://phira.5wyxi.com/files/492991b5-3038-4abb-b583-db1534723d70",
-      "uploader": 320735,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88030905,
-      "ratingCount": 35,
-      "created": "2026-10-05T16:13:13.990469Z",
-      "updated": "2026-10-13T13:42:14.658183Z",
-      "chartUpdated": "2026-10-05T16:13:13.990469Z"
     }
   ]
 }
