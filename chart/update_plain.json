@@ -2,6 +2,32 @@
   "count": 3396,
   "results": [
     {
+      "id": 76989,
+      "name": "乱数放送は魚のよう (feat. 足立レイ)",
+      "level": "4K Lv.34",
+      "difficulty": 10.0,
+      "charter": "21394",
+      "composer": "N1N63N/足立レイ",
+      "illustrator": "",
+      "description": "BPM180切，参考难度6dan，时长3m56s，物量2962\n感谢名单：\n@ZENITH_食欲でちゅん#42791（建议）\n@天佑辰#461388（测试）\n@Kiki不想读书#833588（测试）\n原谱获取：QQ群号739725214\n预览：BV1WL8q6XE1a",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c59284d7-4abe-4d50-8f74-dd52c16dfb48",
+      "preview": "https://phira.5wyxi.com/files/9cfeebf3-8251-4a35-88b6-8b0c60ecaa8f",
+      "file": "https://phira.5wyxi.com/files/725dcc43-c269-4616-adb7-63fc79e6275b",
+      "uploader": 158949,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8801934,
+      "ratingCount": 0,
+      "created": "2026-09-04T10:12:47.673661Z",
+      "updated": "2026-10-20T11:54:41.939363327Z",
+      "chartUpdated": "2026-09-04T10:12:47.673661Z"
+    },
+    {
       "id": 81496,
       "name": "DFC JE Extra Dan",
       "level": "Dan Lv.14+",
@@ -55,7 +81,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9288418,
+      "rating": 0.9275937,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232710Z",
@@ -86,7 +112,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.88137853,
+      "rating": 0.91981286,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862355Z",
@@ -117,7 +143,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.922722,
+      "rating": 0.92965513,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497058Z",
@@ -147,7 +173,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.8866869,
+      "rating": 0.8916633,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083035Z",
@@ -178,7 +204,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.80577093,
+      "rating": 0.8158322,
       "ratingCount": 0,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861731Z",
@@ -204,7 +230,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94232726,
+      "rating": 0.9451144,
       "ratingCount": 21,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
@@ -231,7 +257,7 @@
         "CrFt",
         "plain"
       ],
-      "rating": 0.8611181,
+      "rating": 0.86146903,
       "ratingCount": 11,
       "created": "2026-10-17T15:58:37.646211Z",
       "updated": "2026-10-17T16:01:45.125064Z",
@@ -257,7 +283,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9307109,
+      "rating": 0.93576187,
       "ratingCount": 67,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
@@ -310,7 +336,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9057195,
+      "rating": 0.9063271,
       "ratingCount": 305,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
@@ -336,7 +362,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8931872,
+      "rating": 0.8959845,
       "ratingCount": 40,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
@@ -423,7 +449,7 @@
         "tech",
         "plain"
       ],
-      "rating": 0.81862795,
+      "rating": 0.83867943,
       "ratingCount": 5,
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901Z",
@@ -502,7 +528,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8832691,
+      "rating": 0.88843465,
       "ratingCount": 13,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190Z",
@@ -528,7 +554,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8508978,
+      "rating": 0.85628164,
       "ratingCount": 23,
       "created": "2026-01-13T05:55:30.098831Z",
       "updated": "2026-10-15T00:15:52.670008Z",
@@ -641,7 +667,7 @@
         "Plain",
         "plain"
       ],
-      "rating": 0.94442534,
+      "rating": 0.9461292,
       "ratingCount": 31,
       "created": "2025-11-20T22:18:29.986358Z",
       "updated": "2026-10-15T00:12:17.826159Z",
@@ -670,7 +696,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.96403295,
+      "rating": 0.96440166,
       "ratingCount": 93,
       "created": "2025-09-29T01:21:36.570547Z",
       "updated": "2026-10-15T00:11:18.929831Z",
@@ -728,7 +754,7 @@
         "JumpStyle",
         "plain"
       ],
-      "rating": 0.9233226,
+      "rating": 0.92502856,
       "ratingCount": 32,
       "created": "2026-09-24T03:47:42.157039Z",
       "updated": "2026-10-14T10:01:47.731796Z",
@@ -754,7 +780,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9386339,
+      "rating": 0.94001496,
       "ratingCount": 50,
       "created": "2026-08-14T01:28:01.763755Z",
       "updated": "2026-10-14T01:49:22.990514Z",
@@ -782,7 +808,7 @@
         "",
         "plain"
       ],
-      "rating": 0.9264734,
+      "rating": 0.928688,
       "ratingCount": 25,
       "created": "2026-10-10T16:02:15.406371Z",
       "updated": "2026-10-14T00:41:15.585165Z",
@@ -813,34 +839,6 @@
       "created": "2026-10-11T00:48:12.777610Z",
       "updated": "2026-10-13T13:38:34.186701Z",
       "chartUpdated": "2026-10-11T00:48:12.777610Z"
-    },
-    {
-      "id": 80771,
-      "name": "Observation",
-      "level": "EYES",
-      "difficulty": 0.0,
-      "charter": "XD_X",
-      "composer": "Envy",
-      "illustrator": "Convert by MVP",
-      "description": "本人上传\n\n难度：rf 3+/4-\n物量：3945\n时长：3m14s\n\n下架“Todestrieb”从而上传，一次关于位移中切的尝试，但还是偏向于6k而不是无轨（\n\n依旧爽曲\n\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0280460d-3e0d-487a-ac97-65470d5601c3",
-      "preview": "https://phira.5wyxi.com/files/5165e8a4-1323-4d5e-b655-0b7478880aca",
-      "file": "https://phira.5wyxi.com/files/c8ebfd22-0662-4238-ae67-b67e1eafc276",
-      "uploader": 295128,
-      "tags": [
-        "高难",
-        "键盘",
-        "plain"
-      ],
-      "rating": 0.89833695,
-      "ratingCount": 15,
-      "created": "2026-10-11T01:00:46.425631Z",
-      "updated": "2026-10-12T18:56:39.679237Z",
-      "chartUpdated": "2026-10-11T01:00:46.425631Z"
     }
   ]
 }
