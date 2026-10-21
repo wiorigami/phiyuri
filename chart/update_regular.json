@@ -1,6 +1,89 @@
 {
-  "count": 9737,
+  "count": 9739,
   "results": [
+    {
+      "id": 81658,
+      "name": "テオ",
+      "level": "IN Lv.16",
+      "difficulty": 16.400002,
+      "charter": "HYSRと申します。不屈の歌です。",
+      "composer": "Omoi ft. 初音ミク & 星乃一歌",
+      "illustrator": "Omoi",
+      "description": "本人（@HavaYouSeenRoger）投稿，BV1ojJd6qEhL\n如果觉得不错不妨来b站支持一下！",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/09461c29-20ff-426c-bb26-336479f12fbe",
+      "preview": "https://phira.5wyxi.com/files/4213d265-fedc-46ef-90f2-8ce8b96b9d5e",
+      "file": "https://phira.5wyxi.com/files/aace37e7-5239-4c58-ab5b-a252a976f95b",
+      "uploader": 1748,
+      "tags": [
+        "Omoi",
+        "teo",
+        "将手",
+        "pjsk",
+        "初音未来",
+        "regular"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-10-20T07:25:10.931339Z",
+      "updated": "2026-10-21T02:45:02.716139Z",
+      "chartUpdated": "2026-10-20T07:25:10.931339Z"
+    },
+    {
+      "id": 81665,
+      "name": "Dahlia",
+      "level": "AT Lv.16",
+      "difficulty": 16.600002,
+      "charter": "□□□□ywy",
+      "composer": "AAAAoi（ああああ + Aoi）",
+      "illustrator": "HAT",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e65dc8d0-1ea4-4ddb-8cb7-266042b09c3a",
+      "preview": "https://phira.5wyxi.com/files/46bc981a-f710-414f-9cf8-8b8b67c80f23",
+      "file": "https://phira.5wyxi.com/files/db6de7a9-822d-40a0-814c-857fd6b051d1",
+      "uploader": 99,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-10-20T09:48:05.185836Z",
+      "updated": "2026-10-21T02:44:36.967394963Z",
+      "chartUpdated": "2026-10-20T09:48:05.185836Z"
+    },
+    {
+      "id": 81689,
+      "name": "VVelcome!!",
+      "level": "AT Lv.17",
+      "difficulty": 17.800003,
+      "charter": "It's Showtime❤",
+      "composer": "MisoilePunch♪",
+      "illustrator": "ストイソガ一",
+      "description": "@凛枫#80486@Shallow0787#19074",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/de59f69a-f43b-4d38-8eac-95e3726e74c7",
+      "preview": "https://phira.5wyxi.com/files/20772413-b872-4e7b-8da1-abd8e9c1fd21",
+      "file": "https://phira.5wyxi.com/files/8ed10f54-982e-4fee-8b32-a9be49b1324e",
+      "uploader": 99,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7482895,
+      "ratingCount": 0,
+      "created": "2026-10-20T15:17:34.785317Z",
+      "updated": "2026-10-21T02:43:42.052115559Z",
+      "chartUpdated": "2026-10-20T15:17:34.785317Z"
+    },
     {
       "id": 81480,
       "name": "Tell Your World — 月見ヤチヨ（CV.早見沙織）cover",
@@ -25,7 +108,7 @@
         "早見沙織",
         "regular"
       ],
-      "rating": 0.83680755,
+      "rating": 0.91232294,
       "ratingCount": 0,
       "created": "2026-10-18T05:49:38.625568Z",
       "updated": "2026-10-19T16:31:15.881116813Z",
@@ -51,7 +134,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7855685,
+      "rating": 0.86983395,
       "ratingCount": 0,
       "created": "2026-10-19T05:16:29.376480Z",
       "updated": "2026-10-19T16:30:30.622212327Z",
@@ -77,7 +160,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7962938,
+      "rating": 0.93279,
       "ratingCount": 0,
       "created": "2026-10-18T06:48:43.220519Z",
       "updated": "2026-10-19T16:24:55.479504Z",
@@ -103,7 +186,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8879023,
+      "rating": 0.8489364,
       "ratingCount": 0,
       "created": "2026-10-18T20:34:56.634634Z",
       "updated": "2026-10-19T13:12:10.441750379Z",
@@ -129,7 +212,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86326206,
+      "rating": 0.8919712,
       "ratingCount": 9,
       "created": "2026-04-17T04:19:08.718164Z",
       "updated": "2026-10-19T05:52:28.680371017Z",
@@ -155,7 +238,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92234457,
+      "rating": 0.9306285,
       "ratingCount": 0,
       "created": "2026-10-04T08:37:52.799880Z",
       "updated": "2026-10-19T05:51:55.490125120Z",
@@ -181,7 +264,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92548096,
+      "rating": 0.92530954,
       "ratingCount": 0,
       "created": "2026-10-17T14:52:36.124485Z",
       "updated": "2026-10-18T13:28:49.475439414Z",
@@ -207,7 +290,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8268759,
+      "rating": 0.82687986,
       "ratingCount": 4459,
       "created": "2024-09-30T20:13:03.466067Z",
       "updated": "2026-10-18T13:28:18.136952273Z",
@@ -233,7 +316,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8793422,
+      "rating": 0.87708956,
       "ratingCount": 0,
       "created": "2026-10-18T13:22:57.808622Z",
       "updated": "2026-10-18T13:27:21.980924Z",
@@ -259,7 +342,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9455037,
+      "rating": 0.9462806,
       "ratingCount": 129,
       "created": "2026-09-12T03:53:15.906014Z",
       "updated": "2026-10-18T13:03:03.768529476Z",
@@ -285,7 +368,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.892263,
+      "rating": 0.89351785,
       "ratingCount": 775,
       "created": "2023-08-10T11:27:14.145619Z",
       "updated": "2026-10-18T11:42:27.520085099Z",
@@ -311,7 +394,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8814853,
+      "rating": 0.8840176,
       "ratingCount": 66,
       "created": "2026-10-17T08:28:37.581865Z",
       "updated": "2026-10-18T09:01:00.647798Z",
@@ -337,7 +420,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91743386,
+      "rating": 0.9211966,
       "ratingCount": 18,
       "created": "2026-10-16T06:22:27.676524Z",
       "updated": "2026-10-18T04:52:38.010523Z",
@@ -364,7 +447,7 @@
         "雪狐桑",
         "regular"
       ],
-      "rating": 0.91955155,
+      "rating": 0.91894734,
       "ratingCount": 135,
       "created": "2026-10-17T15:09:43.800138Z",
       "updated": "2026-10-17T16:12:23.329075Z",
@@ -390,7 +473,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86791843,
+      "rating": 0.86977136,
       "ratingCount": 26,
       "created": "2026-10-17T15:38:50.527056Z",
       "updated": "2026-10-17T15:48:57.524007Z",
@@ -416,7 +499,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.937722,
+      "rating": 0.9378281,
       "ratingCount": 527,
       "created": "2026-10-17T14:17:34.538761Z",
       "updated": "2026-10-17T14:19:30.183402Z",
@@ -445,7 +528,7 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.8990545,
+      "rating": 0.8991696,
       "ratingCount": 77,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-15T14:43:21.555664Z",
@@ -471,7 +554,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7060908,
+      "rating": 0.7026905,
       "ratingCount": 30,
       "created": "2026-09-30T08:07:20.993622Z",
       "updated": "2026-10-15T14:41:07.107087Z",
@@ -497,7 +580,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93285435,
+      "rating": 0.93436575,
       "ratingCount": 132,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-10-15T08:54:48.308395Z",
@@ -523,7 +606,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8734514,
+      "rating": 0.8731918,
       "ratingCount": 43,
       "created": "2026-10-04T20:32:50.799863Z",
       "updated": "2026-10-15T00:25:48.939049Z",
@@ -553,7 +636,7 @@
         "喵",
         "regular"
       ],
-      "rating": 0.8831219,
+      "rating": 0.8797172,
       "ratingCount": 63,
       "created": "2026-10-06T14:47:28.561809Z",
       "updated": "2026-10-15T00:23:58.283028Z",
@@ -579,7 +662,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92158777,
+      "rating": 0.92003983,
       "ratingCount": 707,
       "created": "2026-10-09T14:15:38.426484Z",
       "updated": "2026-10-15T00:19:44.368141Z",
@@ -605,37 +688,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90993655,
+      "rating": 0.90791804,
       "ratingCount": 1416,
       "created": "2026-10-13T15:19:29.168364Z",
       "updated": "2026-10-15T00:19:14.874015Z",
       "chartUpdated": "2026-10-13T15:19:29.168364Z"
-    },
-    {
-      "id": 45754,
-      "name": "Frozen Heart ",
-      "level": "IN Lv.15.0",
-      "difficulty": 15.0,
-      "charter": "1Dynamic1",
-      "composer": "A-39",
-      "illustrator": "",
-      "description": "冰心加强版",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2859bf18-a16c-4c87-a61d-69628b14b5de",
-      "preview": "https://phira.5wyxi.com/files/728af68d-0778-4ec4-b53d-8fd31161c7e3",
-      "file": "https://phira.5wyxi.com/files/33cecdf4-0e2d-42ed-b9cf-d791c842a1d6",
-      "uploader": 1693619,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88681185,
-      "ratingCount": 716,
-      "created": "2025-08-26T10:41:40.012959Z",
-      "updated": "2026-10-15T00:11:05.744701Z",
-      "chartUpdated": "2025-08-26T10:41:40.012959Z"
     },
     {
       "id": 69707,
@@ -657,7 +714,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91562474,
+      "rating": 0.91900736,
       "ratingCount": 101,
       "created": "2026-07-28T10:56:16.707832Z",
       "updated": "2026-10-14T16:21:23.426530Z",
@@ -683,7 +740,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86014926,
+      "rating": 0.8647944,
       "ratingCount": 88,
       "created": "2026-07-28T09:08:11.246507Z",
       "updated": "2026-10-14T16:20:32.482647Z",
@@ -711,7 +768,7 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.950515,
+      "rating": 0.9477445,
       "ratingCount": 376,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-10-14T14:26:44.558761Z",
@@ -737,66 +794,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8810526,
+      "rating": 0.8867552,
       "ratingCount": 55,
       "created": "2026-10-14T12:35:08.930157Z",
       "updated": "2026-10-14T13:56:55.534941Z",
       "chartUpdated": "2026-10-14T12:35:08.930157Z"
-    },
-    {
-      "id": 81033,
-      "name": "About The Universe",
-      "level": "AT Lv.16",
-      "difficulty": 16.2,
-      "charter": "TOGC",
-      "composer": "SOTUI &MIssionary",
-      "illustrator": "豆包生成",
-      "description": "宽高比建议为 16:9 \n哦对了， b 站关注 @Torchy 红毛幻龙 谢谢喵",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5f5f9c6d-e0cf-48c2-99b8-690ce34af1ef",
-      "preview": "https://phira.5wyxi.com/files/a7df65bb-b551-40f1-a3d2-8501932dc806",
-      "file": "https://phira.5wyxi.com/files/0521061e-9467-4f23-9b14-8e28328dacc4",
-      "uploader": 159420,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8346876,
-      "ratingCount": 192,
-      "created": "2026-10-14T08:52:16.044868Z",
-      "updated": "2026-10-14T13:03:37.351981Z",
-      "chartUpdated": "2026-10-14T08:52:16.044868Z"
-    },
-    {
-      "id": 80984,
-      "name": "Fastest Crash",
-      "level": "FIRMAMENT",
-      "difficulty": 19.000004,
-      "charter": "AURORÆCLIPSE.",
-      "composer": "かめりあ",
-      "illustrator": "9q",
-      "description": "@欧内的灰#1551202(故事版 动效表演 配置)\n刘娜把我的神秘纯配置改成神欧了，我的几儿一直在袅袅。。。。\n2026.10.14 修改部分动效和配置\n清榜致歉T_T",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d3a052d8-ed7f-42d6-910a-30d43acbeb00",
-      "preview": "https://phira.5wyxi.com/files/f81aa16f-78d4-4316-99a3-565ae7b25232",
-      "file": "https://phira.5wyxi.com/files/c9511610-d8bd-480a-9086-272ca947f357",
-      "uploader": 675828,
-      "tags": [
-        "高难",
-        "键盘",
-        "かめりあ",
-        "regular"
-      ],
-      "rating": 0.9177594,
-      "ratingCount": 53,
-      "created": "2026-10-13T09:26:01.248432Z",
-      "updated": "2026-10-14T06:07:38.224455Z",
-      "chartUpdated": "2026-10-14T06:07:38.224455Z"
     }
   ]
 }
