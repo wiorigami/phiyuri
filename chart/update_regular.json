@@ -2,6 +2,32 @@
   "count": 9739,
   "results": [
     {
+      "id": 81647,
+      "name": "About The Universe",
+      "level": "AT Lv.17",
+      "difficulty": 17.2,
+      "charter": "Gracie Nova ~ XNSaien ~",
+      "composer": "SOTUI & MIssionary",
+      "illustrator": "Uk",
+      "description": "本人上传\nB站@小恩Saien#790466",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1c1af630-f7ca-4457-b640-5f6dfd3d9b3f",
+      "preview": "https://phira.5wyxi.com/files/4e6f2811-4782-4e93-927d-9138f51402f0",
+      "file": "https://phira.5wyxi.com/files/ea2a6d6b-ccdf-4776-8be8-1d4babc39faf",
+      "uploader": 790466,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.70469785,
+      "ratingCount": 0,
+      "created": "2026-10-20T04:48:48.869985Z",
+      "updated": "2026-10-21T15:27:50.973503573Z",
+      "chartUpdated": "2026-10-20T04:48:48.869985Z"
+    },
+    {
       "id": 81658,
       "name": "テオ",
       "level": "IN Lv.16",
@@ -26,7 +52,7 @@
         "初音未来",
         "regular"
       ],
-      "rating": null,
+      "rating": 0.9155978,
       "ratingCount": 0,
       "created": "2026-10-20T07:25:10.931339Z",
       "updated": "2026-10-21T02:45:02.716139Z",
@@ -42,9 +68,9 @@
       "illustrator": "HAT",
       "description": "本人上传",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/e65dc8d0-1ea4-4ddb-8cb7-266042b09c3a",
       "preview": "https://phira.5wyxi.com/files/46bc981a-f710-414f-9cf8-8b8b67c80f23",
       "file": "https://phira.5wyxi.com/files/db6de7a9-822d-40a0-814c-857fd6b051d1",
@@ -52,10 +78,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 0,
+      "rating": 0.8498641,
+      "ratingCount": 8,
       "created": "2026-10-20T09:48:05.185836Z",
-      "updated": "2026-10-21T02:44:36.967394963Z",
+      "updated": "2026-10-21T02:44:36.967394Z",
       "chartUpdated": "2026-10-20T09:48:05.185836Z"
     },
     {
@@ -78,7 +104,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7482895,
+      "rating": 0.87050694,
       "ratingCount": 0,
       "created": "2026-10-20T15:17:34.785317Z",
       "updated": "2026-10-21T02:43:42.052115559Z",
@@ -108,7 +134,7 @@
         "早見沙織",
         "regular"
       ],
-      "rating": 0.91232294,
+      "rating": 0.9102309,
       "ratingCount": 0,
       "created": "2026-10-18T05:49:38.625568Z",
       "updated": "2026-10-19T16:31:15.881116813Z",
@@ -134,7 +160,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86983395,
+      "rating": 0.8988045,
       "ratingCount": 0,
       "created": "2026-10-19T05:16:29.376480Z",
       "updated": "2026-10-19T16:30:30.622212327Z",
@@ -160,7 +186,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93279,
+      "rating": 0.934801,
       "ratingCount": 0,
       "created": "2026-10-18T06:48:43.220519Z",
       "updated": "2026-10-19T16:24:55.479504Z",
@@ -186,7 +212,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8489364,
+      "rating": 0.869698,
       "ratingCount": 0,
       "created": "2026-10-18T20:34:56.634634Z",
       "updated": "2026-10-19T13:12:10.441750379Z",
@@ -212,7 +238,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8919712,
+      "rating": 0.9010162,
       "ratingCount": 9,
       "created": "2026-04-17T04:19:08.718164Z",
       "updated": "2026-10-19T05:52:28.680371017Z",
@@ -238,7 +264,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9306285,
+      "rating": 0.92918634,
       "ratingCount": 0,
       "created": "2026-10-04T08:37:52.799880Z",
       "updated": "2026-10-19T05:51:55.490125120Z",
@@ -264,7 +290,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92530954,
+      "rating": 0.9256481,
       "ratingCount": 0,
       "created": "2026-10-17T14:52:36.124485Z",
       "updated": "2026-10-18T13:28:49.475439414Z",
@@ -290,7 +316,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.82687986,
+      "rating": 0.8271272,
       "ratingCount": 4459,
       "created": "2024-09-30T20:13:03.466067Z",
       "updated": "2026-10-18T13:28:18.136952273Z",
@@ -316,7 +342,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87708956,
+      "rating": 0.8804863,
       "ratingCount": 0,
       "created": "2026-10-18T13:22:57.808622Z",
       "updated": "2026-10-18T13:27:21.980924Z",
@@ -342,7 +368,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9462806,
+      "rating": 0.9461412,
       "ratingCount": 129,
       "created": "2026-09-12T03:53:15.906014Z",
       "updated": "2026-10-18T13:03:03.768529476Z",
@@ -368,7 +394,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89351785,
+      "rating": 0.8944555,
       "ratingCount": 775,
       "created": "2023-08-10T11:27:14.145619Z",
       "updated": "2026-10-18T11:42:27.520085099Z",
@@ -394,7 +420,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8840176,
+      "rating": 0.88072115,
       "ratingCount": 66,
       "created": "2026-10-17T08:28:37.581865Z",
       "updated": "2026-10-18T09:01:00.647798Z",
@@ -420,7 +446,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9211966,
+      "rating": 0.915877,
       "ratingCount": 18,
       "created": "2026-10-16T06:22:27.676524Z",
       "updated": "2026-10-18T04:52:38.010523Z",
@@ -447,7 +473,7 @@
         "雪狐桑",
         "regular"
       ],
-      "rating": 0.91894734,
+      "rating": 0.91979814,
       "ratingCount": 135,
       "created": "2026-10-17T15:09:43.800138Z",
       "updated": "2026-10-17T16:12:23.329075Z",
@@ -473,7 +499,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86977136,
+      "rating": 0.877993,
       "ratingCount": 26,
       "created": "2026-10-17T15:38:50.527056Z",
       "updated": "2026-10-17T15:48:57.524007Z",
@@ -499,7 +525,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9378281,
+      "rating": 0.9371715,
       "ratingCount": 527,
       "created": "2026-10-17T14:17:34.538761Z",
       "updated": "2026-10-17T14:19:30.183402Z",
@@ -528,7 +554,7 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.8991696,
+      "rating": 0.9023184,
       "ratingCount": 77,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-15T14:43:21.555664Z",
@@ -554,7 +580,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7026905,
+      "rating": 0.6994699,
       "ratingCount": 30,
       "created": "2026-09-30T08:07:20.993622Z",
       "updated": "2026-10-15T14:41:07.107087Z",
@@ -580,7 +606,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93436575,
+      "rating": 0.93236154,
       "ratingCount": 132,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-10-15T08:54:48.308395Z",
@@ -606,7 +632,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8731918,
+      "rating": 0.8753352,
       "ratingCount": 43,
       "created": "2026-10-04T20:32:50.799863Z",
       "updated": "2026-10-15T00:25:48.939049Z",
@@ -636,7 +662,7 @@
         "喵",
         "regular"
       ],
-      "rating": 0.8797172,
+      "rating": 0.8845244,
       "ratingCount": 63,
       "created": "2026-10-06T14:47:28.561809Z",
       "updated": "2026-10-15T00:23:58.283028Z",
@@ -662,7 +688,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92003983,
+      "rating": 0.92056435,
       "ratingCount": 707,
       "created": "2026-10-09T14:15:38.426484Z",
       "updated": "2026-10-15T00:19:44.368141Z",
@@ -688,7 +714,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90791804,
+      "rating": 0.9080128,
       "ratingCount": 1416,
       "created": "2026-10-13T15:19:29.168364Z",
       "updated": "2026-10-15T00:19:14.874015Z",
@@ -714,7 +740,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91900736,
+      "rating": 0.9202136,
       "ratingCount": 101,
       "created": "2026-07-28T10:56:16.707832Z",
       "updated": "2026-10-14T16:21:23.426530Z",
@@ -740,7 +766,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8647944,
+      "rating": 0.8669225,
       "ratingCount": 88,
       "created": "2026-07-28T09:08:11.246507Z",
       "updated": "2026-10-14T16:20:32.482647Z",
@@ -768,37 +794,11 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.9477445,
+      "rating": 0.948167,
       "ratingCount": 376,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-10-14T14:26:44.558761Z",
       "chartUpdated": "2026-10-14T14:26:44.558761Z"
-    },
-    {
-      "id": 81043,
-      "name": "MEGA POP",
-      "level": "AT Lv.18",
-      "difficulty": 18.500002,
-      "charter": "縱連打の信者★歐內",
-      "composer": "Urtica_Ferox",
-      "illustrator": "HAT",
-      "description": "本人上传\n纵连特化键盘\n定数：18.5（社区待定）\n物量：1567",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e2249dc3-c525-4a56-b865-a623e53b765a",
-      "preview": "https://phira.5wyxi.com/files/9704d634-bfc6-4508-ad99-b822b3118fd0",
-      "file": "https://phira.5wyxi.com/files/98855804-a26b-4b22-8722-3fb93bb216ec",
-      "uploader": 2411003,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8867552,
-      "ratingCount": 55,
-      "created": "2026-10-14T12:35:08.930157Z",
-      "updated": "2026-10-14T13:56:55.534941Z",
-      "chartUpdated": "2026-10-14T12:35:08.930157Z"
     }
   ]
 }
