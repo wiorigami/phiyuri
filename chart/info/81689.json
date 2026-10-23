@@ -13,11 +13,11 @@
   "name": "VVelcome!!",
   "preview": "https://phira.5wyxi.com/files/20772413-b872-4e7b-8da1-abd8e9c1fd21",
   "ranked": false,
-  "rating": 0.87050694,
-  "ratingCount": 10,
-  "reviewed": true,
+  "rating": 0.892086,
+  "ratingCount": 19,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
