@@ -1,6 +1,58 @@
 {
-  "count": 3396,
+  "count": 3398,
   "results": [
+    {
+      "id": 80013,
+      "name": "ポキでも",
+      "level": "AT Lv.16",
+      "difficulty": 16.600002,
+      "charter": "IZ蓝",
+      "composer": "暴饮暴食P",
+      "illustrator": "キャラメルさん",
+      "description": "78916713",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/17da46ce-035b-4423-9e48-88753965d069",
+      "preview": "https://phira.5wyxi.com/files/a626b985-c513-4b4d-bbc4-532339c6c813",
+      "file": "https://phira.5wyxi.com/files/e5f5af97-fd8b-48fb-83c2-a59c0f76d37f",
+      "uploader": 1896531,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7500545,
+      "ratingCount": 0,
+      "created": "2026-10-03T15:37:01.424133Z",
+      "updated": "2026-10-22T05:29:55.306120977Z",
+      "chartUpdated": "2026-10-03T15:37:01.424133Z"
+    },
+    {
+      "id": 81740,
+      "name": "TRUE♥LOVE (Clubstar`s True Club Mix)",
+      "level": "4K Lv.25",
+      "difficulty": 20.0,
+      "charter": "shaowu",
+      "composer": "준(Jun)",
+      "illustrator": "UK",
+      "description": "谱师本人上传，@phira世一涩#4331547（意见）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/187ba989-673e-4249-a38d-3c1e4e405cc4",
+      "preview": "https://phira.5wyxi.com/files/d82f1a9e-c594-4ed1-b509-2232787eb8cd",
+      "file": "https://phira.5wyxi.com/files/513f8bd5-3922-486d-ad70-d20abd9a12ff",
+      "uploader": 1597616,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8563565,
+      "ratingCount": 4,
+      "created": "2026-10-21T23:21:22.538921Z",
+      "updated": "2026-10-22T04:25:07.679671Z",
+      "chartUpdated": "2026-10-21T23:21:22.538921Z"
+    },
     {
       "id": 76989,
       "name": "乱数放送は魚のよう (feat. 足立レイ)",
@@ -21,7 +73,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9251345,
+      "rating": 0.93412095,
       "ratingCount": 0,
       "created": "2026-09-04T10:12:47.673661Z",
       "updated": "2026-10-20T11:54:41.939363327Z",
@@ -81,7 +133,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9332725,
+      "rating": 0.93893117,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232710Z",
@@ -112,7 +164,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.90768605,
+      "rating": 0.91602385,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862355Z",
@@ -143,7 +195,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9319572,
+      "rating": 0.9304065,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497058Z",
@@ -173,7 +225,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.8773947,
+      "rating": 0.899716,
       "ratingCount": 0,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083035Z",
@@ -204,7 +256,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.8182504,
+      "rating": 0.83940613,
       "ratingCount": 0,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861731Z",
@@ -230,7 +282,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94710404,
+      "rating": 0.94758916,
       "ratingCount": 21,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
@@ -257,7 +309,7 @@
         "CrFt",
         "plain"
       ],
-      "rating": 0.86924696,
+      "rating": 0.87356454,
       "ratingCount": 11,
       "created": "2026-10-17T15:58:37.646211Z",
       "updated": "2026-10-17T16:01:45.125064Z",
@@ -283,7 +335,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9374636,
+      "rating": 0.93854463,
       "ratingCount": 67,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
@@ -336,7 +388,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.90554893,
+      "rating": 0.90635794,
       "ratingCount": 305,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
@@ -362,7 +414,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9061157,
+      "rating": 0.9042649,
       "ratingCount": 40,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
@@ -449,7 +501,7 @@
         "tech",
         "plain"
       ],
-      "rating": 0.83867943,
+      "rating": 0.8370748,
       "ratingCount": 5,
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901Z",
@@ -528,7 +580,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88843465,
+      "rating": 0.9016592,
       "ratingCount": 13,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190Z",
@@ -554,7 +606,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8703287,
+      "rating": 0.8763755,
       "ratingCount": 23,
       "created": "2026-01-13T05:55:30.098831Z",
       "updated": "2026-10-15T00:15:52.670008Z",
@@ -638,7 +690,7 @@
         "双指",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.7482895,
       "ratingCount": 0,
       "created": "2025-12-07T11:29:29.395150Z",
       "updated": "2026-10-15T00:14:09.187380Z",
@@ -667,7 +719,7 @@
         "Plain",
         "plain"
       ],
-      "rating": 0.94872355,
+      "rating": 0.9406747,
       "ratingCount": 31,
       "created": "2025-11-20T22:18:29.986358Z",
       "updated": "2026-10-15T00:12:17.826159Z",
@@ -780,65 +832,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9418412,
+      "rating": 0.9443818,
       "ratingCount": 50,
       "created": "2026-08-14T01:28:01.763755Z",
       "updated": "2026-10-14T01:49:22.990514Z",
       "chartUpdated": "2026-08-14T01:28:01.763755Z"
-    },
-    {
-      "id": 80756,
-      "name": "アンクローズ·ヒューマン",
-      "level": "4k Unclose Lv.31",
-      "difficulty": 30.0,
-      "charter": "DIZzY",
-      "composer": "カジャ",
-      "illustrator": "UK",
-      "description": "各位好我是DIZzY\n这个是我的初谱\n这首歌是打舞萌的时候一见钟情的 后来了解了背景更是感触很深\n但是发现好像没人写这首\n是全曲 希望更多的人能听到这首歌\n后面升调段有一个爆发的乱各位注意一下\n谢谢大家支持www\n感谢类纸的修改还有洋漫帮我写的结尾对\n——————\nB站：ResoNancE27\nDy：S.R",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/541d8e43-014c-48ed-9d1a-ad03b526c717",
-      "preview": "https://phira.5wyxi.com/files/aff0a6fb-ed31-49be-be42-6881fc58b8d7",
-      "file": "https://phira.5wyxi.com/files/b936bc0d-033d-4464-89cd-ef933ad1c54e",
-      "uploader": 2326063,
-      "tags": [
-        "4k",
-        "",
-        "plain"
-      ],
-      "rating": 0.93274474,
-      "ratingCount": 25,
-      "created": "2026-10-10T16:02:15.406371Z",
-      "updated": "2026-10-14T00:41:15.585165Z",
-      "chartUpdated": "2026-10-10T16:02:15.406371Z"
-    },
-    {
-      "id": 80770,
-      "name": "Nijuu",
-      "level": "4K Jack Lv.36",
-      "difficulty": 38.0,
-      "charter": "YMEA",
-      "composer": "DJ TECHNORCH",
-      "illustrator": "UK",
-      "description": "Crft 4K 周年庆谱\n其实之前传过一遍，后来删了。因为现在发高烧清假了，没时间抽出来写谱（写这个简介时我就在学校的路上了。）\n\n过段99.45\n后光99.90\n难度约e4\n\n快手 x B站 洋漫YMEA\nDY YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b341fae8-fb3d-4442-b083-328ab3ab5201",
-      "preview": "https://phira.5wyxi.com/files/3522ba63-1852-4e6f-a0aa-8f70b77c7400",
-      "file": "https://phira.5wyxi.com/files/f3ba2102-4b71-4219-ad4c-c7e5e8121f46",
-      "uploader": 4268032,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.86439836,
-      "ratingCount": 5,
-      "created": "2026-10-11T00:48:12.777610Z",
-      "updated": "2026-10-13T13:38:34.186701Z",
-      "chartUpdated": "2026-10-11T00:48:12.777610Z"
     }
   ]
 }
