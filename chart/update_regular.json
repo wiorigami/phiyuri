@@ -1,6 +1,142 @@
 {
-  "count": 9746,
+  "count": 9743,
   "results": [
+    {
+      "id": 82028,
+      "name": "Beethoven Virus",
+      "level": "HD Lv.11",
+      "difficulty": 11.000001,
+      "charter": "YSTAR-T",
+      "composer": "Diana Boncheva",
+      "illustrator": "RhythmMaster",
+      "description": "谱师本人上传\r\n10.23回归作\r\n定数11.0\r\n物量452\r\n目前难度5.5/11.0/14.5",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c6a4f983-e812-4d68-96e3-3bf0af9019c1",
+      "preview": "https://phira.5wyxi.com/files/1c423a1b-2c4f-4c48-b44b-7da0d95f3433",
+      "file": "https://phira.5wyxi.com/files/2875670a-95d3-4d81-9718-6242d6bfbead",
+      "uploader": 1213694,
+      "tags": [
+        "节奏大师",
+        "regular"
+      ],
+      "rating": 0.9255864,
+      "ratingCount": 0,
+      "created": "2026-10-24T14:27:30.563766Z",
+      "updated": "2026-10-24T15:02:28.873052214Z",
+      "chartUpdated": "2026-10-24T14:27:30.563766Z"
+    },
+    {
+      "id": 82030,
+      "name": "Never Say Goodbye",
+      "level": "AT Lv.17",
+      "difficulty": 17.600002,
+      "charter": "XJawa. and his friends.",
+      "composer": "黒魔",
+      "illustrator": "山山奇",
+      "description": "【Phigros合作自制】\n曲目：Never Say Goodbye - 黒魔\n谱师：Never(XJ_Sheeb_JiHeng)Goodbye\n定数：AT Lv.17.6\n物量：2333\n总事件数：9331\n写谱净时长：50.5h",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/554dd334-3f80-4eb8-b8ca-2c680b6b553d",
+      "preview": "https://phira.5wyxi.com/files/1ab3e62c-2058-4dff-89b5-eb51c11d760f",
+      "file": "https://phira.5wyxi.com/files/eb596ad6-d58b-427f-bebb-c8897f3691bf",
+      "uploader": 990886,
+      "tags": [
+        "Rizline",
+        "律动轨迹",
+        "黒魔",
+        "regular"
+      ],
+      "rating": 0.8491937,
+      "ratingCount": 0,
+      "created": "2026-10-24T14:31:30.164132Z",
+      "updated": "2026-10-24T14:41:54.837482405Z",
+      "chartUpdated": "2026-10-24T14:31:30.164132Z"
+    },
+    {
+      "id": 82027,
+      "name": "EXXTRA JUDGEMENT",
+      "level": "IN Lv.16",
+      "difficulty": 16.700003,
+      "charter": "ESSAMA JUDGEMENT",
+      "composer": "seatrus",
+      "illustrator": "Crimo",
+      "description": "谱师本人上传\n\n←这是额撒嘛最善良的时候",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/f3aaa512-d32b-4e94-85d9-1159acd3c7e2",
+      "preview": "https://phira.5wyxi.com/files/e45d521e-6b6a-4dea-b522-fea78d82f2e4",
+      "file": "https://phira.5wyxi.com/files/360cc959-fbc9-45c0-a636-a142bfd132fc",
+      "uploader": 385765,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9691612,
+      "ratingCount": 29,
+      "created": "2026-10-24T14:23:14.801344Z",
+      "updated": "2026-10-24T14:34:36.781383Z",
+      "chartUpdated": "2026-10-24T14:23:14.801344Z"
+    },
+    {
+      "id": 81800,
+      "name": "火花",
+      "level": "EZ Lv.2",
+      "difficulty": 2.0000002,
+      "charter": "C.efe (nobody cares)",
+      "composer": "小熠不是小姨 feat.洛天依",
+      "illustrator": "贝贝web",
+      "description": "站中间串两边的结果就是两头不讨好",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e7c2be7a-a95b-4cd9-9be2-74e18f600a8d",
+      "preview": "https://phira.5wyxi.com/files/aed20394-f19c-470d-ad5e-2a51afbf736e",
+      "file": "https://phira.5wyxi.com/files/2bdd9082-d02b-474c-8576-ade387969943",
+      "uploader": 81,
+      "tags": [
+        "纯良",
+        "洛天依",
+        "regular"
+      ],
+      "rating": 0.92999285,
+      "ratingCount": 0,
+      "created": "2026-10-23T07:13:34.969466Z",
+      "updated": "2026-10-24T08:48:41.659002523Z",
+      "chartUpdated": "2026-10-23T07:13:34.969466Z"
+    },
+    {
+      "id": 81910,
+      "name": "Jdunn's Jnnocence",
+      "level": "AT Lv.17",
+      "difficulty": 17.1,
+      "charter": "FruitForest",
+      "composer": "Powrless",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/92e09663-b3f6-4cf0-8f1c-eece5aed65bf",
+      "preview": "https://phira.5wyxi.com/files/98132f4b-9250-4bca-abb9-417af361ac41",
+      "file": "https://phira.5wyxi.com/files/d0f0f675-8e4c-4eb8-81bc-ed12f9055fee",
+      "uploader": 2119640,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8032649,
+      "ratingCount": 8,
+      "created": "2026-10-24T05:55:33.143163Z",
+      "updated": "2026-10-24T08:27:46.602212Z",
+      "chartUpdated": "2026-10-24T05:55:33.143163Z"
+    },
     {
       "id": 81796,
       "name": "folern",
@@ -11,9 +147,9 @@
       "illustrator": "ENTACL GRAPHICXXX(Chloe modified)",
       "description": null,
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/f7267df6-1991-4624-a0b2-0603caba8849",
       "preview": "https://phira.5wyxi.com/files/fd7eb798-5eb2-4474-a819-5c11e3d4b0f3",
       "file": "https://phira.5wyxi.com/files/99ecf680-d925-4d95-96ec-9e4b1aae1700",
@@ -21,10 +157,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90190405,
-      "ratingCount": 0,
+      "rating": 0.9394288,
+      "ratingCount": 57,
       "created": "2026-10-23T04:56:41.470986Z",
-      "updated": "2026-10-23T18:58:44.109221512Z",
+      "updated": "2026-10-23T18:58:44.109221Z",
       "chartUpdated": "2026-10-23T04:56:41.470986Z"
     },
     {
@@ -48,10 +184,10 @@
         "明日方舟",
         "regular"
       ],
-      "rating": 0.86545444,
-      "ratingCount": 297,
+      "rating": 0.86324036,
+      "ratingCount": 303,
       "created": "2025-08-31T16:07:43.407164Z",
-      "updated": "2026-10-23T18:57:45.928428747Z",
+      "updated": "2026-10-23T18:57:45.928428Z",
       "chartUpdated": "2025-08-31T16:07:43.407164Z"
     },
     {
@@ -74,8 +210,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87085557,
-      "ratingCount": 814,
+      "rating": 0.87001026,
+      "ratingCount": 817,
       "created": "2024-07-26T02:32:02.295533Z",
       "updated": "2026-10-23T18:57:27.151105Z",
       "chartUpdated": "2024-07-26T02:32:02.295533Z"
@@ -100,10 +236,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.80656886,
-      "ratingCount": 0,
+      "rating": 0.77127266,
+      "ratingCount": 4,
       "created": "2026-10-17T15:25:25.536329Z",
-      "updated": "2026-10-23T15:54:55.949435604Z",
+      "updated": "2026-10-23T15:54:55.949435Z",
       "chartUpdated": "2026-10-17T15:25:25.536329Z"
     },
     {
@@ -126,8 +262,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.941937,
-      "ratingCount": 23,
+      "rating": 0.94483364,
+      "ratingCount": 39,
       "created": "2026-10-23T11:44:06.371103Z",
       "updated": "2026-10-23T13:14:47.113698Z",
       "chartUpdated": "2026-10-23T11:44:06.371103Z"
@@ -153,38 +289,11 @@
         "高难",
         "regular"
       ],
-      "rating": 0.8792668,
-      "ratingCount": 16,
+      "rating": 0.90523154,
+      "ratingCount": 20,
       "created": "2026-10-14T20:45:45.923050Z",
       "updated": "2026-10-23T08:50:53.256129Z",
       "chartUpdated": "2026-10-14T20:45:45.923050Z"
-    },
-    {
-      "id": 81807,
-      "name": "Beethoven Virus",
-      "level": "EZ Lv.5",
-      "difficulty": 5.5000005,
-      "charter": "YSTAR-T",
-      "composer": "Diana Boncheva",
-      "illustrator": "RhythmMaster",
-      "description": "谱师本人上传\r\n10.23回归作\r\n定数5.5",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f8d1bab3-f4b9-4980-80b4-c981c13bfcbd",
-      "preview": "https://phira.5wyxi.com/files/07bc32b3-8414-4b74-8b80-dee087343978",
-      "file": "https://phira.5wyxi.com/files/dc97b16b-f6ad-4802-8409-b29dc8df73ff",
-      "uploader": 1213694,
-      "tags": [
-        "节奏大师",
-        "regular"
-      ],
-      "rating": 0.9398655,
-      "ratingCount": 236,
-      "created": "2026-10-23T07:56:20.757615Z",
-      "updated": "2026-10-23T08:36:17.733582Z",
-      "chartUpdated": "2026-10-23T07:56:20.757615Z"
     },
     {
       "id": 81662,
@@ -206,8 +315,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84578735,
-      "ratingCount": 31,
+      "rating": 0.8551362,
+      "ratingCount": 36,
       "created": "2026-10-20T08:31:49.150973Z",
       "updated": "2026-10-23T02:06:03.900566Z",
       "chartUpdated": "2026-10-20T08:31:49.150973Z"
@@ -232,8 +341,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92292714,
-      "ratingCount": 92,
+      "rating": 0.92382604,
+      "ratingCount": 126,
       "created": "2026-10-20T05:06:48.060808Z",
       "updated": "2026-10-23T02:05:49.778399Z",
       "chartUpdated": "2026-10-20T05:06:48.060808Z"
@@ -260,8 +369,8 @@
         "切",
         "regular"
       ],
-      "rating": 0.8577169,
-      "ratingCount": 8,
+      "rating": 0.8714931,
+      "ratingCount": 13,
       "created": "2026-10-22T03:18:53.981934Z",
       "updated": "2026-10-23T02:04:18.061314Z",
       "chartUpdated": "2026-10-22T03:18:53.981934Z"
@@ -286,8 +395,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87002105,
-      "ratingCount": 34,
+      "rating": 0.88627154,
+      "ratingCount": 49,
       "created": "2026-09-16T08:37:13.249712Z",
       "updated": "2026-10-23T01:35:55.556201Z",
       "chartUpdated": "2026-09-16T08:37:13.249712Z"
@@ -312,8 +421,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8189627,
-      "ratingCount": 26,
+      "rating": 0.82588845,
+      "ratingCount": 28,
       "created": "2026-10-22T08:06:33.357128Z",
       "updated": "2026-10-22T09:49:36.361529Z",
       "chartUpdated": "2026-10-22T08:06:33.357128Z"
@@ -338,8 +447,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.79040986,
-      "ratingCount": 37,
+      "rating": 0.8222262,
+      "ratingCount": 41,
       "created": "2026-10-20T04:48:48.869985Z",
       "updated": "2026-10-21T15:27:50.973503Z",
       "chartUpdated": "2026-10-20T04:48:48.869985Z"
@@ -369,8 +478,8 @@
         "初音未来",
         "regular"
       ],
-      "rating": 0.92326057,
-      "ratingCount": 120,
+      "rating": 0.9169945,
+      "ratingCount": 121,
       "created": "2026-10-20T07:25:10.931339Z",
       "updated": "2026-10-21T02:45:02.716139Z",
       "chartUpdated": "2026-10-20T07:25:10.931339Z"
@@ -395,8 +504,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8675224,
-      "ratingCount": 53,
+      "rating": 0.8803598,
+      "ratingCount": 58,
       "created": "2026-10-20T09:48:05.185836Z",
       "updated": "2026-10-21T02:44:36.967394Z",
       "chartUpdated": "2026-10-20T09:48:05.185836Z"
@@ -421,8 +530,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9021218,
-      "ratingCount": 24,
+      "rating": 0.9105227,
+      "ratingCount": 26,
       "created": "2026-10-20T15:17:34.785317Z",
       "updated": "2026-10-21T02:43:42.052115Z",
       "chartUpdated": "2026-10-20T15:17:34.785317Z"
@@ -451,8 +560,8 @@
         "早見沙織",
         "regular"
       ],
-      "rating": 0.9119593,
-      "ratingCount": 208,
+      "rating": 0.9136292,
+      "ratingCount": 217,
       "created": "2026-10-18T05:49:38.625568Z",
       "updated": "2026-10-19T16:31:15.881116Z",
       "chartUpdated": "2026-10-18T05:49:38.625568Z"
@@ -477,8 +586,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9157497,
-      "ratingCount": 145,
+      "rating": 0.9202245,
+      "ratingCount": 157,
       "created": "2026-10-19T05:16:29.376480Z",
       "updated": "2026-10-19T16:30:30.622212Z",
       "chartUpdated": "2026-10-19T05:16:29.376480Z"
@@ -503,8 +612,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94672704,
-      "ratingCount": 121,
+      "rating": 0.9478494,
+      "ratingCount": 132,
       "created": "2026-10-18T06:48:43.220519Z",
       "updated": "2026-10-19T16:24:55.479504Z",
       "chartUpdated": "2026-10-18T06:48:43.220519Z"
@@ -529,8 +638,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.890679,
-      "ratingCount": 146,
+      "rating": 0.8956543,
+      "ratingCount": 155,
       "created": "2026-10-18T20:34:56.634634Z",
       "updated": "2026-10-19T13:12:10.441750Z",
       "chartUpdated": "2026-10-18T20:34:56.634634Z"
@@ -555,8 +664,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.912436,
-      "ratingCount": 57,
+      "rating": 0.9149757,
+      "ratingCount": 61,
       "created": "2026-04-17T04:19:08.718164Z",
       "updated": "2026-10-19T05:52:28.680371Z",
       "chartUpdated": "2026-10-19T05:52:28.680371Z"
@@ -581,8 +690,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93941283,
-      "ratingCount": 250,
+      "rating": 0.9368958,
+      "ratingCount": 275,
       "created": "2026-10-04T08:37:52.799880Z",
       "updated": "2026-10-19T05:51:55.490125Z",
       "chartUpdated": "2026-10-04T08:37:52.799880Z"
@@ -607,8 +716,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91905373,
-      "ratingCount": 192,
+      "rating": 0.9218206,
+      "ratingCount": 201,
       "created": "2026-10-17T14:52:36.124485Z",
       "updated": "2026-10-18T13:28:49.475439Z",
       "chartUpdated": "2026-10-17T14:52:36.124485Z"
@@ -633,8 +742,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.827108,
-      "ratingCount": 4518,
+      "rating": 0.8267814,
+      "ratingCount": 4525,
       "created": "2024-09-30T20:13:03.466067Z",
       "updated": "2026-10-18T13:28:18.136952Z",
       "chartUpdated": "2024-10-18T15:54:10.232263Z"
@@ -659,8 +768,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87640995,
-      "ratingCount": 52,
+      "rating": 0.88935095,
+      "ratingCount": 57,
       "created": "2026-10-18T13:22:57.808622Z",
       "updated": "2026-10-18T13:27:21.980924Z",
       "chartUpdated": "2026-10-18T13:22:57.808622Z"
@@ -685,116 +794,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9463397,
-      "ratingCount": 196,
+      "rating": 0.94650525,
+      "ratingCount": 198,
       "created": "2026-09-12T03:53:15.906014Z",
       "updated": "2026-10-18T13:03:03.768529Z",
       "chartUpdated": "2026-09-12T03:53:15.906014Z"
-    },
-    {
-      "id": 7254,
-      "name": "恋染色",
-      "level": "IN Lv.14",
-      "difficulty": 14.600002,
-      "charter": "小菊单推人双虎&AY暗幽",
-      "composer": "Project lights (feat.Acacia)",
-      "illustrator": "绘恋制作组",
-      "description": "小菊生贺作\n准备重置中\n9.24 Fixed\nAY暗幽#681980（表演）\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/399a04ab-036e-4003-a44a-8eadbdf11067",
-      "preview": "https://phira.5wyxi.com/files/dc598f9b-d7f4-40e7-843b-175e22fd4f6b",
-      "file": "https://phira.5wyxi.com/files/8ecda419-abf3-45cf-884c-bf678aee8e18",
-      "uploader": 611,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.89663786,
-      "ratingCount": 1141,
-      "created": "2023-08-10T11:27:14.145619Z",
-      "updated": "2026-10-18T11:42:27.520085Z",
-      "chartUpdated": "2026-10-18T11:42:27.520085Z"
-    },
-    {
-      "id": 81305,
-      "name": "Crucifix X ",
-      "level": "X",
-      "difficulty": 10.000008,
-      "charter": "Der",
-      "composer": "Ave Mujica",
-      "illustrator": "Official Art",
-      "description": "不是完整歌曲，致歉，只选取了一部分",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7fe00bae-e45c-48f4-af7f-5d3b047e0f43",
-      "preview": "https://phira.5wyxi.com/files/8f197af6-3f08-4b15-833e-c10dd9eed7a8",
-      "file": "https://phira.5wyxi.com/files/313092f0-eb0a-48e3-bcb5-b95efa41c9fa",
-      "uploader": 2313908,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8834215,
-      "ratingCount": 246,
-      "created": "2026-10-17T08:28:37.581865Z",
-      "updated": "2026-10-18T09:01:00.647798Z",
-      "chartUpdated": "2026-10-17T08:28:37.581865Z"
-    },
-    {
-      "id": 81139,
-      "name": "Blooming Planet",
-      "level": "AT Lv.17+",
-      "difficulty": 17.699997,
-      "charter": "ホタル -Bouquet of Birth-",
-      "composer": "Xyris feat.花隈千冬",
-      "illustrator": "",
-      "description": "本人上傳\n19歲生日作\n表演最多的一集\n定數僅供參考\nB站：伊德莉拉螢\n預覽視頻BV1GvJU6GEne\n\n因視覺效果原因背景昏暗調成了0，有需要請自行調整（）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/fc0870b5-c793-411f-bb2f-e6d86236e665",
-      "preview": "https://phira.5wyxi.com/files/d5cf141c-7708-42d0-903c-0efb40750754",
-      "file": "https://phira.5wyxi.com/files/a1f205cb-a2e2-40f7-8b39-9d490b250f49",
-      "uploader": 547414,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9217876,
-      "ratingCount": 110,
-      "created": "2026-10-16T06:22:27.676524Z",
-      "updated": "2026-10-18T04:52:38.010523Z",
-      "chartUpdated": "2026-10-16T06:22:27.676524Z"
-    },
-    {
-      "id": 81387,
-      "name": "瞬时永远",
-      "level": "IN  Lv.13",
-      "difficulty": 13.800003,
-      "charter": "生肖大绿龙",
-      "composer": "雪狐桑",
-      "illustrator": "Y_Y",
-      "description": "本谱为谱师 生肖大绿龙 本人上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/811e31a9-2d37-4ae0-8be8-cda5de8cd232",
-      "preview": "https://phira.5wyxi.com/files/10ee98b5-e160-455c-bc9f-72fcf4d8a891",
-      "file": "https://phira.5wyxi.com/files/d507cc5c-63e8-4e3b-8e15-47a71c46aec7",
-      "uploader": 249934,
-      "tags": [
-        "雪狐桑",
-        "regular"
-      ],
-      "rating": 0.9203269,
-      "ratingCount": 273,
-      "created": "2026-10-17T15:09:43.800138Z",
-      "updated": "2026-10-17T16:12:23.329075Z",
-      "chartUpdated": "2026-10-17T15:09:43.800138Z"
     }
   ]
 }
