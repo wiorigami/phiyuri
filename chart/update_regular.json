@@ -1,6 +1,191 @@
 {
-  "count": 9743,
+  "count": 9742,
   "results": [
+    {
+      "id": 80893,
+      "name": "Phantigma",
+      "level": "IN Lv.16",
+      "difficulty": 16.100004,
+      "charter": "Nyiou",
+      "composer": "打打だいず",
+      "illustrator": "Lai。 / Star4th / Schuld / poca_p0ca",
+      "description": "B站 ：Nyiou0314\n八譜OuO\n稍微認真寫了一些故事(?)和表演\n第一次寫了近三分鐘的歌，稍微吃力一些OAO\n\n定數：16.1\n物量：1633\nbpm：210",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/0c705998-32d5-444d-9594-f8ea7608cb22",
+      "preview": "https://phira.5wyxi.com/files/1facf8ae-eaa4-439f-b3b9-5d6344123200",
+      "file": "https://phira.5wyxi.com/files/157ebacd-c708-4dbe-b217-0a0485d7b1c3",
+      "uploader": 439874,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9365994,
+      "ratingCount": 145,
+      "created": "2026-10-12T03:26:57.123438Z",
+      "updated": "2026-10-25T09:51:16.140216290Z",
+      "chartUpdated": "2026-10-12T03:26:57.123438Z"
+    },
+    {
+      "id": 78223,
+      "name": "Meltovt Necrosys",
+      "level": "AT Lv.16",
+      "difficulty": 16.300001,
+      "charter": "Nyiou",
+      "composer": "Halv",
+      "illustrator": "nyanizero feat. yx",
+      "description": "七譜，上一張(70781)IN的表演寫的比較急促，這次寫了AT的同時用心寫了一次表演OwO\n\n定數：16.3\n物量：1300\nbpm：210",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ca2f41c4-9767-4ca7-acbe-18793d226173",
+      "preview": "https://phira.5wyxi.com/files/a7353a25-0918-4861-b868-cd14398efb9a",
+      "file": "https://phira.5wyxi.com/files/cd6d5724-4ef5-4203-ac4d-a92309989459",
+      "uploader": 439874,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.89001113,
+      "ratingCount": 88,
+      "created": "2026-09-16T08:37:13.249712Z",
+      "updated": "2026-10-25T09:51:04.220952969Z",
+      "chartUpdated": "2026-10-25T09:51:04.220952969Z"
+    },
+    {
+      "id": 69298,
+      "name": "Melonaid",
+      "level": "AT Lv.16",
+      "difficulty": 16.2,
+      "charter": "Nyiounaid",
+      "composer": "KATOMORI",
+      "illustrator": "",
+      "description": "五譜OwO\n為Hypernaid的前作，寫譜思路也幾乎相似OAO\n定數：16.2\n物量：1071\nbpm：145",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/03ecd07a-d97b-4711-bc91-0d5ae392c27c",
+      "preview": "https://phira.5wyxi.com/files/eb93e00d-3a93-45d9-84d1-4b5e48c1ea67",
+      "file": "https://phira.5wyxi.com/files/c71ddd84-2f68-435d-a732-4579e37454d1",
+      "uploader": 439874,
+      "tags": [
+        "DJMAX",
+        "多指",
+        "KATOMORI",
+        "regular"
+      ],
+      "rating": 0.91183805,
+      "ratingCount": 105,
+      "created": "2026-07-26T08:50:11.153552Z",
+      "updated": "2026-10-25T09:50:48.972707419Z",
+      "chartUpdated": "2026-07-26T08:50:11.153552Z"
+    },
+    {
+      "id": 82147,
+      "name": "ただ病名が欲しかった",
+      "level": "IN Lv.13",
+      "difficulty": 13.500002,
+      "charter": "why? & Esama",
+      "composer": "kyiku",
+      "illustrator": "あかの",
+      "description": "本人上传\n远古废稿补完",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0ffb5ed3-242e-4e6d-aaa8-3348d13df0c4",
+      "preview": "https://phira.5wyxi.com/files/43be241b-cce1-4360-ac42-ede1a91f5113",
+      "file": "https://phira.5wyxi.com/files/14e3b56c-3661-4b08-b704-3d1242c51bf0",
+      "uploader": 385765,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.94036484,
+      "ratingCount": 0,
+      "created": "2026-10-25T09:04:49.819995Z",
+      "updated": "2026-10-25T09:07:17.086453773Z",
+      "chartUpdated": "2026-10-25T09:04:49.819995Z"
+    },
+    {
+      "id": 53302,
+      "name": "croiX",
+      "level": "IN Lv.16",
+      "difficulty": 16.400005,
+      "charter": "pigeoX",
+      "composer": "TeamGrimoire+あま猫",
+      "illustrator": "Tankne6",
+      "description": "本人上传\r\n好久没更新了，难度略微提高了那么亿点点啦~",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/a9e8bdcf-d218-4cd8-b182-0e10346b7890",
+      "preview": "https://phira.5wyxi.com/files/5fc4d71c-46a9-468e-99e8-18ee4365b60d",
+      "file": "https://phira.5wyxi.com/files/aa771746-8990-4356-a061-a57a86381091",
+      "uploader": 658108,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9224272,
+      "ratingCount": 474,
+      "created": "2026-02-24T05:38:25.558797Z",
+      "updated": "2026-10-25T09:02:52.851269822Z",
+      "chartUpdated": "2026-10-25T09:02:52.851269822Z"
+    },
+    {
+      "id": 78480,
+      "name": "Snow Dance",
+      "level": "IN Lv.14",
+      "difficulty": 14.1,
+      "charter": "~ 雪麦 ~",
+      "composer": "悠叶いのり",
+      "illustrator": "Mad Project (@Orzmic)",
+      "description": "越写到后面越没什么想法了（\n板子写的，无电脑，使用Win虚拟机\n\nB站谱面视频：BV1P3Y963EPR\nB站：@是小麦呐_#8422\n本人上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/a5094950-605f-4538-8d7b-77ab861b7342",
+      "preview": "https://phira.5wyxi.com/files/af72678c-a1a5-4a47-9e51-88e64e2b7ec3",
+      "file": "https://phira.5wyxi.com/files/ce881d8c-985f-4621-9a70-57a8bb872bc9",
+      "uploader": 8422,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.912288,
+      "ratingCount": 407,
+      "created": "2026-09-19T08:57:18.442024Z",
+      "updated": "2026-10-25T08:32:14.200716Z",
+      "chartUpdated": "2026-10-25T08:32:14.200716Z"
+    },
+    {
+      "id": 82006,
+      "name": "JACKPOT's Dreamer",
+      "level": "IN Lv.15",
+      "difficulty": 15.1,
+      "charter": "Nyiou",
+      "composer": "打打だいず",
+      "illustrator": "clishee",
+      "description": "B站 : Nyiou0314\n九譜，打打真神吧owo \n\n曲目 : JACKPOT’s Dreamer\n曲師 : 打打だいず\nBPM : 210\n物量 : 1102\n定數 : 15.1",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7fa71867-17c8-4afe-9568-7d5f562f5c12",
+      "preview": "https://phira.5wyxi.com/files/37315bb8-b6ba-4eef-83b0-b22d2ae3c2d1",
+      "file": "https://phira.5wyxi.com/files/a8d4aaad-6928-4bb5-8cf4-261f3cc60b97",
+      "uploader": 439874,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9085131,
+      "ratingCount": 0,
+      "created": "2026-10-24T13:24:16.077637Z",
+      "updated": "2026-10-25T08:26:34.784434547Z",
+      "chartUpdated": "2026-10-24T13:24:16.077637Z"
+    },
     {
       "id": 82028,
       "name": "Beethoven Virus",
@@ -22,7 +207,7 @@
         "节奏大师",
         "regular"
       ],
-      "rating": 0.9255864,
+      "rating": 0.9282848,
       "ratingCount": 0,
       "created": "2026-10-24T14:27:30.563766Z",
       "updated": "2026-10-24T15:02:28.873052214Z",
@@ -51,7 +236,7 @@
         "黒魔",
         "regular"
       ],
-      "rating": 0.8491937,
+      "rating": 0.8805383,
       "ratingCount": 0,
       "created": "2026-10-24T14:31:30.164132Z",
       "updated": "2026-10-24T14:41:54.837482405Z",
@@ -77,7 +262,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9691612,
+      "rating": 0.96262807,
       "ratingCount": 29,
       "created": "2026-10-24T14:23:14.801344Z",
       "updated": "2026-10-24T14:34:36.781383Z",
@@ -105,37 +290,11 @@
         "洛天依",
         "regular"
       ],
-      "rating": 0.92999285,
+      "rating": 0.9264355,
       "ratingCount": 0,
       "created": "2026-10-23T07:13:34.969466Z",
       "updated": "2026-10-24T08:48:41.659002523Z",
       "chartUpdated": "2026-10-23T07:13:34.969466Z"
-    },
-    {
-      "id": 81910,
-      "name": "Jdunn's Jnnocence",
-      "level": "AT Lv.17",
-      "difficulty": 17.1,
-      "charter": "FruitForest",
-      "composer": "Powrless",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/92e09663-b3f6-4cf0-8f1c-eece5aed65bf",
-      "preview": "https://phira.5wyxi.com/files/98132f4b-9250-4bca-abb9-417af361ac41",
-      "file": "https://phira.5wyxi.com/files/d0f0f675-8e4c-4eb8-81bc-ed12f9055fee",
-      "uploader": 2119640,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8032649,
-      "ratingCount": 8,
-      "created": "2026-10-24T05:55:33.143163Z",
-      "updated": "2026-10-24T08:27:46.602212Z",
-      "chartUpdated": "2026-10-24T05:55:33.143163Z"
     },
     {
       "id": 81796,
@@ -157,7 +316,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9394288,
+      "rating": 0.93997914,
       "ratingCount": 57,
       "created": "2026-10-23T04:56:41.470986Z",
       "updated": "2026-10-23T18:58:44.109221Z",
@@ -184,7 +343,7 @@
         "明日方舟",
         "regular"
       ],
-      "rating": 0.86324036,
+      "rating": 0.8642817,
       "ratingCount": 303,
       "created": "2025-08-31T16:07:43.407164Z",
       "updated": "2026-10-23T18:57:45.928428Z",
@@ -210,7 +369,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87001026,
+      "rating": 0.8684876,
       "ratingCount": 817,
       "created": "2024-07-26T02:32:02.295533Z",
       "updated": "2026-10-23T18:57:27.151105Z",
@@ -236,7 +395,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.77127266,
+      "rating": 0.81537217,
       "ratingCount": 4,
       "created": "2026-10-17T15:25:25.536329Z",
       "updated": "2026-10-23T15:54:55.949435Z",
@@ -262,7 +421,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94483364,
+      "rating": 0.9517094,
       "ratingCount": 39,
       "created": "2026-10-23T11:44:06.371103Z",
       "updated": "2026-10-23T13:14:47.113698Z",
@@ -289,7 +448,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.90523154,
+      "rating": 0.9060533,
       "ratingCount": 20,
       "created": "2026-10-14T20:45:45.923050Z",
       "updated": "2026-10-23T08:50:53.256129Z",
@@ -315,7 +474,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8551362,
+      "rating": 0.8534155,
       "ratingCount": 36,
       "created": "2026-10-20T08:31:49.150973Z",
       "updated": "2026-10-23T02:06:03.900566Z",
@@ -341,7 +500,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92382604,
+      "rating": 0.9191415,
       "ratingCount": 126,
       "created": "2026-10-20T05:06:48.060808Z",
       "updated": "2026-10-23T02:05:49.778399Z",
@@ -369,37 +528,11 @@
         "切",
         "regular"
       ],
-      "rating": 0.8714931,
+      "rating": 0.8546815,
       "ratingCount": 13,
       "created": "2026-10-22T03:18:53.981934Z",
       "updated": "2026-10-23T02:04:18.061314Z",
       "chartUpdated": "2026-10-22T03:18:53.981934Z"
-    },
-    {
-      "id": 78223,
-      "name": "Meltovt Necrosys",
-      "level": "AT Lv.16",
-      "difficulty": 16.300001,
-      "charter": "Nyiou",
-      "composer": "Halv",
-      "illustrator": "nyanizero feat. yx",
-      "description": "七譜，上一張(70781)IN的表演寫的比較急促，這次寫了AT的同時用心寫了一次表演OwO\n\n定數：16.3\n物量：1300\nbpm：210",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7458bb12-42c7-4ee2-8932-7bb0787dbf9b",
-      "preview": "https://phira.5wyxi.com/files/e17cbda2-b705-415c-8bab-ab5e015bf797",
-      "file": "https://phira.5wyxi.com/files/c7c26ea4-a7cf-43ac-a8e4-a4a6fd730178",
-      "uploader": 439874,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88627154,
-      "ratingCount": 49,
-      "created": "2026-09-16T08:37:13.249712Z",
-      "updated": "2026-10-23T01:35:55.556201Z",
-      "chartUpdated": "2026-09-16T08:37:13.249712Z"
     },
     {
       "id": 81755,
@@ -421,7 +554,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.82588845,
+      "rating": 0.8345101,
       "ratingCount": 28,
       "created": "2026-10-22T08:06:33.357128Z",
       "updated": "2026-10-22T09:49:36.361529Z",
@@ -447,7 +580,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8222262,
+      "rating": 0.806615,
       "ratingCount": 41,
       "created": "2026-10-20T04:48:48.869985Z",
       "updated": "2026-10-21T15:27:50.973503Z",
@@ -478,7 +611,7 @@
         "初音未来",
         "regular"
       ],
-      "rating": 0.9169945,
+      "rating": 0.9173199,
       "ratingCount": 121,
       "created": "2026-10-20T07:25:10.931339Z",
       "updated": "2026-10-21T02:45:02.716139Z",
@@ -504,7 +637,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8803598,
+      "rating": 0.8795023,
       "ratingCount": 58,
       "created": "2026-10-20T09:48:05.185836Z",
       "updated": "2026-10-21T02:44:36.967394Z",
@@ -530,7 +663,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9105227,
+      "rating": 0.9158681,
       "ratingCount": 26,
       "created": "2026-10-20T15:17:34.785317Z",
       "updated": "2026-10-21T02:43:42.052115Z",
@@ -560,7 +693,7 @@
         "早見沙織",
         "regular"
       ],
-      "rating": 0.9136292,
+      "rating": 0.9141553,
       "ratingCount": 217,
       "created": "2026-10-18T05:49:38.625568Z",
       "updated": "2026-10-19T16:31:15.881116Z",
@@ -586,7 +719,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9202245,
+      "rating": 0.9228632,
       "ratingCount": 157,
       "created": "2026-10-19T05:16:29.376480Z",
       "updated": "2026-10-19T16:30:30.622212Z",
@@ -612,7 +745,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9478494,
+      "rating": 0.9496797,
       "ratingCount": 132,
       "created": "2026-10-18T06:48:43.220519Z",
       "updated": "2026-10-19T16:24:55.479504Z",
@@ -638,7 +771,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8956543,
+      "rating": 0.89684445,
       "ratingCount": 155,
       "created": "2026-10-18T20:34:56.634634Z",
       "updated": "2026-10-19T13:12:10.441750Z",
@@ -664,141 +797,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9149757,
+      "rating": 0.92200065,
       "ratingCount": 61,
       "created": "2026-04-17T04:19:08.718164Z",
       "updated": "2026-10-19T05:52:28.680371Z",
       "chartUpdated": "2026-10-19T05:52:28.680371Z"
-    },
-    {
-      "id": 80093,
-      "name": "isomorph",
-      "level": "IN  Lv.14",
-      "difficulty": 14.1,
-      "charter": "1s0ra",
-      "composer": "linear ring",
-      "illustrator": "linear ring",
-      "description": "[6thwjc参赛谱 G2 No.12]，本人亲自上传。\n         这里是あ姊喵，又来上传良谱了，这次是我自己独立创作的第四张谱子，也是耗费时间最多的一张谱子。放眼望去phi里对于换手的配置少之又少，所以本谱是用来弥补这一项的，当然我也没写太多换手要不然太难了）第一次可能有点初见建议多练练，有兴趣也可以看我的b站视频：“BV1yZbW6QE97”谢谢喵。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c538e114-f8df-479b-ac5e-535f85897d7a",
-      "preview": "https://phira.5wyxi.com/files/cb6ad84b-7337-49f4-a444-c9f1cd40e348",
-      "file": "https://phira.5wyxi.com/files/24576c42-5028-4190-97ae-a4aa4e5ce1e2",
-      "uploader": 61473,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9368958,
-      "ratingCount": 275,
-      "created": "2026-10-04T08:37:52.799880Z",
-      "updated": "2026-10-19T05:51:55.490125Z",
-      "chartUpdated": "2026-10-04T08:37:52.799880Z"
-    },
-    {
-      "id": 81379,
-      "name": "Last Dance",
-      "level": "AT Lv.16",
-      "difficulty": 16.300001,
-      "charter": "zyrf",
-      "composer": "Xomu",
-      "illustrator": "Tiv",
-      "description": "B站：@布耶尔-zyrf\n谱面预览：BV1peJB6AEUF\n旧谱预览：BV18z42197WC\n重置了一下两年前的谱子，大致思路还是当年那套\n不知道说什么，我的谱力应该止步于此了，感觉越来越无力了",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d1724a92-987e-4353-b5e4-5bf3c3065a07",
-      "preview": "https://phira.5wyxi.com/files/9d1cf039-071c-42e7-b04f-160e96bbbdeb",
-      "file": "https://phira.5wyxi.com/files/1028ee20-95d1-4fff-9200-cd4bfbd36514",
-      "uploader": 78246,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9218206,
-      "ratingCount": 201,
-      "created": "2026-10-17T14:52:36.124485Z",
-      "updated": "2026-10-18T13:28:49.475439Z",
-      "chartUpdated": "2026-10-17T14:52:36.124485Z"
-    },
-    {
-      "id": 28167,
-      "name": "DX超性能フルメタル少女",
-      "level": "SP Lv.纵连打",
-      "difficulty": 17.300001,
-      "charter": "DX超性能フルメタルtwotthrees",
-      "composer": "RoughSketch/ちよこ",
-      "illustrator": "GROOVE COASTER",
-      "description": "两天写完的，很多细节没咋打磨",
-      "ranked": false,
-      "reviewed": true,
-      "stable": true,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c272f2ab-64c9-47ed-bb35-97a36f6b4b06",
-      "preview": "https://phira.5wyxi.com/files/4344d572-7f24-4487-a44a-bd2e431cddff",
-      "file": "https://phira.5wyxi.com/files/bee748e4-08f9-4b1b-be97-2094e54dc842",
-      "uploader": 7679,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8267814,
-      "ratingCount": 4525,
-      "created": "2024-09-30T20:13:03.466067Z",
-      "updated": "2026-10-18T13:28:18.136952Z",
-      "chartUpdated": "2024-10-18T15:54:10.232263Z"
-    },
-    {
-      "id": 81569,
-      "name": "KORARARA",
-      "level": "IN Lv.15",
-      "difficulty": 15.600002,
-      "charter": "LPI",
-      "composer": "shadow_bling",
-      "illustrator": "狂想心匣 & 寂莫鸣迪jimD",
-      "description": "本人上传\n哔哩哔哩: @LPI_",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/7c8a5c25-887a-449d-b845-34f82f33dfa6",
-      "preview": "https://phira.5wyxi.com/files/fbbd8060-3421-456b-9cb3-0926c0b33b00",
-      "file": "https://phira.5wyxi.com/files/437973e8-d258-4ae1-ba79-703194af1f47",
-      "uploader": 7084,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88935095,
-      "ratingCount": 57,
-      "created": "2026-10-18T13:22:57.808622Z",
-      "updated": "2026-10-18T13:27:21.980924Z",
-      "chartUpdated": "2026-10-18T13:22:57.808622Z"
-    },
-    {
-      "id": 77806,
-      "name": "GAMER",
-      "level": "IN  Lv.15",
-      "difficulty": 15.0,
-      "charter": "是苏沐不是s马",
-      "composer": "Synth Monsters/千璃Senri/SADRECORDS",
-      "illustrator": "",
-      "description": "谱师：是苏沐不是s马\n游玩事项：\n1 phira版本务必为0.7以上，否则无法正常游玩\n2 该谱面只有在3:2这个比例才能正常游玩，使用其他比例可能会导致部分演出露馅\n3 该谱面的最佳note大小为1.0，过大或者过小也有可能导致部分演出露馅，但是不影响正常游玩\n4 考虑到游玩性，1024cb这一段为全屏判定",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/722b4492-f860-4669-bc21-c6695577904c",
-      "preview": "https://phira.5wyxi.com/files/e3cafaa7-092a-4cf2-9ad3-26ca2031072c",
-      "file": "https://phira.5wyxi.com/files/32d17e24-fb6c-4570-924f-57a82ac99da2",
-      "uploader": 1977226,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.94650525,
-      "ratingCount": 198,
-      "created": "2026-09-12T03:53:15.906014Z",
-      "updated": "2026-10-18T13:03:03.768529Z",
-      "chartUpdated": "2026-09-12T03:53:15.906014Z"
     }
   ]
 }
