@@ -1,6 +1,58 @@
 {
-  "count": 3399,
+  "count": 3400,
   "results": [
+    {
+      "id": 82247,
+      "name": "Memoria Plūviæ",
+      "level": "4K Lv.δ",
+      "difficulty": 20.0,
+      "charter": "柚_子",
+      "composer": "YistZx",
+      "illustrator": "铃暮Moor",
+      "description": "谱师本人上传，@YistZx#4371204（曲师）\n曲师让塞爆的，不过后续应该会出简单一个170切谱\n这谱质量可能不太行",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/81c98045-a371-4131-ab2a-a8896098e1aa",
+      "preview": "https://phira.5wyxi.com/files/014757be-5ad9-457f-b220-c6011c04a361",
+      "file": "https://phira.5wyxi.com/files/40cc1d08-0597-4a9f-963c-fee9eaaa0c0c",
+      "uploader": 4331640,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-10-26T12:28:32.759178Z",
+      "updated": "2026-10-26T15:43:48.591512427Z",
+      "chartUpdated": "2026-10-26T12:28:32.759178Z"
+    },
+    {
+      "id": 82162,
+      "name": "with u",
+      "level": "4K Lv.34",
+      "difficulty": 34.0,
+      "charter": "shaowu2023",
+      "composer": "ZXNITH",
+      "illustrator": "UK",
+      "description": "谱师本人上传，@phira世一涩#4331547（叠叠）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/636d0f3b-5162-402c-a708-bb2d9d404dd3",
+      "preview": "https://phira.5wyxi.com/files/a4255ea5-b0eb-4435-bd3a-bd63a310fd3e",
+      "file": "https://phira.5wyxi.com/files/a822b7f6-f912-41e5-8c6a-2166d0ac49fc",
+      "uploader": 1597616,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.86973715,
+      "ratingCount": 3,
+      "created": "2026-10-25T10:11:55.004305Z",
+      "updated": "2026-10-26T09:28:23.359250Z",
+      "chartUpdated": "2026-10-25T10:11:55.004305Z"
+    },
     {
       "id": 82158,
       "name": "SAY BAY",
@@ -26,10 +78,10 @@
         "6",
         "plain"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 0,
+      "rating": 0.84718174,
+      "ratingCount": 2,
       "created": "2026-10-25T09:46:15.921253Z",
-      "updated": "2026-10-25T17:16:09.096036622Z",
+      "updated": "2026-10-25T17:16:09.096036Z",
       "chartUpdated": "2026-10-25T09:46:15.921253Z"
     },
     {
@@ -56,10 +108,10 @@
         "段位",
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 0,
+      "rating": 0.9111526,
+      "ratingCount": 6,
       "created": "2026-10-25T09:46:36.818423Z",
-      "updated": "2026-10-25T16:37:09.769918259Z",
+      "updated": "2026-10-25T16:37:09.769918Z",
       "chartUpdated": "2026-10-25T09:46:36.818423Z"
     },
     {
@@ -87,10 +139,10 @@
         "6",
         "plain"
       ],
-      "rating": 0.7803841,
-      "ratingCount": 0,
+      "rating": 0.87957054,
+      "ratingCount": 4,
       "created": "2026-10-25T09:45:57.957650Z",
-      "updated": "2026-10-25T16:34:38.875881759Z",
+      "updated": "2026-10-25T16:34:38.875881Z",
       "chartUpdated": "2026-10-25T09:45:57.957650Z"
     },
     {
@@ -118,10 +170,10 @@
         "6",
         "plain"
       ],
-      "rating": 0.7482895,
-      "ratingCount": 0,
+      "rating": 0.93201166,
+      "ratingCount": 5,
       "created": "2026-10-25T09:45:43.212266Z",
-      "updated": "2026-10-25T16:08:21.767298182Z",
+      "updated": "2026-10-25T16:08:21.767298Z",
       "chartUpdated": "2026-10-25T09:45:43.212266Z"
     },
     {
@@ -149,10 +201,10 @@
         "6",
         "plain"
       ],
-      "rating": null,
-      "ratingCount": 0,
+      "rating": 0.7228104,
+      "ratingCount": 1,
       "created": "2026-10-25T09:45:19.291865Z",
-      "updated": "2026-10-25T16:08:14.922494117Z",
+      "updated": "2026-10-25T16:08:14.922494Z",
       "chartUpdated": "2026-10-25T09:45:19.291865Z"
     },
     {
@@ -175,10 +227,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8318756,
-      "ratingCount": 0,
+      "rating": 0.9075862,
+      "ratingCount": 10,
       "created": "2026-10-25T11:50:19.571416Z",
-      "updated": "2026-10-25T14:53:14.537672898Z",
+      "updated": "2026-10-25T14:53:14.537672Z",
       "chartUpdated": "2026-10-25T11:50:19.571416Z"
     },
     {
@@ -204,11 +256,11 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9130671,
-      "ratingCount": 77,
+      "rating": 0.9129308,
+      "ratingCount": 83,
       "created": "2025-06-18T16:29:03.429178Z",
-      "updated": "2026-10-25T09:05:02.013648140Z",
-      "chartUpdated": "2026-10-25T09:05:02.013648140Z"
+      "updated": "2026-10-25T09:05:02.013648Z",
+      "chartUpdated": "2026-10-25T09:05:02.013648Z"
     },
     {
       "id": 80013,
@@ -230,8 +282,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8331975,
-      "ratingCount": 17,
+      "rating": 0.84550047,
+      "ratingCount": 35,
       "created": "2026-10-03T15:37:01.424133Z",
       "updated": "2026-10-22T05:29:55.306120Z",
       "chartUpdated": "2026-10-03T15:37:01.424133Z"
@@ -256,8 +308,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8059201,
-      "ratingCount": 245,
+      "rating": 0.8072215,
+      "ratingCount": 486,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
       "chartUpdated": "2026-10-21T23:21:22.538921Z"
@@ -282,8 +334,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9474329,
-      "ratingCount": 37,
+      "rating": 0.9514088,
+      "ratingCount": 46,
       "created": "2026-09-04T10:12:47.673661Z",
       "updated": "2026-10-20T11:54:41.939363Z",
       "chartUpdated": "2026-09-04T10:12:47.673661Z"
@@ -313,7 +365,7 @@
         "plain"
       ],
       "rating": 0.8257282,
-      "ratingCount": 2,
+      "ratingCount": 4,
       "created": "2026-10-18T06:27:35.521465Z",
       "updated": "2026-10-18T09:45:20.667075Z",
       "chartUpdated": "2026-10-18T06:27:35.521465Z"
@@ -342,8 +394,8 @@
         "段位",
         "plain"
       ],
-      "rating": 0.94361037,
-      "ratingCount": 93,
+      "rating": 0.94586855,
+      "ratingCount": 145,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
       "chartUpdated": "2026-10-18T06:14:51.424880Z"
@@ -373,8 +425,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.91544974,
-      "ratingCount": 51,
+      "rating": 0.91666716,
+      "ratingCount": 65,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
       "chartUpdated": "2026-10-18T06:14:32.903649Z"
@@ -404,8 +456,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.93634075,
-      "ratingCount": 111,
+      "rating": 0.93485355,
+      "ratingCount": 142,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
       "chartUpdated": "2026-10-18T06:14:23.753631Z"
@@ -434,8 +486,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.91128916,
-      "ratingCount": 99,
+      "rating": 0.91476434,
+      "ratingCount": 140,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
       "chartUpdated": "2026-10-18T06:14:07.629900Z"
@@ -465,8 +517,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.874946,
-      "ratingCount": 12,
+      "rating": 0.88005424,
+      "ratingCount": 19,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
       "chartUpdated": "2026-10-18T06:12:43.591909Z"
@@ -491,8 +543,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9384785,
-      "ratingCount": 224,
+      "rating": 0.9408741,
+      "ratingCount": 324,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
       "chartUpdated": "2026-10-17T17:41:14.628970Z"
@@ -518,8 +570,8 @@
         "CrFt",
         "plain"
       ],
-      "rating": 0.8783836,
-      "ratingCount": 27,
+      "rating": 0.8689401,
+      "ratingCount": 28,
       "created": "2026-10-17T15:58:37.646211Z",
       "updated": "2026-10-17T16:01:45.125064Z",
       "chartUpdated": "2026-10-17T15:58:37.646211Z"
@@ -544,8 +596,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92667687,
-      "ratingCount": 399,
+      "rating": 0.92807955,
+      "ratingCount": 523,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
       "chartUpdated": "2026-10-17T15:22:47.377627Z"
@@ -597,8 +649,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9158176,
-      "ratingCount": 539,
+      "rating": 0.9165116,
+      "ratingCount": 648,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
       "chartUpdated": "2026-10-16T13:31:27.269193Z"
@@ -623,8 +675,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91271234,
-      "ratingCount": 89,
+      "rating": 0.90720075,
+      "ratingCount": 99,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
       "chartUpdated": "2026-10-16T10:12:18.087108Z"
@@ -710,8 +762,8 @@
         "tech",
         "plain"
       ],
-      "rating": 0.8574185,
-      "ratingCount": 10,
+      "rating": 0.8658433,
+      "ratingCount": 11,
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901Z",
       "chartUpdated": "2026-10-04T21:00:55.014742Z"
@@ -738,7 +790,7 @@
         "plain"
       ],
       "rating": 0.8439552,
-      "ratingCount": 7,
+      "ratingCount": 9,
       "created": "2026-10-06T15:04:26.791669Z",
       "updated": "2026-10-15T00:24:32.120021Z",
       "chartUpdated": "2026-10-06T15:04:26.791669Z"
@@ -789,67 +841,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88907886,
-      "ratingCount": 25,
+      "rating": 0.8926202,
+      "ratingCount": 30,
       "created": "2026-01-20T08:39:01.895497Z",
       "updated": "2026-10-15T00:18:38.595190Z",
       "chartUpdated": "2026-01-20T08:39:01.895497Z"
-    },
-    {
-      "id": 51216,
-      "name": "Redloossia",
-      "level": "4k Lv.23",
-      "difficulty": 17.2,
-      "charter": "yayayadesi",
-      "composer": "打打だいず",
-      "illustrator": "",
-      "description": "超级速写!!!!!!",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4bf8485e-f370-415e-9105-44f01f21cc2d",
-      "preview": "https://phira.5wyxi.com/files/5ade3136-21f5-4e13-923d-6b4cbcc18496",
-      "file": "https://phira.5wyxi.com/files/534fbce0-6853-432e-981b-01f1687104d4",
-      "uploader": 23788,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.88102114,
-      "ratingCount": 40,
-      "created": "2026-01-13T05:55:30.098831Z",
-      "updated": "2026-10-15T00:15:52.670008Z",
-      "chartUpdated": "2026-01-13T05:55:30.098831Z"
-    },
-    {
-      "id": 51194,
-      "name": "Synthesis.",
-      "level": "AT Lv.15",
-      "difficulty": 15.9,
-      "charter": "No_Rthblue",
-      "composer": "tn-shi",
-      "illustrator": "",
-      "description": "谱师本人上传，写给澜枫练各种交互以及提升底力耐力稳定力用的",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e4e48379-d4a1-409b-a0e9-ac5698d62d8e",
-      "preview": "https://phira.5wyxi.com/files/f156263c-16ed-4073-9a8f-35dc96e1b896",
-      "file": "https://phira.5wyxi.com/files/758c742b-960e-4c9c-b29f-fa0e1e865171",
-      "uploader": 471126,
-      "tags": [
-        "手法",
-        "at15",
-        "底难",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.863176,
-      "ratingCount": 19,
-      "created": "2026-01-11T17:08:58.493443Z",
-      "updated": "2026-10-15T00:15:37.708497Z",
-      "chartUpdated": "2026-01-11T17:08:58.493443Z"
     }
   ]
 }
