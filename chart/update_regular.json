@@ -1,6 +1,84 @@
 {
-  "count": 9748,
+  "count": 9750,
   "results": [
+    {
+      "id": 80988,
+      "name": "Anybody Know",
+      "level": "IN Lv.15",
+      "difficulty": 15.1,
+      "charter": "洛笺天华",
+      "composer": "Nao",
+      "illustrator": "",
+      "description": "新人第四张自制谱面!做谱期间发现了新判定线玩法!\n那就请各位自己在谱面中探索啦!祝各位玩的愉快!\n曲目：Anybody Know\n曲师：Nao\n谱师：洛笺天华（我）\n如果要发屏元或手元@我，谢谢大家配合！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/089e51ba-f30c-485a-b1f4-452ff46e5ad9",
+      "preview": "https://phira.5wyxi.com/files/f5d4a410-8e5f-47ea-97ef-d847b1a4fb8c",
+      "file": "https://phira.5wyxi.com/files/0bddf0d3-e388-4960-b687-7746d4c252f2",
+      "uploader": 98512,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8962535,
+      "ratingCount": 0,
+      "created": "2026-10-13T10:18:46.250243Z",
+      "updated": "2026-10-27T16:41:58.569438245Z",
+      "chartUpdated": "2026-10-13T10:18:46.250243Z"
+    },
+    {
+      "id": 82337,
+      "name": "神鳴",
+      "level": "AT Lv.18",
+      "difficulty": 18.600002,
+      "charter": "hu_zrua",
+      "composer": "光吉猛修",
+      "illustrator": "",
+      "description": "本人第一个常规谱，比较粗略，谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6aec29e0-36d8-405c-bbf2-44e1cc5a92c2",
+      "preview": "https://phira.5wyxi.com/files/bab31998-739b-41af-aaba-1b96446abe8d",
+      "file": "https://phira.5wyxi.com/files/42fca7a0-2b48-416a-a3ba-665651662532",
+      "uploader": 202494,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.7699225,
+      "ratingCount": 0,
+      "created": "2026-10-27T14:02:52.139712Z",
+      "updated": "2026-10-27T15:12:14.320230817Z",
+      "chartUpdated": "2026-10-27T14:02:52.139712Z"
+    },
+    {
+      "id": 77868,
+      "name": "Velocity",
+      "level": "IN Lv.15",
+      "difficulty": 15.200001,
+      "charter": "VVC21",
+      "composer": "Alex Skrindo&Spektrel",
+      "illustrator": "",
+      "description": "曲名：Velocity\n曲师：Alex skrindo&Spektrel\n曲绘：Alex skrindo&Spektrel\nBPM：128\n定数：15.2\n物量：1500\n线数：40\n*未使用fake note\n此为本人谱师VVC21第三张谱，视频已发B站和抖音\nB站@VVC21网管\n抖音@网管\n因为BPM不是很高写不了太难，所以写得偏手法和协调，尾杀稍微需要底力，游玩时记得灵活运用垂直判定喔～\n\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/2866748f-38fe-4e3d-ae8e-fb56e5910ddf",
+      "preview": "https://phira.5wyxi.com/files/c7448570-b6e4-4262-9c8e-a8c1d28a8cb5",
+      "file": "https://phira.5wyxi.com/files/a1d265ac-fdf3-4ac7-8b2a-5840b8aa98b7",
+      "uploader": 1066906,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8858358,
+      "ratingCount": 0,
+      "created": "2026-09-12T09:19:22.673635Z",
+      "updated": "2026-10-27T10:21:56.481969522Z",
+      "chartUpdated": "2026-09-12T09:19:22.673635Z"
+    },
     {
       "id": 82003,
       "name": "Star Fall in Evernight City",
@@ -21,10 +99,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.830616,
-      "ratingCount": 0,
+      "rating": 0.8770722,
+      "ratingCount": 8,
       "created": "2026-10-24T13:20:51.442580Z",
-      "updated": "2026-10-27T00:39:20.546553216Z",
+      "updated": "2026-10-27T00:39:20.546553Z",
       "chartUpdated": "2026-10-24T13:20:51.442580Z"
     },
     {
@@ -48,10 +126,10 @@
         "双指",
         "regular"
       ],
-      "rating": 0.87991786,
-      "ratingCount": 0,
+      "rating": 0.9509008,
+      "ratingCount": 11,
       "created": "2026-10-24T13:52:19.087948Z",
-      "updated": "2026-10-27T00:39:06.808437370Z",
+      "updated": "2026-10-27T00:39:06.808437Z",
       "chartUpdated": "2026-10-24T13:52:19.087948Z"
     },
     {
@@ -74,10 +152,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7702763,
-      "ratingCount": 0,
+      "rating": 0.80888766,
+      "ratingCount": 4,
       "created": "2026-10-25T05:05:25.595093Z",
-      "updated": "2026-10-27T00:38:30.854594693Z",
+      "updated": "2026-10-27T00:38:30.854594Z",
       "chartUpdated": "2026-10-25T05:05:25.595093Z"
     },
     {
@@ -100,10 +178,10 @@
       "tags": [
         "regular"
       ],
-      "rating": null,
+      "rating": 0.8210426,
       "ratingCount": 0,
       "created": "2026-10-26T09:53:13.616324Z",
-      "updated": "2026-10-27T00:37:43.692813784Z",
+      "updated": "2026-10-27T00:37:43.692813Z",
       "chartUpdated": "2026-10-26T09:53:13.616324Z"
     },
     {
@@ -126,10 +204,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.840337,
-      "ratingCount": 0,
+      "rating": 0.9215253,
+      "ratingCount": 6,
       "created": "2026-10-26T04:40:38.039532Z",
-      "updated": "2026-10-27T00:31:17.390956553Z",
+      "updated": "2026-10-27T00:31:17.390956Z",
       "chartUpdated": "2026-10-26T04:40:38.039532Z"
     },
     {
@@ -152,8 +230,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8348478,
-      "ratingCount": 2,
+      "rating": 0.812942,
+      "ratingCount": 11,
       "created": "2026-10-26T02:25:18.887574Z",
       "updated": "2026-10-26T14:43:57.881607Z",
       "chartUpdated": "2026-10-26T02:25:18.887574Z"
@@ -181,10 +259,10 @@
         "高难",
         "regular"
       ],
-      "rating": 0.8367229,
-      "ratingCount": 0,
+      "rating": 0.8386158,
+      "ratingCount": 13,
       "created": "2026-10-26T07:51:23.382168Z",
-      "updated": "2026-10-26T13:14:47.110794979Z",
+      "updated": "2026-10-26T13:14:47.110794Z",
       "chartUpdated": "2026-10-26T07:51:23.382168Z"
     },
     {
@@ -207,8 +285,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9364367,
-      "ratingCount": 204,
+      "rating": 0.9336931,
+      "ratingCount": 235,
       "created": "2026-10-12T03:26:57.123438Z",
       "updated": "2026-10-25T09:51:16.140216Z",
       "chartUpdated": "2026-10-12T03:26:57.123438Z"
@@ -233,8 +311,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8974405,
-      "ratingCount": 119,
+      "rating": 0.8910399,
+      "ratingCount": 134,
       "created": "2026-09-16T08:37:13.249712Z",
       "updated": "2026-10-25T09:51:04.220952Z",
       "chartUpdated": "2026-10-25T09:51:04.220952Z"
@@ -262,8 +340,8 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.91481966,
-      "ratingCount": 117,
+      "rating": 0.9139023,
+      "ratingCount": 125,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-25T09:50:48.972707Z",
       "chartUpdated": "2026-07-26T08:50:11.153552Z"
@@ -288,8 +366,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9359578,
-      "ratingCount": 327,
+      "rating": 0.93028784,
+      "ratingCount": 481,
       "created": "2026-10-25T09:04:49.819995Z",
       "updated": "2026-10-25T09:07:17.086453Z",
       "chartUpdated": "2026-10-25T09:04:49.819995Z"
@@ -314,8 +392,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9224204,
-      "ratingCount": 488,
+      "rating": 0.9227483,
+      "ratingCount": 497,
       "created": "2026-02-24T05:38:25.558797Z",
       "updated": "2026-10-25T09:02:52.851269Z",
       "chartUpdated": "2026-10-25T09:02:52.851269Z"
@@ -340,8 +418,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90987486,
-      "ratingCount": 447,
+      "rating": 0.90919214,
+      "ratingCount": 457,
       "created": "2026-09-19T08:57:18.442024Z",
       "updated": "2026-10-25T08:32:14.200716Z",
       "chartUpdated": "2026-10-25T08:32:14.200716Z"
@@ -366,8 +444,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91832584,
-      "ratingCount": 32,
+      "rating": 0.91355413,
+      "ratingCount": 42,
       "created": "2026-10-24T13:24:16.077637Z",
       "updated": "2026-10-25T08:26:34.784434Z",
       "chartUpdated": "2026-10-24T13:24:16.077637Z"
@@ -393,8 +471,8 @@
         "节奏大师",
         "regular"
       ],
-      "rating": 0.92621577,
-      "ratingCount": 435,
+      "rating": 0.923393,
+      "ratingCount": 490,
       "created": "2026-10-24T14:27:30.563766Z",
       "updated": "2026-10-24T15:02:28.873052Z",
       "chartUpdated": "2026-10-24T14:27:30.563766Z"
@@ -422,8 +500,8 @@
         "黒魔",
         "regular"
       ],
-      "rating": 0.8632535,
-      "ratingCount": 85,
+      "rating": 0.86913973,
+      "ratingCount": 95,
       "created": "2026-10-24T14:31:30.164132Z",
       "updated": "2026-10-24T14:41:54.837482Z",
       "chartUpdated": "2026-10-24T14:31:30.164132Z"
@@ -448,8 +526,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.96343577,
-      "ratingCount": 119,
+      "rating": 0.96240747,
+      "ratingCount": 135,
       "created": "2026-10-24T14:23:14.801344Z",
       "updated": "2026-10-24T14:34:36.781383Z",
       "chartUpdated": "2026-10-24T14:23:14.801344Z"
@@ -476,8 +554,8 @@
         "洛天依",
         "regular"
       ],
-      "rating": 0.9278414,
-      "ratingCount": 670,
+      "rating": 0.9304288,
+      "ratingCount": 740,
       "created": "2026-10-23T07:13:34.969466Z",
       "updated": "2026-10-24T08:48:41.659002Z",
       "chartUpdated": "2026-10-23T07:13:34.969466Z"
@@ -502,8 +580,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.942227,
-      "ratingCount": 206,
+      "rating": 0.94225204,
+      "ratingCount": 232,
       "created": "2026-10-23T04:56:41.470986Z",
       "updated": "2026-10-23T18:58:44.109221Z",
       "chartUpdated": "2026-10-23T04:56:41.470986Z"
@@ -529,8 +607,8 @@
         "明日方舟",
         "regular"
       ],
-      "rating": 0.86590314,
-      "ratingCount": 347,
+      "rating": 0.8667848,
+      "ratingCount": 352,
       "created": "2025-08-31T16:07:43.407164Z",
       "updated": "2026-10-23T18:57:45.928428Z",
       "chartUpdated": "2025-08-31T16:07:43.407164Z"
@@ -555,8 +633,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86927557,
-      "ratingCount": 861,
+      "rating": 0.8670558,
+      "ratingCount": 864,
       "created": "2024-07-26T02:32:02.295533Z",
       "updated": "2026-10-23T18:57:27.151105Z",
       "chartUpdated": "2024-07-26T02:32:02.295533Z"
@@ -607,8 +685,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9561228,
-      "ratingCount": 107,
+      "rating": 0.9572434,
+      "ratingCount": 117,
       "created": "2026-10-23T11:44:06.371103Z",
       "updated": "2026-10-23T13:14:47.113698Z",
       "chartUpdated": "2026-10-23T11:44:06.371103Z"
@@ -634,8 +712,8 @@
         "高难",
         "regular"
       ],
-      "rating": 0.90768635,
-      "ratingCount": 58,
+      "rating": 0.9115599,
+      "ratingCount": 60,
       "created": "2026-10-14T20:45:45.923050Z",
       "updated": "2026-10-23T08:50:53.256129Z",
       "chartUpdated": "2026-10-14T20:45:45.923050Z"
@@ -660,8 +738,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8642492,
-      "ratingCount": 92,
+      "rating": 0.8647551,
+      "ratingCount": 97,
       "created": "2026-10-20T08:31:49.150973Z",
       "updated": "2026-10-23T02:06:03.900566Z",
       "chartUpdated": "2026-10-20T08:31:49.150973Z"
@@ -686,8 +764,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9190532,
-      "ratingCount": 250,
+      "rating": 0.9206067,
+      "ratingCount": 262,
       "created": "2026-10-20T05:06:48.060808Z",
       "updated": "2026-10-23T02:05:49.778399Z",
       "chartUpdated": "2026-10-20T05:06:48.060808Z"
@@ -714,94 +792,11 @@
         "切",
         "regular"
       ],
-      "rating": 0.8557441,
-      "ratingCount": 53,
+      "rating": 0.8572634,
+      "ratingCount": 60,
       "created": "2026-10-22T03:18:53.981934Z",
       "updated": "2026-10-23T02:04:18.061314Z",
       "chartUpdated": "2026-10-22T03:18:53.981934Z"
-    },
-    {
-      "id": 81755,
-      "name": "O“Citrus Chirping in Summer",
-      "level": "AT",
-      "difficulty": 17.200006,
-      "charter": "一颗橘子",
-      "composer": "DJ THINAL",
-      "illustrator": "",
-      "description": "新人二谱，也是第一张多指谱，同时练习了简易的特效\nB站ID：福橘溪庠",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/90350401-5538-4e80-84bc-4a5f8bfed8ad",
-      "preview": "https://phira.5wyxi.com/files/19ce3164-50c2-48b6-84b3-43a7adc8af81",
-      "file": "https://phira.5wyxi.com/files/981025d3-5f6f-4558-975c-497ffa2d8319",
-      "uploader": 2426726,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.82423073,
-      "ratingCount": 38,
-      "created": "2026-10-22T08:06:33.357128Z",
-      "updated": "2026-10-22T09:49:36.361529Z",
-      "chartUpdated": "2026-10-22T08:06:33.357128Z"
-    },
-    {
-      "id": 81647,
-      "name": "About The Universe",
-      "level": "AT Lv.17",
-      "difficulty": 17.2,
-      "charter": "Gracie Nova ~ XNSaien ~",
-      "composer": "SOTUI & MIssionary",
-      "illustrator": "Uk",
-      "description": "本人上传\nB站@小恩Saien#790466",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/1c1af630-f7ca-4457-b640-5f6dfd3d9b3f",
-      "preview": "https://phira.5wyxi.com/files/4e6f2811-4782-4e93-927d-9138f51402f0",
-      "file": "https://phira.5wyxi.com/files/ea2a6d6b-ccdf-4776-8be8-1d4babc39faf",
-      "uploader": 790466,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.81236815,
-      "ratingCount": 60,
-      "created": "2026-10-20T04:48:48.869985Z",
-      "updated": "2026-10-21T15:27:50.973503Z",
-      "chartUpdated": "2026-10-20T04:48:48.869985Z"
-    },
-    {
-      "id": 81658,
-      "name": "テオ",
-      "level": "IN Lv.16",
-      "difficulty": 16.400002,
-      "charter": "HYSRと申します。不屈の歌です。",
-      "composer": "Omoi ft. 初音ミク & 星乃一歌",
-      "illustrator": "Omoi",
-      "description": "本人（@HavaYouSeenRoger）投稿，BV1ojJd6qEhL\n如果觉得不错不妨来b站支持一下！",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/09461c29-20ff-426c-bb26-336479f12fbe",
-      "preview": "https://phira.5wyxi.com/files/4213d265-fedc-46ef-90f2-8ce8b96b9d5e",
-      "file": "https://phira.5wyxi.com/files/aace37e7-5239-4c58-ab5b-a252a976f95b",
-      "uploader": 1748,
-      "tags": [
-        "Omoi",
-        "teo",
-        "将手",
-        "pjsk",
-        "初音未来",
-        "regular"
-      ],
-      "rating": 0.91596943,
-      "ratingCount": 157,
-      "created": "2026-10-20T07:25:10.931339Z",
-      "updated": "2026-10-21T02:45:02.716139Z",
-      "chartUpdated": "2026-10-20T07:25:10.931339Z"
     }
   ]
 }
