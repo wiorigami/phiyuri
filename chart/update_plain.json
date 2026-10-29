@@ -1,6 +1,38 @@
 {
-  "count": 3401,
+  "count": 3400,
   "results": [
+    {
+      "id": 82335,
+      "name": "Der Wald（Kors k remix）",
+      "level": "Speed Lv.16+",
+      "difficulty": 17.000004,
+      "charter": "DFC_TEAM",
+      "composer": "Kros K",
+      "illustrator": "UK",
+      "description": "谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/eef670f8-67fc-4d2e-b09e-536c942871d1",
+      "preview": "https://phira.5wyxi.com/files/22063f82-d6ad-467e-9154-be1b31b69816",
+      "file": "https://phira.5wyxi.com/files/82b886ab-a496-404d-82b5-249be2bdb406",
+      "uploader": 737822,
+      "tags": [
+        "DFC",
+        "双指",
+        "高难",
+        "乱",
+        "Zeta",
+        "Tea",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-10-27T13:22:53.598130Z",
+      "updated": "2026-10-28T11:18:59.092312971Z",
+      "chartUpdated": "2026-10-27T13:22:53.598130Z"
+    },
     {
       "id": 82303,
       "name": "朧月夜",
@@ -21,7 +53,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86196613,
+      "rating": 0.89157856,
       "ratingCount": 0,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -47,7 +79,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9057051,
+      "rating": 0.90832114,
       "ratingCount": 0,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328755Z",
@@ -99,7 +131,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84515357,
+      "rating": 0.8452536,
       "ratingCount": 24,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -130,7 +162,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.8620138,
+      "rating": 0.8807876,
       "ratingCount": 7,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -160,7 +192,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.92200714,
+      "rating": 0.93377686,
       "ratingCount": 19,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -191,7 +223,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9264215,
+      "rating": 0.94034666,
       "ratingCount": 15,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -222,7 +254,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.93234736,
+      "rating": 0.9174464,
       "ratingCount": 94,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
@@ -253,7 +285,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.78085446,
+      "rating": 0.84653085,
       "ratingCount": 2,
       "created": "2026-10-25T09:45:19.291865Z",
       "updated": "2026-10-25T16:08:14.922494Z",
@@ -279,7 +311,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9090015,
+      "rating": 0.9131297,
       "ratingCount": 19,
       "created": "2026-10-25T11:50:19.571416Z",
       "updated": "2026-10-25T14:53:14.537672Z",
@@ -308,7 +340,7 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9129308,
+      "rating": 0.9139093,
       "ratingCount": 85,
       "created": "2025-06-18T16:29:03.429178Z",
       "updated": "2026-10-25T09:05:02.013648Z",
@@ -360,7 +392,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80717194,
+      "rating": 0.80565006,
       "ratingCount": 503,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
@@ -446,7 +478,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9472762,
+      "rating": 0.9468941,
       "ratingCount": 148,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
@@ -477,7 +509,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.92120606,
+      "rating": 0.9232953,
       "ratingCount": 66,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
@@ -508,7 +540,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.93226147,
+      "rating": 0.9300234,
       "ratingCount": 149,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
@@ -538,7 +570,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9117974,
+      "rating": 0.9094587,
       "ratingCount": 147,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
@@ -569,7 +601,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.88005424,
+      "rating": 0.8854641,
       "ratingCount": 20,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
@@ -595,7 +627,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.941734,
+      "rating": 0.94135934,
       "ratingCount": 341,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
@@ -648,7 +680,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92730826,
+      "rating": 0.92682153,
       "ratingCount": 547,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
@@ -701,7 +733,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.91802,
+      "rating": 0.9194775,
       "ratingCount": 666,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
@@ -727,7 +759,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9062284,
+      "rating": 0.90714085,
       "ratingCount": 99,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
@@ -786,7 +818,7 @@
         "速划",
         "plain"
       ],
-      "rating": 0.86983716,
+      "rating": 0.8779753,
       "ratingCount": 10,
       "created": "2026-10-01T16:08:41.690863Z",
       "updated": "2026-10-15T08:04:10.369574Z",
@@ -819,33 +851,6 @@
       "created": "2026-10-04T21:00:55.014742Z",
       "updated": "2026-10-15T00:25:30.172901Z",
       "chartUpdated": "2026-10-04T21:00:55.014742Z"
-    },
-    {
-      "id": 80457,
-      "name": "恩赦",
-      "level": "IN Lv.14",
-      "difficulty": 14.0,
-      "charter": "BaDu1NwN",
-      "composer": "张福正 马正阳",
-      "illustrator": "UK",
-      "description": "本人上传\n你好 我是BaDu1NwN",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a5830ac0-a8a2-431b-873a-d2c1d854d739",
-      "preview": "https://phira.5wyxi.com/files/8ba72dac-356c-437c-a7d8-44c7edef53bd",
-      "file": "https://phira.5wyxi.com/files/3614c71c-043f-43f4-8c33-01921ace076c",
-      "uploader": 4248823,
-      "tags": [
-        "人鱼陷落",
-        "plain"
-      ],
-      "rating": 0.8439552,
-      "ratingCount": 9,
-      "created": "2026-10-06T15:04:26.791669Z",
-      "updated": "2026-10-15T00:24:32.120021Z",
-      "chartUpdated": "2026-10-06T15:04:26.791669Z"
     }
   ]
 }
