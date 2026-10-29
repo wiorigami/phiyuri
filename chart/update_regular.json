@@ -2,6 +2,32 @@
   "count": 9750,
   "results": [
     {
+      "id": 81993,
+      "name": "心跳叮叮咚",
+      "level": "IN Lv.14",
+      "difficulty": 14.1,
+      "charter": "无线玛力",
+      "composer": "iKz / Warma",
+      "illustrator": "偶尤OYO",
+      "description": null,
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/6edff62c-bc10-4964-907d-03c18b4a0299",
+      "preview": "https://phira.5wyxi.com/files/d5a758b3-7ad0-46a1-ac06-92134b2bb066",
+      "file": "https://phira.5wyxi.com/files/054a5d27-0d7e-46be-83ca-75b0847baa6e",
+      "uploader": 91744,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8967231,
+      "ratingCount": 1,
+      "created": "2026-10-24T12:26:48.875671Z",
+      "updated": "2026-10-28T11:45:03.370842Z",
+      "chartUpdated": "2026-10-24T12:26:48.875671Z"
+    },
+    {
       "id": 80988,
       "name": "Anybody Know",
       "level": "IN Lv.15",
@@ -21,7 +47,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8962535,
+      "rating": 0.92605,
       "ratingCount": 0,
       "created": "2026-10-13T10:18:46.250243Z",
       "updated": "2026-10-27T16:41:58.569438245Z",
@@ -47,7 +73,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7699225,
+      "rating": 0.7652227,
       "ratingCount": 0,
       "created": "2026-10-27T14:02:52.139712Z",
       "updated": "2026-10-27T15:12:14.320230817Z",
@@ -73,7 +99,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8858358,
+      "rating": 0.9075141,
       "ratingCount": 0,
       "created": "2026-09-12T09:19:22.673635Z",
       "updated": "2026-10-27T10:21:56.481969522Z",
@@ -99,7 +125,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8770722,
+      "rating": 0.87622994,
       "ratingCount": 8,
       "created": "2026-10-24T13:20:51.442580Z",
       "updated": "2026-10-27T00:39:20.546553Z",
@@ -126,8 +152,8 @@
         "双指",
         "regular"
       ],
-      "rating": 0.9509008,
-      "ratingCount": 11,
+      "rating": 0.9503716,
+      "ratingCount": 120,
       "created": "2026-10-24T13:52:19.087948Z",
       "updated": "2026-10-27T00:39:06.808437Z",
       "chartUpdated": "2026-10-24T13:52:19.087948Z"
@@ -152,7 +178,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.80888766,
+      "rating": 0.7952023,
       "ratingCount": 4,
       "created": "2026-10-25T05:05:25.595093Z",
       "updated": "2026-10-27T00:38:30.854594Z",
@@ -168,9 +194,9 @@
       "illustrator": "うてなゆき (ネムレス)",
       "description": null,
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/7c127868-12f4-4bd6-9a4f-49070c0ecef7",
       "preview": "https://phira.5wyxi.com/files/a215f617-3c79-4031-b8ae-9d9e01651feb",
       "file": "https://phira.5wyxi.com/files/fd751ff7-0597-45d6-af2c-3b32464c21c2",
@@ -178,8 +204,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8210426,
-      "ratingCount": 0,
+      "rating": 0.87007594,
+      "ratingCount": 17,
       "created": "2026-10-26T09:53:13.616324Z",
       "updated": "2026-10-27T00:37:43.692813Z",
       "chartUpdated": "2026-10-26T09:53:13.616324Z"
@@ -204,7 +230,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9215253,
+      "rating": 0.92098033,
       "ratingCount": 6,
       "created": "2026-10-26T04:40:38.039532Z",
       "updated": "2026-10-27T00:31:17.390956Z",
@@ -230,7 +256,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.812942,
+      "rating": 0.8342257,
       "ratingCount": 11,
       "created": "2026-10-26T02:25:18.887574Z",
       "updated": "2026-10-26T14:43:57.881607Z",
@@ -259,7 +285,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.8386158,
+      "rating": 0.8212688,
       "ratingCount": 13,
       "created": "2026-10-26T07:51:23.382168Z",
       "updated": "2026-10-26T13:14:47.110794Z",
@@ -285,7 +311,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9336931,
+      "rating": 0.9340548,
       "ratingCount": 235,
       "created": "2026-10-12T03:26:57.123438Z",
       "updated": "2026-10-25T09:51:16.140216Z",
@@ -311,7 +337,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8910399,
+      "rating": 0.89248526,
       "ratingCount": 134,
       "created": "2026-09-16T08:37:13.249712Z",
       "updated": "2026-10-25T09:51:04.220952Z",
@@ -340,7 +366,7 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.9139023,
+      "rating": 0.9150251,
       "ratingCount": 125,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-25T09:50:48.972707Z",
@@ -366,7 +392,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93028784,
+      "rating": 0.9308701,
       "ratingCount": 481,
       "created": "2026-10-25T09:04:49.819995Z",
       "updated": "2026-10-25T09:07:17.086453Z",
@@ -392,7 +418,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9227483,
+      "rating": 0.9227018,
       "ratingCount": 497,
       "created": "2026-02-24T05:38:25.558797Z",
       "updated": "2026-10-25T09:02:52.851269Z",
@@ -418,7 +444,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90919214,
+      "rating": 0.90930736,
       "ratingCount": 457,
       "created": "2026-09-19T08:57:18.442024Z",
       "updated": "2026-10-25T08:32:14.200716Z",
@@ -444,7 +470,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91355413,
+      "rating": 0.91649014,
       "ratingCount": 42,
       "created": "2026-10-24T13:24:16.077637Z",
       "updated": "2026-10-25T08:26:34.784434Z",
@@ -471,7 +497,7 @@
         "节奏大师",
         "regular"
       ],
-      "rating": 0.923393,
+      "rating": 0.9248071,
       "ratingCount": 490,
       "created": "2026-10-24T14:27:30.563766Z",
       "updated": "2026-10-24T15:02:28.873052Z",
@@ -500,7 +526,7 @@
         "黒魔",
         "regular"
       ],
-      "rating": 0.86913973,
+      "rating": 0.8756987,
       "ratingCount": 95,
       "created": "2026-10-24T14:31:30.164132Z",
       "updated": "2026-10-24T14:41:54.837482Z",
@@ -526,7 +552,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.96240747,
+      "rating": 0.9616719,
       "ratingCount": 135,
       "created": "2026-10-24T14:23:14.801344Z",
       "updated": "2026-10-24T14:34:36.781383Z",
@@ -554,7 +580,7 @@
         "洛天依",
         "regular"
       ],
-      "rating": 0.9304288,
+      "rating": 0.9221645,
       "ratingCount": 740,
       "created": "2026-10-23T07:13:34.969466Z",
       "updated": "2026-10-24T08:48:41.659002Z",
@@ -580,7 +606,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94225204,
+      "rating": 0.93912715,
       "ratingCount": 232,
       "created": "2026-10-23T04:56:41.470986Z",
       "updated": "2026-10-23T18:58:44.109221Z",
@@ -607,7 +633,7 @@
         "明日方舟",
         "regular"
       ],
-      "rating": 0.8667848,
+      "rating": 0.8658891,
       "ratingCount": 352,
       "created": "2025-08-31T16:07:43.407164Z",
       "updated": "2026-10-23T18:57:45.928428Z",
@@ -633,7 +659,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8670558,
+      "rating": 0.8671698,
       "ratingCount": 864,
       "created": "2024-07-26T02:32:02.295533Z",
       "updated": "2026-10-23T18:57:27.151105Z",
@@ -659,7 +685,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.81537217,
+      "rating": 0.82687414,
       "ratingCount": 17,
       "created": "2026-10-17T15:25:25.536329Z",
       "updated": "2026-10-23T15:54:55.949435Z",
@@ -685,7 +711,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9572434,
+      "rating": 0.96040547,
       "ratingCount": 117,
       "created": "2026-10-23T11:44:06.371103Z",
       "updated": "2026-10-23T13:14:47.113698Z",
@@ -712,7 +738,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.9115599,
+      "rating": 0.9125375,
       "ratingCount": 60,
       "created": "2026-10-14T20:45:45.923050Z",
       "updated": "2026-10-23T08:50:53.256129Z",
@@ -738,7 +764,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8647551,
+      "rating": 0.86260253,
       "ratingCount": 97,
       "created": "2026-10-20T08:31:49.150973Z",
       "updated": "2026-10-23T02:06:03.900566Z",
@@ -764,39 +790,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9206067,
+      "rating": 0.9194761,
       "ratingCount": 262,
       "created": "2026-10-20T05:06:48.060808Z",
       "updated": "2026-10-23T02:05:49.778399Z",
       "chartUpdated": "2026-10-20T05:06:48.060808Z"
-    },
-    {
-      "id": 81745,
-      "name": "Holy Night, Silent Night(cut)",
-      "level": "Stamina Lv.7",
-      "difficulty": 7.0,
-      "charter": "小落落喵",
-      "composer": "Dachs",
-      "illustrator": "",
-      "description": "噗师本人上传. \n\n第一次写切，写的不好. \n同时也是第一次写特效，写的不好. \n\n总之是练手性质的. \n双指无难谱，bpm136的切，难度7Dan左右，随便打",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5d2e37dd-5716-46ea-81a4-6361d8e3b319",
-      "preview": "https://phira.5wyxi.com/files/3f8112f1-ea30-48a6-b2a8-c819765e990a",
-      "file": "https://phira.5wyxi.com/files/fc62f71e-6cc9-4754-bb30-23fecc0ec4c4",
-      "uploader": 687038,
-      "tags": [
-        "DFC",
-        "切",
-        "regular"
-      ],
-      "rating": 0.8572634,
-      "ratingCount": 60,
-      "created": "2026-10-22T03:18:53.981934Z",
-      "updated": "2026-10-23T02:04:18.061314Z",
-      "chartUpdated": "2026-10-22T03:18:53.981934Z"
     }
   ]
 }

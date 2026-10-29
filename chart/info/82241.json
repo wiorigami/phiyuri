@@ -13,11 +13,11 @@
   "name": "director kasukasu puppy",
   "preview": "https://phira.5wyxi.com/files/a215f617-3c79-4031-b8ae-9d9e01651feb",
   "ranked": false,
-  "rating": 0.8210426,
-  "ratingCount": 15,
-  "reviewed": true,
+  "rating": 0.87007594,
+  "ratingCount": 34,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
