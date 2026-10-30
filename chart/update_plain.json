@@ -2,6 +2,35 @@
   "count": 3400,
   "results": [
     {
+      "id": 82057,
+      "name": "宵暗と行进",
+      "level": "4K Tech ~Regular9~",
+      "difficulty": 10.0,
+      "charter": "食欲でちゅん",
+      "composer": "干瓢碁",
+      "illustrator": "From Internet",
+      "description": "@queveup#88100(寿星)\n其实这首本来是想投v4段的结果时长写超了8秒\n又因为才知道今天是笑脸生日来不及写庆生谱刚好有这张可以用就拿过来了\n嘛有点抱歉，搞的好像是我从杂物堆里随便翻一个东西出来就当你生日礼物一样\n你要是对这张不满意可以找我现写()",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/19e7761a-b707-457d-becf-8dd7e1bbe658",
+      "preview": "https://phira.5wyxi.com/files/f11e09d3-2563-429d-87f3-886f86d819bb",
+      "file": "https://phira.5wyxi.com/files/afc668a6-4e1c-4941-9e63-5715e9f6f929",
+      "uploader": 42791,
+      "tags": [
+        "4K",
+        "Technical",
+        "Birthday",
+        "plain"
+      ],
+      "rating": 0.8778362,
+      "ratingCount": 6,
+      "created": "2026-10-24T20:44:51.651713Z",
+      "updated": "2026-10-29T03:27:16.191298Z",
+      "chartUpdated": "2026-10-24T20:44:51.651713Z"
+    },
+    {
       "id": 82335,
       "name": "Der Wald（Kors k remix）",
       "level": "Speed Lv.16+",
@@ -27,10 +56,10 @@
         "Tea",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.74613625,
       "ratingCount": 0,
       "created": "2026-10-27T13:22:53.598130Z",
-      "updated": "2026-10-28T11:18:59.092312971Z",
+      "updated": "2026-10-28T11:18:59.092312Z",
       "chartUpdated": "2026-10-27T13:22:53.598130Z"
     },
     {
@@ -53,8 +82,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89157856,
-      "ratingCount": 0,
+      "rating": 0.8975039,
+      "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
       "chartUpdated": "2026-10-27T08:57:22.624822Z"
@@ -79,10 +108,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90832114,
-      "ratingCount": 0,
+      "rating": 0.90636855,
+      "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
-      "updated": "2026-10-27T04:21:27.724328755Z",
+      "updated": "2026-10-27T04:21:27.724328Z",
       "chartUpdated": "2026-10-25T13:09:40.097047Z"
     },
     {
@@ -105,8 +134,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86439836,
-      "ratingCount": 7,
+      "rating": 0.855346,
+      "ratingCount": 8,
       "created": "2026-10-26T12:28:32.759178Z",
       "updated": "2026-10-26T15:43:48.591512Z",
       "chartUpdated": "2026-10-26T12:28:32.759178Z"
@@ -131,8 +160,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8452536,
-      "ratingCount": 24,
+      "rating": 0.8363766,
+      "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
       "chartUpdated": "2026-10-25T10:11:55.004305Z"
@@ -162,8 +191,8 @@
         "6",
         "plain"
       ],
-      "rating": 0.8807876,
-      "ratingCount": 7,
+      "rating": 0.8874607,
+      "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
       "chartUpdated": "2026-10-25T09:46:15.921253Z"
@@ -192,8 +221,8 @@
         "段位",
         "plain"
       ],
-      "rating": 0.93377686,
-      "ratingCount": 19,
+      "rating": 0.9433678,
+      "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
       "chartUpdated": "2026-10-25T09:46:36.818423Z"
@@ -223,8 +252,8 @@
         "6",
         "plain"
       ],
-      "rating": 0.94034666,
-      "ratingCount": 15,
+      "rating": 0.9352733,
+      "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
       "chartUpdated": "2026-10-25T09:45:57.957650Z"
@@ -254,8 +283,8 @@
         "6",
         "plain"
       ],
-      "rating": 0.9174464,
-      "ratingCount": 94,
+      "rating": 0.91863734,
+      "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
       "chartUpdated": "2026-10-25T09:45:43.212266Z"
@@ -286,7 +315,7 @@
         "plain"
       ],
       "rating": 0.84653085,
-      "ratingCount": 2,
+      "ratingCount": 8,
       "created": "2026-10-25T09:45:19.291865Z",
       "updated": "2026-10-25T16:08:14.922494Z",
       "chartUpdated": "2026-10-25T09:45:19.291865Z"
@@ -311,8 +340,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9131297,
-      "ratingCount": 19,
+      "rating": 0.9040501,
+      "ratingCount": 35,
       "created": "2026-10-25T11:50:19.571416Z",
       "updated": "2026-10-25T14:53:14.537672Z",
       "chartUpdated": "2026-10-25T11:50:19.571416Z"
@@ -340,8 +369,8 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9139093,
-      "ratingCount": 85,
+      "rating": 0.9148661,
+      "ratingCount": 86,
       "created": "2025-06-18T16:29:03.429178Z",
       "updated": "2026-10-25T09:05:02.013648Z",
       "chartUpdated": "2026-10-25T09:05:02.013648Z"
@@ -366,8 +395,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8445795,
-      "ratingCount": 37,
+      "rating": 0.8482278,
+      "ratingCount": 38,
       "created": "2026-10-03T15:37:01.424133Z",
       "updated": "2026-10-22T05:29:55.306120Z",
       "chartUpdated": "2026-10-03T15:37:01.424133Z"
@@ -392,8 +421,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80565006,
-      "ratingCount": 503,
+      "rating": 0.8063965,
+      "ratingCount": 546,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
       "chartUpdated": "2026-10-21T23:21:22.538921Z"
@@ -478,8 +507,8 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9468941,
-      "ratingCount": 148,
+      "rating": 0.9479645,
+      "ratingCount": 158,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
       "chartUpdated": "2026-10-18T06:14:51.424880Z"
@@ -509,8 +538,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.9232953,
-      "ratingCount": 66,
+      "rating": 0.9228544,
+      "ratingCount": 73,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
       "chartUpdated": "2026-10-18T06:14:32.903649Z"
@@ -540,8 +569,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.9300234,
-      "ratingCount": 149,
+      "rating": 0.9298483,
+      "ratingCount": 160,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
       "chartUpdated": "2026-10-18T06:14:23.753631Z"
@@ -570,8 +599,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.9094587,
-      "ratingCount": 147,
+      "rating": 0.9098259,
+      "ratingCount": 155,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
       "chartUpdated": "2026-10-18T06:14:07.629900Z"
@@ -601,8 +630,8 @@
         "7",
         "plain"
       ],
-      "rating": 0.8854641,
-      "ratingCount": 20,
+      "rating": 0.889648,
+      "ratingCount": 22,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
       "chartUpdated": "2026-10-18T06:12:43.591909Z"
@@ -627,8 +656,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94135934,
-      "ratingCount": 341,
+      "rating": 0.94200623,
+      "ratingCount": 364,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
       "chartUpdated": "2026-10-17T17:41:14.628970Z"
@@ -680,8 +709,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92682153,
-      "ratingCount": 547,
+      "rating": 0.9270894,
+      "ratingCount": 590,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
       "chartUpdated": "2026-10-17T15:22:47.377627Z"
@@ -733,8 +762,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9194775,
-      "ratingCount": 666,
+      "rating": 0.9163089,
+      "ratingCount": 705,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
       "chartUpdated": "2026-10-16T13:31:27.269193Z"
@@ -759,8 +788,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90714085,
-      "ratingCount": 99,
+      "rating": 0.90796894,
+      "ratingCount": 100,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
       "chartUpdated": "2026-10-16T10:12:18.087108Z"
@@ -787,7 +816,7 @@
         "plain"
       ],
       "rating": 0.840337,
-      "ratingCount": 5,
+      "ratingCount": 6,
       "created": "2026-10-04T16:47:33.094394Z",
       "updated": "2026-10-16T09:43:29.301107Z",
       "chartUpdated": "2026-10-04T16:47:33.094394Z"
@@ -818,39 +847,11 @@
         "速划",
         "plain"
       ],
-      "rating": 0.8779753,
-      "ratingCount": 10,
+      "rating": 0.8851848,
+      "ratingCount": 11,
       "created": "2026-10-01T16:08:41.690863Z",
       "updated": "2026-10-15T08:04:10.369574Z",
       "chartUpdated": "2026-10-01T16:08:41.690863Z"
-    },
-    {
-      "id": 80191,
-      "name": "Abandoned Planet",
-      "level": "5k tech Lv.20",
-      "difficulty": 10.0,
-      "charter": "E_Rizon",
-      "composer": "litmus*",
-      "illustrator": "Convert by ΜVP",
-      "description": "bpm以240为主\nma侧过段难度约6-7dan，不是很建议推ap\n感谢Adagietta的转谱帮助",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f8d27412-63f4-4167-b492-a227d1e9ae72",
-      "preview": "https://phira.5wyxi.com/files/1ea94baf-7b18-4f9a-8eb9-85ff39ead547",
-      "file": "https://phira.5wyxi.com/files/c1419671-c14b-4508-a621-018cd30bfc12",
-      "uploader": 21375,
-      "tags": [
-        "5k",
-        "tech",
-        "plain"
-      ],
-      "rating": 0.8658433,
-      "ratingCount": 12,
-      "created": "2026-10-04T21:00:55.014742Z",
-      "updated": "2026-10-15T00:25:30.172901Z",
-      "chartUpdated": "2026-10-04T21:00:55.014742Z"
     }
   ]
 }
