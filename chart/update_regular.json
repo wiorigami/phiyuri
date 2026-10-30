@@ -1,6 +1,33 @@
 {
-  "count": 9750,
+  "count": 9746,
   "results": [
+    {
+      "id": 82016,
+      "name": "Grin",
+      "level": "IN Lv.16",
+      "difficulty": 16.400002,
+      "charter": "无水之溪旭 / tikkit",
+      "composer": "HyuN",
+      "illustrator": "SOS Team",
+      "description": "第四届Phigros 圣杯战争比赛供谱，感谢秋源时雨的鼎力支持（拜谢）\n第四届Phigros 圣杯战争将于2027年寒假开档，欢迎各路大神踊跃参加比赛，用实力赢得口口杯亲临！（意图参加者可加q群:853764946）\n————————\n本谱面其实只花了两天撰写基础配置和动效(然后拖了两个月没动一点)，感谢tikkit表演大手子的协(擦)助(屁)帮(股)忙！所以这张谱为双人合作谱喵！\n纯双指平铺直叙底力谱面，希望各位玩得开心！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c9c46703-b208-4f85-b51f-684d30c4fa8e",
+      "preview": "https://phira.5wyxi.com/files/efef7a96-1564-4780-8a6d-bced1cf36b14",
+      "file": "https://phira.5wyxi.com/files/8b1a84a7-be0c-43c7-8ed7-7c6fb0c8007c",
+      "uploader": 3139712,
+      "tags": [
+        "双指",
+        "regular"
+      ],
+      "rating": 0.9535605,
+      "ratingCount": 160,
+      "created": "2026-10-24T13:52:19.087948Z",
+      "updated": "2026-10-28T21:54:02.196103Z",
+      "chartUpdated": "2026-10-24T13:52:19.087948Z"
+    },
     {
       "id": 81993,
       "name": "心跳叮叮咚",
@@ -21,8 +48,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8967231,
-      "ratingCount": 1,
+      "rating": 0.9112479,
+      "ratingCount": 39,
       "created": "2026-10-24T12:26:48.875671Z",
       "updated": "2026-10-28T11:45:03.370842Z",
       "chartUpdated": "2026-10-24T12:26:48.875671Z"
@@ -47,10 +74,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92605,
-      "ratingCount": 0,
+      "rating": 0.92101395,
+      "ratingCount": 69,
       "created": "2026-10-13T10:18:46.250243Z",
-      "updated": "2026-10-27T16:41:58.569438245Z",
+      "updated": "2026-10-27T16:41:58.569438Z",
       "chartUpdated": "2026-10-13T10:18:46.250243Z"
     },
     {
@@ -73,10 +100,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7652227,
-      "ratingCount": 0,
+      "rating": 0.75161004,
+      "ratingCount": 19,
       "created": "2026-10-27T14:02:52.139712Z",
-      "updated": "2026-10-27T15:12:14.320230817Z",
+      "updated": "2026-10-27T15:12:14.320230Z",
       "chartUpdated": "2026-10-27T14:02:52.139712Z"
     },
     {
@@ -99,10 +126,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9075141,
-      "ratingCount": 0,
+      "rating": 0.92424786,
+      "ratingCount": 47,
       "created": "2026-09-12T09:19:22.673635Z",
-      "updated": "2026-10-27T10:21:56.481969522Z",
+      "updated": "2026-10-27T10:21:56.481969Z",
       "chartUpdated": "2026-09-12T09:19:22.673635Z"
     },
     {
@@ -125,38 +152,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87622994,
-      "ratingCount": 8,
+      "rating": 0.8878628,
+      "ratingCount": 61,
       "created": "2026-10-24T13:20:51.442580Z",
       "updated": "2026-10-27T00:39:20.546553Z",
       "chartUpdated": "2026-10-24T13:20:51.442580Z"
-    },
-    {
-      "id": 82016,
-      "name": "Grin",
-      "level": "IN Lv.16",
-      "difficulty": 16.400002,
-      "charter": "无水之溪旭 / tikkit",
-      "composer": "HyuN",
-      "illustrator": "SOS Team",
-      "description": "第四届Phigros 圣杯战争比赛供谱，感谢秋源时雨的鼎力支持（拜谢）\n第四届Phigros 圣杯战争将于2027年寒假开档，欢迎各路大神踊跃参加比赛，用实力赢得口口杯亲临！（意图参加者可加q群:853764946）\n————————\n本谱面其实只花了两天撰写基础配置和动效(然后拖了两个月没动一点)，感谢tikkit表演大手子的协(擦)助(屁)帮(股)忙！所以这张谱为双人合作谱喵！\n纯双指平铺直叙底力谱面，希望各位玩得开心！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c9c46703-b208-4f85-b51f-684d30c4fa8e",
-      "preview": "https://phira.5wyxi.com/files/efef7a96-1564-4780-8a6d-bced1cf36b14",
-      "file": "https://phira.5wyxi.com/files/8b1a84a7-be0c-43c7-8ed7-7c6fb0c8007c",
-      "uploader": 3139712,
-      "tags": [
-        "双指",
-        "regular"
-      ],
-      "rating": 0.9503716,
-      "ratingCount": 120,
-      "created": "2026-10-24T13:52:19.087948Z",
-      "updated": "2026-10-27T00:39:06.808437Z",
-      "chartUpdated": "2026-10-24T13:52:19.087948Z"
     },
     {
       "id": 82107,
@@ -178,8 +178,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7952023,
-      "ratingCount": 4,
+      "rating": 0.7947422,
+      "ratingCount": 22,
       "created": "2026-10-25T05:05:25.595093Z",
       "updated": "2026-10-27T00:38:30.854594Z",
       "chartUpdated": "2026-10-25T05:05:25.595093Z"
@@ -204,8 +204,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87007594,
-      "ratingCount": 17,
+      "rating": 0.916637,
+      "ratingCount": 35,
       "created": "2026-10-26T09:53:13.616324Z",
       "updated": "2026-10-27T00:37:43.692813Z",
       "chartUpdated": "2026-10-26T09:53:13.616324Z"
@@ -230,8 +230,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92098033,
-      "ratingCount": 6,
+      "rating": 0.929213,
+      "ratingCount": 40,
       "created": "2026-10-26T04:40:38.039532Z",
       "updated": "2026-10-27T00:31:17.390956Z",
       "chartUpdated": "2026-10-26T04:40:38.039532Z"
@@ -256,8 +256,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8342257,
-      "ratingCount": 11,
+      "rating": 0.83141005,
+      "ratingCount": 34,
       "created": "2026-10-26T02:25:18.887574Z",
       "updated": "2026-10-26T14:43:57.881607Z",
       "chartUpdated": "2026-10-26T02:25:18.887574Z"
@@ -285,8 +285,8 @@
         "高难",
         "regular"
       ],
-      "rating": 0.8212688,
-      "ratingCount": 13,
+      "rating": 0.8459226,
+      "ratingCount": 37,
       "created": "2026-10-26T07:51:23.382168Z",
       "updated": "2026-10-26T13:14:47.110794Z",
       "chartUpdated": "2026-10-26T07:51:23.382168Z"
@@ -311,8 +311,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9340548,
-      "ratingCount": 235,
+      "rating": 0.93560046,
+      "ratingCount": 273,
       "created": "2026-10-12T03:26:57.123438Z",
       "updated": "2026-10-25T09:51:16.140216Z",
       "chartUpdated": "2026-10-12T03:26:57.123438Z"
@@ -337,8 +337,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89248526,
-      "ratingCount": 134,
+      "rating": 0.89133173,
+      "ratingCount": 160,
       "created": "2026-09-16T08:37:13.249712Z",
       "updated": "2026-10-25T09:51:04.220952Z",
       "chartUpdated": "2026-10-25T09:51:04.220952Z"
@@ -366,8 +366,8 @@
         "KATOMORI",
         "regular"
       ],
-      "rating": 0.9150251,
-      "ratingCount": 125,
+      "rating": 0.91731966,
+      "ratingCount": 135,
       "created": "2026-07-26T08:50:11.153552Z",
       "updated": "2026-10-25T09:50:48.972707Z",
       "chartUpdated": "2026-07-26T08:50:11.153552Z"
@@ -392,8 +392,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9308701,
-      "ratingCount": 481,
+      "rating": 0.92979735,
+      "ratingCount": 891,
       "created": "2026-10-25T09:04:49.819995Z",
       "updated": "2026-10-25T09:07:17.086453Z",
       "chartUpdated": "2026-10-25T09:04:49.819995Z"
@@ -418,8 +418,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9227018,
-      "ratingCount": 497,
+      "rating": 0.9227277,
+      "ratingCount": 511,
       "created": "2026-02-24T05:38:25.558797Z",
       "updated": "2026-10-25T09:02:52.851269Z",
       "chartUpdated": "2026-10-25T09:02:52.851269Z"
@@ -444,8 +444,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90930736,
-      "ratingCount": 457,
+      "rating": 0.9086064,
+      "ratingCount": 478,
       "created": "2026-09-19T08:57:18.442024Z",
       "updated": "2026-10-25T08:32:14.200716Z",
       "chartUpdated": "2026-10-25T08:32:14.200716Z"
@@ -470,8 +470,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91649014,
-      "ratingCount": 42,
+      "rating": 0.9208384,
+      "ratingCount": 54,
       "created": "2026-10-24T13:24:16.077637Z",
       "updated": "2026-10-25T08:26:34.784434Z",
       "chartUpdated": "2026-10-24T13:24:16.077637Z"
@@ -497,8 +497,8 @@
         "节奏大师",
         "regular"
       ],
-      "rating": 0.9248071,
-      "ratingCount": 490,
+      "rating": 0.92464024,
+      "ratingCount": 635,
       "created": "2026-10-24T14:27:30.563766Z",
       "updated": "2026-10-24T15:02:28.873052Z",
       "chartUpdated": "2026-10-24T14:27:30.563766Z"
@@ -526,8 +526,8 @@
         "黒魔",
         "regular"
       ],
-      "rating": 0.8756987,
-      "ratingCount": 95,
+      "rating": 0.8843678,
+      "ratingCount": 129,
       "created": "2026-10-24T14:31:30.164132Z",
       "updated": "2026-10-24T14:41:54.837482Z",
       "chartUpdated": "2026-10-24T14:31:30.164132Z"
@@ -552,8 +552,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9616719,
-      "ratingCount": 135,
+      "rating": 0.96188265,
+      "ratingCount": 175,
       "created": "2026-10-24T14:23:14.801344Z",
       "updated": "2026-10-24T14:34:36.781383Z",
       "chartUpdated": "2026-10-24T14:23:14.801344Z"
@@ -580,8 +580,8 @@
         "洛天依",
         "regular"
       ],
-      "rating": 0.9221645,
-      "ratingCount": 740,
+      "rating": 0.9216685,
+      "ratingCount": 916,
       "created": "2026-10-23T07:13:34.969466Z",
       "updated": "2026-10-24T08:48:41.659002Z",
       "chartUpdated": "2026-10-23T07:13:34.969466Z"
@@ -606,8 +606,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93912715,
-      "ratingCount": 232,
+      "rating": 0.94155,
+      "ratingCount": 284,
       "created": "2026-10-23T04:56:41.470986Z",
       "updated": "2026-10-23T18:58:44.109221Z",
       "chartUpdated": "2026-10-23T04:56:41.470986Z"
@@ -633,8 +633,8 @@
         "明日方舟",
         "regular"
       ],
-      "rating": 0.8658891,
-      "ratingCount": 352,
+      "rating": 0.864521,
+      "ratingCount": 361,
       "created": "2025-08-31T16:07:43.407164Z",
       "updated": "2026-10-23T18:57:45.928428Z",
       "chartUpdated": "2025-08-31T16:07:43.407164Z"
@@ -659,8 +659,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8671698,
-      "ratingCount": 864,
+      "rating": 0.86693937,
+      "ratingCount": 873,
       "created": "2024-07-26T02:32:02.295533Z",
       "updated": "2026-10-23T18:57:27.151105Z",
       "chartUpdated": "2024-07-26T02:32:02.295533Z"
@@ -685,8 +685,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.82687414,
-      "ratingCount": 17,
+      "rating": 0.82989454,
+      "ratingCount": 19,
       "created": "2026-10-17T15:25:25.536329Z",
       "updated": "2026-10-23T15:54:55.949435Z",
       "chartUpdated": "2026-10-17T15:25:25.536329Z"
@@ -711,8 +711,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.96040547,
-      "ratingCount": 117,
+      "rating": 0.9617112,
+      "ratingCount": 144,
       "created": "2026-10-23T11:44:06.371103Z",
       "updated": "2026-10-23T13:14:47.113698Z",
       "chartUpdated": "2026-10-23T11:44:06.371103Z"
@@ -738,8 +738,8 @@
         "高难",
         "regular"
       ],
-      "rating": 0.9125375,
-      "ratingCount": 60,
+      "rating": 0.91893417,
+      "ratingCount": 72,
       "created": "2026-10-14T20:45:45.923050Z",
       "updated": "2026-10-23T08:50:53.256129Z",
       "chartUpdated": "2026-10-14T20:45:45.923050Z"
@@ -764,8 +764,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86260253,
-      "ratingCount": 97,
+      "rating": 0.86662555,
+      "ratingCount": 107,
       "created": "2026-10-20T08:31:49.150973Z",
       "updated": "2026-10-23T02:06:03.900566Z",
       "chartUpdated": "2026-10-20T08:31:49.150973Z"
@@ -790,8 +790,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9194761,
-      "ratingCount": 262,
+      "rating": 0.9216861,
+      "ratingCount": 293,
       "created": "2026-10-20T05:06:48.060808Z",
       "updated": "2026-10-23T02:05:49.778399Z",
       "chartUpdated": "2026-10-20T05:06:48.060808Z"
