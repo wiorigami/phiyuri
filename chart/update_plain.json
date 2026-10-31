@@ -2,6 +2,85 @@
   "count": 3400,
   "results": [
     {
+      "id": 82483,
+      "name": "I wanna go to China",
+      "level": "4K Master Lv.24",
+      "difficulty": 24.0,
+      "charter": "YMEA",
+      "composer": "Joost/Chalky Wong",
+      "illustrator": "UK",
+      "description": "一口气写完的，改了两版快累死了。\n感觉写4K谱到了瓶颈期了，尝试了一下别的写法\n\n后面是真不知道怎么写的，就写拍砖了，（本来想弄解锁动画的，但因为懒就不弄了。）\n求给个好评喵\n\nDY YMEA\nB站 x 快手 洋漫YMEA\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c37522d0-6fd4-48e7-952b-ef20b80733cd",
+      "preview": "https://phira.5wyxi.com/files/77a46b2f-9295-4261-bf74-c08a88c59542",
+      "file": "https://phira.5wyxi.com/files/205c6c8a-6a8c-4be7-84a2-9a6a075a8600",
+      "uploader": 5238,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.92341244,
+      "ratingCount": 0,
+      "created": "2026-10-29T15:57:34.436627Z",
+      "updated": "2026-10-30T14:02:21.498693907Z",
+      "chartUpdated": "2026-10-29T15:57:34.436627Z"
+    },
+    {
+      "id": 82482,
+      "name": "迷惘郁狂",
+      "level": "AT",
+      "difficulty": 16.5,
+      "charter": "尘晰",
+      "composer": "事伪镰",
+      "illustrator": "最终审决",
+      "description": "本人上传，写给紫米的生贺作，纯4k爽键盘，还请支持呀",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0c36e49a-a957-45c7-863a-bd7c619e3c1f",
+      "preview": "https://phira.5wyxi.com/files/06070849-f266-474c-b7c7-470c7bc966ff",
+      "file": "https://phira.5wyxi.com/files/c559f478-2ad9-4f96-ab58-b0ec2ed25d80",
+      "uploader": 4379248,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8722038,
+      "ratingCount": 0,
+      "created": "2026-10-29T15:47:13.066908Z",
+      "updated": "2026-10-30T10:26:42.935847058Z",
+      "chartUpdated": "2026-10-29T15:47:13.066908Z"
+    },
+    {
+      "id": 65386,
+      "name": "Everlasting Eternity",
+      "level": "4K Lv.32",
+      "difficulty": 20.0,
+      "charter": "Hal0Xyl1a_",
+      "composer": "Ludicin",
+      "illustrator": "",
+      "description": "非转谱 本人传\n神曲\n打得动，有点长\n有的地方比较卡手请见谅(",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e90357c3-e78c-41bf-b890-dfbd83e6e2ea",
+      "preview": "https://phira.5wyxi.com/files/988d080e-1f46-4ce4-8b62-23b1b8a8abb6",
+      "file": "https://phira.5wyxi.com/files/77a1ab1a-58c0-4c6a-bb5f-5415140df767",
+      "uploader": 2539,
+      "tags": [
+        "高难",
+        "plain"
+      ],
+      "rating": 0.9112611,
+      "ratingCount": 1,
+      "created": "2026-07-10T03:35:35.130231Z",
+      "updated": "2026-10-30T03:35:22.894760839Z",
+      "chartUpdated": "2026-07-10T03:35:35.130231Z"
+    },
+    {
       "id": 82057,
       "name": "宵暗と行进",
       "level": "4K Tech ~Regular9~",
@@ -24,7 +103,7 @@
         "Birthday",
         "plain"
       ],
-      "rating": 0.8778362,
+      "rating": 0.88236207,
       "ratingCount": 6,
       "created": "2026-10-24T20:44:51.651713Z",
       "updated": "2026-10-29T03:27:16.191298Z",
@@ -56,7 +135,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.74613625,
+      "rating": 0.7621522,
       "ratingCount": 0,
       "created": "2026-10-27T13:22:53.598130Z",
       "updated": "2026-10-28T11:18:59.092312Z",
@@ -82,7 +161,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8975039,
+      "rating": 0.89864004,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -108,37 +187,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90636855,
+      "rating": 0.91435164,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
       "chartUpdated": "2026-10-25T13:09:40.097047Z"
-    },
-    {
-      "id": 82247,
-      "name": "Memoria Plūviæ",
-      "level": "4K Lv.δ",
-      "difficulty": 20.0,
-      "charter": "柚_子",
-      "composer": "YistZx",
-      "illustrator": "铃暮Moor",
-      "description": "谱师本人上传，@YistZx#4371204（曲师）\n曲师让塞爆的，不过后续应该会出简单一个170切谱\n这谱质量可能不太行",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/81c98045-a371-4131-ab2a-a8896098e1aa",
-      "preview": "https://phira.5wyxi.com/files/014757be-5ad9-457f-b220-c6011c04a361",
-      "file": "https://phira.5wyxi.com/files/40cc1d08-0597-4a9f-963c-fee9eaaa0c0c",
-      "uploader": 4331640,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.855346,
-      "ratingCount": 8,
-      "created": "2026-10-26T12:28:32.759178Z",
-      "updated": "2026-10-26T15:43:48.591512Z",
-      "chartUpdated": "2026-10-26T12:28:32.759178Z"
     },
     {
       "id": 82162,
@@ -160,7 +213,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8363766,
+      "rating": 0.8235156,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -191,7 +244,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.8874607,
+      "rating": 0.88970345,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -221,7 +274,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9433678,
+      "rating": 0.9471215,
       "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -252,7 +305,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9352733,
+      "rating": 0.9316744,
       "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -283,7 +336,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.91863734,
+      "rating": 0.9226451,
       "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
@@ -340,7 +393,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9040501,
+      "rating": 0.9149433,
       "ratingCount": 35,
       "created": "2026-10-25T11:50:19.571416Z",
       "updated": "2026-10-25T14:53:14.537672Z",
@@ -369,7 +422,7 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9148661,
+      "rating": 0.9158018,
       "ratingCount": 86,
       "created": "2025-06-18T16:29:03.429178Z",
       "updated": "2026-10-25T09:05:02.013648Z",
@@ -421,7 +474,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8063965,
+      "rating": 0.808173,
       "ratingCount": 546,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
@@ -447,7 +500,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9514088,
+      "rating": 0.95231116,
       "ratingCount": 49,
       "created": "2026-09-04T10:12:47.673661Z",
       "updated": "2026-10-20T11:54:41.939363Z",
@@ -507,7 +560,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9479645,
+      "rating": 0.948897,
       "ratingCount": 158,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
@@ -538,7 +591,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9228544,
+      "rating": 0.9257341,
       "ratingCount": 73,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
@@ -569,7 +622,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9298483,
+      "rating": 0.9299288,
       "ratingCount": 160,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
@@ -599,7 +652,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9098259,
+      "rating": 0.91148806,
       "ratingCount": 155,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
@@ -630,7 +683,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.889648,
+      "rating": 0.89354074,
       "ratingCount": 22,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
@@ -656,7 +709,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94200623,
+      "rating": 0.9412198,
       "ratingCount": 364,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
@@ -709,7 +762,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9270894,
+      "rating": 0.9282333,
       "ratingCount": 590,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
@@ -762,7 +815,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9163089,
+      "rating": 0.9173912,
       "ratingCount": 705,
       "created": "2026-10-16T13:31:27.269193Z",
       "updated": "2026-10-16T13:42:07.673537Z",
@@ -788,70 +841,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90796894,
+      "rating": 0.90265846,
       "ratingCount": 100,
       "created": "2026-10-16T10:12:18.087108Z",
       "updated": "2026-10-16T13:00:55.975682Z",
       "chartUpdated": "2026-10-16T10:12:18.087108Z"
-    },
-    {
-      "id": 80175,
-      "name": "Seven Days of Genesis",
-      "level": "【21】6K Lv.27",
-      "difficulty": 16.6,
-      "charter": "咖小啡",
-      "composer": "Scarlette",
-      "illustrator": "Convert by MVP",
-      "description": "个人生日作，140bpm卡手耐力叠\n前三位acc＞98.91%发布手元视频可以在B站/快手@谁家咖啡/Cafe咖小啡领取悬赏金\n第一名:50r\n第二名:30r\n第三名:15r\n仅在10月17日之后发布的视频有效，根据发布视频的先后顺序排名次",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/00c483e0-e35b-4468-84de-4a1c83ddefdc",
-      "preview": "https://phira.5wyxi.com/files/5ce446f6-194e-47b6-9ccb-1f2826d1d88b",
-      "file": "https://phira.5wyxi.com/files/a4e04efb-50de-4cbf-bf26-2922e777b984",
-      "uploader": 204,
-      "tags": [
-        "6K",
-        "plain"
-      ],
-      "rating": 0.840337,
-      "ratingCount": 6,
-      "created": "2026-10-04T16:47:33.094394Z",
-      "updated": "2026-10-16T09:43:29.301107Z",
-      "chartUpdated": "2026-10-04T16:47:33.094394Z"
-    },
-    {
-      "id": 79710,
-      "name": "Eternal SubconsciencƎ",
-      "level": "Eternal Lv.14",
-      "difficulty": 14.300001,
-      "charter": "moutao",
-      "composer": "JinoBeats/XH",
-      "illustrator": "",
-      "description": "谱师本人上传\n\n第一次写谱选择潜意识\n含有超级位移大技\n2709/6000\n边缘＝97.03\n过段＝98.22\n后光＝99.11\n击破＝99.70\n两段纵连速度均为22下/s\n含有微量近乎不影响读谱的变速",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/850cd572-b90e-459e-ac7e-4c25400ed405",
-      "preview": "https://phira.5wyxi.com/files/baeb8c57-ed81-436b-97ec-cbf858228152",
-      "file": "https://phira.5wyxi.com/files/0f0c2a48-6614-4e36-833d-df611c1a99f0",
-      "uploader": 19448,
-      "tags": [
-        "dfc",
-        "双指",
-        "位移",
-        "综合",
-        "爆发",
-        "速划",
-        "plain"
-      ],
-      "rating": 0.8851848,
-      "ratingCount": 11,
-      "created": "2026-10-01T16:08:41.690863Z",
-      "updated": "2026-10-15T08:04:10.369574Z",
-      "chartUpdated": "2026-10-01T16:08:41.690863Z"
     }
   ]
 }
