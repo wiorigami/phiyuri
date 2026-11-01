@@ -1,6 +1,90 @@
 {
-  "count": 3400,
+  "count": 3403,
   "results": [
+    {
+      "id": 60267,
+      "name": "GHOST-NOVA ",
+      "level": "STREAM（1.05x）",
+      "difficulty": 5.599995,
+      "charter": "NOV.3RD",
+      "composer": "Camellia",
+      "illustrator": "",
+      "description": "本人上传\n耗时: 4h\nBPM:181.28\n难度大概rf5，或者高点",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a029578d-c6d1-4301-9d24-bf2745a8b7e4",
+      "preview": "https://phira.5wyxi.com/files/bb21ba05-5b33-4a4c-8774-e5805b4c7c6f",
+      "file": "https://phira.5wyxi.com/files/fddb3fb2-2143-41bf-87ab-cb38b42f91b1",
+      "uploader": 2023606,
+      "tags": [
+        "4k",
+        "STREAM",
+        "Stamina",
+        "plain"
+      ],
+      "rating": 0.72230154,
+      "ratingCount": 0,
+      "created": "2026-06-07T08:21:08.846015Z",
+      "updated": "2026-11-01T00:46:22.640520067Z",
+      "chartUpdated": "2026-06-07T08:21:08.846015Z"
+    },
+    {
+      "id": 82607,
+      "name": "idontwant2go",
+      "level": "4K Stream Lv.29",
+      "difficulty": 29.0,
+      "charter": "YMEA vs.食欲でちゅん",
+      "composer": "drwncvnt",
+      "illustrator": "Lage",
+      "description": "综合约1-2dan\n本来想写常规谱，写到最后一看竟然写了个切，然后就写个切吧\n感谢@ZENITH_食欲でちゅん#42791（合作）的合作，要不然写不了这么快\n不感谢@Lage#852606(设计)的设计\n\n食欲でちゅん：用复制粘贴就是快（哥哥我摔倒了.jpg)\n\n快手xB站 洋漫YMEA \nDY YMEA\nQQ个人群169198220\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4d252f98-780c-4583-97ee-a8e8ba9fab82",
+      "preview": "https://phira.5wyxi.com/files/d35a4905-b097-4dfc-ae68-741d2a4df889",
+      "file": "https://phira.5wyxi.com/files/5fe004fe-255d-497f-8d7d-e7834b40a105",
+      "uploader": 4389596,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8900297,
+      "ratingCount": 0,
+      "created": "2026-10-31T05:32:48.718486Z",
+      "updated": "2026-10-31T15:06:30.268224855Z",
+      "chartUpdated": "2026-10-31T05:32:48.718486Z"
+    },
+    {
+      "id": 81068,
+      "name": "裏表ラバーズ",
+      "level": "4k Lover Lv.22",
+      "difficulty": 22.0,
+      "charter": "DIZzY",
+      "composer": "Wowaka/初音ミク",
+      "illustrator": "UK",
+      "description": "各位好我是DIZzY\n这是我的第二个谱\n这首真的很好听有没有懂的 但是能采的音。好少。然后有点慢。\n键型算是技 有子弹然后结尾可能有点卡手 质量相对于上一张有些欠缺果咩纳塞！！。orz\nps：谢谢各位对我初谱的支持！看到自己的谱被收好开心！DIZzY会继续努力的qwq\n感谢类纸帮我写的中间对\n——————\nb站：ResoNancE27\nDy:S.R",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/724cb64a-481b-4413-82d4-8252c4862747",
+      "preview": "https://phira.5wyxi.com/files/3eae0d79-4fb6-45ce-964e-7b33aefa1b08",
+      "file": "https://phira.5wyxi.com/files/fa2f683c-ee6e-45ee-9320-c572516c8068",
+      "uploader": 2326063,
+      "tags": [
+        "4k",
+        "wowaka",
+        "裏表ラバーズ",
+        "plain"
+      ],
+      "rating": 0.8584857,
+      "ratingCount": 0,
+      "created": "2026-10-14T20:42:29.962417Z",
+      "updated": "2026-10-31T13:31:52.484650515Z",
+      "chartUpdated": "2026-10-14T20:42:29.962417Z"
+    },
     {
       "id": 82483,
       "name": "I wanna go to China",
@@ -21,7 +105,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92341244,
+      "rating": 0.9252183,
       "ratingCount": 0,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693907Z",
@@ -47,7 +131,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8722038,
+      "rating": 0.89196354,
       "ratingCount": 0,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847058Z",
@@ -74,7 +158,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.9112611,
+      "rating": 0.9058537,
       "ratingCount": 1,
       "created": "2026-07-10T03:35:35.130231Z",
       "updated": "2026-10-30T03:35:22.894760839Z",
@@ -103,7 +187,7 @@
         "Birthday",
         "plain"
       ],
-      "rating": 0.88236207,
+      "rating": 0.889727,
       "ratingCount": 6,
       "created": "2026-10-24T20:44:51.651713Z",
       "updated": "2026-10-29T03:27:16.191298Z",
@@ -135,7 +219,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.7621522,
+      "rating": 0.8334561,
       "ratingCount": 0,
       "created": "2026-10-27T13:22:53.598130Z",
       "updated": "2026-10-28T11:18:59.092312Z",
@@ -161,7 +245,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89864004,
+      "rating": 0.89748627,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -187,7 +271,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91435164,
+      "rating": 0.9155856,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
@@ -213,7 +297,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8235156,
+      "rating": 0.8245501,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -244,7 +328,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.88970345,
+      "rating": 0.91920274,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -274,7 +358,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9471215,
+      "rating": 0.9456631,
       "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -305,7 +389,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9316744,
+      "rating": 0.9317264,
       "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -336,7 +420,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9226451,
+      "rating": 0.91815734,
       "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
@@ -367,7 +451,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.84653085,
+      "rating": 0.8573852,
       "ratingCount": 8,
       "created": "2026-10-25T09:45:19.291865Z",
       "updated": "2026-10-25T16:08:14.922494Z",
@@ -393,7 +477,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9149433,
+      "rating": 0.9210538,
       "ratingCount": 35,
       "created": "2026-10-25T11:50:19.571416Z",
       "updated": "2026-10-25T14:53:14.537672Z",
@@ -422,7 +506,7 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9158018,
+      "rating": 0.9173462,
       "ratingCount": 86,
       "created": "2025-06-18T16:29:03.429178Z",
       "updated": "2026-10-25T09:05:02.013648Z",
@@ -448,7 +532,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8482278,
+      "rating": 0.8440869,
       "ratingCount": 38,
       "created": "2026-10-03T15:37:01.424133Z",
       "updated": "2026-10-22T05:29:55.306120Z",
@@ -474,7 +558,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.808173,
+      "rating": 0.80967116,
       "ratingCount": 546,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
@@ -500,7 +584,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.95231116,
+      "rating": 0.9531808,
       "ratingCount": 49,
       "created": "2026-09-04T10:12:47.673661Z",
       "updated": "2026-10-20T11:54:41.939363Z",
@@ -530,7 +614,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.856128,
       "ratingCount": 4,
       "created": "2026-10-18T06:27:35.521465Z",
       "updated": "2026-10-18T09:45:20.667075Z",
@@ -560,7 +644,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.948897,
+      "rating": 0.95238817,
       "ratingCount": 158,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
@@ -591,7 +675,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9257341,
+      "rating": 0.92517966,
       "ratingCount": 73,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
@@ -622,7 +706,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.9299288,
+      "rating": 0.92818004,
       "ratingCount": 160,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
@@ -652,7 +736,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.91148806,
+      "rating": 0.91182554,
       "ratingCount": 155,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
@@ -683,7 +767,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.89354074,
+      "rating": 0.89717144,
       "ratingCount": 22,
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
@@ -709,7 +793,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9412198,
+      "rating": 0.94157124,
       "ratingCount": 364,
       "created": "2026-10-17T17:41:14.628970Z",
       "updated": "2026-10-18T02:06:00.534485Z",
@@ -736,7 +820,7 @@
         "CrFt",
         "plain"
       ],
-      "rating": 0.8689401,
+      "rating": 0.867491,
       "ratingCount": 30,
       "created": "2026-10-17T15:58:37.646211Z",
       "updated": "2026-10-17T16:01:45.125064Z",
@@ -762,90 +846,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9282333,
+      "rating": 0.9304428,
       "ratingCount": 590,
       "created": "2026-10-17T15:22:47.377627Z",
       "updated": "2026-10-17T15:41:42.259065Z",
       "chartUpdated": "2026-10-17T15:22:47.377627Z"
-    },
-    {
-      "id": 78242,
-      "name": "12 little fragments of silence",
-      "level": "6k",
-      "difficulty": 20.0,
-      "charter": "Rulaifozu",
-      "composer": "Betwixt & Between",
-      "illustrator": "",
-      "description": "难度 20-\nbpm 220\n首个acc99.85%以上可找我领取疯狂星期四一顿(最好有屏元或手元)\nb站:Rulaifouzu\n感谢寇拉普斯提供的难度参考，么么哒",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/c783d9ff-a5ea-4e34-90a9-1865200b5aaa",
-      "preview": "https://phira.5wyxi.com/files/2c46f843-2cfe-4015-87ac-4cdf37790eea",
-      "file": "https://phira.5wyxi.com/files/628d798b-c90f-4d83-9f2e-c30f98f3e5b9",
-      "uploader": 175134,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.80552316,
-      "ratingCount": 3,
-      "created": "2026-09-16T14:21:13.113830Z",
-      "updated": "2026-10-17T12:36:32.351726Z",
-      "chartUpdated": "2026-09-16T14:21:13.113830Z"
-    },
-    {
-      "id": 81173,
-      "name": "璀璨星空",
-      "level": "Star.",
-      "difficulty": 18.000002,
-      "charter": "冷影",
-      "composer": "Kn_bAiBIn",
-      "illustrator": "F_K_W",
-      "description": "本人上传，难度不到3dan，玩的开心",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2c0aa7f3-22f4-47aa-9e5d-49fb46b6aa0b",
-      "preview": "https://phira.5wyxi.com/files/d6415644-c498-41df-ba86-b2bb6e520c76",
-      "file": "https://phira.5wyxi.com/files/f3c8754d-459c-44b4-9ecf-9f1f6a186192",
-      "uploader": 4174080,
-      "tags": [
-        "4k",
-        "plain"
-      ],
-      "rating": 0.9173912,
-      "ratingCount": 705,
-      "created": "2026-10-16T13:31:27.269193Z",
-      "updated": "2026-10-16T13:42:07.673537Z",
-      "chartUpdated": "2026-10-16T13:31:27.269193Z"
-    },
-    {
-      "id": 81150,
-      "name": "宿命邀约 (NEMESIS)",
-      "level": "4K - SV Lv.29",
-      "difficulty": 20.0,
-      "charter": "夏鹬",
-      "composer": "Castle H X Whisty",
-      "illustrator": "Unknow",
-      "description": "阿峦同款变速 不比阿峦粪\n音乐提供：开心のsilly猫oO",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d10d013d-b352-4a55-b330-97a540cb1581",
-      "preview": "https://phira.5wyxi.com/files/e9297ef4-c8b6-4382-825b-8aab5ac41523",
-      "file": "https://phira.5wyxi.com/files/e1908f0a-b2cd-4065-a951-fb9e8c442383",
-      "uploader": 800533,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.90265846,
-      "ratingCount": 100,
-      "created": "2026-10-16T10:12:18.087108Z",
-      "updated": "2026-10-16T13:00:55.975682Z",
-      "chartUpdated": "2026-10-16T10:12:18.087108Z"
     }
   ]
 }
