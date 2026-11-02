@@ -2,6 +2,84 @@
   "count": 3403,
   "results": [
     {
+      "id": 80206,
+      "name": "snooze",
+      "level": "4k Lv.20",
+      "difficulty": 20.0,
+      "charter": "color",
+      "composer": "wataku SHIKI",
+      "illustrator": "ちふり",
+      "description": "本人上传：第一张4k谱 有问题请见谅喽",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5c35f023-caf2-4e08-8b1a-cc56a9ee5ba9",
+      "preview": "https://phira.5wyxi.com/files/2b2c35c3-9bc9-482f-938d-4d365105c46f",
+      "file": "https://phira.5wyxi.com/files/ae152bef-01e7-475d-a68e-3ddb9b8f94d7",
+      "uploader": 995266,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.91531247,
+      "ratingCount": 4,
+      "created": "2026-10-05T04:09:28.706543Z",
+      "updated": "2026-11-01T04:34:58.604717Z",
+      "chartUpdated": "2026-10-05T04:09:28.706543Z"
+    },
+    {
+      "id": 80203,
+      "name": "snooze",
+      "level": "5k Lv.20",
+      "difficulty": 20.0,
+      "charter": "color",
+      "composer": "wataku SHIKI",
+      "illustrator": "ちふり",
+      "description": "111 第一张5k谱 有什么不会请见谅呗",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/4d1b0d68-0103-4939-8325-44bb9cb708c7",
+      "preview": "https://phira.5wyxi.com/files/52ef4445-239a-499e-8ede-5eaa4411af53",
+      "file": "https://phira.5wyxi.com/files/124850ad-7cd2-46dc-97ba-c889780128f0",
+      "uploader": 995266,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.85237455,
+      "ratingCount": 0,
+      "created": "2026-10-05T04:06:31.389367Z",
+      "updated": "2026-11-01T04:31:18.017521524Z",
+      "chartUpdated": "2026-10-05T04:06:31.389367Z"
+    },
+    {
+      "id": 82530,
+      "name": "Memoria Plūviæ",
+      "level": "4K Lv.δ",
+      "difficulty": 20.0,
+      "charter": "柚_子",
+      "composer": "YistZx",
+      "illustrator": "铃暮Moor",
+      "description": "谱师本人上传，@YistZx#4371204（曲师），去【『Memoria Plūviæ』-YistZx-哔哩哔哩】 https://b23.tv/QBRvPYb\n曲师让塞爆的\n这谱质量可能不太行（重传）\n灌注YistZx喵，灌注YistZx谢谢喵\n（上v rank即可获得谱师白丝一张）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/98e2fbe8-32a2-4179-ad55-6c8f18fa5cc2",
+      "preview": "https://phira.5wyxi.com/files/8729d07f-ef1d-4696-a1fe-0798019fd09b",
+      "file": "https://phira.5wyxi.com/files/54eb95b6-e2f5-4adf-849e-1c7f6ec1b4d0",
+      "uploader": 4331640,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.83396643,
+      "ratingCount": 0,
+      "created": "2026-10-30T13:05:23.992650Z",
+      "updated": "2026-11-01T04:11:57.301309293Z",
+      "chartUpdated": "2026-10-30T13:05:23.992650Z"
+    },
+    {
       "id": 60267,
       "name": "GHOST-NOVA ",
       "level": "STREAM（1.05x）",
@@ -24,7 +102,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.72230154,
+      "rating": 0.8591842,
       "ratingCount": 0,
       "created": "2026-06-07T08:21:08.846015Z",
       "updated": "2026-11-01T00:46:22.640520067Z",
@@ -50,7 +128,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8900297,
+      "rating": 0.9289698,
       "ratingCount": 0,
       "created": "2026-10-31T05:32:48.718486Z",
       "updated": "2026-10-31T15:06:30.268224855Z",
@@ -79,7 +157,7 @@
         "裏表ラバーズ",
         "plain"
       ],
-      "rating": 0.8584857,
+      "rating": 0.9083297,
       "ratingCount": 0,
       "created": "2026-10-14T20:42:29.962417Z",
       "updated": "2026-10-31T13:31:52.484650515Z",
@@ -105,7 +183,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9252183,
+      "rating": 0.9207554,
       "ratingCount": 0,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693907Z",
@@ -131,7 +209,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89196354,
+      "rating": 0.89747417,
       "ratingCount": 0,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847058Z",
@@ -158,7 +236,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.9058537,
+      "rating": 0.9246046,
       "ratingCount": 1,
       "created": "2026-07-10T03:35:35.130231Z",
       "updated": "2026-10-30T03:35:22.894760839Z",
@@ -187,7 +265,7 @@
         "Birthday",
         "plain"
       ],
-      "rating": 0.889727,
+      "rating": 0.90235233,
       "ratingCount": 6,
       "created": "2026-10-24T20:44:51.651713Z",
       "updated": "2026-10-29T03:27:16.191298Z",
@@ -219,7 +297,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.8334561,
+      "rating": 0.8452362,
       "ratingCount": 0,
       "created": "2026-10-27T13:22:53.598130Z",
       "updated": "2026-10-28T11:18:59.092312Z",
@@ -245,7 +323,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89748627,
+      "rating": 0.8981823,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -271,7 +349,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9155856,
+      "rating": 0.91782427,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
@@ -297,7 +375,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8245501,
+      "rating": 0.8408111,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -328,7 +406,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.91920274,
+      "rating": 0.9187773,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -358,7 +436,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9456631,
+      "rating": 0.9490535,
       "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -389,7 +467,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9317264,
+      "rating": 0.92944986,
       "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -420,7 +498,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.91815734,
+      "rating": 0.9184425,
       "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
@@ -451,7 +529,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.8573852,
+      "rating": 0.8769536,
       "ratingCount": 8,
       "created": "2026-10-25T09:45:19.291865Z",
       "updated": "2026-10-25T16:08:14.922494Z",
@@ -477,7 +555,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9210538,
+      "rating": 0.90697473,
       "ratingCount": 35,
       "created": "2026-10-25T11:50:19.571416Z",
       "updated": "2026-10-25T14:53:14.537672Z",
@@ -506,7 +584,7 @@
         "儿歌",
         "plain"
       ],
-      "rating": 0.9173462,
+      "rating": 0.91802907,
       "ratingCount": 86,
       "created": "2025-06-18T16:29:03.429178Z",
       "updated": "2026-10-25T09:05:02.013648Z",
@@ -532,7 +610,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8440869,
+      "rating": 0.8566882,
       "ratingCount": 38,
       "created": "2026-10-03T15:37:01.424133Z",
       "updated": "2026-10-22T05:29:55.306120Z",
@@ -558,7 +636,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80967116,
+      "rating": 0.81089157,
       "ratingCount": 546,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
@@ -584,7 +662,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9531808,
+      "rating": 0.9548289,
       "ratingCount": 49,
       "created": "2026-09-04T10:12:47.673661Z",
       "updated": "2026-10-20T11:54:41.939363Z",
@@ -644,7 +722,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.95238817,
+      "rating": 0.95331824,
       "ratingCount": 158,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
@@ -675,7 +753,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.92517966,
+      "rating": 0.926914,
       "ratingCount": 73,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
@@ -706,7 +784,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.92818004,
+      "rating": 0.9273902,
       "ratingCount": 160,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
@@ -736,7 +814,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.91182554,
+      "rating": 0.91235137,
       "ratingCount": 155,
       "created": "2026-10-18T06:14:07.629900Z",
       "updated": "2026-10-18T09:44:25.485083Z",
@@ -772,85 +850,6 @@
       "created": "2026-10-18T06:12:43.591909Z",
       "updated": "2026-10-18T09:44:13.386861Z",
       "chartUpdated": "2026-10-18T06:12:43.591909Z"
-    },
-    {
-      "id": 81406,
-      "name": "自分後回し",
-      "level": "4K Lv.25",
-      "difficulty": 10.0,
-      "charter": "Future_1",
-      "composer": "P丸樣。",
-      "illustrator": "UK",
-      "description": "玩着不烧心",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a1464d90-4a23-47be-9121-d2ce82284fc0",
-      "preview": "https://phira.5wyxi.com/files/c0a1aac6-68c9-4833-a121-935af524a2a5",
-      "file": "https://phira.5wyxi.com/files/58daf982-720a-45a9-9792-fefe5ff354e3",
-      "uploader": 58238,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.94157124,
-      "ratingCount": 364,
-      "created": "2026-10-17T17:41:14.628970Z",
-      "updated": "2026-10-18T02:06:00.534485Z",
-      "chartUpdated": "2026-10-17T17:41:14.628970Z"
-    },
-    {
-      "id": 81396,
-      "name": "Possesed By The Blood Moon",
-      "level": "AT Lv.18",
-      "difficulty": 18.0,
-      "charter": "深海鲈鱼",
-      "composer": "ReeK",
-      "illustrator": "UK",
-      "description": "CrFt二周年纯配置供谱\nCr二周年\n感谢有你陪伴\nCrFt考核群：893861203",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/245ccea8-bfac-4233-93b5-1b4c753a5fb7",
-      "preview": "https://phira.5wyxi.com/files/39de2c9f-885f-40d9-ab63-1a87ac826857",
-      "file": "https://phira.5wyxi.com/files/b9e22480-651d-4075-9d9b-2a12aa8f4a01",
-      "uploader": 214000,
-      "tags": [
-        "CrFt",
-        "plain"
-      ],
-      "rating": 0.867491,
-      "ratingCount": 30,
-      "created": "2026-10-17T15:58:37.646211Z",
-      "updated": "2026-10-17T16:01:45.125064Z",
-      "chartUpdated": "2026-10-17T15:58:37.646211Z"
-    },
-    {
-      "id": 81389,
-      "name": "おべんきょうたいむ",
-      "level": "4K Master Lv.26",
-      "difficulty": 26.0,
-      "charter": "YMEA",
-      "composer": "litmus feat. 足立レイ",
-      "illustrator": "Lage",
-      "description": "写谱日期：2026.8.17-2026.10.17\n（其实是写了一半的废稿后面又补上了）\n后面让@Lage#852606（设计）重新设计了一下曲绘\n\n其实当时趴床上写谱，写一半的时候写睡着了，后面又赶紧写了\n\n快手 x B站 洋漫YMEA\nDY YMEA\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/658cf7e6-e6d5-4035-b401-fc7d580b66cf",
-      "preview": "https://phira.5wyxi.com/files/7acc3ad6-471d-4698-89e4-6c51a2123fff",
-      "file": "https://phira.5wyxi.com/files/cb1b411a-9a72-4b74-beed-e8151938fe83",
-      "uploader": 4268032,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9304428,
-      "ratingCount": 590,
-      "created": "2026-10-17T15:22:47.377627Z",
-      "updated": "2026-10-17T15:41:42.259065Z",
-      "chartUpdated": "2026-10-17T15:22:47.377627Z"
     }
   ]
 }
