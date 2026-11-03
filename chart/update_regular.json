@@ -1,6 +1,112 @@
 {
-  "count": 9750,
+  "count": 9752,
   "results": [
+    {
+      "id": 82750,
+      "name": "怪诞(GroTesquE)",
+      "level": "AT  Lv.16",
+      "difficulty": 16.700003,
+      "charter": "5071 vs. FreMo",
+      "composer": "Toue_桐尤",
+      "illustrator": "keckyx",
+      "description": "FreMo上传，与5071合作\n\n该谱为雨境杯（R&R Cup）与星脉杯（Nova Pulse Cup）联合决赛谱之一\n\n合作谱师@FZSO5071#2605870",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/cfc66b34-b2be-469b-a321-bae5956c7f78",
+      "preview": "https://phira.5wyxi.com/files/46b8762f-1bd3-4b7e-a3d8-ef3b5b549da4",
+      "file": "https://phira.5wyxi.com/files/12c32ab4-6fca-4d00-ac3d-07e311874ae3",
+      "uploader": 31055,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8605831,
+      "ratingCount": 0,
+      "created": "2026-11-01T02:49:28.027244Z",
+      "updated": "2026-11-03T02:52:26.568766127Z",
+      "chartUpdated": "2026-11-01T02:49:28.027244Z"
+    },
+    {
+      "id": 82822,
+      "name": "[協] Hand in Hand",
+      "level": "SP  Lv.?",
+      "difficulty": 18.2,
+      "charter": "小天是个小男娘",
+      "composer": "livetune",
+      "illustrator": "穗嶋（Costume: shikimi）",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/94dac82f-05a2-415d-b8f1-2a3399c6701a",
+      "preview": "https://phira.5wyxi.com/files/930caff8-e0f3-4529-ac7a-e25abd269b26",
+      "file": "https://phira.5wyxi.com/files/823b40ce-a405-403d-ae43-6a973f885209",
+      "uploader": 1210804,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.70196027,
+      "ratingCount": 0,
+      "created": "2026-11-01T08:45:29.329340Z",
+      "updated": "2026-11-02T15:11:26.958052733Z",
+      "chartUpdated": "2026-11-01T08:45:29.329340Z"
+    },
+    {
+      "id": 82505,
+      "name": "DIMENSION TRAVERSE!",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "Kamoi",
+      "composer": "mochari",
+      "illustrator": "",
+      "description": "本人上传\n关注@b站Kamoioff谢谢喵。",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/02afcd90-2cd8-430e-b620-7fe531bb10cd",
+      "preview": "https://phira.5wyxi.com/files/c03c2eba-487c-449a-9532-f8ce2fc6adad",
+      "file": "https://phira.5wyxi.com/files/385f1cbf-6712-4534-a190-3b479b20661a",
+      "uploader": 165742,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9207803,
+      "ratingCount": 0,
+      "created": "2026-10-30T09:20:06.806314Z",
+      "updated": "2026-11-02T10:33:33.051814Z",
+      "chartUpdated": "2026-10-30T09:20:06.806314Z"
+    },
+    {
+      "id": 82787,
+      "name": "Life is PIANO",
+      "level": "AT Lv.15",
+      "difficulty": 15.900003,
+      "charter": "Yui",
+      "composer": "Junk",
+      "illustrator": "",
+      "description": "本人上传，B站：朝日の唯",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/d6a53d19-a3cb-4686-98fc-ab8721c87d2f",
+      "preview": "https://phira.5wyxi.com/files/4bba41cd-2c13-47c0-b0dd-0afbf570f56d",
+      "file": "https://phira.5wyxi.com/files/6c377582-60e3-403f-8795-360c9ee22ce5",
+      "uploader": 192860,
+      "tags": [
+        "键盘",
+        "多指",
+        "regular"
+      ],
+      "rating": 0.93279225,
+      "ratingCount": 57,
+      "created": "2026-11-01T06:02:40.845889Z",
+      "updated": "2026-11-02T09:10:02.419603085Z",
+      "chartUpdated": "2026-11-01T06:02:40.845889Z"
+    },
     {
       "id": 82729,
       "name": "Titanomachia",
@@ -21,7 +127,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.870769,
+      "rating": 0.8790048,
       "ratingCount": 0,
       "created": "2026-10-31T18:16:48.353766Z",
       "updated": "2026-11-01T13:22:45.893595052Z",
@@ -47,7 +153,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88023615,
+      "rating": 0.8754512,
       "ratingCount": 0,
       "created": "2026-10-01T18:31:20.419761Z",
       "updated": "2026-11-01T11:55:01.448694552Z",
@@ -73,39 +179,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.73991174,
+      "rating": 0.7610204,
       "ratingCount": 0,
       "created": "2026-10-30T10:42:33.405037Z",
       "updated": "2026-11-01T11:54:38.050062972Z",
       "chartUpdated": "2026-10-30T10:42:33.405037Z"
-    },
-    {
-      "id": 82787,
-      "name": "Life is PIANO",
-      "level": "AT Lv.15",
-      "difficulty": 15.0,
-      "charter": "Yui",
-      "composer": "Junk",
-      "illustrator": "",
-      "description": "本人上传，B站：朝日の唯",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/e8bc65c7-8194-40be-8254-41bb28fbd0bd",
-      "preview": "https://phira.5wyxi.com/files/8fd4ecc5-9f66-4f31-94b9-67b22372c113",
-      "file": "https://phira.5wyxi.com/files/14538734-12dd-49db-b782-d60a586c8136",
-      "uploader": 192860,
-      "tags": [
-        "键盘",
-        "多指",
-        "regular"
-      ],
-      "rating": 0.9358255,
-      "ratingCount": 34,
-      "created": "2026-11-01T06:02:40.845889Z",
-      "updated": "2026-11-01T07:12:36.526198Z",
-      "chartUpdated": "2026-11-01T06:02:40.845889Z"
     },
     {
       "id": 82749,
@@ -127,7 +205,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91300267,
+      "rating": 0.91493744,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:00.823594Z",
       "updated": "2026-11-01T05:29:56.607370502Z",
@@ -153,7 +231,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88433444,
+      "rating": 0.87628496,
       "ratingCount": 0,
       "created": "2026-10-18T00:57:19.760508Z",
       "updated": "2026-11-01T04:14:59.355497794Z",
@@ -179,7 +257,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8993263,
+      "rating": 0.9010918,
       "ratingCount": 0,
       "created": "2026-10-27T11:57:14.595844Z",
       "updated": "2026-10-31T13:40:26.938093937Z",
@@ -206,7 +284,7 @@
         "术力口",
         "regular"
       ],
-      "rating": 0.9369809,
+      "rating": 0.9473715,
       "ratingCount": 0,
       "created": "2026-10-25T14:50:01.088858Z",
       "updated": "2026-10-31T13:31:33.611745311Z",
@@ -232,7 +310,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91157305,
+      "rating": 0.914955,
       "ratingCount": 82,
       "created": "2026-10-30T14:12:34.287035Z",
       "updated": "2026-10-31T13:23:07.054422Z",
@@ -258,7 +336,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92243093,
+      "rating": 0.93522376,
       "ratingCount": 0,
       "created": "2026-10-31T12:27:52.027311Z",
       "updated": "2026-10-31T12:29:26.461728747Z",
@@ -284,7 +362,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86115587,
+      "rating": 0.8636547,
       "ratingCount": 0,
       "created": "2026-10-31T12:11:39.546063Z",
       "updated": "2026-10-31T12:20:45.414781798Z",
@@ -310,7 +388,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8731669,
+      "rating": 0.8796555,
       "ratingCount": 0,
       "created": "2026-10-31T07:30:22.822776Z",
       "updated": "2026-10-31T08:27:46.212285221Z",
@@ -340,7 +418,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.90425205,
+      "rating": 0.9115747,
       "ratingCount": 20,
       "created": "2026-10-31T07:18:10.367725Z",
       "updated": "2026-10-31T08:27:11.210289Z",
@@ -368,7 +446,7 @@
         "warma",
         "regular"
       ],
-      "rating": 0.9073443,
+      "rating": 0.91047716,
       "ratingCount": 0,
       "created": "2026-10-29T10:45:04.425960Z",
       "updated": "2026-10-31T01:27:57.092667560Z",
@@ -395,7 +473,7 @@
         "恶魔连结",
         "regular"
       ],
-      "rating": 0.9152439,
+      "rating": 0.9114254,
       "ratingCount": 30,
       "created": "2026-10-30T16:09:45.971733Z",
       "updated": "2026-10-30T16:16:57.736938Z",
@@ -422,7 +500,7 @@
         "恶魔连结",
         "regular"
       ],
-      "rating": 0.9258159,
+      "rating": 0.9263527,
       "ratingCount": 405,
       "created": "2026-10-30T14:26:31.073564Z",
       "updated": "2026-10-30T16:02:53.495426Z",
@@ -448,7 +526,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9063518,
+      "rating": 0.90895426,
       "ratingCount": 129,
       "created": "2026-10-28T12:00:39.101143Z",
       "updated": "2026-10-30T08:15:11.850497Z",
@@ -475,7 +553,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.94818646,
+      "rating": 0.9466757,
       "ratingCount": 307,
       "created": "2026-10-24T13:52:19.087948Z",
       "updated": "2026-10-28T21:54:02.196103Z",
@@ -501,7 +579,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90101147,
+      "rating": 0.9051304,
       "ratingCount": 39,
       "created": "2026-10-24T12:26:48.875671Z",
       "updated": "2026-10-28T11:45:03.370842Z",
@@ -527,7 +605,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9344219,
+      "rating": 0.93543005,
       "ratingCount": 69,
       "created": "2026-10-13T10:18:46.250243Z",
       "updated": "2026-10-27T16:41:58.569438Z",
@@ -553,7 +631,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7963211,
+      "rating": 0.8002417,
       "ratingCount": 19,
       "created": "2026-10-27T14:02:52.139712Z",
       "updated": "2026-10-27T15:12:14.320230Z",
@@ -579,7 +657,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9262552,
+      "rating": 0.92332935,
       "ratingCount": 47,
       "created": "2026-09-12T09:19:22.673635Z",
       "updated": "2026-10-27T10:21:56.481969Z",
@@ -605,7 +683,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9021882,
+      "rating": 0.9035445,
       "ratingCount": 61,
       "created": "2026-10-24T13:20:51.442580Z",
       "updated": "2026-10-27T00:39:20.546553Z",
@@ -631,7 +709,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83351827,
+      "rating": 0.8309872,
       "ratingCount": 22,
       "created": "2026-10-25T05:05:25.595093Z",
       "updated": "2026-10-27T00:38:30.854594Z",
@@ -657,7 +735,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91841346,
+      "rating": 0.9169527,
       "ratingCount": 35,
       "created": "2026-10-26T09:53:13.616324Z",
       "updated": "2026-10-27T00:37:43.692813Z",
@@ -683,7 +761,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9264152,
+      "rating": 0.92124826,
       "ratingCount": 40,
       "created": "2026-10-26T04:40:38.039532Z",
       "updated": "2026-10-27T00:31:17.390956Z",
@@ -709,92 +787,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.80819803,
+      "rating": 0.8065402,
       "ratingCount": 34,
       "created": "2026-10-26T02:25:18.887574Z",
       "updated": "2026-10-26T14:43:57.881607Z",
       "chartUpdated": "2026-10-26T02:25:18.887574Z"
-    },
-    {
-      "id": 82235,
-      "name": "MEGA POP",
-      "level": "AT Lv.18",
-      "difficulty": 18.0,
-      "charter": "縱連打の信者★歐內",
-      "composer": "Urtica_Ferox",
-      "illustrator": "HAT",
-      "description": "本人上传\n物量：1566\nB站：欧内的灰\n2026.10.17：修改部分排键",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/61fe5019-49a6-4371-9de3-e5914052af04",
-      "preview": "https://phira.5wyxi.com/files/3b56d851-d948-4af7-8039-8c1dd2cfbf95",
-      "file": "https://phira.5wyxi.com/files/3a3edbc1-350f-4161-9aca-71d99dc00b74",
-      "uploader": 2411003,
-      "tags": [
-        "键盘",
-        "Dynamix",
-        "高难",
-        "regular"
-      ],
-      "rating": 0.86733985,
-      "ratingCount": 37,
-      "created": "2026-10-26T07:51:23.382168Z",
-      "updated": "2026-10-26T13:14:47.110794Z",
-      "chartUpdated": "2026-10-26T07:51:23.382168Z"
-    },
-    {
-      "id": 80893,
-      "name": "Phantigma",
-      "level": "IN Lv.16",
-      "difficulty": 16.100004,
-      "charter": "Nyiou",
-      "composer": "打打だいず",
-      "illustrator": "Lai。 / Star4th / Schuld / poca_p0ca",
-      "description": "B站 ：Nyiou0314\n八譜OuO\n稍微認真寫了一些故事(?)和表演\n第一次寫了近三分鐘的歌，稍微吃力一些OAO\n\n定數：16.1\n物量：1633\nbpm：210",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/0c705998-32d5-444d-9594-f8ea7608cb22",
-      "preview": "https://phira.5wyxi.com/files/1facf8ae-eaa4-439f-b3b9-5d6344123200",
-      "file": "https://phira.5wyxi.com/files/157ebacd-c708-4dbe-b217-0a0485d7b1c3",
-      "uploader": 439874,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9357965,
-      "ratingCount": 273,
-      "created": "2026-10-12T03:26:57.123438Z",
-      "updated": "2026-10-25T09:51:16.140216Z",
-      "chartUpdated": "2026-10-12T03:26:57.123438Z"
-    },
-    {
-      "id": 78223,
-      "name": "Meltovt Necrosys",
-      "level": "AT Lv.16",
-      "difficulty": 16.300001,
-      "charter": "Nyiou",
-      "composer": "Halv",
-      "illustrator": "nyanizero feat. yx",
-      "description": "七譜，上一張(70781)IN的表演寫的比較急促，這次寫了AT的同時用心寫了一次表演OwO\n\n定數：16.3\n物量：1300\nbpm：210",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ca2f41c4-9767-4ca7-acbe-18793d226173",
-      "preview": "https://phira.5wyxi.com/files/a7353a25-0918-4861-b868-cd14398efb9a",
-      "file": "https://phira.5wyxi.com/files/cd6d5724-4ef5-4203-ac4d-a92309989459",
-      "uploader": 439874,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.88480186,
-      "ratingCount": 160,
-      "created": "2026-09-16T08:37:13.249712Z",
-      "updated": "2026-10-25T09:51:04.220952Z",
-      "chartUpdated": "2026-10-25T09:51:04.220952Z"
     }
   ]
 }
