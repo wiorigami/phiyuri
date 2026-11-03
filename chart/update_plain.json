@@ -1,6 +1,59 @@
 {
-  "count": 3403,
+  "count": 3405,
   "results": [
+    {
+      "id": 82926,
+      "name": "Completeness Under Incompleteness",
+      "level": "4k Lv.31",
+      "difficulty": 30.0,
+      "charter": "尘晰",
+      "composer": "かめるかめりあ",
+      "illustrator": "",
+      "description": "本人上传，算是一个自我突破性谱面，打破了自己原本公式化做谱的风格，大概8dan…？玩的开心",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/7fc6bb97-ece2-4583-b936-07da77a90167",
+      "preview": "https://phira.5wyxi.com/files/28c5889e-6023-4099-85ee-2d39fa4101fa",
+      "file": "https://phira.5wyxi.com/files/372042f4-f4ec-4614-8b2b-eb49e2f7477f",
+      "uploader": 4379248,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.8779753,
+      "ratingCount": 0,
+      "created": "2026-11-02T13:40:04.886729Z",
+      "updated": "2026-11-02T15:10:12.641076330Z",
+      "chartUpdated": "2026-11-02T13:40:04.886729Z"
+    },
+    {
+      "id": 82880,
+      "name": "Memoria Plūviæ",
+      "level": "4K Lv.35",
+      "difficulty": 10.0,
+      "charter": "柚_子/D-D-Dize",
+      "composer": "YistZx",
+      "illustrator": "铃暮Moor",
+      "description": "谱师其中之一上传，已经过所有谱师同意。原音乐（视频）【『Memoria Plūviæ』-YistZx-哔哩哔哩】 https://b23.tv/L1MRJwN\n灌注YistZx喵，灌注YistZx谢谢喵\n@YistZx#4371204（曲师）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/96a97c11-f8f9-4e29-aa20-8949c0ada9b1",
+      "preview": "https://phira.5wyxi.com/files/a0a51bd8-d843-4886-8f29-62d9f07a1377",
+      "file": "https://phira.5wyxi.com/files/38fbde31-1981-4594-acff-5077765afd65",
+      "uploader": 4331640,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.85193914,
+      "ratingCount": 0,
+      "created": "2026-11-01T15:06:18.904706Z",
+      "updated": "2026-11-02T11:06:42.929497540Z",
+      "chartUpdated": "2026-11-01T15:06:18.904706Z"
+    },
     {
       "id": 80206,
       "name": "snooze",
@@ -21,7 +74,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91531247,
+      "rating": 0.9164779,
       "ratingCount": 4,
       "created": "2026-10-05T04:09:28.706543Z",
       "updated": "2026-11-01T04:34:58.604717Z",
@@ -47,7 +100,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85237455,
+      "rating": 0.89579016,
       "ratingCount": 0,
       "created": "2026-10-05T04:06:31.389367Z",
       "updated": "2026-11-01T04:31:18.017521524Z",
@@ -102,7 +155,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.8591842,
+      "rating": 0.8660075,
       "ratingCount": 0,
       "created": "2026-06-07T08:21:08.846015Z",
       "updated": "2026-11-01T00:46:22.640520067Z",
@@ -128,7 +181,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9289698,
+      "rating": 0.9253485,
       "ratingCount": 0,
       "created": "2026-10-31T05:32:48.718486Z",
       "updated": "2026-10-31T15:06:30.268224855Z",
@@ -157,7 +210,7 @@
         "裏表ラバーズ",
         "plain"
       ],
-      "rating": 0.9083297,
+      "rating": 0.9248597,
       "ratingCount": 0,
       "created": "2026-10-14T20:42:29.962417Z",
       "updated": "2026-10-31T13:31:52.484650515Z",
@@ -183,7 +236,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9207554,
+      "rating": 0.9216077,
       "ratingCount": 0,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693907Z",
@@ -209,7 +262,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89747417,
+      "rating": 0.9044793,
       "ratingCount": 0,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847058Z",
@@ -236,7 +289,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.9246046,
+      "rating": 0.9329762,
       "ratingCount": 1,
       "created": "2026-07-10T03:35:35.130231Z",
       "updated": "2026-10-30T03:35:22.894760839Z",
@@ -265,7 +318,7 @@
         "Birthday",
         "plain"
       ],
-      "rating": 0.90235233,
+      "rating": 0.9073054,
       "ratingCount": 6,
       "created": "2026-10-24T20:44:51.651713Z",
       "updated": "2026-10-29T03:27:16.191298Z",
@@ -323,7 +376,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8981823,
+      "rating": 0.90184534,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -349,7 +402,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91782427,
+      "rating": 0.9156366,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
@@ -375,7 +428,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8408111,
+      "rating": 0.8367305,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -406,7 +459,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9187773,
+      "rating": 0.922469,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -436,7 +489,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.9490535,
+      "rating": 0.95218444,
       "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -467,7 +520,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.92944986,
+      "rating": 0.9282271,
       "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -498,7 +551,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.9184425,
+      "rating": 0.9190249,
       "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
@@ -529,7 +582,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.8769536,
+      "rating": 0.87852144,
       "ratingCount": 8,
       "created": "2026-10-25T09:45:19.291865Z",
       "updated": "2026-10-25T16:08:14.922494Z",
@@ -636,7 +689,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.81089157,
+      "rating": 0.8107827,
       "ratingCount": 546,
       "created": "2026-10-21T23:21:22.538921Z",
       "updated": "2026-10-22T04:25:07.679671Z",
@@ -722,7 +775,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.95331824,
+      "rating": 0.9540098,
       "ratingCount": 158,
       "created": "2026-10-18T06:14:51.424880Z",
       "updated": "2026-10-18T09:45:07.869232Z",
@@ -753,7 +806,7 @@
         "7",
         "plain"
       ],
-      "rating": 0.926914,
+      "rating": 0.9285698,
       "ratingCount": 73,
       "created": "2026-10-18T06:14:32.903649Z",
       "updated": "2026-10-18T09:44:55.778862Z",
@@ -784,72 +837,11 @@
         "7",
         "plain"
       ],
-      "rating": 0.9273902,
+      "rating": 0.9277943,
       "ratingCount": 160,
       "created": "2026-10-18T06:14:23.753631Z",
       "updated": "2026-10-18T09:44:40.064497Z",
       "chartUpdated": "2026-10-18T06:14:23.753631Z"
-    },
-    {
-      "id": 81488,
-      "name": "ISCHEZAYU",
-      "level": "Sіmple Lv.7",
-      "difficulty": 6.7000003,
-      "charter": "Anxiety",
-      "composer": "bilbordy",
-      "illustrator": "Various Artists",
-      "description": "DFC 7th Dan Sіmple 单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b17e610d-dda0-4c15-baac-f1dd8989beb8",
-      "preview": "https://phira.5wyxi.com/files/198d9522-264e-4407-9dc2-9ea6d10d0da9",
-      "file": "https://phira.5wyxi.com/files/e1ab5796-47b9-4622-8c8f-cd627c50a170",
-      "uploader": 4323499,
-      "tags": [
-        "DFC",
-        "叠",
-        "双指",
-        "7",
-        "plain"
-      ],
-      "rating": 0.91235137,
-      "ratingCount": 155,
-      "created": "2026-10-18T06:14:07.629900Z",
-      "updated": "2026-10-18T09:44:25.485083Z",
-      "chartUpdated": "2026-10-18T06:14:07.629900Z"
-    },
-    {
-      "id": 81487,
-      "name": "Emptiness",
-      "level": "Speed Lv.7",
-      "difficulty": 7.1,
-      "charter": "Anxiety",
-      "composer": "Mwk&初音ミク",
-      "illustrator": "Re:Rin",
-      "description": "DFC 7th Dan Speed 单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/926675ef-c381-4f2f-a0dd-445ff4af5fd6",
-      "preview": "https://phira.5wyxi.com/files/8f940a4a-0749-4d07-84f9-b65dfe918cb3",
-      "file": "https://phira.5wyxi.com/files/ee8bc297-808e-4098-8f89-9cb2f914ddf4",
-      "uploader": 4323499,
-      "tags": [
-        "DFC",
-        "乱",
-        "双指",
-        "Speed",
-        "7",
-        "plain"
-      ],
-      "rating": 0.89717144,
-      "ratingCount": 22,
-      "created": "2026-10-18T06:12:43.591909Z",
-      "updated": "2026-10-18T09:44:13.386861Z",
-      "chartUpdated": "2026-10-18T06:12:43.591909Z"
     }
   ]
 }
