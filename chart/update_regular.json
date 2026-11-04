@@ -2,6 +2,93 @@
   "count": 9752,
   "results": [
     {
+      "id": 81592,
+      "name": "Breakcore WTF!?",
+      "level": "Fork Lv.You",
+      "difficulty": 10.0,
+      "charter": "KiLi-sens!?",
+      "composer": "LeaF",
+      "illustrator": "LeaF",
+      "description": "本人上传\n【光敏性癫痫警告】谱面内含闪烁画面\n严重初见杀预警!!!!!\n\n生贺作\n难度：17.2\nBPM：125\n全谱四指可解\n\n预览视频 BV1ean36kEmb\nB站 @KiLi-sens\n抖音号 Xd4n\n\n制谱净时长：57h\n总事件数：15282\n线数：21",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c389203c-47cf-44cc-9bd2-b6cce1dc1994",
+      "preview": "https://phira.5wyxi.com/files/4fc41b38-28e5-4a87-94d7-64fe334d60f4",
+      "file": "https://phira.5wyxi.com/files/6eb054ee-7f2a-4546-8e76-815a4b678446",
+      "uploader": 200430,
+      "tags": [
+        "整活",
+        "breakcorewtf",
+        "初见杀",
+        "四指",
+        "regular"
+      ],
+      "rating": 0.7434371,
+      "ratingCount": 0,
+      "created": "2026-10-18T16:07:20.279470Z",
+      "updated": "2026-11-04T02:59:50.510644418Z",
+      "chartUpdated": "2026-10-18T16:07:20.279470Z"
+    },
+    {
+      "id": 82964,
+      "name": "BLITZ RESTART+",
+      "level": "Re:AT⁹ Lv.19",
+      "difficulty": 19.2,
+      "charter": "Rockstar Bonnie『+』",
+      "composer": "Dj-orca",
+      "illustrator": "9q",
+      "description": "写给@ZincMeteor梓弭#142987（寿星）的生贺谱！\n魔王极限键盘，难度极大，请谨慎游玩\n定数：19.2\n物量：3667\n@RW_疯狂世界#1186170（配置协助），负责俩处LN段配置\n首杀可以领取2顿疯狂星期四（100r），二杀为一顿（50r）\nb站关注欧内的灰谢谢喵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/53d88def-bd32-4cb5-9e66-93c74749ccc0",
+      "preview": "https://phira.5wyxi.com/files/28c5f9a8-f409-4fd1-87b0-34322b1854db",
+      "file": "https://phira.5wyxi.com/files/be18a380-4b7e-457d-8b79-795ef4dfc827",
+      "uploader": 2411003,
+      "tags": [
+        "6k",
+        "SV",
+        "键盘",
+        "极限",
+        "高难",
+        "regular"
+      ],
+      "rating": 0.90660846,
+      "ratingCount": 0,
+      "created": "2026-11-03T11:24:37.631699Z",
+      "updated": "2026-11-03T15:22:25.912410550Z",
+      "chartUpdated": "2026-11-03T11:24:37.631699Z"
+    },
+    {
+      "id": 82906,
+      "name": "すきすき☆ハスキー！～バグわん０歳児・るいちゃんのテーマ～",
+      "level": "IN  Lv.15",
+      "difficulty": 15.0,
+      "charter": "R8P3S",
+      "composer": "おにきよ(レジスタンス和歌山)、阿黒コーポレーション (feat. 蓮希るい)",
+      "illustrator": "はなまる、茶柱たつみ",
+      "description": "本谱为6thWJC参赛谱......的完成版本！\n也是难得写了一回纯良谱面\n希望各位游玩愉快！\n（比例使用3:2以获取最佳体验）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/11c61542-f6a9-4625-a8cb-0b3aaa335ff5",
+      "preview": "https://phira.5wyxi.com/files/26cf34e4-b785-46b3-a372-b9fd5f23cefd",
+      "file": "https://phira.5wyxi.com/files/fbdd0f1a-938a-4c56-8b4f-c4545119e353",
+      "uploader": 9376,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9522291,
+      "ratingCount": 0,
+      "created": "2026-11-02T11:42:00.214793Z",
+      "updated": "2026-11-03T13:06:33.440248495Z",
+      "chartUpdated": "2026-11-02T11:42:00.214793Z"
+    },
+    {
       "id": 82750,
       "name": "怪诞(GroTesquE)",
       "level": "AT  Lv.16",
@@ -21,7 +108,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8605831,
+      "rating": 0.9197304,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:28.027244Z",
       "updated": "2026-11-03T02:52:26.568766127Z",
@@ -47,7 +134,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.70196027,
+      "rating": 0.67264324,
       "ratingCount": 0,
       "created": "2026-11-01T08:45:29.329340Z",
       "updated": "2026-11-02T15:11:26.958052733Z",
@@ -73,7 +160,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9207803,
+      "rating": 0.9339598,
       "ratingCount": 0,
       "created": "2026-10-30T09:20:06.806314Z",
       "updated": "2026-11-02T10:33:33.051814Z",
@@ -101,7 +188,7 @@
         "多指",
         "regular"
       ],
-      "rating": 0.93279225,
+      "rating": 0.9398693,
       "ratingCount": 57,
       "created": "2026-11-01T06:02:40.845889Z",
       "updated": "2026-11-02T09:10:02.419603085Z",
@@ -127,7 +214,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8790048,
+      "rating": 0.8799782,
       "ratingCount": 0,
       "created": "2026-10-31T18:16:48.353766Z",
       "updated": "2026-11-01T13:22:45.893595052Z",
@@ -153,7 +240,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8754512,
+      "rating": 0.8889141,
       "ratingCount": 0,
       "created": "2026-10-01T18:31:20.419761Z",
       "updated": "2026-11-01T11:55:01.448694552Z",
@@ -179,7 +266,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7610204,
+      "rating": 0.7679647,
       "ratingCount": 0,
       "created": "2026-10-30T10:42:33.405037Z",
       "updated": "2026-11-01T11:54:38.050062972Z",
@@ -205,7 +292,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91493744,
+      "rating": 0.9190757,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:00.823594Z",
       "updated": "2026-11-01T05:29:56.607370502Z",
@@ -231,7 +318,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87628496,
+      "rating": 0.884594,
       "ratingCount": 0,
       "created": "2026-10-18T00:57:19.760508Z",
       "updated": "2026-11-01T04:14:59.355497794Z",
@@ -257,7 +344,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9010918,
+      "rating": 0.9029852,
       "ratingCount": 0,
       "created": "2026-10-27T11:57:14.595844Z",
       "updated": "2026-10-31T13:40:26.938093937Z",
@@ -284,7 +371,7 @@
         "术力口",
         "regular"
       ],
-      "rating": 0.9473715,
+      "rating": 0.95140123,
       "ratingCount": 0,
       "created": "2026-10-25T14:50:01.088858Z",
       "updated": "2026-10-31T13:31:33.611745311Z",
@@ -310,7 +397,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.914955,
+      "rating": 0.9160449,
       "ratingCount": 82,
       "created": "2026-10-30T14:12:34.287035Z",
       "updated": "2026-10-31T13:23:07.054422Z",
@@ -336,7 +423,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93522376,
+      "rating": 0.94103533,
       "ratingCount": 0,
       "created": "2026-10-31T12:27:52.027311Z",
       "updated": "2026-10-31T12:29:26.461728747Z",
@@ -362,7 +449,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8636547,
+      "rating": 0.8649164,
       "ratingCount": 0,
       "created": "2026-10-31T12:11:39.546063Z",
       "updated": "2026-10-31T12:20:45.414781798Z",
@@ -388,7 +475,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8796555,
+      "rating": 0.88519615,
       "ratingCount": 0,
       "created": "2026-10-31T07:30:22.822776Z",
       "updated": "2026-10-31T08:27:46.212285221Z",
@@ -418,7 +505,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.9115747,
+      "rating": 0.9028595,
       "ratingCount": 20,
       "created": "2026-10-31T07:18:10.367725Z",
       "updated": "2026-10-31T08:27:11.210289Z",
@@ -446,7 +533,7 @@
         "warma",
         "regular"
       ],
-      "rating": 0.91047716,
+      "rating": 0.9115353,
       "ratingCount": 0,
       "created": "2026-10-29T10:45:04.425960Z",
       "updated": "2026-10-31T01:27:57.092667560Z",
@@ -473,7 +560,7 @@
         "恶魔连结",
         "regular"
       ],
-      "rating": 0.9114254,
+      "rating": 0.9160754,
       "ratingCount": 30,
       "created": "2026-10-30T16:09:45.971733Z",
       "updated": "2026-10-30T16:16:57.736938Z",
@@ -500,7 +587,7 @@
         "恶魔连结",
         "regular"
       ],
-      "rating": 0.9263527,
+      "rating": 0.92732483,
       "ratingCount": 405,
       "created": "2026-10-30T14:26:31.073564Z",
       "updated": "2026-10-30T16:02:53.495426Z",
@@ -526,7 +613,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90895426,
+      "rating": 0.91026646,
       "ratingCount": 129,
       "created": "2026-10-28T12:00:39.101143Z",
       "updated": "2026-10-30T08:15:11.850497Z",
@@ -553,7 +640,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.9466757,
+      "rating": 0.9463883,
       "ratingCount": 307,
       "created": "2026-10-24T13:52:19.087948Z",
       "updated": "2026-10-28T21:54:02.196103Z",
@@ -579,7 +666,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9051304,
+      "rating": 0.9087107,
       "ratingCount": 39,
       "created": "2026-10-24T12:26:48.875671Z",
       "updated": "2026-10-28T11:45:03.370842Z",
@@ -605,7 +692,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93543005,
+      "rating": 0.93684244,
       "ratingCount": 69,
       "created": "2026-10-13T10:18:46.250243Z",
       "updated": "2026-10-27T16:41:58.569438Z",
@@ -631,7 +718,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8002417,
+      "rating": 0.79173416,
       "ratingCount": 19,
       "created": "2026-10-27T14:02:52.139712Z",
       "updated": "2026-10-27T15:12:14.320230Z",
@@ -657,7 +744,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92332935,
+      "rating": 0.9223481,
       "ratingCount": 47,
       "created": "2026-09-12T09:19:22.673635Z",
       "updated": "2026-10-27T10:21:56.481969Z",
@@ -683,7 +770,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9035445,
+      "rating": 0.9043829,
       "ratingCount": 61,
       "created": "2026-10-24T13:20:51.442580Z",
       "updated": "2026-10-27T00:39:20.546553Z",
@@ -709,89 +796,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8309872,
+      "rating": 0.82661057,
       "ratingCount": 22,
       "created": "2026-10-25T05:05:25.595093Z",
       "updated": "2026-10-27T00:38:30.854594Z",
       "chartUpdated": "2026-10-25T05:05:25.595093Z"
-    },
-    {
-      "id": 82241,
-      "name": "director kasukasu puppy",
-      "level": "AT Lv.17",
-      "difficulty": 17.0,
-      "charter": "SubDaimeng",
-      "composer": "kasumi",
-      "illustrator": "うてなゆき (ネムレス)",
-      "description": null,
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/7c127868-12f4-4bd6-9a4f-49070c0ecef7",
-      "preview": "https://phira.5wyxi.com/files/a215f617-3c79-4031-b8ae-9d9e01651feb",
-      "file": "https://phira.5wyxi.com/files/fd751ff7-0597-45d6-af2c-3b32464c21c2",
-      "uploader": 2777,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9169527,
-      "ratingCount": 35,
-      "created": "2026-10-26T09:53:13.616324Z",
-      "updated": "2026-10-27T00:37:43.692813Z",
-      "chartUpdated": "2026-10-26T09:53:13.616324Z"
-    },
-    {
-      "id": 82224,
-      "name": "Demon Form",
-      "level": "IN  Lv.16",
-      "difficulty": 16.7,
-      "charter": "awaaz vs 大只黄毛狗狗",
-      "composer": "seatrus",
-      "illustrator": "",
-      "description": "@awaaz#6134\nTHU图XI乐比赛供谱，希望大家喜欢",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5f8673e3-2ef7-4213-b763-9d06b5a7467d",
-      "preview": "https://phira.5wyxi.com/files/58c01677-6e19-4b8d-8c64-92406b1f5155",
-      "file": "https://phira.5wyxi.com/files/97ab171f-9240-4413-ba48-602bc7f9e62a",
-      "uploader": 340260,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.92124826,
-      "ratingCount": 40,
-      "created": "2026-10-26T04:40:38.039532Z",
-      "updated": "2026-10-27T00:31:17.390956Z",
-      "chartUpdated": "2026-10-26T04:40:38.039532Z"
-    },
-    {
-      "id": 82222,
-      "name": "Helios",
-      "level": "AT Lv.16",
-      "difficulty": 16.300001,
-      "charter": "NotTure1",
-      "composer": "NOA(Cortrix) & BotaNya",
-      "illustrator": "Gemini",
-      "description": "譜師本人上傳\n曲繪怕版權我就換了一個雷霆圖片上來（憋笑",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/b78bc3b0-ee5d-408a-b9e6-a555f228fe90",
-      "preview": "https://phira.5wyxi.com/files/74084816-2c51-4257-9bbd-2e2db612d8a2",
-      "file": "https://phira.5wyxi.com/files/46aa7c2e-3f85-42d7-8366-8c6971d3ac85",
-      "uploader": 1813623,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8065402,
-      "ratingCount": 34,
-      "created": "2026-10-26T02:25:18.887574Z",
-      "updated": "2026-10-26T14:43:57.881607Z",
-      "chartUpdated": "2026-10-26T02:25:18.887574Z"
     }
   ]
 }
