@@ -1,6 +1,32 @@
 {
-  "count": 9758,
+  "count": 9756,
   "results": [
+    {
+      "id": 83125,
+      "name": "Twilight",
+      "level": "IN Lv.12",
+      "difficulty": 12.0,
+      "charter": "残光",
+      "composer": "Synthion",
+      "illustrator": "行間",
+      "description": "打磨了一张破晓般的小低难～",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/836173e6-dce6-4c77-923f-df0948e4ea9b",
+      "preview": "https://phira.5wyxi.com/files/8002c9df-4162-452a-b38c-c21587b82f34",
+      "file": "https://phira.5wyxi.com/files/d8003893-46d4-484d-9d65-63c63c2afa2f",
+      "uploader": 288160,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.93312764,
+      "ratingCount": 0,
+      "created": "2026-11-05T18:39:19.500417Z",
+      "updated": "2026-11-06T12:15:15.439649550Z",
+      "chartUpdated": "2026-11-05T18:39:19.500417Z"
+    },
     {
       "id": 82523,
       "name": "crystallized",
@@ -21,7 +47,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9062763,
+      "rating": 0.9352106,
       "ratingCount": 0,
       "created": "2026-10-30T12:21:19.725761Z",
       "updated": "2026-11-05T12:49:01.215136Z",
@@ -48,7 +74,7 @@
         "Ado",
         "regular"
       ],
-      "rating": 0.9546268,
+      "rating": 0.95296353,
       "ratingCount": 0,
       "created": "2026-08-03T04:15:02.203830Z",
       "updated": "2026-11-05T03:31:52.672360377Z",
@@ -64,9 +90,9 @@
       "illustrator": "水沐汐",
       "description": "为本人青花瓷-Khonus所作。\nPhira昵称Khonus，b站昵称青花瓷-Khonus，于2026年11月8日发视频证明。",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/e41de60b-4a86-4688-b76a-287cac332b85",
       "preview": "https://phira.5wyxi.com/files/d2308981-1ebc-4811-a0ce-02f1828d4115",
       "file": "https://phira.5wyxi.com/files/af2ee81d-e46a-44c7-bb70-abb87a375727",
@@ -74,10 +100,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89600235,
-      "ratingCount": 0,
+      "rating": 0.8947825,
+      "ratingCount": 65,
       "created": "2026-11-04T09:32:21.879422Z",
-      "updated": "2026-11-04T14:40:02.128035182Z",
+      "updated": "2026-11-04T14:40:02.128035Z",
       "chartUpdated": "2026-11-04T09:32:21.879422Z"
     },
     {
@@ -101,7 +127,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.90449625,
+      "rating": 0.9024558,
       "ratingCount": 0,
       "created": "2026-11-04T14:16:51.170197Z",
       "updated": "2026-11-04T14:30:00.314457574Z",
@@ -127,7 +153,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94121194,
+      "rating": 0.9381025,
       "ratingCount": 0,
       "created": "2026-11-04T05:41:21.545361Z",
       "updated": "2026-11-04T14:26:39.547242425Z",
@@ -153,7 +179,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95294386,
+      "rating": 0.95173496,
       "ratingCount": 0,
       "created": "2026-11-03T14:18:07.925036Z",
       "updated": "2026-11-04T14:25:15.840299577Z",
@@ -179,7 +205,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89209306,
+      "rating": 0.90517056,
       "ratingCount": 0,
       "created": "2026-11-04T05:54:15.095004Z",
       "updated": "2026-11-04T14:25:01.020834104Z",
@@ -205,7 +231,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9281227,
+      "rating": 0.9409678,
       "ratingCount": 0,
       "created": "2026-11-04T14:14:30.804266Z",
       "updated": "2026-11-04T14:24:42.274210239Z",
@@ -231,7 +257,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9349253,
+      "rating": 0.93596876,
       "ratingCount": 154,
       "created": "2026-02-08T12:37:36.744956Z",
       "updated": "2026-11-04T12:35:37.265196Z",
@@ -257,7 +283,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90050423,
+      "rating": 0.9095119,
       "ratingCount": 0,
       "created": "2026-11-03T12:28:39.451295Z",
       "updated": "2026-11-04T10:11:46.852124690Z",
@@ -287,7 +313,7 @@
         "四指",
         "regular"
       ],
-      "rating": 0.8473247,
+      "rating": 0.8464139,
       "ratingCount": 0,
       "created": "2026-10-18T16:07:20.279470Z",
       "updated": "2026-11-04T02:59:50.510644418Z",
@@ -318,7 +344,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.937303,
+      "rating": 0.9149083,
       "ratingCount": 0,
       "created": "2026-11-03T11:24:37.631699Z",
       "updated": "2026-11-03T15:22:25.912410550Z",
@@ -344,7 +370,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94709146,
+      "rating": 0.9432027,
       "ratingCount": 0,
       "created": "2026-11-02T11:42:00.214793Z",
       "updated": "2026-11-03T13:06:33.440248495Z",
@@ -370,7 +396,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9106489,
+      "rating": 0.90875936,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:28.027244Z",
       "updated": "2026-11-03T02:52:26.568766127Z",
@@ -396,7 +422,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.6649771,
+      "rating": 0.64064515,
       "ratingCount": 0,
       "created": "2026-11-01T08:45:29.329340Z",
       "updated": "2026-11-02T15:11:26.958052733Z",
@@ -422,7 +448,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93596214,
+      "rating": 0.940243,
       "ratingCount": 0,
       "created": "2026-10-30T09:20:06.806314Z",
       "updated": "2026-11-02T10:33:33.051814Z",
@@ -450,7 +476,7 @@
         "多指",
         "regular"
       ],
-      "rating": 0.93795735,
+      "rating": 0.94181806,
       "ratingCount": 57,
       "created": "2026-11-01T06:02:40.845889Z",
       "updated": "2026-11-02T09:10:02.419603085Z",
@@ -476,7 +502,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87800235,
+      "rating": 0.887529,
       "ratingCount": 0,
       "created": "2026-10-31T18:16:48.353766Z",
       "updated": "2026-11-01T13:22:45.893595052Z",
@@ -502,7 +528,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8929276,
+      "rating": 0.8907415,
       "ratingCount": 0,
       "created": "2026-10-01T18:31:20.419761Z",
       "updated": "2026-11-01T11:55:01.448694552Z",
@@ -528,7 +554,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.79871833,
+      "rating": 0.8127521,
       "ratingCount": 0,
       "created": "2026-10-30T10:42:33.405037Z",
       "updated": "2026-11-01T11:54:38.050062972Z",
@@ -554,7 +580,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92408407,
+      "rating": 0.92740613,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:00.823594Z",
       "updated": "2026-11-01T05:29:56.607370502Z",
@@ -580,7 +606,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8859155,
+      "rating": 0.8911146,
       "ratingCount": 0,
       "created": "2026-10-18T00:57:19.760508Z",
       "updated": "2026-11-01T04:14:59.355497794Z",
@@ -606,7 +632,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90517217,
+      "rating": 0.9041632,
       "ratingCount": 0,
       "created": "2026-10-27T11:57:14.595844Z",
       "updated": "2026-10-31T13:40:26.938093937Z",
@@ -633,7 +659,7 @@
         "术力口",
         "regular"
       ],
-      "rating": 0.95541084,
+      "rating": 0.95528835,
       "ratingCount": 0,
       "created": "2026-10-25T14:50:01.088858Z",
       "updated": "2026-10-31T13:31:33.611745311Z",
@@ -659,7 +685,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9164087,
+      "rating": 0.91042113,
       "ratingCount": 82,
       "created": "2026-10-30T14:12:34.287035Z",
       "updated": "2026-10-31T13:23:07.054422Z",
@@ -685,7 +711,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9351081,
+      "rating": 0.93763345,
       "ratingCount": 0,
       "created": "2026-10-31T12:27:52.027311Z",
       "updated": "2026-10-31T12:29:26.461728747Z",
@@ -711,7 +737,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8649744,
+      "rating": 0.8652257,
       "ratingCount": 0,
       "created": "2026-10-31T12:11:39.546063Z",
       "updated": "2026-10-31T12:20:45.414781798Z",
@@ -737,7 +763,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89218414,
+      "rating": 0.8916244,
       "ratingCount": 0,
       "created": "2026-10-31T07:30:22.822776Z",
       "updated": "2026-10-31T08:27:46.212285221Z",
@@ -767,39 +793,11 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.9077934,
+      "rating": 0.9119819,
       "ratingCount": 20,
       "created": "2026-10-31T07:18:10.367725Z",
       "updated": "2026-10-31T08:27:11.210289Z",
       "chartUpdated": "2026-10-31T07:18:10.367725Z"
-    },
-    {
-      "id": 82448,
-      "name": "Sugar Song and Bitter Step",
-      "level": "IN Lv.13",
-      "difficulty": 13.0,
-      "charter": "羽梦明",
-      "composer": "UNISON SQUARE GARDEN (cover by Warma)",
-      "illustrator": "Warma",
-      "description": "2026沃玛音游生贺单品谱面\n谱师本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/54374a40-4cd4-42e3-b8da-6dda0f645efc",
-      "preview": "https://phira.5wyxi.com/files/a38a8c76-ca3b-42ec-9d15-435e35d03d1b",
-      "file": "https://phira.5wyxi.com/files/937f4277-161d-4fe0-b66b-cc0ae5d77ea2",
-      "uploader": 120,
-      "tags": [
-        "沃玛",
-        "warma",
-        "regular"
-      ],
-      "rating": 0.9167391,
-      "ratingCount": 0,
-      "created": "2026-10-29T10:45:04.425960Z",
-      "updated": "2026-10-31T01:27:57.092667560Z",
-      "chartUpdated": "2026-10-29T10:45:04.425960Z"
     }
   ]
 }

@@ -13,11 +13,11 @@
   "name": "Recall Memories",
   "preview": "https://phira.5wyxi.com/files/d2308981-1ebc-4811-a0ce-02f1828d4115",
   "ranked": false,
-  "rating": 0.89600235,
-  "ratingCount": 64,
-  "reviewed": true,
+  "rating": 0.8947825,
+  "ratingCount": 84,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
