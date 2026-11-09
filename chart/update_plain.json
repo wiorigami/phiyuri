@@ -1,6 +1,60 @@
 {
-  "count": 3406,
+  "count": 3408,
   "results": [
+    {
+      "id": 83373,
+      "name": "どっちにするの？",
+      "level": "Which one ~ Sazanka",
+      "difficulty": 0.0,
+      "charter": "Sazanka_",
+      "composer": "hiroki.",
+      "illustrator": "Convert by MVP",
+      "description": "どっちにするの？\n\nhiroki.\n\nWhich one ~ Sazanka\n\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/cad34fc7-ea11-4077-b1ae-f96d758001a4",
+      "preview": "https://phira.5wyxi.com/files/700db99d-a422-431d-bdf1-f3554b107d96",
+      "file": "https://phira.5wyxi.com/files/58de5322-1213-449c-b62f-5d4b0c39262c",
+      "uploader": 4189211,
+      "tags": [
+        "4K",
+        "plain"
+      ],
+      "rating": 0.82265747,
+      "ratingCount": 0,
+      "created": "2026-11-08T02:11:44.547971Z",
+      "updated": "2026-11-08T05:32:03.065473299Z",
+      "chartUpdated": "2026-11-08T02:11:44.547971Z"
+    },
+    {
+      "id": 83370,
+      "name": "Deep Down (Sped Up Ver.)",
+      "level": "Sazanka's Challenge",
+      "difficulty": 0.0,
+      "charter": "Sazanka_",
+      "composer": "Alok x Ella Eyre x Kenny Dope feat. Never Dull",
+      "illustrator": "Convert by MVP",
+      "description": "Deep Down (Sped Up Ver.)\n\nAlok x Ella Eyre x Kenny Dope feat. Never Dull\n\nDeep Down // Sazanka_",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d4d52334-8c88-494d-8525-948f1b983887",
+      "preview": "https://phira.5wyxi.com/files/bb4ccf02-a66a-4b2e-91d1-0ab041b99662",
+      "file": "https://phira.5wyxi.com/files/9580fbcd-5aa6-41e4-893e-63207ca5b647",
+      "uploader": 4189211,
+      "tags": [
+        "纯双指",
+        "plain"
+      ],
+      "rating": 0.85113037,
+      "ratingCount": 0,
+      "created": "2026-11-08T01:52:22.178579Z",
+      "updated": "2026-11-08T04:52:52.349985820Z",
+      "chartUpdated": "2026-11-08T01:52:22.178579Z"
+    },
     {
       "id": 83219,
       "name": "すきすき☆ハスキー！～バグわん０歳児・るいちゃんのテーマ～",
@@ -25,7 +79,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9160015,
+      "rating": 0.92671245,
       "ratingCount": 0,
       "created": "2026-11-07T05:02:51.512134Z",
       "updated": "2026-11-07T08:11:20.411628052Z",
@@ -51,7 +105,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9078393,
+      "rating": 0.92041147,
       "ratingCount": 0,
       "created": "2026-11-05T10:11:29.191104Z",
       "updated": "2026-11-06T15:06:18.348449595Z",
@@ -79,7 +133,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.9411735,
+      "rating": 0.9479502,
       "ratingCount": 0,
       "created": "2026-11-05T15:27:10.936976Z",
       "updated": "2026-11-06T13:47:54.793543425Z",
@@ -108,7 +162,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9027553,
+      "rating": 0.92724353,
       "ratingCount": 0,
       "created": "2026-10-26T09:51:08.806765Z",
       "updated": "2026-11-06T13:47:25.699327171Z",
@@ -137,7 +191,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9087931,
+      "rating": 0.91795516,
       "ratingCount": 0,
       "created": "2026-10-22T11:46:56.631307Z",
       "updated": "2026-11-06T13:47:13.435671491Z",
@@ -166,7 +220,7 @@
         "综合",
         "plain"
       ],
-      "rating": 0.84553653,
+      "rating": 0.85721785,
       "ratingCount": 0,
       "created": "2026-10-19T06:53:35.392025Z",
       "updated": "2026-11-06T13:47:01.365035616Z",
@@ -197,7 +251,7 @@
         "",
         "plain"
       ],
-      "rating": 0.92877614,
+      "rating": 0.9403119,
       "ratingCount": 27,
       "created": "2026-11-03T13:25:32.391512Z",
       "updated": "2026-11-06T09:47:42.468987Z",
@@ -226,7 +280,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9204386,
+      "rating": 0.9298135,
       "ratingCount": 0,
       "created": "2026-11-05T11:38:51.502368Z",
       "updated": "2026-11-05T13:16:17.426015802Z",
@@ -253,7 +307,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.93801486,
+      "rating": 0.9289346,
       "ratingCount": 0,
       "created": "2026-11-02T13:40:04.886729Z",
       "updated": "2026-11-02T15:10:12.641076330Z",
@@ -279,7 +333,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8831999,
+      "rating": 0.8867174,
       "ratingCount": 0,
       "created": "2026-11-01T15:06:18.904706Z",
       "updated": "2026-11-02T11:06:42.929497540Z",
@@ -305,7 +359,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94090927,
+      "rating": 0.93872166,
       "ratingCount": 4,
       "created": "2026-10-05T04:09:28.706543Z",
       "updated": "2026-11-01T04:34:58.604717Z",
@@ -331,7 +385,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93489987,
+      "rating": 0.93960327,
       "ratingCount": 0,
       "created": "2026-10-05T04:06:31.389367Z",
       "updated": "2026-11-01T04:31:18.017521524Z",
@@ -357,7 +411,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84766704,
+      "rating": 0.8572042,
       "ratingCount": 0,
       "created": "2026-10-30T13:05:23.992650Z",
       "updated": "2026-11-01T04:11:57.301309293Z",
@@ -386,7 +440,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.9121818,
+      "rating": 0.9166909,
       "ratingCount": 0,
       "created": "2026-06-07T08:21:08.846015Z",
       "updated": "2026-11-01T00:46:22.640520067Z",
@@ -412,7 +466,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9141927,
+      "rating": 0.9166515,
       "ratingCount": 0,
       "created": "2026-10-31T05:32:48.718486Z",
       "updated": "2026-10-31T15:06:30.268224855Z",
@@ -441,7 +495,7 @@
         "裏表ラバーズ",
         "plain"
       ],
-      "rating": 0.93706703,
+      "rating": 0.942558,
       "ratingCount": 0,
       "created": "2026-10-14T20:42:29.962417Z",
       "updated": "2026-10-31T13:31:52.484650515Z",
@@ -467,7 +521,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9196712,
+      "rating": 0.9179352,
       "ratingCount": 0,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693907Z",
@@ -493,7 +547,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91209465,
+      "rating": 0.9133587,
       "ratingCount": 0,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847058Z",
@@ -520,7 +574,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.93757325,
+      "rating": 0.9376537,
       "ratingCount": 1,
       "created": "2026-07-10T03:35:35.130231Z",
       "updated": "2026-10-30T03:35:22.894760839Z",
@@ -607,7 +661,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90525466,
+      "rating": 0.9068723,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -633,7 +687,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92516124,
+      "rating": 0.9253135,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
@@ -659,7 +713,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8341329,
+      "rating": 0.8366241,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -690,7 +744,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.93358576,
+      "rating": 0.9399343,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
@@ -720,7 +774,7 @@
         "段位",
         "plain"
       ],
-      "rating": 0.95069915,
+      "rating": 0.9504997,
       "ratingCount": 47,
       "created": "2026-10-25T09:46:36.818423Z",
       "updated": "2026-10-25T16:37:09.769918Z",
@@ -751,7 +805,7 @@
         "6",
         "plain"
       ],
-      "rating": 0.92833966,
+      "rating": 0.92585546,
       "ratingCount": 97,
       "created": "2026-10-25T09:45:57.957650Z",
       "updated": "2026-10-25T16:34:38.875881Z",
@@ -782,68 +836,11 @@
         "6",
         "plain"
       ],
-      "rating": 0.9185731,
+      "rating": 0.91795903,
       "ratingCount": 519,
       "created": "2026-10-25T09:45:43.212266Z",
       "updated": "2026-10-25T16:08:21.767298Z",
       "chartUpdated": "2026-10-25T09:45:43.212266Z"
-    },
-    {
-      "id": 82155,
-      "name": "RTRT",
-      "level": "Stamina Lv.6",
-      "difficulty": 6.2999997,
-      "charter": "Anxiety",
-      "composer": "Mili",
-      "illustrator": "AO Fujimori",
-      "description": "DFC 6th Dan Stamina 单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e6df61cc-91ab-4299-ac9b-9d212d8f6c1e",
-      "preview": "https://phira.5wyxi.com/files/b0c6addf-c684-437f-8409-e2b8fb2b2d5c",
-      "file": "https://phira.5wyxi.com/files/2169d514-03ab-4524-9dad-48981ecc9bd5",
-      "uploader": 4366580,
-      "tags": [
-        "DFC",
-        "双指",
-        "Stamina",
-        "切",
-        "6",
-        "plain"
-      ],
-      "rating": 0.8881727,
-      "ratingCount": 8,
-      "created": "2026-10-25T09:45:19.291865Z",
-      "updated": "2026-10-25T16:08:14.922494Z",
-      "chartUpdated": "2026-10-25T09:45:19.291865Z"
-    },
-    {
-      "id": 82172,
-      "name": "Blessing（六十八位学生合唱）",
-      "level": "AT",
-      "difficulty": 16.200003,
-      "charter": "冷影",
-      "composer": "异色乌鸫",
-      "illustrator": "蔚蓝档案",
-      "description": "谱师本人上传，音频来源b站异色乌鸫的“六十八位学生合唱blessing”写给uz的生贺作，玩的开心",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4a0fc99d-365a-4b06-a880-0a29b27ff37c",
-      "preview": "https://phira.5wyxi.com/files/03c0c286-39b0-479b-9838-4327990e0ccf",
-      "file": "https://phira.5wyxi.com/files/397e998b-aa5b-4ebe-94e3-a7803f4550e0",
-      "uploader": 4174080,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9127724,
-      "ratingCount": 35,
-      "created": "2026-10-25T11:50:19.571416Z",
-      "updated": "2026-10-25T14:53:14.537672Z",
-      "chartUpdated": "2026-10-25T11:50:19.571416Z"
     }
   ]
 }
