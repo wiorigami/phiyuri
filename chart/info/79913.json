@@ -13,11 +13,11 @@
   "name": "ATLAS RUSH",
   "preview": "https://phira.5wyxi.com/files/5047e718-061c-4521-9670-23dfd18b8aa3",
   "ranked": false,
-  "rating": 0.9356454,
-  "ratingCount": 262,
-  "reviewed": true,
+  "rating": 0.9369411,
+  "ratingCount": 287,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],

@@ -1,6 +1,59 @@
 {
-  "count": 9761,
+  "count": 9757,
   "results": [
+    {
+      "id": 83528,
+      "name": "なぜ？謎？！ANSWER (TV Size)",
+      "level": "IN Lv.14",
+      "difficulty": 14.500003,
+      "charter": "Cure Charter (Alice17900)",
+      "composer": "ハマダコウキ / 青木久美子",
+      "illustrator": "W栗子W",
+      "description": "本人上传哦！\r\nb：爱丽丝17900號機",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/ccc134ae-6cb8-45b3-8a69-6345ce5d186d",
+      "preview": "https://phira.5wyxi.com/files/d4a90cde-4678-4470-ae86-9ddb59ee4185",
+      "file": "https://phira.5wyxi.com/files/5a9386b1-4ea8-4652-93d9-a9b42dbdeef8",
+      "uploader": 2107752,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9431708,
+      "ratingCount": 50,
+      "created": "2026-11-09T17:21:25.754147Z",
+      "updated": "2026-11-10T04:41:38.218343455Z",
+      "chartUpdated": "2026-11-09T17:21:25.754147Z"
+    },
+    {
+      "id": 46228,
+      "name": "水没都市 (Submerged City)",
+      "level": "AT  Lv.18",
+      "difficulty": 18.200005,
+      "charter": "Cybifer vs. KaNoteN vs. InkySAIKYO vs. 堇色CorYdalis vs. _无叶_",
+      "composer": "DJ Raisei feat.noeric (Vo. Hatsune Miku)",
+      "illustrator": "此路Cilu",
+      "description": "\"水没都市 // Submerged City\" - Neon Charting Team 约稿曲目，WSRT决赛用曲。本谱为差分版谱面，并非比赛用谱或NCT合作版本。本谱由Cybifer本人上传。希望各位喜欢。\r\n\r\nUpdate(20250920)：修正了部分采音错误，重写了一段主歌。\r\n\r\n@KaNoteN238#1279\r\n@InkySAIKYO#104079\r\n@YClio#1701\r\n@_无叶_#540194",
+      "ranked": true,
+      "reviewed": true,
+      "stable": true,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f94dae75-27a4-4fb9-8386-91854893a70a",
+      "preview": "https://phira.5wyxi.com/files/bc1e48db-2713-4164-a07c-b41a0acab0d4",
+      "file": "https://phira.5wyxi.com/files/8a72da6e-04c0-4e6c-977a-a26fedf517ba",
+      "uploader": 148983,
+      "tags": [
+        "NCT",
+        "regular"
+      ],
+      "rating": 0.9420435,
+      "ratingCount": 2632,
+      "created": "2025-08-31T15:17:46.905554Z",
+      "updated": "2026-11-09T07:50:18.652287888Z",
+      "chartUpdated": "2025-09-20T09:07:37.112832Z"
+    },
     {
       "id": 74852,
       "name": "天生鬼才(Side Quest King)",
@@ -21,7 +74,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.875173,
+      "rating": 0.90035236,
       "ratingCount": 0,
       "created": "2026-08-21T13:06:04.801838Z",
       "updated": "2026-11-09T03:15:02.471086355Z",
@@ -37,9 +90,9 @@
       "illustrator": "Khronetic(Chloe modified)",
       "description": "0pj参赛谱三改\n删榜致歉\n感谢FM壹某和vex，以及0pj观众与评议给出的建议",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/f4ea977a-7924-42ff-96d1-0c22ae8d47b0",
       "preview": "https://phira.5wyxi.com/files/5047e718-061c-4521-9670-23dfd18b8aa3",
       "file": "https://phira.5wyxi.com/files/0bc5b36c-fa7a-48d8-bb59-e118c13f61e8",
@@ -47,10 +100,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9356454,
-      "ratingCount": 258,
+      "rating": 0.9369411,
+      "ratingCount": 277,
       "created": "2026-10-03T04:38:14.194042Z",
-      "updated": "2026-11-09T02:47:06.568449226Z",
+      "updated": "2026-11-09T02:47:06.568449Z",
       "chartUpdated": "2026-10-03T04:38:14.194042Z"
     },
     {
@@ -74,7 +127,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9111149,
+      "rating": 0.9108687,
       "ratingCount": 0,
       "created": "2026-11-08T12:12:29.793644Z",
       "updated": "2026-11-08T12:17:48.284447895Z",
@@ -100,7 +153,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.909786,
+      "rating": 0.9084111,
       "ratingCount": 0,
       "created": "2026-11-08T11:20:59.632965Z",
       "updated": "2026-11-08T12:17:33.715813621Z",
@@ -126,7 +179,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9364934,
+      "rating": 0.9457418,
       "ratingCount": 0,
       "created": "2026-11-08T05:55:36.514654Z",
       "updated": "2026-11-08T07:18:02.646269189Z",
@@ -152,7 +205,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9457573,
+      "rating": 0.9393728,
       "ratingCount": 112,
       "created": "2026-10-07T16:25:17.707194Z",
       "updated": "2026-11-08T06:12:44.036076885Z",
@@ -178,7 +231,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9251882,
+      "rating": 0.913493,
       "ratingCount": 0,
       "created": "2026-11-06T11:22:58.520634Z",
       "updated": "2026-11-08T05:04:58.850583372Z",
@@ -206,7 +259,7 @@
         "全力回避フラグちゃん",
         "regular"
       ],
-      "rating": 0.9014425,
+      "rating": 0.9097327,
       "ratingCount": 0,
       "created": "2026-11-07T05:44:33.943372Z",
       "updated": "2026-11-08T03:18:24.924096446Z",
@@ -235,7 +288,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.88403565,
+      "rating": 0.88440955,
       "ratingCount": 0,
       "created": "2026-11-07T15:07:29.514064Z",
       "updated": "2026-11-07T15:18:26.801624651Z",
@@ -261,7 +314,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88390917,
+      "rating": 0.89079285,
       "ratingCount": 0,
       "created": "2026-11-07T13:10:23.531417Z",
       "updated": "2026-11-07T14:33:15.286433099Z",
@@ -288,7 +341,7 @@
         "maimai",
         "regular"
       ],
-      "rating": 0.86590004,
+      "rating": 0.8564,
       "ratingCount": 0,
       "created": "2026-11-01T13:44:32.826404Z",
       "updated": "2026-11-07T07:59:44.483692930Z",
@@ -315,7 +368,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.86405,
+      "rating": 0.8597931,
       "ratingCount": 10,
       "created": "2026-11-07T06:35:56.753251Z",
       "updated": "2026-11-07T07:53:12.133843Z",
@@ -341,7 +394,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92292196,
+      "rating": 0.92555416,
       "ratingCount": 124,
       "created": "2026-11-05T18:39:19.500417Z",
       "updated": "2026-11-06T12:15:15.439649Z",
@@ -367,7 +420,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9412485,
+      "rating": 0.93994695,
       "ratingCount": 0,
       "created": "2026-10-30T12:21:19.725761Z",
       "updated": "2026-11-05T12:49:01.215136Z",
@@ -383,9 +436,9 @@
       "illustrator": "",
       "description": "崩乱杯赛事谱·本人上传",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/d96f62ae-cd38-42a7-88bf-836dc888d427",
       "preview": "https://phira.5wyxi.com/files/dae12744-271d-46e9-9ced-cd99ffd614e7",
       "file": "https://phira.5wyxi.com/files/30fdd787-dfef-4467-986a-69e5359b31fd",
@@ -394,10 +447,10 @@
         "Ado",
         "regular"
       ],
-      "rating": 0.9520443,
-      "ratingCount": 0,
+      "rating": 0.9523879,
+      "ratingCount": 2050,
       "created": "2026-08-03T04:15:02.203830Z",
-      "updated": "2026-11-05T03:31:52.672360377Z",
+      "updated": "2026-11-05T03:31:52.672360Z",
       "chartUpdated": "2026-08-03T04:15:02.203830Z"
     },
     {
@@ -420,7 +473,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8952843,
+      "rating": 0.89806205,
       "ratingCount": 65,
       "created": "2026-11-04T09:32:21.879422Z",
       "updated": "2026-11-04T14:40:02.128035Z",
@@ -446,7 +499,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9390474,
+      "rating": 0.939686,
       "ratingCount": 0,
       "created": "2026-11-04T05:41:21.545361Z",
       "updated": "2026-11-04T14:26:39.547242425Z",
@@ -472,7 +525,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9440913,
+      "rating": 0.9445284,
       "ratingCount": 0,
       "created": "2026-11-03T14:18:07.925036Z",
       "updated": "2026-11-04T14:25:15.840299577Z",
@@ -498,7 +551,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9079227,
+      "rating": 0.90995187,
       "ratingCount": 0,
       "created": "2026-11-04T05:54:15.095004Z",
       "updated": "2026-11-04T14:25:01.020834104Z",
@@ -524,7 +577,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9451489,
+      "rating": 0.9482194,
       "ratingCount": 0,
       "created": "2026-11-04T14:14:30.804266Z",
       "updated": "2026-11-04T14:24:42.274210239Z",
@@ -550,7 +603,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9380309,
+      "rating": 0.9376836,
       "ratingCount": 154,
       "created": "2026-02-08T12:37:36.744956Z",
       "updated": "2026-11-04T12:35:37.265196Z",
@@ -576,7 +629,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9233668,
+      "rating": 0.9221287,
       "ratingCount": 0,
       "created": "2026-11-03T12:28:39.451295Z",
       "updated": "2026-11-04T10:11:46.852124690Z",
@@ -606,7 +659,7 @@
         "四指",
         "regular"
       ],
-      "rating": 0.8604917,
+      "rating": 0.8735208,
       "ratingCount": 0,
       "created": "2026-10-18T16:07:20.279470Z",
       "updated": "2026-11-04T02:59:50.510644418Z",
@@ -637,7 +690,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.9136472,
+      "rating": 0.91129565,
       "ratingCount": 0,
       "created": "2026-11-03T11:24:37.631699Z",
       "updated": "2026-11-03T15:22:25.912410550Z",
@@ -663,7 +716,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9327743,
+      "rating": 0.9336595,
       "ratingCount": 0,
       "created": "2026-11-02T11:42:00.214793Z",
       "updated": "2026-11-03T13:06:33.440248495Z",
@@ -689,7 +742,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91555476,
+      "rating": 0.9153887,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:28.027244Z",
       "updated": "2026-11-03T02:52:26.568766127Z",
@@ -715,7 +768,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.6799343,
+      "rating": 0.69520676,
       "ratingCount": 0,
       "created": "2026-11-01T08:45:29.329340Z",
       "updated": "2026-11-02T15:11:26.958052733Z",
@@ -741,65 +794,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9434534,
+      "rating": 0.93950576,
       "ratingCount": 0,
       "created": "2026-10-30T09:20:06.806314Z",
       "updated": "2026-11-02T10:33:33.051814Z",
       "chartUpdated": "2026-10-30T09:20:06.806314Z"
-    },
-    {
-      "id": 82787,
-      "name": "Life is PIANO",
-      "level": "AT Lv.15",
-      "difficulty": 15.900003,
-      "charter": "Yui",
-      "composer": "Junk",
-      "illustrator": "",
-      "description": "本人上传，B站：朝日の唯",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/d6a53d19-a3cb-4686-98fc-ab8721c87d2f",
-      "preview": "https://phira.5wyxi.com/files/4bba41cd-2c13-47c0-b0dd-0afbf570f56d",
-      "file": "https://phira.5wyxi.com/files/6c377582-60e3-403f-8795-360c9ee22ce5",
-      "uploader": 192860,
-      "tags": [
-        "键盘",
-        "多指",
-        "regular"
-      ],
-      "rating": 0.9498631,
-      "ratingCount": 57,
-      "created": "2026-11-01T06:02:40.845889Z",
-      "updated": "2026-11-02T09:10:02.419603085Z",
-      "chartUpdated": "2026-11-01T06:02:40.845889Z"
-    },
-    {
-      "id": 82729,
-      "name": "Titanomachia",
-      "level": "AT Lv.18",
-      "difficulty": 18.0,
-      "charter": "【CELTRIX NOVA】",
-      "composer": "打打だいず vs. siromaru",
-      "illustrator": "Unknow",
-      "description": "【YYW三周年纪念谱】\n————————————\n提坦兴战，穹宇沸扬；\n三秩偕征，共赴律章。\n以此一谱，敬贺周年。\n————————————\n谱师：【CELTRIX NOVA】\n(@Betrixx#435853 & @CelyndrA#253256)\n\n",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/19c1f98d-5c0f-4b1d-9941-2b9972b5de6a",
-      "preview": "https://phira.5wyxi.com/files/683e8815-605c-40cd-bba3-1009c0a19fd1",
-      "file": "https://phira.5wyxi.com/files/8298e515-1734-4bc1-a5ad-274710b35227",
-      "uploader": 2035,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8993734,
-      "ratingCount": 0,
-      "created": "2026-10-31T18:16:48.353766Z",
-      "updated": "2026-11-01T13:22:45.893595052Z",
-      "chartUpdated": "2026-10-31T18:16:48.353766Z"
     }
   ]
 }
