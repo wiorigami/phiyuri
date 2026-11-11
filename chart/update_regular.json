@@ -2,6 +2,34 @@
   "count": 9757,
   "results": [
     {
+      "id": 83449,
+      "name": "Far in the blue sky...",
+      "level": "暴",
+      "difficulty": 17.0,
+      "charter": "Iga伊加尔塔",
+      "composer": "Saikoro",
+      "illustrator": "",
+      "description": "新人二谱，耗时5天完成有点小快\n配置思路借鉴了一些谱，谱师都是亲测能p才敢发出来，整张谱还是有点累的\n动效由于是刚上手没多久所以比较简单保守，挺喜欢大天空这首歌的，算是补上了大天空没有常规双指高难的空缺了",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ee2b061c-6f40-4bc6-b1f5-74f55b54f63f",
+      "preview": "https://phira.5wyxi.com/files/c75452e3-1a1d-4b91-87e2-e8c5dac330ed",
+      "file": "https://phira.5wyxi.com/files/d584c76d-f921-495e-aef0-25eeb93238aa",
+      "uploader": 50516,
+      "tags": [
+        "双指",
+        "高难",
+        "regular"
+      ],
+      "rating": 0.9010123,
+      "ratingCount": 0,
+      "created": "2026-11-08T11:31:02.649586Z",
+      "updated": "2026-11-10T09:15:57.391342442Z",
+      "chartUpdated": "2026-11-08T11:31:02.649586Z"
+    },
+    {
       "id": 83528,
       "name": "なぜ？謎？！ANSWER (TV Size)",
       "level": "IN Lv.14",
@@ -21,7 +49,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9431708,
+      "rating": 0.9402366,
       "ratingCount": 50,
       "created": "2026-11-09T17:21:25.754147Z",
       "updated": "2026-11-10T04:41:38.218343455Z",
@@ -48,7 +76,7 @@
         "NCT",
         "regular"
       ],
-      "rating": 0.9420435,
+      "rating": 0.9419028,
       "ratingCount": 2632,
       "created": "2025-08-31T15:17:46.905554Z",
       "updated": "2026-11-09T07:50:18.652287888Z",
@@ -74,7 +102,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90035236,
+      "rating": 0.89877015,
       "ratingCount": 0,
       "created": "2026-08-21T13:06:04.801838Z",
       "updated": "2026-11-09T03:15:02.471086355Z",
@@ -100,7 +128,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9369411,
+      "rating": 0.9398882,
       "ratingCount": 277,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-11-09T02:47:06.568449Z",
@@ -127,7 +155,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9108687,
+      "rating": 0.9174824,
       "ratingCount": 0,
       "created": "2026-11-08T12:12:29.793644Z",
       "updated": "2026-11-08T12:17:48.284447895Z",
@@ -153,7 +181,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9084111,
+      "rating": 0.9127346,
       "ratingCount": 0,
       "created": "2026-11-08T11:20:59.632965Z",
       "updated": "2026-11-08T12:17:33.715813621Z",
@@ -179,7 +207,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9457418,
+      "rating": 0.9434412,
       "ratingCount": 0,
       "created": "2026-11-08T05:55:36.514654Z",
       "updated": "2026-11-08T07:18:02.646269189Z",
@@ -205,7 +233,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9393728,
+      "rating": 0.93937564,
       "ratingCount": 112,
       "created": "2026-10-07T16:25:17.707194Z",
       "updated": "2026-11-08T06:12:44.036076885Z",
@@ -231,7 +259,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.913493,
+      "rating": 0.9192417,
       "ratingCount": 0,
       "created": "2026-11-06T11:22:58.520634Z",
       "updated": "2026-11-08T05:04:58.850583372Z",
@@ -259,7 +287,7 @@
         "全力回避フラグちゃん",
         "regular"
       ],
-      "rating": 0.9097327,
+      "rating": 0.9093259,
       "ratingCount": 0,
       "created": "2026-11-07T05:44:33.943372Z",
       "updated": "2026-11-08T03:18:24.924096446Z",
@@ -288,7 +316,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.88440955,
+      "rating": 0.88680774,
       "ratingCount": 0,
       "created": "2026-11-07T15:07:29.514064Z",
       "updated": "2026-11-07T15:18:26.801624651Z",
@@ -314,7 +342,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89079285,
+      "rating": 0.8850333,
       "ratingCount": 0,
       "created": "2026-11-07T13:10:23.531417Z",
       "updated": "2026-11-07T14:33:15.286433099Z",
@@ -341,7 +369,7 @@
         "maimai",
         "regular"
       ],
-      "rating": 0.8564,
+      "rating": 0.85222477,
       "ratingCount": 0,
       "created": "2026-11-01T13:44:32.826404Z",
       "updated": "2026-11-07T07:59:44.483692930Z",
@@ -368,7 +396,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.8597931,
+      "rating": 0.86294925,
       "ratingCount": 10,
       "created": "2026-11-07T06:35:56.753251Z",
       "updated": "2026-11-07T07:53:12.133843Z",
@@ -394,7 +422,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92555416,
+      "rating": 0.92401636,
       "ratingCount": 124,
       "created": "2026-11-05T18:39:19.500417Z",
       "updated": "2026-11-06T12:15:15.439649Z",
@@ -420,7 +448,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93994695,
+      "rating": 0.9412773,
       "ratingCount": 0,
       "created": "2026-10-30T12:21:19.725761Z",
       "updated": "2026-11-05T12:49:01.215136Z",
@@ -447,7 +475,7 @@
         "Ado",
         "regular"
       ],
-      "rating": 0.9523879,
+      "rating": 0.9532571,
       "ratingCount": 2050,
       "created": "2026-08-03T04:15:02.203830Z",
       "updated": "2026-11-05T03:31:52.672360Z",
@@ -473,7 +501,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89806205,
+      "rating": 0.89753026,
       "ratingCount": 65,
       "created": "2026-11-04T09:32:21.879422Z",
       "updated": "2026-11-04T14:40:02.128035Z",
@@ -499,7 +527,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.939686,
+      "rating": 0.9379539,
       "ratingCount": 0,
       "created": "2026-11-04T05:41:21.545361Z",
       "updated": "2026-11-04T14:26:39.547242425Z",
@@ -525,7 +553,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9445284,
+      "rating": 0.94413966,
       "ratingCount": 0,
       "created": "2026-11-03T14:18:07.925036Z",
       "updated": "2026-11-04T14:25:15.840299577Z",
@@ -551,7 +579,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90995187,
+      "rating": 0.9052566,
       "ratingCount": 0,
       "created": "2026-11-04T05:54:15.095004Z",
       "updated": "2026-11-04T14:25:01.020834104Z",
@@ -577,7 +605,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9482194,
+      "rating": 0.9496115,
       "ratingCount": 0,
       "created": "2026-11-04T14:14:30.804266Z",
       "updated": "2026-11-04T14:24:42.274210239Z",
@@ -603,7 +631,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9376836,
+      "rating": 0.9380943,
       "ratingCount": 154,
       "created": "2026-02-08T12:37:36.744956Z",
       "updated": "2026-11-04T12:35:37.265196Z",
@@ -629,7 +657,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9221287,
+      "rating": 0.9255442,
       "ratingCount": 0,
       "created": "2026-11-03T12:28:39.451295Z",
       "updated": "2026-11-04T10:11:46.852124690Z",
@@ -659,7 +687,7 @@
         "四指",
         "regular"
       ],
-      "rating": 0.8735208,
+      "rating": 0.87688774,
       "ratingCount": 0,
       "created": "2026-10-18T16:07:20.279470Z",
       "updated": "2026-11-04T02:59:50.510644418Z",
@@ -690,7 +718,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.91129565,
+      "rating": 0.91207474,
       "ratingCount": 0,
       "created": "2026-11-03T11:24:37.631699Z",
       "updated": "2026-11-03T15:22:25.912410550Z",
@@ -716,7 +744,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9336595,
+      "rating": 0.93397546,
       "ratingCount": 0,
       "created": "2026-11-02T11:42:00.214793Z",
       "updated": "2026-11-03T13:06:33.440248495Z",
@@ -742,7 +770,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9153887,
+      "rating": 0.91695225,
       "ratingCount": 0,
       "created": "2026-11-01T02:49:28.027244Z",
       "updated": "2026-11-03T02:52:26.568766127Z",
@@ -773,32 +801,6 @@
       "created": "2026-11-01T08:45:29.329340Z",
       "updated": "2026-11-02T15:11:26.958052733Z",
       "chartUpdated": "2026-11-01T08:45:29.329340Z"
-    },
-    {
-      "id": 82505,
-      "name": "DIMENSION TRAVERSE!",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "Kamoi",
-      "composer": "mochari",
-      "illustrator": "",
-      "description": "本人上传\n关注@b站Kamoioff谢谢喵。",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/02afcd90-2cd8-430e-b620-7fe531bb10cd",
-      "preview": "https://phira.5wyxi.com/files/c03c2eba-487c-449a-9532-f8ce2fc6adad",
-      "file": "https://phira.5wyxi.com/files/385f1cbf-6712-4534-a190-3b479b20661a",
-      "uploader": 165742,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93950576,
-      "ratingCount": 0,
-      "created": "2026-10-30T09:20:06.806314Z",
-      "updated": "2026-11-02T10:33:33.051814Z",
-      "chartUpdated": "2026-10-30T09:20:06.806314Z"
     }
   ]
 }
