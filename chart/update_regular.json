@@ -2,6 +2,110 @@
   "count": 9757,
   "results": [
     {
+      "id": 77885,
+      "name": "游园地",
+      "level": "AT Lv.15",
+      "difficulty": 15.500002,
+      "charter": "NotTure1",
+      "composer": "椒盐菠萝",
+      "illustrator": "CEM",
+      "description": "譜師本人上傳。譜面預覽BV1tgbW6REk4\n--------------------\n鎖手段解法為一隻手鎖著一隻手使用兩隻手指一上一下輪流打擊長條。\n--------------------\n2026.10.03一改 重寫build up的黃條以及微調drop的部分按鍵",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/fb0576e8-156c-4bb4-956f-ca36c910abb4",
+      "preview": "https://phira.5wyxi.com/files/f40875e2-a578-494b-99db-588212c30b8c",
+      "file": "https://phira.5wyxi.com/files/c2b89999-0eb5-45aa-8c47-65a8e43fcaba",
+      "uploader": 1813623,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9271506,
+      "ratingCount": 272,
+      "created": "2026-09-12T11:08:20.290593Z",
+      "updated": "2026-11-11T12:08:10.267507017Z",
+      "chartUpdated": "2026-11-11T12:08:10.267507017Z"
+    },
+    {
+      "id": 77809,
+      "name": "OMG",
+      "level": "IN  Lv.15",
+      "difficulty": 15.0,
+      "charter": "是一只屑呀",
+      "composer": "Halv",
+      "illustrator": "",
+      "description": "6thWJC参赛谱面\r\n\nG3 No.13\n\r\n谱面预览:BV1TPb76vEhs\n\r\n写谱好爽呀\r\n//2026.10.4削了下倒打，1267cb主线角度修改",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/406ee40c-24ea-487d-8714-f592c04aea08",
+      "preview": "https://phira.5wyxi.com/files/1d42a03f-0cc1-481d-bc81-509fd5112fc0",
+      "file": "https://phira.5wyxi.com/files/e688e606-001f-4714-84ea-1dc22ffa6f5c",
+      "uploader": 532067,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.895624,
+      "ratingCount": 235,
+      "created": "2026-09-12T04:10:53.879990Z",
+      "updated": "2026-11-11T12:07:46.734149253Z",
+      "chartUpdated": "2026-11-11T12:07:46.734149253Z"
+    },
+    {
+      "id": 80383,
+      "name": "VEZZELiX",
+      "level": "IN Lv.15",
+      "difficulty": 15.0,
+      "charter": "Fz5RiX",
+      "composer": "Reku Mochizuki",
+      "illustrator": "Reku Mochizuki",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/e9aa96c2-3f66-4cd1-804a-1eb8dc34d251",
+      "preview": "https://phira.5wyxi.com/files/cfcd558e-5356-4488-8f0a-2cdff8be4006",
+      "file": "https://phira.5wyxi.com/files/d52331bf-a90d-476d-af3e-19ffff0c6551",
+      "uploader": 10002,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9552413,
+      "ratingCount": 185,
+      "created": "2026-10-06T06:12:53.151359Z",
+      "updated": "2026-11-11T11:46:19.761577264Z",
+      "chartUpdated": "2026-11-11T11:46:19.761577264Z"
+    },
+    {
+      "id": 83392,
+      "name": "Titania",
+      "level": "IN Lv.16",
+      "difficulty": 16.700003,
+      "charter": "NoWords",
+      "composer": "xi",
+      "illustrator": "SEGA",
+      "description": "本人上传 B站账号\n@我什么也不想说a8a8",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8771c234-5281-4dc6-a1ce-9524754b2259",
+      "preview": "https://phira.5wyxi.com/files/0d938afc-8aca-40b7-bc3e-ef9bb943416e",
+      "file": "https://phira.5wyxi.com/files/0a888d4e-4dbd-4c6c-a688-ed86e5b2781d",
+      "uploader": 4384945,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8011759,
+      "ratingCount": 0,
+      "created": "2026-11-08T04:21:04.407746Z",
+      "updated": "2026-11-11T08:20:11.359136165Z",
+      "chartUpdated": "2026-11-08T04:21:04.407746Z"
+    },
+    {
       "id": 83449,
       "name": "Far in the blue sky...",
       "level": "暴",
@@ -23,7 +127,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.9010123,
+      "rating": 0.90750855,
       "ratingCount": 0,
       "created": "2026-11-08T11:31:02.649586Z",
       "updated": "2026-11-10T09:15:57.391342442Z",
@@ -49,7 +153,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9402366,
+      "rating": 0.9373377,
       "ratingCount": 50,
       "created": "2026-11-09T17:21:25.754147Z",
       "updated": "2026-11-10T04:41:38.218343455Z",
@@ -76,7 +180,7 @@
         "NCT",
         "regular"
       ],
-      "rating": 0.9419028,
+      "rating": 0.94152325,
       "ratingCount": 2632,
       "created": "2025-08-31T15:17:46.905554Z",
       "updated": "2026-11-09T07:50:18.652287888Z",
@@ -102,7 +206,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89877015,
+      "rating": 0.9016148,
       "ratingCount": 0,
       "created": "2026-08-21T13:06:04.801838Z",
       "updated": "2026-11-09T03:15:02.471086355Z",
@@ -128,7 +232,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9398882,
+      "rating": 0.94129217,
       "ratingCount": 277,
       "created": "2026-10-03T04:38:14.194042Z",
       "updated": "2026-11-09T02:47:06.568449Z",
@@ -155,7 +259,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9174824,
+      "rating": 0.92569953,
       "ratingCount": 0,
       "created": "2026-11-08T12:12:29.793644Z",
       "updated": "2026-11-08T12:17:48.284447895Z",
@@ -181,7 +285,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9127346,
+      "rating": 0.9079791,
       "ratingCount": 0,
       "created": "2026-11-08T11:20:59.632965Z",
       "updated": "2026-11-08T12:17:33.715813621Z",
@@ -207,7 +311,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9434412,
+      "rating": 0.9420454,
       "ratingCount": 0,
       "created": "2026-11-08T05:55:36.514654Z",
       "updated": "2026-11-08T07:18:02.646269189Z",
@@ -233,7 +337,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93937564,
+      "rating": 0.94086415,
       "ratingCount": 112,
       "created": "2026-10-07T16:25:17.707194Z",
       "updated": "2026-11-08T06:12:44.036076885Z",
@@ -259,7 +363,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9192417,
+      "rating": 0.9139448,
       "ratingCount": 0,
       "created": "2026-11-06T11:22:58.520634Z",
       "updated": "2026-11-08T05:04:58.850583372Z",
@@ -287,7 +391,7 @@
         "全力回避フラグちゃん",
         "regular"
       ],
-      "rating": 0.9093259,
+      "rating": 0.9086322,
       "ratingCount": 0,
       "created": "2026-11-07T05:44:33.943372Z",
       "updated": "2026-11-08T03:18:24.924096446Z",
@@ -316,7 +420,7 @@
         "键盘",
         "regular"
       ],
-      "rating": 0.88680774,
+      "rating": 0.8988348,
       "ratingCount": 0,
       "created": "2026-11-07T15:07:29.514064Z",
       "updated": "2026-11-07T15:18:26.801624651Z",
@@ -342,7 +446,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8850333,
+      "rating": 0.89379853,
       "ratingCount": 0,
       "created": "2026-11-07T13:10:23.531417Z",
       "updated": "2026-11-07T14:33:15.286433099Z",
@@ -369,7 +473,7 @@
         "maimai",
         "regular"
       ],
-      "rating": 0.85222477,
+      "rating": 0.8561164,
       "ratingCount": 0,
       "created": "2026-11-01T13:44:32.826404Z",
       "updated": "2026-11-07T07:59:44.483692930Z",
@@ -396,7 +500,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.86294925,
+      "rating": 0.862893,
       "ratingCount": 10,
       "created": "2026-11-07T06:35:56.753251Z",
       "updated": "2026-11-07T07:53:12.133843Z",
@@ -422,7 +526,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92401636,
+      "rating": 0.9232285,
       "ratingCount": 124,
       "created": "2026-11-05T18:39:19.500417Z",
       "updated": "2026-11-06T12:15:15.439649Z",
@@ -448,7 +552,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9412773,
+      "rating": 0.94187725,
       "ratingCount": 0,
       "created": "2026-10-30T12:21:19.725761Z",
       "updated": "2026-11-05T12:49:01.215136Z",
@@ -475,7 +579,7 @@
         "Ado",
         "regular"
       ],
-      "rating": 0.9532571,
+      "rating": 0.95352393,
       "ratingCount": 2050,
       "created": "2026-08-03T04:15:02.203830Z",
       "updated": "2026-11-05T03:31:52.672360Z",
@@ -501,7 +605,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89753026,
+      "rating": 0.8982193,
       "ratingCount": 65,
       "created": "2026-11-04T09:32:21.879422Z",
       "updated": "2026-11-04T14:40:02.128035Z",
@@ -527,7 +631,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9379539,
+      "rating": 0.9367131,
       "ratingCount": 0,
       "created": "2026-11-04T05:41:21.545361Z",
       "updated": "2026-11-04T14:26:39.547242425Z",
@@ -553,7 +657,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94413966,
+      "rating": 0.94354117,
       "ratingCount": 0,
       "created": "2026-11-03T14:18:07.925036Z",
       "updated": "2026-11-04T14:25:15.840299577Z",
@@ -579,7 +683,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9052566,
+      "rating": 0.9026036,
       "ratingCount": 0,
       "created": "2026-11-04T05:54:15.095004Z",
       "updated": "2026-11-04T14:25:01.020834104Z",
@@ -605,7 +709,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9496115,
+      "rating": 0.9488041,
       "ratingCount": 0,
       "created": "2026-11-04T14:14:30.804266Z",
       "updated": "2026-11-04T14:24:42.274210239Z",
@@ -631,7 +735,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9380943,
+      "rating": 0.9391235,
       "ratingCount": 154,
       "created": "2026-02-08T12:37:36.744956Z",
       "updated": "2026-11-04T12:35:37.265196Z",
@@ -657,7 +761,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9255442,
+      "rating": 0.9232662,
       "ratingCount": 0,
       "created": "2026-11-03T12:28:39.451295Z",
       "updated": "2026-11-04T10:11:46.852124690Z",
@@ -687,120 +791,11 @@
         "四指",
         "regular"
       ],
-      "rating": 0.87688774,
+      "rating": 0.87948966,
       "ratingCount": 0,
       "created": "2026-10-18T16:07:20.279470Z",
       "updated": "2026-11-04T02:59:50.510644418Z",
       "chartUpdated": "2026-10-18T16:07:20.279470Z"
-    },
-    {
-      "id": 82964,
-      "name": "BLITZ RESTART+",
-      "level": "Re:AT⁹ Lv.19",
-      "difficulty": 19.2,
-      "charter": "Rockstar Bonnie『+』",
-      "composer": "Dj-orca",
-      "illustrator": "9q",
-      "description": "写给@ZincMeteor梓弭#142987（寿星）的生贺谱！\n魔王极限键盘，难度极大，请谨慎游玩\n定数：19.2\n物量：3667\n@RW_疯狂世界#1186170（配置协助），负责俩处LN段配置\n首杀可以领取2顿疯狂星期四（100r），二杀为一顿（50r）\nb站关注欧内的灰谢谢喵",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/53d88def-bd32-4cb5-9e66-93c74749ccc0",
-      "preview": "https://phira.5wyxi.com/files/28c5f9a8-f409-4fd1-87b0-34322b1854db",
-      "file": "https://phira.5wyxi.com/files/be18a380-4b7e-457d-8b79-795ef4dfc827",
-      "uploader": 2411003,
-      "tags": [
-        "6k",
-        "SV",
-        "键盘",
-        "极限",
-        "高难",
-        "regular"
-      ],
-      "rating": 0.91207474,
-      "ratingCount": 0,
-      "created": "2026-11-03T11:24:37.631699Z",
-      "updated": "2026-11-03T15:22:25.912410550Z",
-      "chartUpdated": "2026-11-03T11:24:37.631699Z"
-    },
-    {
-      "id": 82906,
-      "name": "すきすき☆ハスキー！～バグわん０歳児・るいちゃんのテーマ～",
-      "level": "IN  Lv.15",
-      "difficulty": 15.0,
-      "charter": "R8P3S",
-      "composer": "おにきよ(レジスタンス和歌山)、阿黒コーポレーション (feat. 蓮希るい)",
-      "illustrator": "はなまる、茶柱たつみ",
-      "description": "本谱为6thWJC参赛谱......的完成版本！\n也是难得写了一回纯良谱面\n希望各位游玩愉快！\n（比例使用3:2以获取最佳体验）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/11c61542-f6a9-4625-a8cb-0b3aaa335ff5",
-      "preview": "https://phira.5wyxi.com/files/26cf34e4-b785-46b3-a372-b9fd5f23cefd",
-      "file": "https://phira.5wyxi.com/files/fbdd0f1a-938a-4c56-8b4f-c4545119e353",
-      "uploader": 9376,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93397546,
-      "ratingCount": 0,
-      "created": "2026-11-02T11:42:00.214793Z",
-      "updated": "2026-11-03T13:06:33.440248495Z",
-      "chartUpdated": "2026-11-02T11:42:00.214793Z"
-    },
-    {
-      "id": 82750,
-      "name": "怪诞(GroTesquE)",
-      "level": "AT  Lv.16",
-      "difficulty": 16.700003,
-      "charter": "5071 vs. FreMo",
-      "composer": "Toue_桐尤",
-      "illustrator": "keckyx",
-      "description": "FreMo上传，与5071合作\n\n该谱为雨境杯（R&R Cup）与星脉杯（Nova Pulse Cup）联合决赛谱之一\n\n合作谱师@FZSO5071#2605870",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/cfc66b34-b2be-469b-a321-bae5956c7f78",
-      "preview": "https://phira.5wyxi.com/files/46b8762f-1bd3-4b7e-a3d8-ef3b5b549da4",
-      "file": "https://phira.5wyxi.com/files/12c32ab4-6fca-4d00-ac3d-07e311874ae3",
-      "uploader": 31055,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.91695225,
-      "ratingCount": 0,
-      "created": "2026-11-01T02:49:28.027244Z",
-      "updated": "2026-11-03T02:52:26.568766127Z",
-      "chartUpdated": "2026-11-01T02:49:28.027244Z"
-    },
-    {
-      "id": 82822,
-      "name": "[協] Hand in Hand",
-      "level": "SP  Lv.?",
-      "difficulty": 18.2,
-      "charter": "小天是个小男娘",
-      "composer": "livetune",
-      "illustrator": "穗嶋（Costume: shikimi）",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/94dac82f-05a2-415d-b8f1-2a3399c6701a",
-      "preview": "https://phira.5wyxi.com/files/930caff8-e0f3-4529-ac7a-e25abd269b26",
-      "file": "https://phira.5wyxi.com/files/823b40ce-a405-403d-ae43-6a973f885209",
-      "uploader": 1210804,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.69520676,
-      "ratingCount": 0,
-      "created": "2026-11-01T08:45:29.329340Z",
-      "updated": "2026-11-02T15:11:26.958052733Z",
-      "chartUpdated": "2026-11-01T08:45:29.329340Z"
     }
   ]
 }
