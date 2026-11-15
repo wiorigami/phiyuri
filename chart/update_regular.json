@@ -1,6 +1,218 @@
 {
-  "count": 9762,
+  "count": 9769,
   "results": [
+    {
+      "id": 83917,
+      "name": "SOS",
+      "level": "IN Lv.14",
+      "difficulty": 14.800003,
+      "charter": "NYIOU",
+      "composer": "ナナツカゼ",
+      "illustrator": "宙風みけ",
+      "description": "Save Our Sound \n—————————\nB站 Nyiou0314\n十二譜，第一次寫低於15和長度三分鐘以上的譜OAO;\n寫個Pikasonic或Nanatsukaze的歌一直是我的夢想，也算是實現了吧（\n\n歌曲 ：SOS\n曲師：ナナツカゼ\nbpm : 185\n物量：1467\n定數：14.8",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1b7d00c0-a29c-4c4b-89cd-1b1a8e5c28c4",
+      "preview": "https://phira.5wyxi.com/files/94fbdf97-bea0-439c-b35e-32bddb1a7aea",
+      "file": "https://phira.5wyxi.com/files/6a75f473-90f3-4741-9076-34785a85f13f",
+      "uploader": 4445840,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9240074,
+      "ratingCount": 0,
+      "created": "2026-11-14T13:20:22.658120Z",
+      "updated": "2026-11-15T02:22:13.910468498Z",
+      "chartUpdated": "2026-11-14T13:20:22.658120Z"
+    },
+    {
+      "id": 83525,
+      "name": "Seagull (Stereo version)",
+      "level": "IN Lv.16",
+      "difficulty": 16.000002,
+      "charter": "Nyiou",
+      "composer": "かめりあ (Camellia)",
+      "illustrator": "murAta Yuzi",
+      "description": "B站 Nyiou0314\n十一譜owob\n是時候寫點有挑戰度的，來朵花花吧owov \n\n定數：16.0\n物量：1335\nbpm：156.522 (<- 這啥呀OAO)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f8a081dd-aa52-4cf3-bbb7-8c3f08c8ebd0",
+      "preview": "https://phira.5wyxi.com/files/15960025-2d31-44a8-8c2d-dfbd8f03683d",
+      "file": "https://phira.5wyxi.com/files/037dc519-9492-4120-9e06-f4f462dd89f2",
+      "uploader": 439874,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.85716814,
+      "ratingCount": 0,
+      "created": "2026-11-09T15:25:24.616889Z",
+      "updated": "2026-11-15T02:21:50.650893194Z",
+      "chartUpdated": "2026-11-09T15:25:24.616889Z"
+    },
+    {
+      "id": 82614,
+      "name": "Quattro Elements Dimiourgia",
+      "level": "IN Lv.16",
+      "difficulty": 16.1,
+      "charter": "Nyiou thx 4 the Xth chart",
+      "composer": "Castanea (kuro+seatrus+打打だいず+Halv)",
+      "illustrator": "rinne",
+      "description": "十譜紀念owob 感謝大家!\n這張不論排鍵、配置，尤其表演都下了比之前多的功夫，希望大家會喜歡owo \n\n曲目 : Quattro Elements Dimiourgia\n曲師：Castanea(kuro+seatrus+打打だいず+Halv)\nBPM : 202\n物量：942\n定數：16.1",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9556f4a4-1988-4587-b8c7-a278ed193e26",
+      "preview": "https://phira.5wyxi.com/files/dfd83544-c020-4a0d-86b7-166ab6aa9d5b",
+      "file": "https://phira.5wyxi.com/files/134b25c6-7d72-4198-9caf-426507eec6bb",
+      "uploader": 439874,
+      "tags": [
+        "kuro",
+        "seatrus",
+        "halv",
+        "打打",
+        "regular"
+      ],
+      "rating": 0.8761231,
+      "ratingCount": 0,
+      "created": "2026-10-31T06:12:31.617038Z",
+      "updated": "2026-11-15T02:21:22.574306659Z",
+      "chartUpdated": "2026-10-31T06:12:31.617038Z"
+    },
+    {
+      "id": 83958,
+      "name": "約束",
+      "level": "EZ  Lv.5",
+      "difficulty": 5.0,
+      "charter": "Irizer & Ryuuonn *under the Meteor*",
+      "composer": "はるまきごはん",
+      "illustrator": "はるまきごはん",
+      "description": "bilibili@有栖日和 @Imaganeles_15#436863\r\nBV1wZno6pEkZ\r\n二次创作等请注明谱师和链接",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/ae527519-73ea-4ca4-8b94-079c93789f5d",
+      "preview": "https://phira.5wyxi.com/files/5cb257fc-3287-4dd1-bca2-2764306f6acd",
+      "file": "https://phira.5wyxi.com/files/24e472b3-da84-4619-a677-64c412223ebe",
+      "uploader": 407,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8896035,
+      "ratingCount": 0,
+      "created": "2026-11-14T18:46:40.752228Z",
+      "updated": "2026-11-14T18:49:51.539357Z",
+      "chartUpdated": "2026-11-14T18:46:40.752228Z"
+    },
+    {
+      "id": 83696,
+      "name": "わらわを俗世へ連れてって！",
+      "level": "IN Lv.14",
+      "difficulty": 14.300001,
+      "charter": "诶2333",
+      "composer": "篠崎あやと/ファル公/大瀬良あい",
+      "illustrator": "ファル公",
+      "description": "わらわを俗世へ連れてって！（带本姑娘去凡尘吧！）\nChart-诶2333\nLines:53\nNotes:1549\nEvents:18643\nTime:31.3h\n在B站上传（用户同名）\n推荐使用16:9的宽高比和0.95的音符大小",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9f130d84-8913-4c98-aed3-93404a777ee9",
+      "preview": "https://phira.5wyxi.com/files/847e032c-1683-4a6b-a562-4185d3f8b4fc",
+      "file": "https://phira.5wyxi.com/files/3fcf8cc3-9dc7-4d61-a651-575811b84a4a",
+      "uploader": 23821,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.93954176,
+      "ratingCount": 0,
+      "created": "2026-11-12T15:53:10.739442Z",
+      "updated": "2026-11-14T16:12:05.078360266Z",
+      "chartUpdated": "2026-11-12T15:53:10.739442Z"
+    },
+    {
+      "id": 82417,
+      "name": "碧空の約束",
+      "level": "IN Lv.15",
+      "difficulty": 15.0,
+      "charter": "美味缪可葱",
+      "composer": "seatrus",
+      "illustrator": "UK",
+      "description": "新人二谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/455861df-20e4-4899-8601-ee0795119775",
+      "preview": "https://phira.5wyxi.com/files/4055cdbf-7808-4194-b4df-15e20584b203",
+      "file": "https://phira.5wyxi.com/files/834559f5-94b6-417d-8872-9f9abc905638",
+      "uploader": 96667,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9470533,
+      "ratingCount": 0,
+      "created": "2026-10-28T14:33:01.670766Z",
+      "updated": "2026-11-14T11:18:59.175813333Z",
+      "chartUpdated": "2026-10-28T14:33:01.670766Z"
+    },
+    {
+      "id": 83886,
+      "name": "FX戦士くるみちゃん (Nerfed)",
+      "level": "AT Lv.18",
+      "difficulty": 18.0,
+      "charter": "CLWN23333",
+      "composer": "酒井拓也＆傳田有矢&，早田仁知＆山本恭平",
+      "illustrator": "FX战士久留美",
+      "description": "本人上传\n\nhttps://www.bilibili.com/video/BV1pjWC69EB2",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f5df7c9f-b655-4e66-88e0-65d72376bc67",
+      "preview": "https://phira.5wyxi.com/files/3961760f-933f-4078-99ac-44f8fb8799b7",
+      "file": "https://phira.5wyxi.com/files/70351e18-90ae-43d6-bcc5-d727385bc9e3",
+      "uploader": 4117645,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8754631,
+      "ratingCount": 0,
+      "created": "2026-11-14T10:57:07.718913Z",
+      "updated": "2026-11-14T11:05:00.659154515Z",
+      "chartUpdated": "2026-11-14T10:57:07.718913Z"
+    },
+    {
+      "id": 79572,
+      "name": "Illegal Access-Forbidden Love",
+      "level": "IN Lv.15",
+      "difficulty": 15.300001,
+      "charter": "Suikmilk",
+      "composer": "Reonda&Suglarke&A8Z0RB",
+      "illustrator": "Tendin",
+      "description": "本人上传，第六届wjc单人参赛作品",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/03d1cd26-1c6f-4bb9-84b6-39a5277db3f2",
+      "preview": "https://phira.5wyxi.com/files/c0e52f7b-34c6-4a92-a592-33ed89165838",
+      "file": "https://phira.5wyxi.com/files/d0d3a481-ac42-4350-b75b-6dc01ce5629b",
+      "uploader": 352146,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9243039,
+      "ratingCount": 0,
+      "created": "2026-10-01T03:03:07.526801Z",
+      "updated": "2026-11-14T11:03:28.532172859Z",
+      "chartUpdated": "2026-10-01T03:03:07.526801Z"
+    },
     {
       "id": 83642,
       "name": "8bit Voyager",
@@ -21,7 +233,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83321184,
+      "rating": 0.8923198,
       "ratingCount": 0,
       "created": "2026-11-12T02:10:12.369930Z",
       "updated": "2026-11-14T04:39:59.674041012Z",
@@ -47,7 +259,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83321184,
+      "rating": 0.9374426,
       "ratingCount": 0,
       "created": "2026-11-13T15:40:27.255890Z",
       "updated": "2026-11-14T04:38:55.053022724Z",
@@ -73,7 +285,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94192773,
+      "rating": 0.9646512,
       "ratingCount": 3,
       "created": "2026-11-13T12:46:01.476956Z",
       "updated": "2026-11-14T01:23:21.758924Z",
@@ -100,7 +312,7 @@
         "双指",
         "regular"
       ],
-      "rating": 0.8721898,
+      "rating": 0.87338907,
       "ratingCount": 113,
       "created": "2026-11-07T06:35:56.753251Z",
       "updated": "2026-11-13T16:48:59.833643Z",
@@ -127,7 +339,7 @@
         "Opentaiko",
         "regular"
       ],
-      "rating": 0.9024094,
+      "rating": 0.9056457,
       "ratingCount": 0,
       "created": "2026-11-13T15:54:02.654227Z",
       "updated": "2026-11-13T16:38:28.281717866Z",
@@ -153,7 +365,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94850606,
+      "rating": 0.9450551,
       "ratingCount": 0,
       "created": "2026-10-27T09:47:16.837105Z",
       "updated": "2026-11-13T15:14:32.662384647Z",
@@ -179,7 +391,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89430875,
+      "rating": 0.9119141,
       "ratingCount": 34,
       "created": "2026-11-13T12:25:10.771703Z",
       "updated": "2026-11-13T14:25:59.921141Z",
@@ -205,7 +417,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9161865,
+      "rating": 0.92509216,
       "ratingCount": 3,
       "created": "2026-11-12T14:42:14.528659Z",
       "updated": "2026-11-12T15:37:08.065473Z",
@@ -231,7 +443,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9104947,
+      "rating": 0.91380304,
       "ratingCount": 325,
       "created": "2026-09-19T05:53:01.566198Z",
       "updated": "2026-11-12T13:57:34.570677Z",
@@ -257,7 +469,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9507922,
+      "rating": 0.9508511,
       "ratingCount": 7,
       "created": "2026-10-30T14:57:09.019870Z",
       "updated": "2026-11-12T13:56:50.731119Z",
@@ -283,7 +495,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9026472,
+      "rating": 0.91098666,
       "ratingCount": 0,
       "created": "2026-10-18T07:07:51.245201Z",
       "updated": "2026-11-12T13:56:39.298602247Z",
@@ -311,7 +523,7 @@
         "律动轨迹",
         "regular"
       ],
-      "rating": 0.95479447,
+      "rating": 0.95456505,
       "ratingCount": 647,
       "created": "2026-10-07T17:19:55.691893Z",
       "updated": "2026-11-12T13:56:25.477138Z",
@@ -338,7 +550,7 @@
         "orzmic",
         "regular"
       ],
-      "rating": 0.9230944,
+      "rating": 0.92115486,
       "ratingCount": 132,
       "created": "2026-09-09T09:24:30.035945Z",
       "updated": "2026-11-12T13:55:36.509918Z",
@@ -364,7 +576,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93665063,
+      "rating": 0.9324875,
       "ratingCount": 254,
       "created": "2026-09-12T03:53:15.906014Z",
       "updated": "2026-11-12T13:55:17.477713Z",
@@ -390,7 +602,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.88946563,
+      "rating": 0.89048386,
       "ratingCount": 122,
       "created": "2026-09-30T06:59:32.691778Z",
       "updated": "2026-11-12T13:54:52.752531Z",
@@ -416,7 +628,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92469096,
+      "rating": 0.9264551,
       "ratingCount": 272,
       "created": "2026-09-12T11:08:20.290593Z",
       "updated": "2026-11-11T12:08:10.267507017Z",
@@ -442,7 +654,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90033436,
+      "rating": 0.901324,
       "ratingCount": 235,
       "created": "2026-09-12T04:10:53.879990Z",
       "updated": "2026-11-11T12:07:46.734149253Z",
@@ -468,7 +680,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9549057,
+      "rating": 0.9545618,
       "ratingCount": 185,
       "created": "2026-10-06T06:12:53.151359Z",
       "updated": "2026-11-11T11:46:19.761577264Z",
@@ -494,7 +706,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8106794,
+      "rating": 0.80312103,
       "ratingCount": 0,
       "created": "2026-11-08T04:21:04.407746Z",
       "updated": "2026-11-11T08:20:11.359136165Z",
@@ -522,7 +734,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.9101701,
+      "rating": 0.91458154,
       "ratingCount": 110,
       "created": "2026-11-08T11:31:02.649586Z",
       "updated": "2026-11-10T09:15:57.391342Z",
@@ -548,7 +760,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93421334,
+      "rating": 0.9304139,
       "ratingCount": 50,
       "created": "2026-11-09T17:21:25.754147Z",
       "updated": "2026-11-10T04:41:38.218343455Z",
@@ -575,222 +787,11 @@
         "NCT",
         "regular"
       ],
-      "rating": 0.9409009,
+      "rating": 0.9391149,
       "ratingCount": 2632,
       "created": "2025-08-31T15:17:46.905554Z",
       "updated": "2026-11-09T07:50:18.652287888Z",
       "chartUpdated": "2025-09-20T09:07:37.112832Z"
-    },
-    {
-      "id": 74852,
-      "name": "天生鬼才(Side Quest King)",
-      "level": "AT Lv.14",
-      "difficulty": 14.900003,
-      "charter": "泡泡鸡",
-      "composer": "HoYo-Mix (KISAI remix feat. 初音ミク)",
-      "illustrator": "",
-      "description": "如有好的建议欢迎提出\n详见BV1yAgC6xE66",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8f9c64e9-3f33-4cea-a3e2-010115810b33",
-      "preview": "https://phira.5wyxi.com/files/9f84cc5c-dc35-4a5a-99cd-2042fd3d0b49",
-      "file": "https://phira.5wyxi.com/files/dfae4dc6-79ef-4b1b-a769-7d719d9013db",
-      "uploader": 1528678,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9068194,
-      "ratingCount": 0,
-      "created": "2026-08-21T13:06:04.801838Z",
-      "updated": "2026-11-09T03:15:02.471086355Z",
-      "chartUpdated": "2026-08-21T13:06:04.801838Z"
-    },
-    {
-      "id": 79913,
-      "name": "ATLAS RUSH",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "XXXX RUSH",
-      "composer": "kanone",
-      "illustrator": "Khronetic(Chloe modified)",
-      "description": "0pj参赛谱三改\n删榜致歉\n感谢FM壹某和vex，以及0pj观众与评议给出的建议",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/f4ea977a-7924-42ff-96d1-0c22ae8d47b0",
-      "preview": "https://phira.5wyxi.com/files/5047e718-061c-4521-9670-23dfd18b8aa3",
-      "file": "https://phira.5wyxi.com/files/0bc5b36c-fa7a-48d8-bb59-e118c13f61e8",
-      "uploader": 18678,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.94173396,
-      "ratingCount": 277,
-      "created": "2026-10-03T04:38:14.194042Z",
-      "updated": "2026-11-09T02:47:06.568449Z",
-      "chartUpdated": "2026-10-03T04:38:14.194042Z"
-    },
-    {
-      "id": 83452,
-      "name": "When will the end arrive, I wonder?",
-      "level": "IN Lv.14",
-      "difficulty": 14.600002,
-      "charter": "YSTAR-T",
-      "composer": "DashyDesu",
-      "illustrator": "DashyDesu",
-      "description": "谱师本人上传\r\n物量:1010\r\n定数:14.6\r\n你过去消极的故事....",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/63265b49-cc64-4c34-97ca-0a2f5ae009ae",
-      "preview": "https://phira.5wyxi.com/files/a03383a2-3411-4ed1-8fdb-ff9bca8b298c",
-      "file": "https://phira.5wyxi.com/files/b5a5e431-628a-44d4-a117-8cf7c2ff880b",
-      "uploader": 1213694,
-      "tags": [
-        "Opentaiko",
-        "regular"
-      ],
-      "rating": 0.92742777,
-      "ratingCount": 0,
-      "created": "2026-11-08T12:12:29.793644Z",
-      "updated": "2026-11-08T12:17:48.284447895Z",
-      "chartUpdated": "2026-11-08T12:12:29.793644Z"
-    },
-    {
-      "id": 83448,
-      "name": "About the Universe",
-      "level": "IN Lv.13",
-      "difficulty": 13.800001,
-      "charter": "About the YSTAR-T.....",
-      "composer": "SOTUI vs MIssionary\t",
-      "illustrator": "6XeNoN9",
-      "description": "谱师本人上传\n可能是目前打起来最不用费脑子的一张About The Universe\n物量 629\n定数 13.8",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0ada4cc1-6573-46f3-b14f-f5842ed6bea1",
-      "preview": "https://phira.5wyxi.com/files/3e97d232-4f68-4078-bd4a-530f93420abf",
-      "file": "https://phira.5wyxi.com/files/61fa20be-622d-4225-ac75-67cbf7ffd986",
-      "uploader": 1213694,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9097923,
-      "ratingCount": 0,
-      "created": "2026-11-08T11:20:59.632965Z",
-      "updated": "2026-11-08T12:17:33.715813621Z",
-      "chartUpdated": "2026-11-08T11:20:59.632965Z"
-    },
-    {
-      "id": 83409,
-      "name": "Hydroblast",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "全自動水力噴射装置",
-      "composer": "Aoi vs siromaru",
-      "illustrator": "UK",
-      "description": "本人上传\n预览：https://b23.tv/Ydky1Rk",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/a884edcf-fc3f-418a-89d1-9cc8863e46a3",
-      "preview": "https://phira.5wyxi.com/files/db0da2b6-9371-4441-96e9-10f732390ebe",
-      "file": "https://phira.5wyxi.com/files/aa9c1b90-bf13-4b4f-b4b5-fdf9fec916c1",
-      "uploader": 5738,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9401286,
-      "ratingCount": 238,
-      "created": "2026-11-08T05:55:36.514654Z",
-      "updated": "2026-11-08T07:18:02.646269Z",
-      "chartUpdated": "2026-11-08T05:55:36.514654Z"
-    },
-    {
-      "id": 80561,
-      "name": "Melodiniq",
-      "level": "AT  Lv.18",
-      "difficulty": 18.500002,
-      "charter": "∅Memoir of \"Administrat∅R\"∅",
-      "composer": "onoken a.k.a. owl*tree",
-      "illustrator": "",
-      "description": "该谱面为 WSRT x 云梦杯 2026 比赛供谱的改版。为避免清榜，谱师团队选择了重新上传差分谱。\r\n感谢Kanoten和A水的摸图！————————————————\n曲名：Melodiniq\n曲师：onoken a.k.a. owl*tree\n谱师：∅Memoir of \"Administrat∅R\"∅\n难度：ULT Lv.18\n物量：2026\r\n\r\nUpdate(20261108)：进行了大量对音修正，修改了部分排列。\r\n\r\n@scniscn#4071（特效）@Baize1133#448065（修缮）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/f4fdc8f2-7885-450b-801f-c95483581a56",
-      "preview": "https://phira.5wyxi.com/files/54443a7f-2955-4ff0-b21a-f884d2a37913",
-      "file": "https://phira.5wyxi.com/files/6195dacf-5a33-4028-85d9-4964a4eb26b8",
-      "uploader": 148983,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9393719,
-      "ratingCount": 112,
-      "created": "2026-10-07T16:25:17.707194Z",
-      "updated": "2026-11-08T06:12:44.036076885Z",
-      "chartUpdated": "2026-11-08T06:12:44.036076885Z"
-    },
-    {
-      "id": 83153,
-      "name": "逐光",
-      "level": "IN  Lv.16",
-      "difficulty": 16.0,
-      "charter": "绿龙和喵酱在逐光！",
-      "composer": "DOS/蓝菓Nexus/橘子 feat.早凉",
-      "illustrator": "落shu1_vO、香蕉水果茶",
-      "description": "和@生肖大绿龙#249934 的合作谱！\n本人主要写了判定线表演！",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/9f3f1aa7-7e06-448c-8c0c-7eaaf975ff20",
-      "preview": "https://phira.5wyxi.com/files/e1244d57-3dcc-4b1f-87fb-35e8e6a370ce",
-      "file": "https://phira.5wyxi.com/files/5f779658-a632-4564-bd77-c5123a571be6",
-      "uploader": 1494944,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9062682,
-      "ratingCount": 0,
-      "created": "2026-11-06T11:22:58.520634Z",
-      "updated": "2026-11-08T05:04:58.850583372Z",
-      "chartUpdated": "2026-11-06T11:22:58.520634Z"
-    },
-    {
-      "id": 83226,
-      "name": "ドキドキデート大作戦",
-      "level": "IN Lv.14",
-      "difficulty": 14.500002,
-      "charter": "黄英似蛭",
-      "composer": "Plott Music Team",
-      "illustrator": "",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5ee9afd3-1c07-4aa2-881c-ea0721e1b6b8",
-      "preview": "https://phira.5wyxi.com/files/d618ef5d-128a-4212-abc2-a5cec216e6a1",
-      "file": "https://phira.5wyxi.com/files/9f34a98d-9fe0-419a-96b9-c84af1e071b4",
-      "uploader": 182251,
-      "tags": [
-        "全力回避flag酱",
-        "全力回避フラグちゃん",
-        "regular"
-      ],
-      "rating": 0.9165587,
-      "ratingCount": 0,
-      "created": "2026-11-07T05:44:33.943372Z",
-      "updated": "2026-11-08T03:18:24.924096446Z",
-      "chartUpdated": "2026-11-07T05:44:33.943372Z"
     }
   ]
 }
