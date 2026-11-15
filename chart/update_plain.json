@@ -1,6 +1,87 @@
 {
-  "count": 3405,
+  "count": 3406,
   "results": [
+    {
+      "id": 83950,
+      "name": "疾行锐进 Swift Advance",
+      "level": "AdvancedJack",
+      "difficulty": 10.0,
+      "charter": "1mhan9 vs. Mhang_L",
+      "composer": "HOYO-MIX",
+      "illustrator": "Genshin Impact",
+      "description": "本人上传。\n@Mhang_L#512506 负责修改排键。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0fe8f359-1b48-4d69-92ca-4519c478db4e",
+      "preview": "https://phira.5wyxi.com/files/10ee590c-fbfb-4012-9ae0-d634ca58c1b2",
+      "file": "https://phira.5wyxi.com/files/981182a3-57ee-4c59-bb87-654dbac7b0c7",
+      "uploader": 1989524,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.66978484,
+      "ratingCount": 0,
+      "created": "2026-11-14T16:42:42.080013Z",
+      "updated": "2026-11-14T22:01:00.329493794Z",
+      "chartUpdated": "2026-11-14T16:42:42.080013Z"
+    },
+    {
+      "id": 83349,
+      "name": "DFC SiFeng Dan",
+      "level": "AI Lv.10",
+      "difficulty": 10.0,
+      "charter": "moutao",
+      "composer": "V. A.",
+      "illustrator": "doubao",
+      "description": "DFC SiFeng Dan震撼来袭！\r\n这四首歌应该让更多人听到！\r\n借鉴了部分γ单曲的配置\r\n黄键比：2348/7137\r\n边缘=96.48%\r\n过段=97.89%\r\n后光=98.94%\r\n击破=99.65%\r\n感谢游玩~",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a056f7d4-afac-405d-9a8c-83dfa7c7e728",
+      "preview": "https://phira.5wyxi.com/files/f480249e-1b42-4f0d-ba8c-4030a252d626",
+      "file": "https://phira.5wyxi.com/files/5998eec8-466c-4e09-933e-8b9ae27628ed",
+      "uploader": 19429,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.9338282,
+      "ratingCount": 0,
+      "created": "2026-11-07T19:06:24.829953Z",
+      "updated": "2026-11-14T06:06:07.863163336Z",
+      "chartUpdated": "2026-11-07T19:06:24.829953Z"
+    },
+    {
+      "id": 83347,
+      "name": "Forgotten(AI remix)",
+      "level": "AI Lv.10",
+      "difficulty": 10.0,
+      "charter": "moutao",
+      "composer": "V.A.",
+      "illustrator": "doubao",
+      "description": "谱师本人上传\r\n黄键比：942/2077\r\n边缘＝97.04\r\n过段＝98.22\r\n后光＝99.11\r\n击破＝99.70\r\n制作用时：5小时\r\nai作曲BPM不固定，这下谱师可惨了\r\n感谢群友提供的采音\r\nSiFeng Dan 技单曲",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/16cdf023-9dd3-433c-8856-7ba1377764d8",
+      "preview": "https://phira.5wyxi.com/files/4d1c5cfe-9937-48db-a44a-deaaed25b159",
+      "file": "https://phira.5wyxi.com/files/3d9d17e2-e6d4-4e47-8391-834866db7d77",
+      "uploader": 19429,
+      "tags": [
+        "dfc",
+        "技",
+        "双指",
+        "plain"
+      ],
+      "rating": 0.8555345,
+      "ratingCount": 0,
+      "created": "2026-11-07T18:33:16.085292Z",
+      "updated": "2026-11-14T06:05:58.725398241Z",
+      "chartUpdated": "2026-11-07T18:33:16.085292Z"
+    },
     {
       "id": 71631,
       "name": "Misery Fantasy (feat. Eleanor Forte)",
@@ -21,7 +102,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84339577,
+      "rating": 0.8409353,
       "ratingCount": 0,
       "created": "2026-08-06T08:45:29.035770Z",
       "updated": "2026-11-09T03:56:31.481402930Z",
@@ -48,7 +129,7 @@
         "纯双指",
         "plain"
       ],
-      "rating": 0.8615491,
+      "rating": 0.83936054,
       "ratingCount": 0,
       "created": "2026-11-08T01:52:22.178579Z",
       "updated": "2026-11-08T04:52:52.349985820Z",
@@ -78,7 +159,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.91185325,
+      "rating": 0.90560967,
       "ratingCount": 0,
       "created": "2026-11-07T05:02:51.512134Z",
       "updated": "2026-11-07T08:11:20.411628052Z",
@@ -104,7 +185,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92956096,
+      "rating": 0.9292136,
       "ratingCount": 0,
       "created": "2026-11-05T10:11:29.191104Z",
       "updated": "2026-11-06T15:06:18.348449595Z",
@@ -132,7 +213,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.95464325,
+      "rating": 0.95470583,
       "ratingCount": 0,
       "created": "2026-11-05T15:27:10.936976Z",
       "updated": "2026-11-06T13:47:54.793543425Z",
@@ -161,7 +242,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9340193,
+      "rating": 0.9402281,
       "ratingCount": 0,
       "created": "2026-10-26T09:51:08.806765Z",
       "updated": "2026-11-06T13:47:25.699327171Z",
@@ -190,7 +271,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.93020654,
+      "rating": 0.92776394,
       "ratingCount": 0,
       "created": "2026-10-22T11:46:56.631307Z",
       "updated": "2026-11-06T13:47:13.435671491Z",
@@ -219,7 +300,7 @@
         "综合",
         "plain"
       ],
-      "rating": 0.85721785,
+      "rating": 0.8491443,
       "ratingCount": 0,
       "created": "2026-10-19T06:53:35.392025Z",
       "updated": "2026-11-06T13:47:01.365035616Z",
@@ -250,7 +331,7 @@
         "",
         "plain"
       ],
-      "rating": 0.9525099,
+      "rating": 0.9541527,
       "ratingCount": 27,
       "created": "2026-11-03T13:25:32.391512Z",
       "updated": "2026-11-06T09:47:42.468987Z",
@@ -279,7 +360,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9376072,
+      "rating": 0.9407668,
       "ratingCount": 0,
       "created": "2026-11-05T11:38:51.502368Z",
       "updated": "2026-11-05T13:16:17.426015802Z",
@@ -306,7 +387,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.93612,
+      "rating": 0.9362017,
       "ratingCount": 0,
       "created": "2026-11-02T13:40:04.886729Z",
       "updated": "2026-11-02T15:10:12.641076330Z",
@@ -332,7 +413,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9016066,
+      "rating": 0.90403974,
       "ratingCount": 0,
       "created": "2026-11-01T15:06:18.904706Z",
       "updated": "2026-11-02T11:06:42.929497540Z",
@@ -358,7 +439,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9416412,
+      "rating": 0.94364375,
       "ratingCount": 4,
       "created": "2026-10-05T04:09:28.706543Z",
       "updated": "2026-11-01T04:34:58.604717Z",
@@ -384,7 +465,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9494695,
+      "rating": 0.9481965,
       "ratingCount": 0,
       "created": "2026-10-05T04:06:31.389367Z",
       "updated": "2026-11-01T04:31:18.017521524Z",
@@ -410,7 +491,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8572042,
+      "rating": 0.8450675,
       "ratingCount": 0,
       "created": "2026-10-30T13:05:23.992650Z",
       "updated": "2026-11-01T04:11:57.301309293Z",
@@ -439,7 +520,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.91614527,
+      "rating": 0.92146,
       "ratingCount": 0,
       "created": "2026-06-07T08:21:08.846015Z",
       "updated": "2026-11-01T00:46:22.640520067Z",
@@ -465,7 +546,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9205181,
+      "rating": 0.91929436,
       "ratingCount": 0,
       "created": "2026-10-31T05:32:48.718486Z",
       "updated": "2026-10-31T15:06:30.268224855Z",
@@ -494,7 +575,7 @@
         "裏表ラバーズ",
         "plain"
       ],
-      "rating": 0.944329,
+      "rating": 0.9465645,
       "ratingCount": 0,
       "created": "2026-10-14T20:42:29.962417Z",
       "updated": "2026-10-31T13:31:52.484650515Z",
@@ -520,7 +601,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9193826,
+      "rating": 0.91905016,
       "ratingCount": 0,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693907Z",
@@ -546,7 +627,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9165609,
+      "rating": 0.9157644,
       "ratingCount": 0,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847058Z",
@@ -573,7 +654,7 @@
         "高难",
         "plain"
       ],
-      "rating": 0.93262416,
+      "rating": 0.93385524,
       "ratingCount": 1,
       "created": "2026-07-10T03:35:35.130231Z",
       "updated": "2026-10-30T03:35:22.894760839Z",
@@ -602,7 +683,7 @@
         "Birthday",
         "plain"
       ],
-      "rating": 0.9366103,
+      "rating": 0.94081044,
       "ratingCount": 6,
       "created": "2026-10-24T20:44:51.651713Z",
       "updated": "2026-10-29T03:27:16.191298Z",
@@ -660,7 +741,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.90702486,
+      "rating": 0.9099538,
       "ratingCount": 22,
       "created": "2026-10-27T08:57:22.624822Z",
       "updated": "2026-10-27T09:01:20.196469Z",
@@ -686,7 +767,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9250534,
+      "rating": 0.92762077,
       "ratingCount": 31,
       "created": "2026-10-25T13:09:40.097047Z",
       "updated": "2026-10-27T04:21:27.724328Z",
@@ -712,7 +793,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8370822,
+      "rating": 0.8379051,
       "ratingCount": 78,
       "created": "2026-10-25T10:11:55.004305Z",
       "updated": "2026-10-26T09:28:23.359250Z",
@@ -743,103 +824,11 @@
         "6",
         "plain"
       ],
-      "rating": 0.9437812,
+      "rating": 0.945372,
       "ratingCount": 13,
       "created": "2026-10-25T09:46:15.921253Z",
       "updated": "2026-10-25T17:16:09.096036Z",
       "chartUpdated": "2026-10-25T09:46:15.921253Z"
-    },
-    {
-      "id": 82159,
-      "name": "DFC 6th Dan(Sample)",
-      "level": "Dan Lv.6",
-      "difficulty": 6.0,
-      "charter": "Anxiety",
-      "composer": "Various Artists",
-      "illustrator": "Anxiety",
-      "description": "DFC 6th Dan(Sample) 考核\n乱：SAY BAY\n叠：Final Step!\n技：可愛くてごめん\n切：RTRT\nBPM:165/180/160/约132\n定数：6.2/5.9/6.4/6.3\n过段标准：97.96%\n后光标准：98.98%\n击破标准：99.66%",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/ce3b09fc-8070-4eb0-b0c5-5e9f003f991b",
-      "preview": "https://phira.5wyxi.com/files/71ae5293-5ba5-439a-a278-c12484db3b6b",
-      "file": "https://phira.5wyxi.com/files/850d6884-64af-4cf0-8e91-09b2a95f8c1b",
-      "uploader": 4366580,
-      "tags": [
-        "DFC",
-        "Dan",
-        "6",
-        "段位",
-        "plain"
-      ],
-      "rating": 0.9536835,
-      "ratingCount": 47,
-      "created": "2026-10-25T09:46:36.818423Z",
-      "updated": "2026-10-25T16:37:09.769918Z",
-      "chartUpdated": "2026-10-25T09:46:36.818423Z"
-    },
-    {
-      "id": 82157,
-      "name": "Final Step! ",
-      "level": "Sіmple Lv.6",
-      "difficulty": 5.9,
-      "charter": "Anxiety",
-      "composer": "Lime",
-      "illustrator": "谷地（青鸟 modified）",
-      "description": "DFC 6th Dan Sіmple 单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2a9fd5bd-28dd-40d3-9145-14d920de374e",
-      "preview": "https://phira.5wyxi.com/files/b929f31f-9940-4549-ba42-f5766f405f40",
-      "file": "https://phira.5wyxi.com/files/61a48b04-0e58-4eb9-ad21-d89c323d0017",
-      "uploader": 4366580,
-      "tags": [
-        "DFC",
-        "双指",
-        "Sіmple",
-        "叠",
-        "6",
-        "plain"
-      ],
-      "rating": 0.92893064,
-      "ratingCount": 97,
-      "created": "2026-10-25T09:45:57.957650Z",
-      "updated": "2026-10-25T16:34:38.875881Z",
-      "chartUpdated": "2026-10-25T09:45:57.957650Z"
-    },
-    {
-      "id": 82156,
-      "name": "可愛くてごめん",
-      "level": "Slide Lv.6",
-      "difficulty": 6.3999996,
-      "charter": "Anxiety",
-      "composer": "HoneyWorks & 早見沙織",
-      "illustrator": "TMK",
-      "description": "DFC 6th Dan Slide 单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/162f88dc-63ae-409a-a7a7-909e1a3c7ba6",
-      "preview": "https://phira.5wyxi.com/files/061579f2-3b20-4315-a17b-506b8db68f34",
-      "file": "https://phira.5wyxi.com/files/203d457b-a57b-4dc4-9d4b-54e433faf0d1",
-      "uploader": 4366580,
-      "tags": [
-        "DFC",
-        "双指",
-        "Slide",
-        "技",
-        "6",
-        "plain"
-      ],
-      "rating": 0.9161397,
-      "ratingCount": 519,
-      "created": "2026-10-25T09:45:43.212266Z",
-      "updated": "2026-10-25T16:08:21.767298Z",
-      "chartUpdated": "2026-10-25T09:45:43.212266Z"
     }
   ]
 }
