@@ -27,7 +27,7 @@
         "整活",
         "troll"
       ],
-      "rating": 0.9204794,
+      "rating": 0.9204341,
       "ratingCount": 260,
       "created": "2026-07-26T10:04:06.923218Z",
       "updated": "2026-10-12T12:13:21.089723Z",
@@ -53,7 +53,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.76567763,
+      "rating": 0.7569392,
       "ratingCount": 28,
       "created": "2026-07-20T23:32:59.882245Z",
       "updated": "2026-10-12T12:13:16.349178Z",
@@ -69,9 +69,9 @@
       "illustrator": "不砶-Phira",
       "description": "电脑基本知识检测\n第一单元\n",
       "ranked": false,
-      "reviewed": false,
+      "reviewed": true,
       "stable": false,
-      "stableRequest": true,
+      "stableRequest": false,
       "illustration": "https://phira.5wyxi.com/files/fe3cd706-690c-4fbc-885a-a0fcd804e79d",
       "preview": "https://phira.5wyxi.com/files/53f80559-fc7a-4c85-a3cc-9c62b8d6004a",
       "file": "https://phira.5wyxi.com/files/ad54812d-02cd-4ea6-9ac8-1207c871de4a",
@@ -79,8 +79,8 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9173622,
-      "ratingCount": 167,
+      "rating": 0.9140829,
+      "ratingCount": 291,
       "created": "2026-09-20T04:58:01.649579Z",
       "updated": "2026-10-09T14:59:07.492521Z",
       "chartUpdated": "2026-09-20T04:58:01.649579Z"
@@ -105,7 +105,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7981401,
+      "rating": 0.7982363,
       "ratingCount": 14182,
       "created": "2026-10-03T16:15:30.784068Z",
       "updated": "2026-10-04T09:01:50.574286Z",
@@ -132,7 +132,7 @@
         "大小键",
         "troll"
       ],
-      "rating": 0.8985507,
+      "rating": 0.89766735,
       "ratingCount": 96,
       "created": "2026-09-14T14:00:04.002790Z",
       "updated": "2026-09-18T06:05:38.694380Z",
@@ -164,7 +164,7 @@
         "宝宝巴士",
         "troll"
       ],
-      "rating": 0.71556973,
+      "rating": 0.71618855,
       "ratingCount": 2183,
       "created": "2026-08-28T03:56:40.337710Z",
       "updated": "2026-08-28T07:10:13.300816Z",
@@ -216,7 +216,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7963375,
+      "rating": 0.79639965,
       "ratingCount": 72,
       "created": "2026-08-20T06:03:15.738981Z",
       "updated": "2026-08-20T06:03:15.738981Z",
@@ -244,7 +244,7 @@
         "还原",
         "troll"
       ],
-      "rating": 0.9768736,
+      "rating": 0.9772152,
       "ratingCount": 121,
       "created": "2026-07-29T17:32:44.523418Z",
       "updated": "2026-08-01T10:02:11.877540Z",
@@ -270,7 +270,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8908437,
+      "rating": 0.89095986,
       "ratingCount": 9261,
       "created": "2026-07-21T19:16:55.670015Z",
       "updated": "2026-07-21T19:16:55.670015Z",
@@ -296,7 +296,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.9492701,
+      "rating": 0.9492756,
       "ratingCount": 13396,
       "created": "2025-07-25T15:04:48.494577Z",
       "updated": "2026-07-20T09:19:15.162968Z",
@@ -322,7 +322,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83374566,
+      "rating": 0.83356756,
       "ratingCount": 3931,
       "created": "2026-06-30T15:24:12.913392Z",
       "updated": "2026-06-30T15:24:12.913392Z",
@@ -348,7 +348,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7705804,
+      "rating": 0.77066004,
       "ratingCount": 16545,
       "created": "2026-06-29T11:40:00.080895Z",
       "updated": "2026-06-29T11:40:00.080895Z",
@@ -374,7 +374,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.8471905,
+      "rating": 0.84453154,
       "ratingCount": 104,
       "created": "2026-06-20T14:20:00.970999Z",
       "updated": "2026-06-20T14:20:00.970999Z",
@@ -402,7 +402,7 @@
         "纵连",
         "troll"
       ],
-      "rating": 0.8990486,
+      "rating": 0.8998791,
       "ratingCount": 115,
       "created": "2026-06-07T12:21:29.348521Z",
       "updated": "2026-06-07T12:21:29.348521Z",
@@ -454,7 +454,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89709264,
+      "rating": 0.897018,
       "ratingCount": 4498,
       "created": "2026-05-17T02:53:25.213374Z",
       "updated": "2026-05-17T02:53:25.213374Z",
@@ -481,7 +481,7 @@
         "曾经の小曲",
         "troll"
       ],
-      "rating": 0.91941065,
+      "rating": 0.91900116,
       "ratingCount": 2054,
       "created": "2026-05-12T12:28:56.857895Z",
       "updated": "2026-05-12T12:28:56.857895Z",
@@ -533,7 +533,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.75882506,
+      "rating": 0.75839543,
       "ratingCount": 790,
       "created": "2026-05-04T09:55:06.699202Z",
       "updated": "2026-05-04T09:55:06.699202Z",
@@ -585,7 +585,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.7030026,
+      "rating": 0.70342875,
       "ratingCount": 686,
       "created": "2026-05-02T11:42:36.588167Z",
       "updated": "2026-05-02T11:42:36.588167Z",
@@ -611,7 +611,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.907891,
+      "rating": 0.9047509,
       "ratingCount": 77,
       "created": "2026-04-28T10:59:02.139326Z",
       "updated": "2026-04-28T10:59:02.139326Z",
@@ -637,7 +637,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.766081,
+      "rating": 0.76491195,
       "ratingCount": 198,
       "created": "2026-04-20T11:21:03.671434Z",
       "updated": "2026-04-20T11:21:03.671434Z",
@@ -663,7 +663,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.83353454,
+      "rating": 0.83412415,
       "ratingCount": 279,
       "created": "2026-04-18T03:36:17.744941Z",
       "updated": "2026-04-18T03:36:17.744941Z",
@@ -747,7 +747,7 @@
         "脑裂",
         "troll"
       ],
-      "rating": 0.923991,
+      "rating": 0.92378926,
       "ratingCount": 1335,
       "created": "2026-04-11T05:52:35.527904Z",
       "updated": "2026-04-11T05:52:35.527904Z",
@@ -773,7 +773,7 @@
       "tags": [
         "troll"
       ],
-      "rating": 0.89314127,
+      "rating": 0.8932001,
       "ratingCount": 2650,
       "created": "2026-04-11T02:47:02.705037Z",
       "updated": "2026-04-11T02:47:02.705037Z",
