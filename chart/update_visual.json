@@ -21,11 +21,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81882125,
-      "ratingCount": 6,
+      "rating": 0.8321164,
+      "ratingCount": 23,
       "created": "2026-08-18T11:56:45.304155Z",
       "updated": "2026-10-09T15:05:02.927646Z",
-      "chartUpdated": "2026-08-18T11:56:45.304155Z"
+      "chartUpdated": "2026-08-18T11:56:45.304155Z",
+      "hidden": false
     },
     {
       "id": 52545,
@@ -47,11 +48,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8520983,
-      "ratingCount": 9,
+      "rating": 0.8451049,
+      "ratingCount": 24,
       "created": "2026-02-13T04:52:09.828968Z",
       "updated": "2026-10-09T15:01:27.340451Z",
-      "chartUpdated": "2026-02-13T04:52:09.828968Z"
+      "chartUpdated": "2026-02-13T04:52:09.828968Z",
+      "hidden": false
     },
     {
       "id": 79472,
@@ -81,11 +83,12 @@
         "原神启动",
         "visual"
       ],
-      "rating": 0.5964969,
-      "ratingCount": 97,
+      "rating": 0.60021967,
+      "ratingCount": 110,
       "created": "2026-09-30T09:55:25.988502Z",
       "updated": "2026-10-02T08:16:38.531728Z",
-      "chartUpdated": "2026-09-30T09:55:25.988502Z"
+      "chartUpdated": "2026-09-30T09:55:25.988502Z",
+      "hidden": false
     },
     {
       "id": 60236,
@@ -112,11 +115,12 @@
         "切门永存",
         "visual"
       ],
-      "rating": 0.87050694,
-      "ratingCount": 8,
+      "rating": 0.8549431,
+      "ratingCount": 11,
       "created": "2026-06-07T04:47:14.549941Z",
       "updated": "2026-09-27T07:14:47.845568Z",
-      "chartUpdated": "2026-06-07T04:47:14.549941Z"
+      "chartUpdated": "2026-06-07T04:47:14.549941Z",
+      "hidden": false
     },
     {
       "id": 67607,
@@ -140,10 +144,11 @@
         "visual"
       ],
       "rating": 0.8908165,
-      "ratingCount": 26,
+      "ratingCount": 37,
       "created": "2026-07-18T20:57:06.172343Z",
       "updated": "2026-09-14T08:34:36.189090Z",
-      "chartUpdated": "2026-07-18T20:57:06.172343Z"
+      "chartUpdated": "2026-07-18T20:57:06.172343Z",
+      "hidden": false
     },
     {
       "id": 71070,
@@ -166,10 +171,11 @@
         "visual"
       ],
       "rating": 0.79994255,
-      "ratingCount": 89,
+      "ratingCount": 95,
       "created": "2026-08-04T02:57:51.609933Z",
       "updated": "2026-08-04T02:57:51.609933Z",
-      "chartUpdated": "2026-08-04T02:57:51.609933Z"
+      "chartUpdated": "2026-08-04T02:57:51.609933Z",
+      "hidden": false
     },
     {
       "id": 69558,
@@ -191,11 +197,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.91967577,
-      "ratingCount": 97343,
+      "rating": 0.9196806,
+      "ratingCount": 97997,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
-      "chartUpdated": "2026-07-27T16:42:57.962104Z"
+      "chartUpdated": "2026-07-27T16:42:57.962104Z",
+      "hidden": false
     },
     {
       "id": 66015,
@@ -218,10 +225,11 @@
         "visual"
       ],
       "rating": 0.93007255,
-      "ratingCount": 133,
+      "ratingCount": 139,
       "created": "2026-07-12T14:52:02.432223Z",
       "updated": "2026-07-12T14:52:02.432223Z",
-      "chartUpdated": "2026-07-12T14:52:02.432223Z"
+      "chartUpdated": "2026-07-12T14:52:02.432223Z",
+      "hidden": false
     },
     {
       "id": 61743,
@@ -243,11 +251,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.86513406,
-      "ratingCount": 185,
+      "rating": 0.86583376,
+      "ratingCount": 192,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
-      "chartUpdated": "2026-06-20T14:05:15.124654Z"
+      "chartUpdated": "2026-06-20T14:05:15.124654Z",
+      "hidden": false
     },
     {
       "id": 56993,
@@ -269,11 +278,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.7878871,
-      "ratingCount": 197,
+      "rating": 0.7889496,
+      "ratingCount": 201,
       "created": "2026-04-24T11:43:14.975975Z",
       "updated": "2026-04-24T11:43:14.975975Z",
-      "chartUpdated": "2026-04-24T11:43:14.975975Z"
+      "chartUpdated": "2026-04-24T11:43:14.975975Z",
+      "hidden": false
     },
     {
       "id": 56536,
@@ -296,10 +306,11 @@
         "visual"
       ],
       "rating": 0.8786697,
-      "ratingCount": 132,
+      "ratingCount": 133,
       "created": "2026-04-18T03:14:16.485499Z",
       "updated": "2026-04-18T03:14:16.485499Z",
-      "chartUpdated": "2026-04-18T03:14:16.485499Z"
+      "chartUpdated": "2026-04-18T03:14:16.485499Z",
+      "hidden": false
     },
     {
       "id": 54884,
@@ -322,10 +333,11 @@
         "visual"
       ],
       "rating": 0.8101505,
-      "ratingCount": 473,
+      "ratingCount": 486,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
-      "chartUpdated": "2026-04-02T01:53:56.151166Z"
+      "chartUpdated": "2026-04-02T01:53:56.151166Z",
+      "hidden": false
     },
     {
       "id": 53777,
@@ -353,7 +365,8 @@
       "ratingCount": 30,
       "created": "2026-03-03T06:49:21.192811Z",
       "updated": "2026-03-03T06:49:21.192811Z",
-      "chartUpdated": "2026-03-03T06:49:21.192811Z"
+      "chartUpdated": "2026-03-03T06:49:21.192811Z",
+      "hidden": false
     },
     {
       "id": 53661,
@@ -379,7 +392,8 @@
       "ratingCount": 172,
       "created": "2026-03-01T07:33:06.760383Z",
       "updated": "2026-03-01T07:33:06.760383Z",
-      "chartUpdated": "2026-03-01T07:33:06.760383Z"
+      "chartUpdated": "2026-03-01T07:33:06.760383Z",
+      "hidden": false
     },
     {
       "id": 53652,
@@ -402,10 +416,11 @@
         "visual"
       ],
       "rating": 0.8620522,
-      "ratingCount": 63,
+      "ratingCount": 65,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
-      "chartUpdated": "2026-03-01T05:13:19.479990Z"
+      "chartUpdated": "2026-03-01T05:13:19.479990Z",
+      "hidden": false
     },
     {
       "id": 36054,
@@ -432,10 +447,11 @@
         "visual"
       ],
       "rating": 0.8243856,
-      "ratingCount": 142,
+      "ratingCount": 144,
       "created": "2025-04-03T11:59:34.221133Z",
       "updated": "2026-02-14T09:36:44.192161Z",
-      "chartUpdated": "2026-02-14T09:36:44.192161Z"
+      "chartUpdated": "2026-02-14T09:36:44.192161Z",
+      "hidden": false
     },
     {
       "id": 52561,
@@ -457,11 +473,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.811694,
-      "ratingCount": 587,
+      "rating": 0.81186974,
+      "ratingCount": 629,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
-      "chartUpdated": "2026-02-13T07:01:51.207298Z"
+      "chartUpdated": "2026-02-13T07:01:51.207298Z",
+      "hidden": false
     },
     {
       "id": 52369,
@@ -485,11 +502,12 @@
         "创意",
         "visual"
       ],
-      "rating": 0.9171562,
-      "ratingCount": 141,
+      "rating": 0.91704655,
+      "ratingCount": 145,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-10T06:56:11.788757Z",
-      "chartUpdated": "2026-02-10T06:56:11.788757Z"
+      "chartUpdated": "2026-02-10T06:56:11.788757Z",
+      "hidden": false
     },
     {
       "id": 51874,
@@ -512,10 +530,11 @@
         "visual"
       ],
       "rating": 0.8582943,
-      "ratingCount": 90,
+      "ratingCount": 109,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-01-31T12:08:54.911616Z",
-      "chartUpdated": "2026-01-31T12:08:54.911616Z"
+      "chartUpdated": "2026-01-31T12:08:54.911616Z",
+      "hidden": false
     },
     {
       "id": 51539,
@@ -537,11 +556,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8762555,
-      "ratingCount": 1022,
+      "rating": 0.8763979,
+      "ratingCount": 1041,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
-      "chartUpdated": "2026-01-23T10:04:04.163379Z"
+      "chartUpdated": "2026-01-23T10:04:04.163379Z",
+      "hidden": false
     },
     {
       "id": 51490,
@@ -564,10 +584,11 @@
         "visual"
       ],
       "rating": 0.8179708,
-      "ratingCount": 17,
+      "ratingCount": 18,
       "created": "2026-01-22T05:22:23.194810Z",
       "updated": "2026-01-22T05:22:23.194810Z",
-      "chartUpdated": "2026-01-22T05:22:23.194810Z"
+      "chartUpdated": "2026-01-22T05:22:23.194810Z",
+      "hidden": false
     },
     {
       "id": 51391,
@@ -597,7 +618,8 @@
       "ratingCount": 33,
       "created": "2026-01-18T12:40:43.156324Z",
       "updated": "2026-01-18T12:40:43.156324Z",
-      "chartUpdated": "2026-01-18T12:40:43.156324Z"
+      "chartUpdated": "2026-01-18T12:40:43.156324Z",
+      "hidden": false
     },
     {
       "id": 51301,
@@ -627,10 +649,11 @@
         "visual"
       ],
       "rating": 0.8597581,
-      "ratingCount": 288,
+      "ratingCount": 294,
       "created": "2026-01-17T04:43:27.259439Z",
       "updated": "2026-01-17T04:43:27.259439Z",
-      "chartUpdated": "2026-01-17T04:43:27.259439Z"
+      "chartUpdated": "2026-01-17T04:43:27.259439Z",
+      "hidden": false
     },
     {
       "id": 51274,
@@ -656,7 +679,8 @@
       "ratingCount": 32,
       "created": "2026-01-16T08:59:01.533401Z",
       "updated": "2026-01-16T08:59:01.533401Z",
-      "chartUpdated": "2026-01-16T08:59:01.533401Z"
+      "chartUpdated": "2026-01-16T08:59:01.533401Z",
+      "hidden": false
     },
     {
       "id": 51121,
@@ -679,10 +703,11 @@
         "visual"
       ],
       "rating": 0.8284077,
-      "ratingCount": 141,
+      "ratingCount": 144,
       "created": "2026-01-09T15:29:00.998126Z",
       "updated": "2026-01-09T15:29:00.998126Z",
-      "chartUpdated": "2026-01-09T15:29:00.998126Z"
+      "chartUpdated": "2026-01-09T15:29:00.998126Z",
+      "hidden": false
     },
     {
       "id": 50547,
@@ -704,11 +729,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8015617,
-      "ratingCount": 202,
+      "rating": 0.8024988,
+      "ratingCount": 212,
       "created": "2025-12-25T11:40:39.484054Z",
       "updated": "2025-12-25T11:40:39.484054Z",
-      "chartUpdated": "2025-12-25T11:40:39.484054Z"
+      "chartUpdated": "2025-12-25T11:40:39.484054Z",
+      "hidden": false
     },
     {
       "id": 50493,
@@ -735,7 +761,8 @@
       "ratingCount": 13,
       "created": "2025-12-23T02:14:31.171742Z",
       "updated": "2025-12-23T02:14:31.171742Z",
-      "chartUpdated": "2025-12-23T02:14:31.171742Z"
+      "chartUpdated": "2025-12-23T02:14:31.171742Z",
+      "hidden": false
     },
     {
       "id": 50470,
@@ -757,11 +784,12 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9491457,
-      "ratingCount": 606,
+      "rating": 0.9493105,
+      "ratingCount": 619,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
-      "chartUpdated": "2025-12-21T16:50:09.078652Z"
+      "chartUpdated": "2025-12-21T16:50:09.078652Z",
+      "hidden": false
     },
     {
       "id": 49901,
@@ -784,10 +812,11 @@
         "visual"
       ],
       "rating": 0.7268527,
-      "ratingCount": 538,
+      "ratingCount": 552,
       "created": "2025-12-06T15:38:20.222075Z",
       "updated": "2025-12-06T15:38:20.222075Z",
-      "chartUpdated": "2025-12-06T15:38:20.222075Z"
+      "chartUpdated": "2025-12-06T15:38:20.222075Z",
+      "hidden": false
     },
     {
       "id": 49707,
@@ -810,10 +839,11 @@
         "visual"
       ],
       "rating": 0.88688654,
-      "ratingCount": 394,
+      "ratingCount": 404,
       "created": "2025-11-30T11:58:17.258754Z",
       "updated": "2025-11-30T11:58:17.258754Z",
-      "chartUpdated": "2025-11-30T11:58:17.258754Z"
+      "chartUpdated": "2025-11-30T11:58:17.258754Z",
+      "hidden": false
     }
   ]
 }
