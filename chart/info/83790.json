@@ -14,11 +14,11 @@
   "name": "Life is PIANO",
   "preview": "https://phira.5wyxi.com/files/39faa265-ccc3-4497-bc53-82983d8ab904",
   "ranked": false,
-  "rating": 0.9306584,
-  "ratingCount": 155,
-  "reviewed": true,
+  "rating": 0.9353729,
+  "ratingCount": 168,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
