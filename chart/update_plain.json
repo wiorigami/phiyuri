@@ -1,6 +1,35 @@
 {
-  "count": 3412,
+  "count": 3413,
   "results": [
+    {
+      "id": 84112,
+      "name": "Nacreous Snowmelt",
+      "level": "6K Sprite [23]",
+      "difficulty": 10.0,
+      "charter": "sfcaris",
+      "composer": "Camellia",
+      "illustrator": "Convert by MVP",
+      "description": "该谱面由“熊大SfcarisFW25880”谱师本人亲自上传\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f339c68e-aae6-4f94-90c1-fb05f221763d",
+      "preview": "https://phira.5wyxi.com/files/d16a3e7d-e17e-4c7e-a462-38808b908d36",
+      "file": "https://phira.5wyxi.com/files/bb8c2d92-f33a-4a2d-9d8b-147436eaeee4",
+      "uploader": 4477199,
+      "tags": [
+        "6K",
+        "爆发向高难",
+        "plain"
+      ],
+      "rating": 0.80552316,
+      "ratingCount": 3,
+      "created": "2026-11-15T13:15:13.252636Z",
+      "updated": "2026-11-17T09:58:37.379689Z",
+      "chartUpdated": "2026-11-15T13:15:13.252636Z",
+      "hidden": false
+    },
     {
       "id": 83563,
       "name": "AOHARUTALR OST -Save the world!",
@@ -21,10 +50,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.88260347,
-      "ratingCount": 0,
+      "rating": 0.8921808,
+      "ratingCount": 23,
       "created": "2026-11-10T13:59:12.746436Z",
-      "updated": "2026-11-15T19:27:16.475397575Z",
+      "updated": "2026-11-15T19:27:16.475397Z",
       "chartUpdated": "2026-11-10T13:59:12.746436Z",
       "hidden": false
     },
@@ -48,10 +77,10 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9202561,
-      "ratingCount": 0,
+      "rating": 0.92902756,
+      "ratingCount": 20,
       "created": "2026-11-15T13:35:06.401675Z",
-      "updated": "2026-11-15T14:33:50.549279100Z",
+      "updated": "2026-11-15T14:33:50.549279Z",
       "chartUpdated": "2026-11-15T13:35:06.401675Z",
       "hidden": false
     },
@@ -80,8 +109,8 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.83321184,
-      "ratingCount": 0,
+      "rating": 0.870769,
+      "ratingCount": 8,
       "created": "2026-11-08T13:03:40.472191Z",
       "updated": "2026-11-15T12:32:07.599947Z",
       "chartUpdated": "2026-11-08T13:03:40.472191Z",
@@ -107,8 +136,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80873376,
-      "ratingCount": 2,
+      "rating": 0.7961687,
+      "ratingCount": 9,
       "created": "2026-11-13T20:14:35.656026Z",
       "updated": "2026-11-15T10:24:16.912658Z",
       "chartUpdated": "2026-11-13T20:14:35.656026Z",
@@ -139,8 +168,8 @@
         "雨巷集",
         "plain"
       ],
-      "rating": 0.9265398,
-      "ratingCount": 13,
+      "rating": 0.9257784,
+      "ratingCount": 20,
       "created": "2026-11-01T11:21:23.292963Z",
       "updated": "2026-11-15T09:52:39.079131Z",
       "chartUpdated": "2026-11-01T11:21:23.292963Z",
@@ -197,7 +226,7 @@
         "plain"
       ],
       "rating": 0.6601802,
-      "ratingCount": 4,
+      "ratingCount": 5,
       "created": "2026-11-14T16:42:42.080013Z",
       "updated": "2026-11-14T22:01:00.329493Z",
       "chartUpdated": "2026-11-14T16:42:42.080013Z",
@@ -223,8 +252,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93459725,
-      "ratingCount": 38,
+      "rating": 0.9402513,
+      "ratingCount": 49,
       "created": "2026-11-07T19:06:24.829953Z",
       "updated": "2026-11-14T06:06:07.863163Z",
       "chartUpdated": "2026-11-07T19:06:24.829953Z",
@@ -253,8 +282,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.86853164,
-      "ratingCount": 20,
+      "rating": 0.8731658,
+      "ratingCount": 24,
       "created": "2026-11-07T18:33:16.085292Z",
       "updated": "2026-11-14T06:05:58.725398Z",
       "chartUpdated": "2026-11-07T18:33:16.085292Z",
@@ -280,8 +309,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.84714806,
-      "ratingCount": 24,
+      "rating": 0.85358256,
+      "ratingCount": 26,
       "created": "2026-08-06T08:45:29.035770Z",
       "updated": "2026-11-09T03:56:31.481402Z",
       "chartUpdated": "2026-08-06T08:45:29.035770Z",
@@ -308,8 +337,8 @@
         "纯双指",
         "plain"
       ],
-      "rating": 0.8506704,
-      "ratingCount": 142,
+      "rating": 0.84992045,
+      "ratingCount": 163,
       "created": "2026-11-08T01:52:22.178579Z",
       "updated": "2026-11-08T04:52:52.349985Z",
       "chartUpdated": "2026-11-08T01:52:22.178579Z",
@@ -340,7 +369,7 @@
         "plain"
       ],
       "rating": 0.9096856,
-      "ratingCount": 63,
+      "ratingCount": 65,
       "created": "2026-11-07T05:02:51.512134Z",
       "updated": "2026-11-07T08:11:20.411628Z",
       "chartUpdated": "2026-11-07T05:02:51.512134Z",
@@ -366,8 +395,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9321472,
-      "ratingCount": 219,
+      "rating": 0.9293218,
+      "ratingCount": 242,
       "created": "2026-11-05T10:11:29.191104Z",
       "updated": "2026-11-06T15:06:18.348449Z",
       "chartUpdated": "2026-11-05T10:11:29.191104Z",
@@ -395,8 +424,8 @@
         "叠",
         "plain"
       ],
-      "rating": 0.9541725,
-      "ratingCount": 121,
+      "rating": 0.9533537,
+      "ratingCount": 126,
       "created": "2026-11-05T15:27:10.936976Z",
       "updated": "2026-11-06T13:47:54.793543Z",
       "chartUpdated": "2026-11-05T15:27:10.936976Z",
@@ -425,8 +454,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9420468,
-      "ratingCount": 61,
+      "rating": 0.94123286,
+      "ratingCount": 65,
       "created": "2026-10-26T09:51:08.806765Z",
       "updated": "2026-11-06T13:47:25.699327Z",
       "chartUpdated": "2026-10-26T09:51:08.806765Z",
@@ -455,8 +484,8 @@
         "双指",
         "plain"
       ],
-      "rating": 0.930884,
-      "ratingCount": 64,
+      "rating": 0.9318651,
+      "ratingCount": 67,
       "created": "2026-10-22T11:46:56.631307Z",
       "updated": "2026-11-06T13:47:13.435671Z",
       "chartUpdated": "2026-10-22T11:46:56.631307Z",
@@ -517,8 +546,8 @@
         "",
         "plain"
       ],
-      "rating": 0.95973027,
-      "ratingCount": 58,
+      "rating": 0.95910805,
+      "ratingCount": 62,
       "created": "2026-11-03T13:25:32.391512Z",
       "updated": "2026-11-06T09:47:42.468987Z",
       "chartUpdated": "2026-11-03T13:25:32.391512Z",
@@ -547,8 +576,8 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.9407668,
-      "ratingCount": 45,
+      "rating": 0.9419535,
+      "ratingCount": 46,
       "created": "2026-11-05T11:38:51.502368Z",
       "updated": "2026-11-05T13:16:17.426015Z",
       "chartUpdated": "2026-11-05T11:38:51.502368Z",
@@ -575,8 +604,8 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9391581,
-      "ratingCount": 80,
+      "rating": 0.9412018,
+      "ratingCount": 85,
       "created": "2026-11-02T13:40:04.886729Z",
       "updated": "2026-11-02T15:10:12.641076Z",
       "chartUpdated": "2026-11-02T13:40:04.886729Z",
@@ -629,8 +658,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94485736,
-      "ratingCount": 180,
+      "rating": 0.94653726,
+      "ratingCount": 192,
       "created": "2026-10-05T04:09:28.706543Z",
       "updated": "2026-11-01T04:34:58.604717Z",
       "chartUpdated": "2026-10-05T04:09:28.706543Z",
@@ -656,8 +685,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94395846,
-      "ratingCount": 130,
+      "rating": 0.94444925,
+      "ratingCount": 139,
       "created": "2026-10-05T04:06:31.389367Z",
       "updated": "2026-11-01T04:31:18.017521Z",
       "chartUpdated": "2026-10-05T04:06:31.389367Z",
@@ -683,8 +712,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.85133946,
-      "ratingCount": 14,
+      "rating": 0.8537988,
+      "ratingCount": 16,
       "created": "2026-10-30T13:05:23.992650Z",
       "updated": "2026-11-01T04:11:57.301309Z",
       "chartUpdated": "2026-10-30T13:05:23.992650Z",
@@ -713,8 +742,8 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.92436624,
-      "ratingCount": 41,
+      "rating": 0.9259136,
+      "ratingCount": 44,
       "created": "2026-06-07T08:21:08.846015Z",
       "updated": "2026-11-01T00:46:22.640520Z",
       "chartUpdated": "2026-06-07T08:21:08.846015Z",
@@ -740,8 +769,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91972715,
-      "ratingCount": 344,
+      "rating": 0.9204013,
+      "ratingCount": 356,
       "created": "2026-10-31T05:32:48.718486Z",
       "updated": "2026-10-31T15:06:30.268224Z",
       "chartUpdated": "2026-10-31T05:32:48.718486Z",
@@ -771,7 +800,7 @@
         "plain"
       ],
       "rating": 0.94652516,
-      "ratingCount": 95,
+      "ratingCount": 98,
       "created": "2026-10-14T20:42:29.962417Z",
       "updated": "2026-10-31T13:31:52.484650Z",
       "chartUpdated": "2026-10-14T20:42:29.962417Z",
@@ -797,8 +826,8 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91660666,
-      "ratingCount": 1278,
+      "rating": 0.91620046,
+      "ratingCount": 1333,
       "created": "2026-10-29T15:57:34.436627Z",
       "updated": "2026-10-30T14:02:21.498693Z",
       "chartUpdated": "2026-10-29T15:57:34.436627Z",
@@ -824,39 +853,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9168382,
-      "ratingCount": 139,
+      "rating": 0.91741514,
+      "ratingCount": 141,
       "created": "2026-10-29T15:47:13.066908Z",
       "updated": "2026-10-30T10:26:42.935847Z",
       "chartUpdated": "2026-10-29T15:47:13.066908Z",
-      "hidden": false
-    },
-    {
-      "id": 65386,
-      "name": "Everlasting Eternity",
-      "level": "4K Lv.32",
-      "difficulty": 20.0,
-      "charter": "Hal0Xyl1a_",
-      "composer": "Ludicin",
-      "illustrator": "",
-      "description": "非转谱 本人传\n神曲\n打得动，有点长\n有的地方比较卡手请见谅(",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e90357c3-e78c-41bf-b890-dfbd83e6e2ea",
-      "preview": "https://phira.5wyxi.com/files/988d080e-1f46-4ce4-8b62-23b1b8a8abb6",
-      "file": "https://phira.5wyxi.com/files/77a1ab1a-58c0-4c6a-bb5f-5415140df767",
-      "uploader": 2539,
-      "tags": [
-        "高难",
-        "plain"
-      ],
-      "rating": 0.9349489,
-      "ratingCount": 66,
-      "created": "2026-07-10T03:35:35.130231Z",
-      "updated": "2026-10-30T03:35:22.894760Z",
-      "chartUpdated": "2026-07-10T03:35:35.130231Z",
       "hidden": false
     }
   ]
