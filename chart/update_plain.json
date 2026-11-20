@@ -1,6 +1,124 @@
 {
-  "count": 3417,
+  "count": 3420,
   "results": [
+    {
+      "id": 82568,
+      "name": "Der Wald（Kors k remix）",
+      "level": "Speed Lv.17",
+      "difficulty": 17.700006,
+      "charter": "DFC_TEAM",
+      "composer": "Kros K",
+      "illustrator": "UK",
+      "description": "谱师本人上传\n本次更新：修改谱面流速、修改难度合理性",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/5443319b-8bbe-45a1-8f6e-379240b780d5",
+      "preview": "https://phira.5wyxi.com/files/b0026864-ff9c-489c-8c22-39df22bbbcdd",
+      "file": "https://phira.5wyxi.com/files/b43c7bb9-00be-432a-97fb-36aabb722615",
+      "uploader": 737822,
+      "tags": [
+        "DFC",
+        "双指",
+        "高难",
+        "乱",
+        "Zeta",
+        "Tea",
+        "plain"
+      ],
+      "rating": null,
+      "ratingCount": 0,
+      "created": "2026-10-30T17:05:14.718122Z",
+      "updated": "2026-11-19T18:58:25.176536Z",
+      "chartUpdated": "2026-10-30T17:05:14.718122Z",
+      "hidden": false
+    },
+    {
+      "id": 84423,
+      "name": "Intersect Thunderbolt-Remix",
+      "level": "Stamina Lv.18",
+      "difficulty": 17.900003,
+      "charter": "GUEST",
+      "composer": "S.S.H.",
+      "illustrator": "Convert by MVP",
+      "description": "The greatness of humanity is the greatness of courage.",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/8a78d182-4263-4a68-933f-0bd5b31cfb74",
+      "preview": "https://phira.5wyxi.com/files/870ff8e5-fc07-420d-b280-6d23fdda07bc",
+      "file": "https://phira.5wyxi.com/files/539d62a7-d164-4ef6-97c6-59f335b56a19",
+      "uploader": 4495060,
+      "tags": [
+        "4K",
+        "eXceed",
+        "Stamina",
+        "plain"
+      ],
+      "rating": 0.7803841,
+      "ratingCount": 0,
+      "created": "2026-11-19T07:15:26.267165Z",
+      "updated": "2026-11-19T15:35:39.686920046Z",
+      "chartUpdated": "2026-11-19T07:15:26.267165Z",
+      "hidden": false
+    },
+    {
+      "id": 83781,
+      "name": "AnathemA",
+      "level": "4K HARD Lv.25",
+      "difficulty": 10.0,
+      "charter": "Sayu_92 & WXY0641",
+      "composer": "Ashrount",
+      "illustrator": "suzunashi",
+      "description": "\n本曲目来自专辑 《Abyssal Duallity》\n发布谱面内容请注明谱师信息谢谢",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/94f0e6b9-ec0a-45a8-b372-0cc1206fe98e",
+      "preview": "https://phira.5wyxi.com/files/4c32a956-f632-45f3-8032-0fb90787c0cc",
+      "file": "https://phira.5wyxi.com/files/1b2f5790-9390-4e4d-b465-633a490b3bd1",
+      "uploader": 4240643,
+      "tags": [
+        "4k",
+        "plain"
+      ],
+      "rating": 0.8520663,
+      "ratingCount": 0,
+      "created": "2026-11-13T14:34:29.078083Z",
+      "updated": "2026-11-19T15:00:07.517120527Z",
+      "chartUpdated": "2026-11-13T14:34:29.078083Z",
+      "hidden": false
+    },
+    {
+      "id": 84307,
+      "name": "Le Porteur d'Ombre",
+      "level": "4K Lv.25",
+      "difficulty": 10.0,
+      "charter": "714Saikou",
+      "composer": "黒皇帝 feat. AKA",
+      "illustrator": "NekoFTR",
+      "description": "新人二谱，可能手感会比较奇怪，另外尾杀还原了本家的配置哦，b站同名有不足的地方欢迎指出",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/18e657a6-6644-48e3-921e-78644b06c91b",
+      "preview": "https://phira.5wyxi.com/files/00944e38-7bf4-4132-ad5e-952e95775966",
+      "file": "https://phira.5wyxi.com/files/60ffbdfa-5f0e-4fc6-b8a0-250c998fc8a7",
+      "uploader": 1251,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8880057,
+      "ratingCount": 14,
+      "created": "2026-11-17T13:20:00.732063Z",
+      "updated": "2026-11-19T09:59:48.253268Z",
+      "chartUpdated": "2026-11-17T13:20:00.732063Z",
+      "hidden": false
+    },
     {
       "id": 49285,
       "name": "Air",
@@ -21,7 +139,7 @@
       "tags": [
         "plain"
       ],
-      "rating": null,
+      "rating": 0.856128,
       "ratingCount": 0,
       "created": "2025-11-19T12:30:34.185621Z",
       "updated": "2026-11-19T01:41:57.790402669Z",
@@ -48,7 +166,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7482895,
+      "rating": 0.77098155,
       "ratingCount": 0,
       "created": "2025-11-18T17:12:36.593929Z",
       "updated": "2026-11-19T01:41:47.350418289Z",
@@ -80,7 +198,7 @@
         "乱",
         "plain"
       ],
-      "rating": 0.9453941,
+      "rating": 0.9451289,
       "ratingCount": 159,
       "created": "2025-10-06T15:07:53.234125Z",
       "updated": "2026-11-19T01:40:30.874143252Z",
@@ -110,7 +228,7 @@
         "电信宽带",
         "plain"
       ],
-      "rating": 0.91675967,
+      "rating": 0.91715294,
       "ratingCount": 104,
       "created": "2025-07-26T06:47:31.574183Z",
       "updated": "2026-11-19T01:38:36.940955533Z",
@@ -139,7 +257,7 @@
         "emo",
         "plain"
       ],
-      "rating": 0.9393306,
+      "rating": 0.9395703,
       "ratingCount": 729,
       "created": "2025-07-16T04:40:55.550182Z",
       "updated": "2026-11-19T01:37:33.392591433Z",
@@ -198,7 +316,7 @@
         "5",
         "plain"
       ],
-      "rating": 0.9304614,
+      "rating": 0.93177867,
       "ratingCount": 78,
       "created": "2025-03-23T02:21:48.864829Z",
       "updated": "2026-11-19T01:35:57.887515521Z",
@@ -225,7 +343,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94788766,
+      "rating": 0.94770133,
       "ratingCount": 358,
       "created": "2024-09-15T23:41:48.882693Z",
       "updated": "2026-11-19T01:33:55.909039270Z",
@@ -252,7 +370,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7852564,
+      "rating": 0.80042994,
       "ratingCount": 0,
       "created": "2026-11-18T16:22:17.474618Z",
       "updated": "2026-11-18T23:43:50.058940700Z",
@@ -282,7 +400,7 @@
         "RainyAlley",
         "plain"
       ],
-      "rating": 0.90235233,
+      "rating": 0.9427121,
       "ratingCount": 9,
       "created": "2026-11-09T15:16:32.162762Z",
       "updated": "2026-11-18T14:01:16.635483Z",
@@ -365,7 +483,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91236997,
+      "rating": 0.9278688,
       "ratingCount": 34,
       "created": "2026-11-10T13:59:12.746436Z",
       "updated": "2026-11-15T19:27:16.475397Z",
@@ -392,7 +510,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9347586,
+      "rating": 0.93953115,
       "ratingCount": 25,
       "created": "2026-11-15T13:35:06.401675Z",
       "updated": "2026-11-15T14:33:50.549279Z",
@@ -424,7 +542,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.87991786,
+      "rating": 0.8879031,
       "ratingCount": 9,
       "created": "2026-11-08T13:03:40.472191Z",
       "updated": "2026-11-15T12:32:07.599947Z",
@@ -483,7 +601,7 @@
         "雨巷集",
         "plain"
       ],
-      "rating": 0.93140805,
+      "rating": 0.93625945,
       "ratingCount": 21,
       "created": "2026-11-01T11:21:23.292963Z",
       "updated": "2026-11-15T09:52:39.079131Z",
@@ -510,7 +628,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.8257282,
       "ratingCount": 3,
       "created": "2026-11-15T03:14:10.524116Z",
       "updated": "2026-11-15T05:09:52.981671Z",
@@ -540,7 +658,7 @@
         "Jack",
         "plain"
       ],
-      "rating": 0.6601802,
+      "rating": 0.69096404,
       "ratingCount": 5,
       "created": "2026-11-14T16:42:42.080013Z",
       "updated": "2026-11-14T22:01:00.329493Z",
@@ -567,7 +685,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9412674,
+      "rating": 0.9450093,
       "ratingCount": 55,
       "created": "2026-11-07T19:06:24.829953Z",
       "updated": "2026-11-14T06:06:07.863163Z",
@@ -597,7 +715,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.8741781,
+      "rating": 0.8828628,
       "ratingCount": 25,
       "created": "2026-11-07T18:33:16.085292Z",
       "updated": "2026-11-14T06:05:58.725398Z",
@@ -652,7 +770,7 @@
         "纯双指",
         "plain"
       ],
-      "rating": 0.8537255,
+      "rating": 0.8528096,
       "ratingCount": 177,
       "created": "2026-11-08T01:52:22.178579Z",
       "updated": "2026-11-08T04:52:52.349985Z",
@@ -683,7 +801,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9096856,
+      "rating": 0.910856,
       "ratingCount": 65,
       "created": "2026-11-07T05:02:51.512134Z",
       "updated": "2026-11-07T08:11:20.411628Z",
@@ -710,7 +828,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.92872316,
+      "rating": 0.9297675,
       "ratingCount": 252,
       "created": "2026-11-05T10:11:29.191104Z",
       "updated": "2026-11-06T15:06:18.348449Z",
@@ -739,133 +857,11 @@
         "叠",
         "plain"
       ],
-      "rating": 0.9536742,
+      "rating": 0.954355,
       "ratingCount": 129,
       "created": "2026-11-05T15:27:10.936976Z",
       "updated": "2026-11-06T13:47:54.793543Z",
       "chartUpdated": "2026-11-05T15:27:10.936976Z",
-      "hidden": false
-    },
-    {
-      "id": 82240,
-      "name": "ひつぎとふたご(AI remix)",
-      "level": "AI Lv.10",
-      "difficulty": 9.699999,
-      "charter": "moutao",
-      "composer": "V.A.",
-      "illustrator": "doubao",
-      "description": "谱师本人上传\r\n396/1370\r\n边缘=96.30\r\n过段=97.78\r\n后光=98.89\r\n击破=99.63\r\n制作用时：5小时\r\nSiFeng Dan 切单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/39f80a2c-5ca5-4a77-b98e-2bee65e57bce",
-      "preview": "https://phira.5wyxi.com/files/c9ef7c13-0c26-4ecc-9bb1-c478b6626b57",
-      "file": "https://phira.5wyxi.com/files/9a7fedb6-df60-498c-a1be-c768cfafd0b3",
-      "uploader": 19429,
-      "tags": [
-        "dfc",
-        "切",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.94152874,
-      "ratingCount": 68,
-      "created": "2026-10-26T09:51:08.806765Z",
-      "updated": "2026-11-06T13:47:25.699327Z",
-      "chartUpdated": "2026-10-26T09:51:08.806765Z",
-      "hidden": false
-    },
-    {
-      "id": 81774,
-      "name": "Mario Paint(AI remix)",
-      "level": "AI Lv.10",
-      "difficulty": 10.800005,
-      "charter": "moutao",
-      "composer": "V.A.",
-      "illustrator": "doubao",
-      "description": "谱师本人上传\n343/1730 没有粉键\n边缘＝96.89\n过段＝97.54\n后光＝98.77\n击破＝99.59\n这版的BPM不固定真是太可怕了\n制作用时：5小时\nSiFeng Dan 乱单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/4cd4d339-bd12-41b6-abd4-b95736092d15",
-      "preview": "https://phira.5wyxi.com/files/52971974-0307-4ce0-a2d0-c95e67e7ddb1",
-      "file": "https://phira.5wyxi.com/files/e7a1a455-0fb4-425a-aa02-d397a0636a77",
-      "uploader": 19429,
-      "tags": [
-        "DFC",
-        "乱",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.9328188,
-      "ratingCount": 68,
-      "created": "2026-10-22T11:46:56.631307Z",
-      "updated": "2026-11-06T13:47:13.435671Z",
-      "chartUpdated": "2026-10-22T11:46:56.631307Z",
-      "hidden": false
-    },
-    {
-      "id": 81606,
-      "name": "anybody can find love (except you.)",
-      "level": "Shattered Lv.13",
-      "difficulty": 13.8,
-      "charter": "moutao",
-      "composer": "hkmori",
-      "illustrator": "",
-      "description": "谱师本人上传\n黄键比：683/2199\n边缘＝96.40\n过段＝97.84\n后光＝98.92\n击破＝99.64\n感谢游玩～\n这个采音真的超级难采啊......",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/735e99fe-8675-4f27-8c36-3977e5638f21",
-      "preview": "https://phira.5wyxi.com/files/ff596468-0852-4613-8991-bb6a82d54cd2",
-      "file": "https://phira.5wyxi.com/files/e9670fdb-d828-4332-91eb-3996a15658f9",
-      "uploader": 19448,
-      "tags": [
-        "dfc",
-        "双指",
-        "综合",
-        "plain"
-      ],
-      "rating": 0.8591634,
-      "ratingCount": 10,
-      "created": "2026-10-19T06:53:35.392025Z",
-      "updated": "2026-11-06T13:47:01.365035Z",
-      "chartUpdated": "2026-10-19T06:53:35.392025Z",
-      "hidden": false
-    },
-    {
-      "id": 82967,
-      "name": "Galaxy Collapse",
-      "level": "Sublime Lv. 14",
-      "difficulty": 14.1,
-      "charter": "moutao",
-      "composer": "黒皇帝",
-      "illustrator": "",
-      "description": "谱师本人上传\n觉得很好写就写了\n2533/6666\n边缘＝96.71\n标准＝98.03\n后光＝99.01\n击破＝99.67\n交互段300BPM，最后尾杀为320BPM\n略微写了一点动效\n本关考验你的数值能力",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/95e3d17d-650a-485a-8d58-49dd2f05c644",
-      "preview": "https://phira.5wyxi.com/files/ba31f2ac-bbec-4e6b-9d64-b431d4139049",
-      "file": "https://phira.5wyxi.com/files/3e6c6b85-bc94-4f2b-bb32-2ecde43a1863",
-      "uploader": 19448,
-      "tags": [
-        "dfc",
-        "双指",
-        "叠",
-        "技",
-        "",
-        "plain"
-      ],
-      "rating": 0.9589186,
-      "ratingCount": 62,
-      "created": "2026-11-03T13:25:32.391512Z",
-      "updated": "2026-11-06T09:47:42.468987Z",
-      "chartUpdated": "2026-11-03T13:25:32.391512Z",
       "hidden": false
     }
   ]
