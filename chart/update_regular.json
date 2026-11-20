@@ -1,6 +1,168 @@
 {
-  "count": 9781,
+  "count": 9785,
   "results": [
+    {
+      "id": 83768,
+      "name": "Dream Away (feat. Yukacco)",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "Daimeng & funkier wheat",
+      "composer": "DJ Noriken / DJ Genki / Yukacco",
+      "illustrator": "みずは",
+      "description": "本人上传\n@Daimeng\n@放克麦子#23915",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/c40dacb6-ea08-411b-a6c8-32fdcbe38254",
+      "preview": "https://phira.5wyxi.com/files/d17a0225-b636-415a-b5f0-b5ec33e128b1",
+      "file": "https://phira.5wyxi.com/files/b1094ade-8a33-4bbe-ada7-6f11a3f7bbbc",
+      "uploader": 2777,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.91153973,
+      "ratingCount": 266,
+      "created": "2026-11-13T12:25:10.771703Z",
+      "updated": "2026-11-20T04:59:36.456911Z",
+      "chartUpdated": "2026-11-20T04:59:36.456911Z",
+      "hidden": false
+    },
+    {
+      "id": 84452,
+      "name": "きみのあと (feat. Nqsi)",
+      "level": "IN Lv.14",
+      "difficulty": 14.0,
+      "charter": "-Esama-",
+      "composer": "hisui & Nqsi",
+      "illustrator": "UK",
+      "description": "@鲸鱼深远 生日快乐!!\n\n\n\n谱师本人上传\n小清新谱面，希望你喜欢～",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/c366800c-eb9f-419f-9c91-39c6cdb7277f",
+      "preview": "https://phira.5wyxi.com/files/dcb41c9e-b5ce-4b13-ac85-33d9971c2f08",
+      "file": "https://phira.5wyxi.com/files/626b701b-2beb-498b-ac54-dfa67f2915e6",
+      "uploader": 385765,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.95285875,
+      "ratingCount": 7,
+      "created": "2026-11-19T16:20:57.439018Z",
+      "updated": "2026-11-19T16:36:32.125312Z",
+      "chartUpdated": "2026-11-19T16:20:57.439018Z",
+      "hidden": false
+    },
+    {
+      "id": 80007,
+      "name": "pokopoko (Synthion Remix)",
+      "level": "AT Lv.15",
+      "difficulty": 15.200001,
+      "charter": "Bluesky",
+      "composer": "Synthion",
+      "illustrator": "Mojang Studios",
+      "description": "WC!冰!",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/00314e5c-767a-463c-9fa6-5875793529cc",
+      "preview": "https://phira.5wyxi.com/files/a1200269-99b3-4af1-9a23-24180f89dc8f",
+      "file": "https://phira.5wyxi.com/files/fc57dd17-d284-4d4e-a349-d15915729e3e",
+      "uploader": 24717,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.69713044,
+      "ratingCount": 0,
+      "created": "2026-10-03T14:38:44.116526Z",
+      "updated": "2026-11-19T15:13:01.033830427Z",
+      "chartUpdated": "2026-10-03T14:38:44.116526Z",
+      "hidden": false
+    },
+    {
+      "id": 78436,
+      "name": "Still Shining (feat. 重音テト)",
+      "level": "AT Lv.16",
+      "difficulty": 16.6,
+      "charter": "bluesky",
+      "composer": "Mayonazy",
+      "illustrator": "匪橘",
+      "description": "我就甩个链接\r\nMV:https://www.bilibili.com/video/BV1ovQLBNEGf/?spm_id_from=333.1391.0.0&amp%3Bvd_source=3db96269b80d6ff30e9cd3c0b0ed2abf&vd_source=3db96269b80d6ff30e9cd3c0b0ed2abf",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/0b6bf5e5-683f-4e7d-8e80-778e9a89d9f5",
+      "preview": "https://phira.5wyxi.com/files/a18e31c8-49cd-419e-a484-676b3d18efd8",
+      "file": "https://phira.5wyxi.com/files/7ba9d2b0-6f0c-48d5-9bb6-d8f6aa38b73f",
+      "uploader": 24717,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.83172596,
+      "ratingCount": 6,
+      "created": "2026-09-19T04:17:06.600437Z",
+      "updated": "2026-11-19T15:11:48.951880Z",
+      "chartUpdated": "2026-09-19T04:17:06.600437Z",
+      "hidden": false
+    },
+    {
+      "id": 82241,
+      "name": "director kasukasu puppy",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "SubDaimeng",
+      "composer": "kasumi",
+      "illustrator": "うてなゆき (ネムレス)",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/2322da85-8bb0-4117-9dcf-15ef87af67d4",
+      "preview": "https://phira.5wyxi.com/files/c88fee8c-1781-4bcd-8e1b-b92595f174b5",
+      "file": "https://phira.5wyxi.com/files/17d53ca1-ba58-484b-a85d-67d2809f68f7",
+      "uploader": 2777,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9142243,
+      "ratingCount": 127,
+      "created": "2026-10-26T09:53:13.616324Z",
+      "updated": "2026-11-19T11:31:07.977278267Z",
+      "chartUpdated": "2026-11-19T11:31:07.977278267Z",
+      "hidden": false
+    },
+    {
+      "id": 84416,
+      "name": "鹿 Be Free",
+      "level": "IN 9",
+      "difficulty": 9.0,
+      "charter": "时辰shars",
+      "composer": "熊出没",
+      "illustrator": "熊出没",
+      "description": "协作@RS超级小瑞#599775\n\n熊出没教给我们的\n\n友情，担当\n对困难有直面的勇气\n\n时间是公平的\n不会因有权有势而眷顾\n不会因穷困潦倒而鄙视\n\n也许有的人童年并不完整\n也许现实中也活的不如意\n\n但不要忘记那份童年的畅想\n那是时间赐予你最珍贵的礼物\n\n若是累了\n回来听听音乐吧\n出去看看山河吧\n\n时辰 留\n2026.11.9",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d2ca7735-9897-4ef4-8bc7-09d1b3a079b6",
+      "preview": "https://phira.5wyxi.com/files/2f2ed1d5-6013-44b1-9b88-ba5d6e0eef8a",
+      "file": "https://phira.5wyxi.com/files/10785b1b-63d8-4923-aa60-e8a2afdff232",
+      "uploader": 1619714,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9293268,
+      "ratingCount": 0,
+      "created": "2026-11-19T05:20:56.055478Z",
+      "updated": "2026-11-19T09:02:44.009055828Z",
+      "chartUpdated": "2026-11-19T05:20:56.055478Z",
+      "hidden": false
+    },
     {
       "id": 53302,
       "name": "croiX",
@@ -21,7 +183,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92228293,
+      "rating": 0.92150533,
       "ratingCount": 557,
       "created": "2026-02-24T05:38:25.558797Z",
       "updated": "2026-11-19T04:49:44.412412135Z",
@@ -50,7 +212,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.79426795,
+      "rating": 0.8543265,
       "ratingCount": 0,
       "created": "2026-11-18T05:27:49.758759Z",
       "updated": "2026-11-19T04:26:19.684780106Z",
@@ -77,7 +239,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8517916,
+      "rating": 0.933814,
       "ratingCount": 0,
       "created": "2026-10-30T02:21:25.640090Z",
       "updated": "2026-11-19T02:15:02.850486412Z",
@@ -104,7 +266,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.830616,
+      "rating": 0.91272265,
       "ratingCount": 0,
       "created": "2026-10-30T02:21:16.510960Z",
       "updated": "2026-11-19T02:14:52.014532921Z",
@@ -136,7 +298,7 @@
         "Anythingbecomemo",
         "regular"
       ],
-      "rating": 0.93908405,
+      "rating": 0.938696,
       "ratingCount": 0,
       "created": "2026-11-17T01:34:51.200205Z",
       "updated": "2026-11-19T02:11:27.622466384Z",
@@ -163,7 +325,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.81567323,
+      "rating": 0.8293218,
       "ratingCount": 0,
       "created": "2026-11-04T11:47:04.357672Z",
       "updated": "2026-11-19T02:10:40.065027861Z",
@@ -190,8 +352,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9256843,
-      "ratingCount": 7,
+      "rating": 0.9439768,
+      "ratingCount": 40,
       "created": "2026-11-14T07:12:11.928463Z",
       "updated": "2026-11-19T02:10:14.784114Z",
       "chartUpdated": "2026-11-14T07:12:11.928463Z",
@@ -217,7 +379,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7135037,
+      "rating": 0.7109412,
       "ratingCount": 23,
       "created": "2025-06-26T13:50:01.365663Z",
       "updated": "2026-11-19T01:39:17.586131082Z",
@@ -244,7 +406,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9112024,
+      "rating": 0.9085309,
       "ratingCount": 341,
       "created": "2025-08-02T14:15:07.458890Z",
       "updated": "2026-11-19T00:49:30.378449424Z",
@@ -271,7 +433,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89570445,
+      "rating": 0.8958314,
       "ratingCount": 1234,
       "created": "2025-10-08T12:13:58.872839Z",
       "updated": "2026-11-19T00:45:04.565100272Z",
@@ -300,7 +462,7 @@
         "好听",
         "regular"
       ],
-      "rating": 0.8662575,
+      "rating": 0.88386303,
       "ratingCount": 0,
       "created": "2026-11-18T15:44:34.833343Z",
       "updated": "2026-11-18T15:52:20.905042756Z",
@@ -330,7 +492,7 @@
         "简单",
         "regular"
       ],
-      "rating": 0.93463916,
+      "rating": 0.9277003,
       "ratingCount": 22,
       "created": "2026-10-25T04:11:45.988708Z",
       "updated": "2026-11-18T13:57:24.230104Z",
@@ -357,7 +519,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8266639,
+      "rating": 0.8420748,
       "ratingCount": 51,
       "created": "2026-11-15T13:58:26.497677Z",
       "updated": "2026-11-18T13:26:07.261995Z",
@@ -384,7 +546,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8652092,
+      "rating": 0.89902896,
       "ratingCount": 6,
       "created": "2026-09-07T13:57:51.084274Z",
       "updated": "2026-11-18T13:05:21.608212Z",
@@ -411,7 +573,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90518403,
+      "rating": 0.9092748,
       "ratingCount": 82,
       "created": "2026-09-12T10:44:33.859338Z",
       "updated": "2026-11-18T12:18:26.475959Z",
@@ -438,7 +600,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8967707,
+      "rating": 0.9019391,
       "ratingCount": 140,
       "created": "2026-11-14T10:57:07.718913Z",
       "updated": "2026-11-18T10:30:21.212015Z",
@@ -465,7 +627,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7541103,
+      "rating": 0.76013815,
       "ratingCount": 22,
       "created": "2026-10-06T07:47:51.464464Z",
       "updated": "2026-11-17T13:53:42.226864Z",
@@ -492,7 +654,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9313965,
+      "rating": 0.9331086,
       "ratingCount": 62,
       "created": "2026-11-16T11:09:01.791382Z",
       "updated": "2026-11-17T04:17:58.955894Z",
@@ -519,7 +681,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8235233,
+      "rating": 0.8321395,
       "ratingCount": 61,
       "created": "2026-11-16T07:19:28.892165Z",
       "updated": "2026-11-16T13:10:46.501254Z",
@@ -546,7 +708,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.86452526,
+      "rating": 0.86719733,
       "ratingCount": 47,
       "created": "2026-11-14T05:28:57.654486Z",
       "updated": "2026-11-16T08:46:02.311043Z",
@@ -573,7 +735,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91547304,
+      "rating": 0.9191011,
       "ratingCount": 68,
       "created": "2026-11-16T07:22:03.033787Z",
       "updated": "2026-11-16T07:25:03.719654Z",
@@ -600,7 +762,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89879286,
+      "rating": 0.8911926,
       "ratingCount": 83,
       "created": "2026-08-24T04:45:24.936457Z",
       "updated": "2026-11-16T06:23:22.146554Z",
@@ -627,7 +789,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91054624,
+      "rating": 0.9113116,
       "ratingCount": 69,
       "created": "2026-09-24T13:57:25.345368Z",
       "updated": "2026-11-15T22:40:41.861994Z",
@@ -654,176 +816,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85413224,
+      "rating": 0.87507623,
       "ratingCount": 23,
       "created": "2026-11-15T16:19:58.472134Z",
       "updated": "2026-11-15T16:32:48.482972Z",
       "chartUpdated": "2026-11-15T16:19:58.472134Z",
-      "hidden": false
-    },
-    {
-      "id": 80201,
-      "name": "邦友的酒",
-      "level": "通透",
-      "difficulty": 13.400001,
-      "charter": "兮梦",
-      "composer": "活跃黑江乐",
-      "illustrator": "？",
-      "description": "演示视频:BV12JHW6AEac\n原版本有两个键打不到，故优化，现在可以打满了，耶耶。\n由谱师本人发疯时上传\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰\n好通透，好酥服啊🥰🥰",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2656959c-f1b7-4f33-ad42-4b22bd066414",
-      "preview": "https://phira.5wyxi.com/files/c41e0da8-0ca2-49ad-b2cc-f35bbe907d2c",
-      "file": "https://phira.5wyxi.com/files/b3cb45d1-188a-400b-8a3e-2a5b5ae2f985",
-      "uploader": 256193,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9185837,
-      "ratingCount": 26676,
-      "created": "2026-10-05T03:23:22.104688Z",
-      "updated": "2026-11-15T13:06:42.343811Z",
-      "chartUpdated": "2026-11-15T13:06:42.343811Z",
-      "hidden": false
-    },
-    {
-      "id": 83902,
-      "name": "ぴ",
-      "level": "IN Lv.15.3",
-      "difficulty": 15.0,
-      "charter": "芦蒿和雨",
-      "composer": "七音阿卡莉",
-      "illustrator": "",
-      "description": "B站关注@芦蒿和雨谢谢喵",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/8421fef2-95dd-43ee-b283-739eff35756d",
-      "preview": "https://phira.5wyxi.com/files/b14bb756-d1e1-4847-93b8-68f6f16a1cbe",
-      "file": "https://phira.5wyxi.com/files/e940363f-2fd2-484c-bd29-9891a3ceed77",
-      "uploader": 2424122,
-      "tags": [
-        "脑洞学生会",
-        "学生会也有洞",
-        "ぴ",
-        "regular"
-      ],
-      "rating": 0.9264117,
-      "ratingCount": 226,
-      "created": "2026-11-14T12:04:27.233171Z",
-      "updated": "2026-11-15T12:07:42.885148Z",
-      "chartUpdated": "2026-11-14T12:04:27.233171Z",
-      "hidden": false
-    },
-    {
-      "id": 84102,
-      "name": "ぴ (TV size)",
-      "level": "IN  Lv.14",
-      "difficulty": 13.700003,
-      "charter": "P.Burns",
-      "composer": "七音阿卡莉",
-      "illustrator": "エンディングアニメーション",
-      "description": "本人上传，B站@超爱吃盐的盐盐",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2eb520de-36c4-4f4b-b68e-dcbe702fbdd9",
-      "preview": "https://phira.5wyxi.com/files/d4769aa2-9ba9-4a97-8ff4-a988be36c4a8",
-      "file": "https://phira.5wyxi.com/files/946739de-6fad-43f4-8baa-54931ca14dca",
-      "uploader": 471275,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.94505084,
-      "ratingCount": 516,
-      "created": "2026-11-15T11:58:50.592033Z",
-      "updated": "2026-11-15T12:04:54.501584Z",
-      "chartUpdated": "2026-11-15T11:58:50.592033Z",
-      "hidden": false
-    },
-    {
-      "id": 84059,
-      "name": "ZENITHALIZE",
-      "level": "IN Lv.17",
-      "difficulty": 17.0,
-      "charter": "Deb1ruN_ vs. Amo_milk",
-      "composer": "void",
-      "illustrator": "",
-      "description": "本人上传。\n其他谱师已同意上传。\n协作者名单：\n@德比伦_Deb1ruN_#559753 （配置）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/975f66db-60f9-4b42-9d77-6b05c94d825d",
-      "preview": "https://phira.5wyxi.com/files/f71cdb86-db9d-4f7e-93ad-463fb9dc0545",
-      "file": "https://phira.5wyxi.com/files/8bb9c3c6-fa2e-4ce0-85d4-9afca54c9d7d",
-      "uploader": 2225437,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9222663,
-      "ratingCount": 90,
-      "created": "2026-11-15T08:13:37.595606Z",
-      "updated": "2026-11-15T09:40:48.280991Z",
-      "chartUpdated": "2026-11-15T08:13:37.595606Z",
-      "hidden": false
-    },
-    {
-      "id": 84016,
-      "name": "神威",
-      "level": "HD Lv.13",
-      "difficulty": 13.400002,
-      "charter": "KamuLin",
-      "composer": "TJ.hangneil",
-      "illustrator": "TJ.hangneil",
-      "description": "咕了好久终于是写完了，因为不怎么会写判定线演出索性就不写了。祝你们玩的开心喵~",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/27000060-fc87-40ca-9a80-542aa1bd6322",
-      "preview": "https://phira.5wyxi.com/files/bbca56c5-fd64-467e-bc46-6c8ebab297f3",
-      "file": "https://phira.5wyxi.com/files/9e753776-b215-4863-a681-ab71de4fef10",
-      "uploader": 643388,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.86785257,
-      "ratingCount": 109,
-      "created": "2026-11-15T04:54:29.046235Z",
-      "updated": "2026-11-15T07:45:19.427964Z",
-      "chartUpdated": "2026-11-15T04:54:29.046235Z",
-      "hidden": false
-    },
-    {
-      "id": 83917,
-      "name": "SOS",
-      "level": "IN Lv.14",
-      "difficulty": 14.800003,
-      "charter": "NYIOU",
-      "composer": "ナナツカゼ",
-      "illustrator": "宙風みけ",
-      "description": "Save Our Sound \n—————————\nB站 Nyiou0314\n十二譜，第一次寫低於15和長度三分鐘以上的譜OAO;\n寫個Pikasonic或Nanatsukaze的歌一直是我的夢想，也算是實現了吧（\n\n歌曲 ：SOS\n曲師：ナナツカゼ\nbpm : 185\n物量：1467\n定數：14.8",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1b7d00c0-a29c-4c4b-89cd-1b1a8e5c28c4",
-      "preview": "https://phira.5wyxi.com/files/94fbdf97-bea0-439c-b35e-32bddb1a7aea",
-      "file": "https://phira.5wyxi.com/files/6a75f473-90f3-4741-9076-34785a85f13f",
-      "uploader": 4445840,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9277677,
-      "ratingCount": 469,
-      "created": "2026-11-14T13:20:22.658120Z",
-      "updated": "2026-11-15T02:22:13.910468Z",
-      "chartUpdated": "2026-11-14T13:20:22.658120Z",
       "hidden": false
     }
   ]
