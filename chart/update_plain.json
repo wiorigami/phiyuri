@@ -1,6 +1,95 @@
 {
-  "count": 3420,
+  "count": 3423,
   "results": [
+    {
+      "id": 84554,
+      "name": "ピアノ練習曲第13番 “幻惑”",
+      "level": "Slide Lv.15",
+      "difficulty": 15.000008,
+      "charter": "Matsu4512",
+      "composer": "CYLTIE.",
+      "illustrator": "Convert by MTP",
+      "description": "【谱师本人上传】\n“真正的源头，亘古的存在，原初之技”",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/ad4aae16-7399-4940-b7d3-11a451bebdef",
+      "preview": "https://phira.5wyxi.com/files/7891e215-ef2d-4ebd-8ce7-2056f9a3c438",
+      "file": "https://phira.5wyxi.com/files/6302cd20-55f3-4cb4-9156-1d79bbf0fdfe",
+      "uploader": 737822,
+      "tags": [
+        "DFC",
+        "双指",
+        "高难",
+        "技",
+        "Epsilon",
+        "Tea",
+        "plain"
+      ],
+      "rating": 0.80552316,
+      "ratingCount": 0,
+      "created": "2026-11-20T14:25:28.653901Z",
+      "updated": "2026-11-20T14:38:42.488253334Z",
+      "chartUpdated": "2026-11-20T14:25:28.653901Z",
+      "hidden": false
+    },
+    {
+      "id": 84497,
+      "name": "Memoria Plūviæ",
+      "level": "4k Lv.31",
+      "difficulty": 30.0,
+      "charter": "尘晰 起 食欲",
+      "composer": "YistZx",
+      "illustrator": "铃暮Moor（ai二改）",
+      "description": "合作谱，个人感觉写的挺满意的，负责了大部分配置，@ZENITH_食欲でちゅん#42791 负责了高潮乱的配置。@qi_-#2340 负责了休息段以及采音修改\n大家玩得开心",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9070d788-3e95-44a8-9caa-6823834bb9f6",
+      "preview": "https://phira.5wyxi.com/files/05c2c620-ffbe-438d-b465-1177be948bae",
+      "file": "https://phira.5wyxi.com/files/667b0715-de3e-48ea-9dc7-bb94b62d5285",
+      "uploader": 4379248,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.89833695,
+      "ratingCount": 0,
+      "created": "2026-11-20T06:24:12.060125Z",
+      "updated": "2026-11-20T11:34:47.217904994Z",
+      "chartUpdated": "2026-11-20T06:24:12.060125Z",
+      "hidden": false
+    },
+    {
+      "id": 83600,
+      "name": "Burn (haocore mix）",
+      "level": "Lv.32",
+      "difficulty": 32.0,
+      "charter": "LingLi",
+      "composer": "Haose Music！",
+      "illustrator": "Convert by MVP",
+      "description": "这个是我写的第一个谱子，也是我要上传的第一个，写的不好的话也可以理解毕竟这个是我当时随手写的",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/1c18e68a-7aee-4a9b-8819-8660bf92d065",
+      "preview": "https://phira.5wyxi.com/files/e621d0e1-5e63-4245-ab2b-0423c8de4b88",
+      "file": "https://phira.5wyxi.com/files/3883d189-0c39-40ff-847d-eecaa9b263f6",
+      "uploader": 1009131,
+      "tags": [
+        "4k",
+        "叠",
+        "plain"
+      ],
+      "rating": 0.8423025,
+      "ratingCount": 0,
+      "created": "2026-11-11T09:27:32.704857Z",
+      "updated": "2026-11-20T10:11:07.494664018Z",
+      "chartUpdated": "2026-11-11T09:27:32.704857Z",
+      "hidden": false
+    },
     {
       "id": 82568,
       "name": "Der Wald（Kors k remix）",
@@ -27,7 +116,7 @@
         "Tea",
         "plain"
       ],
-      "rating": null,
+      "rating": 0.80552316,
       "ratingCount": 0,
       "created": "2026-10-30T17:05:14.718122Z",
       "updated": "2026-11-19T18:58:25.176536Z",
@@ -57,7 +146,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.86364126,
       "ratingCount": 0,
       "created": "2026-11-19T07:15:26.267165Z",
       "updated": "2026-11-19T15:35:39.686920046Z",
@@ -85,7 +174,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.8520663,
+      "rating": 0.9156371,
       "ratingCount": 0,
       "created": "2026-11-13T14:34:29.078083Z",
       "updated": "2026-11-19T15:00:07.517120527Z",
@@ -112,7 +201,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8880057,
+      "rating": 0.8850097,
       "ratingCount": 14,
       "created": "2026-11-17T13:20:00.732063Z",
       "updated": "2026-11-19T09:59:48.253268Z",
@@ -139,7 +228,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.856128,
+      "rating": 0.9015215,
       "ratingCount": 0,
       "created": "2025-11-19T12:30:34.185621Z",
       "updated": "2026-11-19T01:41:57.790402669Z",
@@ -166,7 +255,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.77098155,
+      "rating": 0.8382842,
       "ratingCount": 0,
       "created": "2025-11-18T17:12:36.593929Z",
       "updated": "2026-11-19T01:41:47.350418289Z",
@@ -198,7 +287,7 @@
         "乱",
         "plain"
       ],
-      "rating": 0.9451289,
+      "rating": 0.94612515,
       "ratingCount": 159,
       "created": "2025-10-06T15:07:53.234125Z",
       "updated": "2026-11-19T01:40:30.874143252Z",
@@ -228,7 +317,7 @@
         "电信宽带",
         "plain"
       ],
-      "rating": 0.91715294,
+      "rating": 0.9168586,
       "ratingCount": 104,
       "created": "2025-07-26T06:47:31.574183Z",
       "updated": "2026-11-19T01:38:36.940955533Z",
@@ -257,7 +346,7 @@
         "emo",
         "plain"
       ],
-      "rating": 0.9395703,
+      "rating": 0.9396814,
       "ratingCount": 729,
       "created": "2025-07-16T04:40:55.550182Z",
       "updated": "2026-11-19T01:37:33.392591433Z",
@@ -316,7 +405,7 @@
         "5",
         "plain"
       ],
-      "rating": 0.93177867,
+      "rating": 0.9325778,
       "ratingCount": 78,
       "created": "2025-03-23T02:21:48.864829Z",
       "updated": "2026-11-19T01:35:57.887515521Z",
@@ -343,7 +432,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.94770133,
+      "rating": 0.94828016,
       "ratingCount": 358,
       "created": "2024-09-15T23:41:48.882693Z",
       "updated": "2026-11-19T01:33:55.909039270Z",
@@ -370,7 +459,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.80042994,
+      "rating": 0.85419333,
       "ratingCount": 0,
       "created": "2026-11-18T16:22:17.474618Z",
       "updated": "2026-11-18T23:43:50.058940700Z",
@@ -400,7 +489,7 @@
         "RainyAlley",
         "plain"
       ],
-      "rating": 0.9427121,
+      "rating": 0.93927354,
       "ratingCount": 9,
       "created": "2026-11-09T15:16:32.162762Z",
       "updated": "2026-11-18T14:01:16.635483Z",
@@ -427,7 +516,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.7749479,
+      "rating": 0.84718174,
       "ratingCount": 2,
       "created": "2026-10-25T06:30:08.531887Z",
       "updated": "2026-11-18T10:45:50.711681Z",
@@ -456,7 +545,7 @@
         "爆发向高难",
         "plain"
       ],
-      "rating": 0.80552316,
+      "rating": 0.8257282,
       "ratingCount": 3,
       "created": "2026-11-15T13:15:13.252636Z",
       "updated": "2026-11-17T09:58:37.379689Z",
@@ -483,7 +572,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9278688,
+      "rating": 0.9221577,
       "ratingCount": 34,
       "created": "2026-11-10T13:59:12.746436Z",
       "updated": "2026-11-15T19:27:16.475397Z",
@@ -510,7 +599,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93953115,
+      "rating": 0.9362913,
       "ratingCount": 25,
       "created": "2026-11-15T13:35:06.401675Z",
       "updated": "2026-11-15T14:33:50.549279Z",
@@ -542,7 +631,7 @@
         "耐力",
         "plain"
       ],
-      "rating": 0.8879031,
+      "rating": 0.89492923,
       "ratingCount": 9,
       "created": "2026-11-08T13:03:40.472191Z",
       "updated": "2026-11-15T12:32:07.599947Z",
@@ -601,7 +690,7 @@
         "雨巷集",
         "plain"
       ],
-      "rating": 0.93625945,
+      "rating": 0.94239336,
       "ratingCount": 21,
       "created": "2026-11-01T11:21:23.292963Z",
       "updated": "2026-11-15T09:52:39.079131Z",
@@ -628,7 +717,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8257282,
+      "rating": 0.8423025,
       "ratingCount": 3,
       "created": "2026-11-15T03:14:10.524116Z",
       "updated": "2026-11-15T05:09:52.981671Z",
@@ -685,7 +774,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9450093,
+      "rating": 0.944181,
       "ratingCount": 55,
       "created": "2026-11-07T19:06:24.829953Z",
       "updated": "2026-11-14T06:06:07.863163Z",
@@ -770,98 +859,11 @@
         "纯双指",
         "plain"
       ],
-      "rating": 0.8528096,
+      "rating": 0.8541381,
       "ratingCount": 177,
       "created": "2026-11-08T01:52:22.178579Z",
       "updated": "2026-11-08T04:52:52.349985Z",
       "chartUpdated": "2026-11-08T01:52:22.178579Z",
-      "hidden": false
-    },
-    {
-      "id": 83219,
-      "name": "すきすき☆ハスキー！～バグわん０歳児・るいちゃんのテーマ～",
-      "level": "stamina",
-      "difficulty": 10.899996,
-      "charter": "一身正气的反反",
-      "composer": "おにきよ(レジスタンス和歌山)、阿黒コーポレーション (feat. 蓮希るい)",
-      "illustrator": "はなまる、茶柱たつみ",
-      "description": "物量 : 2141 (Tap 1680, Hold 217, Flick 0, Drag 244)\nDrag占比 : 11.40%\n边缘 : 95.51%\n过段 : 97.31%\n后光 : 98.65%\n击破 : 99.55%",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/1cdbed56-cfc5-46cd-9263-3dbc05fb9411",
-      "preview": "https://phira.5wyxi.com/files/a5287ac2-b833-4b88-98d6-0fd88644726b",
-      "file": "https://phira.5wyxi.com/files/89d08f70-7fbf-4fb3-9dd5-bc6a78d77c95",
-      "uploader": 1653622,
-      "tags": [
-        "stamina",
-        "nce随手",
-        "DFC",
-        "双指",
-        "plain"
-      ],
-      "rating": 0.910856,
-      "ratingCount": 65,
-      "created": "2026-11-07T05:02:51.512134Z",
-      "updated": "2026-11-07T08:11:20.411628Z",
-      "chartUpdated": "2026-11-07T05:02:51.512134Z",
-      "hidden": false
-    },
-    {
-      "id": 83074,
-      "name": "Antiqua Doll",
-      "level": "4K Master Lv.26",
-      "difficulty": 26.0,
-      "charter": "YMEA",
-      "composer": "Dimier√Lisb",
-      "illustrator": "UK",
-      "description": "第一次写偏stb谱\n总共写了将近三天,整面条给我脑子烧坏了。\n流速调的13,如果要更低流速的请找我要。\n求个好评吧,后面忘了。\n\n快手xB站 洋漫YMEA\nDY YMEA",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/63937886-0ba9-49e5-822a-1d88e2862276",
-      "preview": "https://phira.5wyxi.com/files/651ffbe4-2aab-4a94-a6bf-50d510576b51",
-      "file": "https://phira.5wyxi.com/files/59959ba2-e390-492c-be1d-df09098e1985",
-      "uploader": 4389596,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9297675,
-      "ratingCount": 252,
-      "created": "2026-11-05T10:11:29.191104Z",
-      "updated": "2026-11-06T15:06:18.348449Z",
-      "chartUpdated": "2026-11-05T10:11:29.191104Z",
-      "hidden": false
-    },
-    {
-      "id": 83117,
-      "name": "Rose Quartz(AI remix)",
-      "level": "AI Lv.10",
-      "difficulty": 10.0,
-      "charter": "moutao",
-      "composer": "V.A.",
-      "illustrator": "",
-      "description": "谱师本人上传\r\n感觉写的不是很好\r\n667/1960\n\r\n边缘＝96.53%\n\r\n过段＝97.92%\n\r\n后光＝98.96%\r\n击破＝99.65%\r\nSiFeng dan 叠单曲",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/19dcc400-fed0-4d37-bca5-0de42c4176a4",
-      "preview": "https://phira.5wyxi.com/files/e5a0c736-ccd8-482a-9931-9bddef0e8e5d",
-      "file": "https://phira.5wyxi.com/files/f5e1b704-18ca-42b0-8b72-93a9e381dc67",
-      "uploader": 19429,
-      "tags": [
-        "dfc",
-        "叠",
-        "plain"
-      ],
-      "rating": 0.954355,
-      "ratingCount": 129,
-      "created": "2026-11-05T15:27:10.936976Z",
-      "updated": "2026-11-06T13:47:54.793543Z",
-      "chartUpdated": "2026-11-05T15:27:10.936976Z",
       "hidden": false
     }
   ]
