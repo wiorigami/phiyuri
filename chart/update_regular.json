@@ -1,6 +1,180 @@
 {
-  "count": 9785,
+  "count": 9787,
   "results": [
+    {
+      "id": 84535,
+      "name": "ゆめ",
+      "level": "IN",
+      "difficulty": 15.0,
+      "charter": "kama  ×   芣苢子fuyi",
+      "composer": "点点p",
+      "illustrator": "略nd",
+      "description": "本人上传\n@芣苢子fuyi#2697302（制谱协作）",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d376cc70-a805-4955-a246-676918655377",
+      "preview": "https://phira.5wyxi.com/files/fead4416-a611-40fd-be1d-ff0906bc5892",
+      "file": "https://phira.5wyxi.com/files/5b8599ba-cedd-40ad-8aac-9d90062d6331",
+      "uploader": 3958857,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.914186,
+      "ratingCount": 0,
+      "created": "2026-11-20T13:14:09.173850Z",
+      "updated": "2026-11-21T03:04:28.611042548Z",
+      "chartUpdated": "2026-11-20T13:14:09.173850Z",
+      "hidden": false
+    },
+    {
+      "id": 84610,
+      "name": "无尽远行",
+      "level": "IN Lv.15+",
+      "difficulty": 15.9000025,
+      "charter": "000,voyager to the future",
+      "composer": "Cheetah Mobile & UIL",
+      "illustrator": "",
+      "description": "请输入文本，你们要的15，只是不知道为什么比拉米馆难\n有超级多的还原本家，各位可以找找看！\nb站000_dl，欢迎关注！\n—————————\n\n第191话\n十一周年派对的灯火渐渐落在身后。张之伟与伙伴们保持着天使之形，身披滚动的天空皮肤，再度登上带翼跑车。\n\n无尽远行就此继续，他们驰骋在绵延的流光赛道上，清风掠过耳畔，乐章一路相伴。别离与伤痛早已消散，前路尽是崭新的天际。\n\n行歌未竟，你我皆是王牌；无尽远行，共赴星海长开。 向着更远的新征程奔赴而去。祝各位RS玩家11周年快乐！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/acce0b49-18cb-4cf2-8fe0-1edbc7e1589c",
+      "preview": "https://phira.5wyxi.com/files/9d71aa14-3783-4aa4-a25f-c391c037d041",
+      "file": "https://phira.5wyxi.com/files/61147c3a-f418-4a8c-8d71-e0569a1ea208",
+      "uploader": 1104838,
+      "tags": [
+        "滚动的天空",
+        "RS",
+        "多指",
+        "简单又好玩",
+        "还原本家",
+        "第一百九十一话",
+        "regular"
+      ],
+      "rating": 0.8874607,
+      "ratingCount": 0,
+      "created": "2026-11-21T02:42:34.477574Z",
+      "updated": "2026-11-21T03:01:02.852337164Z",
+      "chartUpdated": "2026-11-21T02:42:34.477574Z",
+      "hidden": false
+    },
+    {
+      "id": 77169,
+      "name": "雷切-RAIKIRI-",
+      "level": "IN Lv.16",
+      "difficulty": 16.500002,
+      "charter": "芬芳香格里拉 vs. 大波浪薯卡",
+      "composer": "kanone",
+      "illustrator": "",
+      "description": null,
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/696fe29a-7f5a-4c2c-bf73-f4adb3e47758",
+      "preview": "https://phira.5wyxi.com/files/c9f35324-31ab-4384-b3cb-d3a1b4637873",
+      "file": "https://phira.5wyxi.com/files/f934a136-9626-4331-bd92-df08a7c03cb6",
+      "uploader": 474244,
+      "tags": [
+        "双指",
+        "底力",
+        "读谱",
+        "硬抗",
+        "位移",
+        "交互",
+        "regular"
+      ],
+      "rating": 0.8233191,
+      "ratingCount": 3,
+      "created": "2026-09-05T11:31:45.695974Z",
+      "updated": "2026-11-21T02:47:51.217639Z",
+      "chartUpdated": "2026-09-05T11:31:45.695974Z",
+      "hidden": false
+    },
+    {
+      "id": 78429,
+      "name": "13 Donkeys",
+      "level": "IN Lv.14",
+      "difficulty": 14.800003,
+      "charter": "神曲，我懂得欣赏",
+      "composer": "Massive New Krew",
+      "illustrator": "WACCA",
+      "description": "本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/c738d2ae-02bf-42f2-9bd5-d9acf961961d",
+      "preview": "https://phira.5wyxi.com/files/b90d08b4-c6fa-4181-ae90-a3df7ad11c5d",
+      "file": "https://phira.5wyxi.com/files/61352104-fe7e-4514-83a3-c23206db7ebc",
+      "uploader": 540194,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.863056,
+      "ratingCount": 71,
+      "created": "2026-09-19T03:50:53.599060Z",
+      "updated": "2026-11-20T19:10:04.313258032Z",
+      "chartUpdated": "2026-09-19T03:50:53.599060Z",
+      "hidden": false
+    },
+    {
+      "id": 68390,
+      "name": "STARCRASHERS",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "ax",
+      "composer": "A-Saph/Foodbot/Kyotsugyon/Fyter/Lap^z/Spehs/Wyvren/Ardolf",
+      "illustrator": "",
+      "description": "由谱师本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a948a774-b494-48eb-839a-cacca3ba8fa4",
+      "preview": "https://phira.5wyxi.com/files/97ae7722-9fd9-48f2-b64f-7641edee4b9d",
+      "file": "https://phira.5wyxi.com/files/9e12dbf5-13ad-46d1-9a98-08e01c666498",
+      "uploader": 124232,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8928194,
+      "ratingCount": 0,
+      "created": "2026-07-22T07:36:16.056842Z",
+      "updated": "2026-11-20T14:10:15.769455332Z",
+      "chartUpdated": "2026-07-22T07:36:16.056842Z",
+      "hidden": false
+    },
+    {
+      "id": 83744,
+      "name": "请我不改",
+      "level": "IN Lv.16.0",
+      "difficulty": 16.0,
+      "charter": "一只仰望星空的小狼",
+      "composer": "周深 - 反深代词",
+      "illustrator": "反深代词",
+      "description": "新人二作，无Fakenote，希望你玩得开心！B站同名！",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/d00c2af1-19ff-412c-81ba-4347378a2016",
+      "preview": "https://phira.5wyxi.com/files/18e76c53-8236-4c08-94a4-f532140d7e72",
+      "file": "https://phira.5wyxi.com/files/9b521310-18b9-4c5c-8630-6ad356f5dec1",
+      "uploader": 657872,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.88798714,
+      "ratingCount": 0,
+      "created": "2026-11-13T10:35:22.300575Z",
+      "updated": "2026-11-20T09:19:35.792166722Z",
+      "chartUpdated": "2026-11-13T10:35:22.300575Z",
+      "hidden": false
+    },
     {
       "id": 83768,
       "name": "Dream Away (feat. Yukacco)",
@@ -21,7 +195,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91153973,
+      "rating": 0.91521585,
       "ratingCount": 266,
       "created": "2026-11-13T12:25:10.771703Z",
       "updated": "2026-11-20T04:59:36.456911Z",
@@ -48,7 +222,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.95285875,
+      "rating": 0.95337003,
       "ratingCount": 7,
       "created": "2026-11-19T16:20:57.439018Z",
       "updated": "2026-11-19T16:36:32.125312Z",
@@ -75,7 +249,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.69713044,
+      "rating": 0.79888535,
       "ratingCount": 0,
       "created": "2026-10-03T14:38:44.116526Z",
       "updated": "2026-11-19T15:13:01.033830427Z",
@@ -102,7 +276,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.83172596,
+      "rating": 0.87257177,
       "ratingCount": 6,
       "created": "2026-09-19T04:17:06.600437Z",
       "updated": "2026-11-19T15:11:48.951880Z",
@@ -129,7 +303,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9142243,
+      "rating": 0.90926343,
       "ratingCount": 127,
       "created": "2026-10-26T09:53:13.616324Z",
       "updated": "2026-11-19T11:31:07.977278267Z",
@@ -156,7 +330,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9293268,
+      "rating": 0.92907584,
       "ratingCount": 0,
       "created": "2026-11-19T05:20:56.055478Z",
       "updated": "2026-11-19T09:02:44.009055828Z",
@@ -183,7 +357,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92150533,
+      "rating": 0.92156464,
       "ratingCount": 557,
       "created": "2026-02-24T05:38:25.558797Z",
       "updated": "2026-11-19T04:49:44.412412135Z",
@@ -212,7 +386,7 @@
         "高难",
         "regular"
       ],
-      "rating": 0.8543265,
+      "rating": 0.87731016,
       "ratingCount": 0,
       "created": "2026-11-18T05:27:49.758759Z",
       "updated": "2026-11-19T04:26:19.684780106Z",
@@ -239,7 +413,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.933814,
+      "rating": 0.927112,
       "ratingCount": 0,
       "created": "2026-10-30T02:21:25.640090Z",
       "updated": "2026-11-19T02:15:02.850486412Z",
@@ -266,7 +440,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91272265,
+      "rating": 0.9280526,
       "ratingCount": 0,
       "created": "2026-10-30T02:21:16.510960Z",
       "updated": "2026-11-19T02:14:52.014532921Z",
@@ -298,7 +472,7 @@
         "Anythingbecomemo",
         "regular"
       ],
-      "rating": 0.938696,
+      "rating": 0.93668044,
       "ratingCount": 0,
       "created": "2026-11-17T01:34:51.200205Z",
       "updated": "2026-11-19T02:11:27.622466384Z",
@@ -325,7 +499,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8293218,
+      "rating": 0.8424276,
       "ratingCount": 0,
       "created": "2026-11-04T11:47:04.357672Z",
       "updated": "2026-11-19T02:10:40.065027861Z",
@@ -352,7 +526,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9439768,
+      "rating": 0.9451213,
       "ratingCount": 40,
       "created": "2026-11-14T07:12:11.928463Z",
       "updated": "2026-11-19T02:10:14.784114Z",
@@ -379,7 +553,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7109412,
+      "rating": 0.698884,
       "ratingCount": 23,
       "created": "2025-06-26T13:50:01.365663Z",
       "updated": "2026-11-19T01:39:17.586131082Z",
@@ -406,7 +580,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9085309,
+      "rating": 0.90904796,
       "ratingCount": 341,
       "created": "2025-08-02T14:15:07.458890Z",
       "updated": "2026-11-19T00:49:30.378449424Z",
@@ -433,7 +607,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8958314,
+      "rating": 0.8956645,
       "ratingCount": 1234,
       "created": "2025-10-08T12:13:58.872839Z",
       "updated": "2026-11-19T00:45:04.565100272Z",
@@ -462,7 +636,7 @@
         "好听",
         "regular"
       ],
-      "rating": 0.88386303,
+      "rating": 0.8927815,
       "ratingCount": 0,
       "created": "2026-11-18T15:44:34.833343Z",
       "updated": "2026-11-18T15:52:20.905042756Z",
@@ -492,7 +666,7 @@
         "简单",
         "regular"
       ],
-      "rating": 0.9277003,
+      "rating": 0.93235767,
       "ratingCount": 22,
       "created": "2026-10-25T04:11:45.988708Z",
       "updated": "2026-11-18T13:57:24.230104Z",
@@ -519,7 +693,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8420748,
+      "rating": 0.85777175,
       "ratingCount": 51,
       "created": "2026-11-15T13:58:26.497677Z",
       "updated": "2026-11-18T13:26:07.261995Z",
@@ -546,7 +720,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89902896,
+      "rating": 0.92178375,
       "ratingCount": 6,
       "created": "2026-09-07T13:57:51.084274Z",
       "updated": "2026-11-18T13:05:21.608212Z",
@@ -573,7 +747,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9092748,
+      "rating": 0.9109403,
       "ratingCount": 82,
       "created": "2026-09-12T10:44:33.859338Z",
       "updated": "2026-11-18T12:18:26.475959Z",
@@ -590,9 +764,9 @@
       "illustrator": "FX战士久留美",
       "description": "本人上传\n更新修复了一些判定上可能存在的问题：\n1.侧落红键吞判定\n2.长条垂直判定发生偏移，没有完全经过中心\n1的问题在制谱器里面看是没有问题的，推测是phira的判定带来的问题\n视频：https://www.bilibili.com/video/BV1pjWC69EB2",
       "ranked": false,
-      "reviewed": true,
+      "reviewed": false,
       "stable": false,
-      "stableRequest": false,
+      "stableRequest": true,
       "illustration": "https://phira.5wyxi.com/files/18d7c888-adc4-4fb8-8f5b-ee22d772e278",
       "preview": "https://phira.5wyxi.com/files/69d9e5ea-307c-4ed2-b8ef-67154b2b6f52",
       "file": "https://phira.5wyxi.com/files/3fd35e76-7ef8-4d14-adc3-ef09b733da2a",
@@ -600,8 +774,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9019391,
-      "ratingCount": 140,
+      "rating": 0.8957286,
+      "ratingCount": 169,
       "created": "2026-11-14T10:57:07.718913Z",
       "updated": "2026-11-18T10:30:21.212015Z",
       "chartUpdated": "2026-11-18T10:30:21.212015Z",
@@ -627,7 +801,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.76013815,
+      "rating": 0.79620713,
       "ratingCount": 22,
       "created": "2026-10-06T07:47:51.464464Z",
       "updated": "2026-11-17T13:53:42.226864Z",
@@ -654,173 +828,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9331086,
+      "rating": 0.9371631,
       "ratingCount": 62,
       "created": "2026-11-16T11:09:01.791382Z",
       "updated": "2026-11-17T04:17:58.955894Z",
       "chartUpdated": "2026-11-16T11:09:01.791382Z",
-      "hidden": false
-    },
-    {
-      "id": 84191,
-      "name": "do you understand how i feel?",
-      "level": "AT Lv.16",
-      "difficulty": 16.800003,
-      "charter": "Kurobenanoka",
-      "composer": "samebeam",
-      "illustrator": "",
-      "description": "本人上传",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/aa2d8f77-2cc2-4f29-8227-e35d17a7f215",
-      "preview": "https://phira.5wyxi.com/files/0aadbdee-d867-459a-a387-fe021a2cb9f0",
-      "file": "https://phira.5wyxi.com/files/46d586bd-ceaa-4dd1-b186-d1c4b01a6606",
-      "uploader": 64164,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8321395,
-      "ratingCount": 61,
-      "created": "2026-11-16T07:19:28.892165Z",
-      "updated": "2026-11-16T13:10:46.501254Z",
-      "chartUpdated": "2026-11-16T07:19:28.892165Z",
-      "hidden": false
-    },
-    {
-      "id": 83831,
-      "name": "碧空の約束",
-      "level": "IN Lv.17",
-      "difficulty": 17.300001,
-      "charter": "彩.cytus丨DASAPAN",
-      "composer": "seatrus",
-      "illustrator": "cai feat.sysn",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/5579f9ab-3b1c-4a52-abde-152b326e65c5",
-      "preview": "https://phira.5wyxi.com/files/7d887a9a-3027-4e7d-a36c-b1439f5c2c29",
-      "file": "https://phira.5wyxi.com/files/22134238-3c89-424a-978c-d0575d5be54e",
-      "uploader": 2053617,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.86719733,
-      "ratingCount": 47,
-      "created": "2026-11-14T05:28:57.654486Z",
-      "updated": "2026-11-16T08:46:02.311043Z",
-      "chartUpdated": "2026-11-14T05:28:57.654486Z",
-      "hidden": false
-    },
-    {
-      "id": 84192,
-      "name": "Valsqotch",
-      "level": "IN  Lv.16",
-      "difficulty": 16.300001,
-      "charter": "Array",
-      "composer": "owl*tree feat. chi*tree",
-      "illustrator": "maimai",
-      "description": "b站：\n阿瑞_Array",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7a65249f-6667-437a-9a87-46bf41ad04e4",
-      "preview": "https://phira.5wyxi.com/files/dd3cafdc-dedc-42f8-b2ce-8f6eed906065",
-      "file": "https://phira.5wyxi.com/files/b57c5ed3-9e76-4757-b5bf-b7619a2fec60",
-      "uploader": 565722,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9191011,
-      "ratingCount": 68,
-      "created": "2026-11-16T07:22:03.033787Z",
-      "updated": "2026-11-16T07:25:03.719654Z",
-      "chartUpdated": "2026-11-16T07:22:03.033787Z",
-      "hidden": false
-    },
-    {
-      "id": 75353,
-      "name": "I Love You",
-      "level": "IN Lv.15",
-      "difficulty": 15.200001,
-      "charter": "REDZA®两面包夹心芝士",
-      "composer": "OMFG",
-      "illustrator": "",
-      "description": "3rdWMC参赛谱。谱面编号：哈",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/463917c4-e028-4c48-9cf5-d7ab6569ba2a",
-      "preview": "https://phira.5wyxi.com/files/4789d352-ca0a-48cc-9e14-d11096381644",
-      "file": "https://phira.5wyxi.com/files/fa756442-7dcc-41f6-a460-e70b24189845",
-      "uploader": 812953,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8911926,
-      "ratingCount": 83,
-      "created": "2026-08-24T04:45:24.936457Z",
-      "updated": "2026-11-16T06:23:22.146554Z",
-      "chartUpdated": "2026-08-24T04:45:24.936457Z",
-      "hidden": false
-    },
-    {
-      "id": 78856,
-      "name": "Re_Nascence -Another Version-",
-      "level": "AT Lv.16",
-      "difficulty": 16.5,
-      "charter": "",
-      "composer": "Rinth_live",
-      "illustrator": "Unknown",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/2c064f23-2a38-47fa-8273-d2270cc0fc1b",
-      "preview": "https://phira.5wyxi.com/files/a306ffc1-6b16-4d20-bcb0-61b0689252bc",
-      "file": "https://phira.5wyxi.com/files/87c4f97e-2c5b-4198-9349-570805d1aa0b",
-      "uploader": 2053617,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9113116,
-      "ratingCount": 69,
-      "created": "2026-09-24T13:57:25.345368Z",
-      "updated": "2026-11-15T22:40:41.861994Z",
-      "chartUpdated": "2026-09-24T13:57:25.345368Z",
-      "hidden": false
-    },
-    {
-      "id": 84146,
-      "name": "Summerblue",
-      "level": "IN  Lv.15",
-      "difficulty": 15.900001,
-      "charter": "DouBlE inspIRE",
-      "composer": "Toby Fox vs. Camellia",
-      "illustrator": "Anyone else",
-      "description": "6thWJC\nCatFish vs. hqdhqhqk\n经双方同意由我上传\n/续标识",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/155e4be7-bf32-4493-a2c1-7d4fe2e1de77",
-      "preview": "https://phira.5wyxi.com/files/613c34b5-6b24-4c47-a4e7-554b50663c91",
-      "file": "https://phira.5wyxi.com/files/78976a41-94a0-4f94-8018-498474751dc7",
-      "uploader": 15636,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.87507623,
-      "ratingCount": 23,
-      "created": "2026-11-15T16:19:58.472134Z",
-      "updated": "2026-11-15T16:32:48.482972Z",
-      "chartUpdated": "2026-11-15T16:19:58.472134Z",
       "hidden": false
     }
   ]

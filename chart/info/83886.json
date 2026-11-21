@@ -14,11 +14,11 @@
   "name": "FX戦士くるみちゃん (Nerfed)",
   "preview": "https://phira.5wyxi.com/files/69d9e5ea-307c-4ed2-b8ef-67154b2b6f52",
   "ranked": false,
-  "rating": 0.9019391,
-  "ratingCount": 161,
-  "reviewed": true,
+  "rating": 0.8957286,
+  "ratingCount": 176,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
