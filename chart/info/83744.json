@@ -14,11 +14,11 @@
   "name": "请我不改",
   "preview": "https://phira.5wyxi.com/files/18e76c53-8236-4c08-94a4-f532140d7e72",
   "ranked": false,
-  "rating": 0.88798714,
-  "ratingCount": 37,
-  "reviewed": true,
+  "rating": 0.9007468,
+  "ratingCount": 70,
+  "reviewed": false,
   "stable": false,
-  "stableRequest": false,
+  "stableRequest": true,
   "tags": [
     "regular"
   ],
