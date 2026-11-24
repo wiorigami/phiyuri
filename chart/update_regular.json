@@ -1,6 +1,33 @@
 {
-  "count": 9799,
+  "count": 9800,
   "results": [
+    {
+      "id": 84886,
+      "name": "高速素粒子衝突型加速器",
+      "level": "AT Lv.17",
+      "difficulty": 17.0,
+      "charter": "Encly",
+      "composer": "Kou!",
+      "illustrator": "saturn_illus",
+      "description": "谱师B站@ty天远\r\n\r\n此谱面为骐骥杯#4比赛供谱\r\n也是第一次写长曲，还是一首接近七分半的长曲，所以有些地方可能处理的不是特别完善，请见谅！\r\n曲绘的话感觉这首曲子比较适合青蓝色调+饱和度较低的图作为背景，然后刚好就想到了别礼这张图，于是就选来当曲绘了，这张图的作者是saturn_illus，也是一位非常优秀的插画作者！他的其他画作我也很喜欢\r\n",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/030e5b9a-4333-4aa1-bc67-82a64a865481",
+      "preview": "https://phira.5wyxi.com/files/ce5cdec7-d254-4a1a-a573-45fb9b41e3e5",
+      "file": "https://phira.5wyxi.com/files/47877d2d-7887-48d0-ab43-b34f3ddbdf7e",
+      "uploader": 1925,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.87741506,
+      "ratingCount": 0,
+      "created": "2026-11-22T11:38:18.885331Z",
+      "updated": "2026-11-24T02:01:12.482776372Z",
+      "chartUpdated": "2026-11-22T11:38:18.885331Z",
+      "hidden": false
+    },
     {
       "id": 72026,
       "name": "残機",
@@ -21,7 +48,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9126563,
+      "rating": 0.913902,
       "ratingCount": 246,
       "created": "2026-08-08T05:52:59.001709Z",
       "updated": "2026-11-23T00:48:43.971691Z",
@@ -50,7 +77,7 @@
         "ZZZ",
         "regular"
       ],
-      "rating": 0.95251477,
+      "rating": 0.95545024,
       "ratingCount": 0,
       "created": "2026-11-22T13:18:41.084111Z",
       "updated": "2026-11-22T14:53:35.496409058Z",
@@ -77,7 +104,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93730545,
+      "rating": 0.94103605,
       "ratingCount": 0,
       "created": "2026-11-22T11:46:41.850662Z",
       "updated": "2026-11-22T13:08:31.977281843Z",
@@ -104,7 +131,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9118013,
+      "rating": 0.9211748,
       "ratingCount": 7,
       "created": "2026-11-22T12:57:10.690017Z",
       "updated": "2026-11-22T13:06:18.230418Z",
@@ -131,7 +158,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93550724,
+      "rating": 0.9378724,
       "ratingCount": 71,
       "created": "2026-11-21T10:00:56.169563Z",
       "updated": "2026-11-22T10:10:55.161919Z",
@@ -158,10 +185,10 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94101316,
-      "ratingCount": 0,
+      "rating": 0.9401123,
+      "ratingCount": 376,
       "created": "2026-11-19T02:24:43.080976Z",
-      "updated": "2026-11-22T08:05:33.864344531Z",
+      "updated": "2026-11-22T08:05:33.864344Z",
       "chartUpdated": "2026-11-19T02:24:43.080976Z",
       "hidden": false
     },
@@ -185,7 +212,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.89879185,
+      "rating": 0.9132492,
       "ratingCount": 0,
       "created": "2026-11-22T06:28:59.637272Z",
       "updated": "2026-11-22T06:32:59.203785Z",
@@ -212,7 +239,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92117465,
+      "rating": 0.9130522,
       "ratingCount": 0,
       "created": "2026-11-21T08:19:30.543888Z",
       "updated": "2026-11-21T15:10:52.948583277Z",
@@ -239,7 +266,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9434096,
+      "rating": 0.9430722,
       "ratingCount": 0,
       "created": "2026-11-20T16:23:04.478647Z",
       "updated": "2026-11-21T13:53:40.387998030Z",
@@ -266,7 +293,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.730532,
+      "rating": 0.72317755,
       "ratingCount": 0,
       "created": "2026-11-21T13:09:10.148426Z",
       "updated": "2026-11-21T13:24:01.840982193Z",
@@ -293,7 +320,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93843853,
+      "rating": 0.93656474,
       "ratingCount": 43,
       "created": "2026-11-21T11:44:11.945723Z",
       "updated": "2026-11-21T13:01:24.241082Z",
@@ -320,7 +347,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8793381,
+      "rating": 0.8805217,
       "ratingCount": 0,
       "created": "2026-07-20T05:36:00.526222Z",
       "updated": "2026-11-21T12:36:09.107420240Z",
@@ -348,7 +375,7 @@
         "Roteano",
         "regular"
       ],
-      "rating": 0.93514013,
+      "rating": 0.94396776,
       "ratingCount": 1,
       "created": "2026-11-20T17:26:55.590823Z",
       "updated": "2026-11-21T11:10:04.532912Z",
@@ -375,7 +402,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.96590567,
+      "rating": 0.963467,
       "ratingCount": 0,
       "created": "2026-11-21T04:36:44.821768Z",
       "updated": "2026-11-21T10:28:25.631123Z",
@@ -402,7 +429,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8985135,
+      "rating": 0.90857136,
       "ratingCount": 17,
       "created": "2026-11-21T05:53:14.577308Z",
       "updated": "2026-11-21T08:09:42.253888Z",
@@ -429,7 +456,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9239987,
+      "rating": 0.9260619,
       "ratingCount": 0,
       "created": "2026-11-21T06:06:36.074987Z",
       "updated": "2026-11-21T06:55:14.569702114Z",
@@ -456,7 +483,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9542467,
+      "rating": 0.9542202,
       "ratingCount": 0,
       "created": "2026-11-21T06:03:15.653650Z",
       "updated": "2026-11-21T06:55:06.566667865Z",
@@ -483,7 +510,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9372923,
+      "rating": 0.941575,
       "ratingCount": 0,
       "created": "2026-11-20T13:14:09.173850Z",
       "updated": "2026-11-21T03:04:28.611042548Z",
@@ -516,7 +543,7 @@
         "第一百九十一话",
         "regular"
       ],
-      "rating": 0.8681805,
+      "rating": 0.85682505,
       "ratingCount": 0,
       "created": "2026-11-21T02:42:34.477574Z",
       "updated": "2026-11-21T03:01:02.852337164Z",
@@ -549,7 +576,7 @@
         "交互",
         "regular"
       ],
-      "rating": 0.930677,
+      "rating": 0.9338998,
       "ratingCount": 3,
       "created": "2026-09-05T11:31:45.695974Z",
       "updated": "2026-11-21T02:47:51.217639Z",
@@ -576,7 +603,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8512985,
+      "rating": 0.84193045,
       "ratingCount": 71,
       "created": "2026-09-19T03:50:53.599060Z",
       "updated": "2026-11-20T19:10:04.313258032Z",
@@ -603,7 +630,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92010397,
+      "rating": 0.9260534,
       "ratingCount": 0,
       "created": "2026-07-22T07:36:16.056842Z",
       "updated": "2026-11-20T14:10:15.769455332Z",
@@ -630,7 +657,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8993481,
+      "rating": 0.9028361,
       "ratingCount": 63,
       "created": "2026-11-13T10:35:22.300575Z",
       "updated": "2026-11-20T09:19:35.792166Z",
@@ -657,8 +684,8 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91499954,
-      "ratingCount": 266,
+      "rating": 0.9157255,
+      "ratingCount": 366,
       "created": "2026-11-13T12:25:10.771703Z",
       "updated": "2026-11-20T04:59:36.456911Z",
       "chartUpdated": "2026-11-20T04:59:36.456911Z",
@@ -684,7 +711,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9500107,
+      "rating": 0.94570446,
       "ratingCount": 7,
       "created": "2026-11-19T16:20:57.439018Z",
       "updated": "2026-11-19T16:36:32.125312Z",
@@ -711,7 +738,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.85061085,
+      "rating": 0.8596785,
       "ratingCount": 0,
       "created": "2026-10-03T14:38:44.116526Z",
       "updated": "2026-11-19T15:13:01.033830427Z",
@@ -738,7 +765,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87505215,
+      "rating": 0.87954813,
       "ratingCount": 6,
       "created": "2026-09-19T04:17:06.600437Z",
       "updated": "2026-11-19T15:11:48.951880Z",
@@ -765,7 +792,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9158172,
+      "rating": 0.9160938,
       "ratingCount": 127,
       "created": "2026-10-26T09:53:13.616324Z",
       "updated": "2026-11-19T11:31:07.977278267Z",
@@ -792,38 +819,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92697996,
+      "rating": 0.926945,
       "ratingCount": 0,
       "created": "2026-11-19T05:20:56.055478Z",
       "updated": "2026-11-19T09:02:44.009055828Z",
       "chartUpdated": "2026-11-19T05:20:56.055478Z",
-      "hidden": false
-    },
-    {
-      "id": 53302,
-      "name": "croiX",
-      "level": "IN Lv.16",
-      "difficulty": 16.400005,
-      "charter": "pigeoX",
-      "composer": "TeamGrimoire+あま猫",
-      "illustrator": "Tankne6",
-      "description": "本人上传\r\n好久没更新了，难度略微提高了那么亿点点啦~",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/034f141c-8f46-4150-b7b4-d574174150ae",
-      "preview": "https://phira.5wyxi.com/files/454e8362-f815-4677-9fbf-ff0b4eb68fa2",
-      "file": "https://phira.5wyxi.com/files/c6c94b99-dd60-487f-a3e3-cc8efa142917",
-      "uploader": 658108,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9222307,
-      "ratingCount": 557,
-      "created": "2026-02-24T05:38:25.558797Z",
-      "updated": "2026-11-19T04:49:44.412412135Z",
-      "chartUpdated": "2026-11-19T04:49:44.412412135Z",
       "hidden": false
     }
   ]
