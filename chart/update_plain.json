@@ -1,6 +1,116 @@
 {
-  "count": 3423,
+  "count": 3426,
   "results": [
+    {
+      "id": 67712,
+      "name": "Overclock（Be Your Light）",
+      "level": "Be Jack's Lover",
+      "difficulty": 10.0,
+      "charter": "wxy6669",
+      "composer": "DJ Noriken",
+      "illustrator": "",
+      "description": "malodyV制谱，无sv，本家s40511",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6470b1a9-0e4d-4730-ba16-fc1fa3d74dba",
+      "preview": "https://phira.5wyxi.com/files/2201906e-9481-431b-9917-44a641a7ef38",
+      "file": "https://phira.5wyxi.com/files/66079348-76c5-4c01-8688-1e93b816d566",
+      "uploader": 1269426,
+      "tags": [
+        "jack",
+        "4k",
+        "plain"
+      ],
+      "rating": 0.78803724,
+      "ratingCount": 0,
+      "created": "2026-07-19T09:17:58.376002Z",
+      "updated": "2026-11-23T16:09:26.615059823Z",
+      "chartUpdated": "2026-07-19T09:17:58.376002Z",
+      "hidden": false
+    },
+    {
+      "id": 84858,
+      "name": "Rite of Ascendancy",
+      "level": "Requiem.",
+      "difficulty": 10.0,
+      "charter": "Kenari_15",
+      "composer": "ΔH, Gardens, glasse, Musature, Myntian, Sad Keyboard Guy",
+      "illustrator": "Self-Annihilation:",
+      "description": "时长：9：21\r\n谱师：Kenari_15\r\n物量：8409\r\n流速：14.0\r\n谱面类型：4keys\r\n——=——\r\n参考难度：\r\nReform Zeta / LN 17.5\r\n——=——\r\n·建议使用投皮\r\n·此谱面难度极高，请谨慎游玩\r\n·非pgr常规谱面，请理性评分",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/da7553a0-e171-4ed3-90dc-215e389d67b7",
+      "preview": "https://phira.5wyxi.com/files/24840565-47cf-4f0b-a95e-17a1200b9c53",
+      "file": "https://phira.5wyxi.com/files/52072343-9f37-45c2-82aa-38a600597824",
+      "uploader": 459003,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.76758695,
+      "ratingCount": 0,
+      "created": "2026-11-22T08:16:30.328482Z",
+      "updated": "2026-11-23T15:43:57.911420421Z",
+      "chartUpdated": "2026-11-22T08:16:30.328482Z",
+      "hidden": false
+    },
+    {
+      "id": 75483,
+      "name": "TimeLeaper",
+      "level": "4K - time leaper",
+      "difficulty": 10.0,
+      "charter": "wxy6669",
+      "composer": "Hinkik",
+      "illustrator": "",
+      "description": "本人上传，4k纯配置谱",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/6cca6032-9a8d-4297-8ded-a7d6cd865fab",
+      "preview": "https://phira.5wyxi.com/files/6c1f7e55-8637-451c-97c3-1d911d27a1d1",
+      "file": "https://phira.5wyxi.com/files/84eeee8d-544a-470d-8ee6-55b4d3189c36",
+      "uploader": 1269426,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.830616,
+      "ratingCount": 0,
+      "created": "2026-08-24T14:26:11.996530Z",
+      "updated": "2026-11-23T12:37:42.972445525Z",
+      "chartUpdated": "2026-08-24T14:26:11.996530Z",
+      "hidden": false
+    },
+    {
+      "id": 52487,
+      "name": "Orthodox",
+      "level": "4k，叠lv18",
+      "difficulty": 10.000001,
+      "charter": "wxy6669",
+      "composer": "Tokiwa",
+      "illustrator": "",
+      "description": "新人malodyv制谱，转谱，简单易上手的叠",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e9af3eaa-060e-4e76-94d3-8985adda8804",
+      "preview": "https://phira.5wyxi.com/files/1a21d577-1169-42cc-801e-ebc5419a1095",
+      "file": "https://phira.5wyxi.com/files/dfd246e8-2201-4e72-842b-1dab93f6d513",
+      "uploader": 1269426,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.8779753,
+      "ratingCount": 0,
+      "created": "2026-02-12T07:08:37.582787Z",
+      "updated": "2026-11-23T12:27:35.224530355Z",
+      "chartUpdated": "2026-02-12T07:08:37.582787Z",
+      "hidden": false
+    },
     {
       "id": 15461,
       "name": "ドーパミン",
@@ -22,7 +132,7 @@
         "四指",
         "plain"
       ],
-      "rating": 0.8556475,
+      "rating": 0.85008574,
       "ratingCount": 65,
       "created": "2024-02-12T08:06:11.923864Z",
       "updated": "2026-11-22T18:53:12.684087720Z",
@@ -83,7 +193,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.7954165,
+      "rating": 0.7601231,
       "ratingCount": 0,
       "created": "2026-11-20T10:51:42.861057Z",
       "updated": "2026-11-21T12:20:17.538679555Z",
@@ -143,7 +253,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9220718,
+      "rating": 0.91205174,
       "ratingCount": 0,
       "created": "2026-11-20T06:24:12.060125Z",
       "updated": "2026-11-20T11:34:47.217904994Z",
@@ -235,7 +345,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.8595806,
+      "rating": 0.86670125,
       "ratingCount": 0,
       "created": "2026-11-19T07:15:26.267165Z",
       "updated": "2026-11-19T15:35:39.686920046Z",
@@ -263,7 +373,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.9374166,
+      "rating": 0.93997145,
       "ratingCount": 0,
       "created": "2026-11-13T14:34:29.078083Z",
       "updated": "2026-11-19T15:00:07.517120527Z",
@@ -290,7 +400,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8826509,
+      "rating": 0.88762546,
       "ratingCount": 14,
       "created": "2026-11-17T13:20:00.732063Z",
       "updated": "2026-11-19T09:59:48.253268Z",
@@ -317,7 +427,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9190908,
+      "rating": 0.93090147,
       "ratingCount": 19,
       "created": "2025-11-19T12:30:34.185621Z",
       "updated": "2026-11-19T01:41:57.790402Z",
@@ -344,7 +454,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.86424804,
+      "rating": 0.8700155,
       "ratingCount": 0,
       "created": "2025-11-18T17:12:36.593929Z",
       "updated": "2026-11-19T01:41:47.350418289Z",
@@ -406,7 +516,7 @@
         "电信宽带",
         "plain"
       ],
-      "rating": 0.92013323,
+      "rating": 0.92049867,
       "ratingCount": 104,
       "created": "2025-07-26T06:47:31.574183Z",
       "updated": "2026-11-19T01:38:36.940955533Z",
@@ -435,7 +545,7 @@
         "emo",
         "plain"
       ],
-      "rating": 0.9403201,
+      "rating": 0.9404514,
       "ratingCount": 729,
       "created": "2025-07-16T04:40:55.550182Z",
       "updated": "2026-11-19T01:37:33.392591433Z",
@@ -521,7 +631,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9472113,
+      "rating": 0.9471459,
       "ratingCount": 358,
       "created": "2024-09-15T23:41:48.882693Z",
       "updated": "2026-11-19T01:33:55.909039270Z",
@@ -548,7 +658,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8683571,
+      "rating": 0.87272507,
       "ratingCount": 0,
       "created": "2026-11-18T16:22:17.474618Z",
       "updated": "2026-11-18T23:43:50.058940700Z",
@@ -578,7 +688,7 @@
         "RainyAlley",
         "plain"
       ],
-      "rating": 0.95166445,
+      "rating": 0.95452523,
       "ratingCount": 9,
       "created": "2026-11-09T15:16:32.162762Z",
       "updated": "2026-11-18T14:01:16.635483Z",
@@ -634,7 +744,7 @@
         "爆发向高难",
         "plain"
       ],
-      "rating": 0.83944565,
+      "rating": 0.85248584,
       "ratingCount": 3,
       "created": "2026-11-15T13:15:13.252636Z",
       "updated": "2026-11-17T09:58:37.379689Z",
@@ -661,7 +771,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.91671926,
+      "rating": 0.91895837,
       "ratingCount": 34,
       "created": "2026-11-10T13:59:12.746436Z",
       "updated": "2026-11-15T19:27:16.475397Z",
@@ -688,7 +798,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.93505466,
+      "rating": 0.9361415,
       "ratingCount": 25,
       "created": "2026-11-15T13:35:06.401675Z",
       "updated": "2026-11-15T14:33:50.549279Z",
@@ -752,122 +862,6 @@
       "created": "2026-11-13T20:14:35.656026Z",
       "updated": "2026-11-15T10:24:16.912658Z",
       "chartUpdated": "2026-11-13T20:14:35.656026Z",
-      "hidden": false
-    },
-    {
-      "id": 82854,
-      "name": "バーンアウト",
-      "level": "4k RainyAlley  Lv.29",
-      "difficulty": 29.0,
-      "charter": "DIZzY",
-      "composer": "柿崎ユウタ/初音ミク",
-      "illustrator": "UK",
-      "description": "各位好这里是DIZzY\n我打算做一组合集\n名字：雨巷/Rainy Alley \n含这首一共9首歌 曲绘都会使用同样的格式 大家敬请期待！\n实时更新请留意b站/phira搜索DIZzY（RainyAlley或雨巷也可以）\n这首歌听久了真的会戒不掉的！...（小声）\n——————\nB站：ResoNancE27\nDy：S.R",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/aaf14971-e80d-4376-a672-4177edcfd220",
-      "preview": "https://phira.5wyxi.com/files/f6cce0b9-1d01-49a2-943e-f5165d8980f4",
-      "file": "https://phira.5wyxi.com/files/a95ddd83-6394-4a43-8bd2-acb1529d7b93",
-      "uploader": 2326063,
-      "tags": [
-        "4k",
-        "术力口",
-        "燃尽",
-        "柿崎",
-        "雨巷集",
-        "plain"
-      ],
-      "rating": 0.9518429,
-      "ratingCount": 21,
-      "created": "2026-11-01T11:21:23.292963Z",
-      "updated": "2026-11-15T09:52:39.079131Z",
-      "chartUpdated": "2026-11-01T11:21:23.292963Z",
-      "hidden": false
-    },
-    {
-      "id": 83988,
-      "name": "Silentphobia",
-      "level": "-β- Lv.19",
-      "difficulty": 19.0,
-      "charter": "Betrixx",
-      "composer": "Sakuzyo & t+pazolite",
-      "illustrator": "WACCA",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a1cae158-bbf3-413d-9201-0c38c4f366b0",
-      "preview": "https://phira.5wyxi.com/files/c63e3005-af06-4620-b9e8-a92d5321297d",
-      "file": "https://phira.5wyxi.com/files/85bb4eb1-1a6b-40c4-a8e1-663bd20c95f0",
-      "uploader": 435853,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.8423025,
-      "ratingCount": 3,
-      "created": "2026-11-15T03:14:10.524116Z",
-      "updated": "2026-11-15T05:09:52.981671Z",
-      "chartUpdated": "2026-11-15T03:14:10.524116Z",
-      "hidden": false
-    },
-    {
-      "id": 83950,
-      "name": "疾行锐进 Swift Advance",
-      "level": "AdvancedJack",
-      "difficulty": 10.0,
-      "charter": "1mhan9 vs. Mhang_L",
-      "composer": "HOYO-MIX",
-      "illustrator": "Genshin Impact",
-      "description": "本人上传。\n@Mhang_L#512506 负责修改排键。",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0fe8f359-1b48-4d69-92ca-4519c478db4e",
-      "preview": "https://phira.5wyxi.com/files/10ee590c-fbfb-4012-9ae0-d634ca58c1b2",
-      "file": "https://phira.5wyxi.com/files/981182a3-57ee-4c59-bb87-654dbac7b0c7",
-      "uploader": 1989524,
-      "tags": [
-        "满叠",
-        "叠",
-        "Jack",
-        "plain"
-      ],
-      "rating": 0.66650325,
-      "ratingCount": 5,
-      "created": "2026-11-14T16:42:42.080013Z",
-      "updated": "2026-11-14T22:01:00.329493Z",
-      "chartUpdated": "2026-11-14T16:42:42.080013Z",
-      "hidden": false
-    },
-    {
-      "id": 83349,
-      "name": "DFC SiFeng Dan",
-      "level": "AI Lv.10",
-      "difficulty": 10.0,
-      "charter": "moutao",
-      "composer": "V. A.",
-      "illustrator": "doubao",
-      "description": "DFC SiFeng Dan震撼来袭！\r\n这四首歌应该让更多人听到！\r\n借鉴了部分γ单曲的配置\r\n黄键比：2348/7137\r\n边缘=96.48%\r\n过段=97.89%\r\n后光=98.94%\r\n击破=99.65%\r\n感谢游玩~",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/a056f7d4-afac-405d-9a8c-83dfa7c7e728",
-      "preview": "https://phira.5wyxi.com/files/f480249e-1b42-4f0d-ba8c-4030a252d626",
-      "file": "https://phira.5wyxi.com/files/5998eec8-466c-4e09-933e-8b9ae27628ed",
-      "uploader": 19429,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9474047,
-      "ratingCount": 55,
-      "created": "2026-11-07T19:06:24.829953Z",
-      "updated": "2026-11-14T06:06:07.863163Z",
-      "chartUpdated": "2026-11-07T19:06:24.829953Z",
       "hidden": false
     }
   ]
