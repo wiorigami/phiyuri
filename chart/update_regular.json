@@ -1,6 +1,87 @@
 {
-  "count": 9800,
+  "count": 9801,
   "results": [
+    {
+      "id": 85096,
+      "name": "Deep Blue",
+      "level": "IN Lv.17",
+      "difficulty": 17.0,
+      "charter": "Haru_12 feat. CorYdalis",
+      "composer": "technoplanet/Tamako Kinoshita",
+      "illustrator": "©SEGA",
+      "description": "谱帅本人上传",
+      "ranked": false,
+      "reviewed": false,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/ebeed480-d788-4a96-8d89-0f0e80677b3e",
+      "preview": "https://phira.5wyxi.com/files/5379d21a-b874-43cc-9168-b9964034eaf7",
+      "file": "https://phira.5wyxi.com/files/ced774f1-3c2e-4226-9e4d-c07bc25f1f40",
+      "uploader": 50884,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.8773435,
+      "ratingCount": 0,
+      "created": "2026-11-24T16:05:32.393428Z",
+      "updated": "2026-11-24T16:14:48.296779Z",
+      "chartUpdated": "2026-11-24T16:05:32.393428Z",
+      "hidden": false
+    },
+    {
+      "id": 85092,
+      "name": "相思成语",
+      "level": "IN Lv.8",
+      "difficulty": 8.399994,
+      "charter": "YSTAR-T",
+      "composer": "刘牧",
+      "illustrator": "刘牧",
+      "description": "谱师本人上传\r\nBPM 62.058(不稳定)\r\n物量 374\r\n定数 8.4",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/82ea630c-d6e4-49b4-bb97-4753d5fbc82b",
+      "preview": "https://phira.5wyxi.com/files/5bb8104e-a40b-4475-b053-62c21cf6f57b",
+      "file": "https://phira.5wyxi.com/files/92d5ca96-b737-4a90-b20d-2d556e088ee4",
+      "uploader": 1213694,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.90589315,
+      "ratingCount": 0,
+      "created": "2026-11-24T15:15:00.286260Z",
+      "updated": "2026-11-24T15:59:35.401037133Z",
+      "chartUpdated": "2026-11-24T15:15:00.286260Z",
+      "hidden": false
+    },
+    {
+      "id": 84292,
+      "name": "Flash",
+      "level": "IN  Lv.13",
+      "difficulty": 13.0,
+      "charter": "xingchen",
+      "composer": "Gorilla Attack",
+      "illustrator": "LinkClick",
+      "description": "谱师本人上传，b站@一往无前的星辰",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/a5a85559-2ab9-4535-be32-d88ea18df9fe",
+      "preview": "https://phira.5wyxi.com/files/d567da68-b365-40a6-a4d4-f7216a93271f",
+      "file": "https://phira.5wyxi.com/files/54ad469e-97dd-4218-bbbd-2edc7ea60be3",
+      "uploader": 1477842,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.89380836,
+      "ratingCount": 0,
+      "created": "2026-11-17T12:25:32.656340Z",
+      "updated": "2026-11-24T14:20:23.616463310Z",
+      "chartUpdated": "2026-11-17T12:25:32.656340Z",
+      "hidden": false
+    },
     {
       "id": 84886,
       "name": "高速素粒子衝突型加速器",
@@ -21,7 +102,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87741506,
+      "rating": 0.9026545,
       "ratingCount": 0,
       "created": "2026-11-22T11:38:18.885331Z",
       "updated": "2026-11-24T02:01:12.482776372Z",
@@ -48,7 +129,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.913902,
+      "rating": 0.9159524,
       "ratingCount": 246,
       "created": "2026-08-08T05:52:59.001709Z",
       "updated": "2026-11-23T00:48:43.971691Z",
@@ -77,7 +158,7 @@
         "ZZZ",
         "regular"
       ],
-      "rating": 0.95545024,
+      "rating": 0.9547012,
       "ratingCount": 0,
       "created": "2026-11-22T13:18:41.084111Z",
       "updated": "2026-11-22T14:53:35.496409058Z",
@@ -104,7 +185,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94103605,
+      "rating": 0.9392149,
       "ratingCount": 0,
       "created": "2026-11-22T11:46:41.850662Z",
       "updated": "2026-11-22T13:08:31.977281843Z",
@@ -131,7 +212,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9211748,
+      "rating": 0.9299944,
       "ratingCount": 7,
       "created": "2026-11-22T12:57:10.690017Z",
       "updated": "2026-11-22T13:06:18.230418Z",
@@ -158,7 +239,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9378724,
+      "rating": 0.9391215,
       "ratingCount": 71,
       "created": "2026-11-21T10:00:56.169563Z",
       "updated": "2026-11-22T10:10:55.161919Z",
@@ -185,7 +266,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9401123,
+      "rating": 0.9366307,
       "ratingCount": 376,
       "created": "2026-11-19T02:24:43.080976Z",
       "updated": "2026-11-22T08:05:33.864344Z",
@@ -212,7 +293,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9132492,
+      "rating": 0.9255125,
       "ratingCount": 0,
       "created": "2026-11-22T06:28:59.637272Z",
       "updated": "2026-11-22T06:32:59.203785Z",
@@ -239,7 +320,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9130522,
+      "rating": 0.9108072,
       "ratingCount": 0,
       "created": "2026-11-21T08:19:30.543888Z",
       "updated": "2026-11-21T15:10:52.948583277Z",
@@ -266,7 +347,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9430722,
+      "rating": 0.9459215,
       "ratingCount": 0,
       "created": "2026-11-20T16:23:04.478647Z",
       "updated": "2026-11-21T13:53:40.387998030Z",
@@ -293,7 +374,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.72317755,
+      "rating": 0.7079958,
       "ratingCount": 0,
       "created": "2026-11-21T13:09:10.148426Z",
       "updated": "2026-11-21T13:24:01.840982193Z",
@@ -320,7 +401,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93656474,
+      "rating": 0.939478,
       "ratingCount": 43,
       "created": "2026-11-21T11:44:11.945723Z",
       "updated": "2026-11-21T13:01:24.241082Z",
@@ -347,7 +428,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8805217,
+      "rating": 0.8768552,
       "ratingCount": 0,
       "created": "2026-07-20T05:36:00.526222Z",
       "updated": "2026-11-21T12:36:09.107420240Z",
@@ -375,7 +456,7 @@
         "Roteano",
         "regular"
       ],
-      "rating": 0.94396776,
+      "rating": 0.94280213,
       "ratingCount": 1,
       "created": "2026-11-20T17:26:55.590823Z",
       "updated": "2026-11-21T11:10:04.532912Z",
@@ -402,7 +483,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.963467,
+      "rating": 0.9647958,
       "ratingCount": 0,
       "created": "2026-11-21T04:36:44.821768Z",
       "updated": "2026-11-21T10:28:25.631123Z",
@@ -429,7 +510,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.90857136,
+      "rating": 0.90837526,
       "ratingCount": 17,
       "created": "2026-11-21T05:53:14.577308Z",
       "updated": "2026-11-21T08:09:42.253888Z",
@@ -456,7 +537,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9260619,
+      "rating": 0.92861366,
       "ratingCount": 0,
       "created": "2026-11-21T06:06:36.074987Z",
       "updated": "2026-11-21T06:55:14.569702114Z",
@@ -483,7 +564,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9542202,
+      "rating": 0.9523778,
       "ratingCount": 0,
       "created": "2026-11-21T06:03:15.653650Z",
       "updated": "2026-11-21T06:55:06.566667865Z",
@@ -510,7 +591,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.941575,
+      "rating": 0.94311297,
       "ratingCount": 0,
       "created": "2026-11-20T13:14:09.173850Z",
       "updated": "2026-11-21T03:04:28.611042548Z",
@@ -543,7 +624,7 @@
         "第一百九十一话",
         "regular"
       ],
-      "rating": 0.85682505,
+      "rating": 0.8641306,
       "ratingCount": 0,
       "created": "2026-11-21T02:42:34.477574Z",
       "updated": "2026-11-21T03:01:02.852337164Z",
@@ -576,7 +657,7 @@
         "交互",
         "regular"
       ],
-      "rating": 0.9338998,
+      "rating": 0.93723893,
       "ratingCount": 3,
       "created": "2026-09-05T11:31:45.695974Z",
       "updated": "2026-11-21T02:47:51.217639Z",
@@ -603,7 +684,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.84193045,
+      "rating": 0.8447168,
       "ratingCount": 71,
       "created": "2026-09-19T03:50:53.599060Z",
       "updated": "2026-11-20T19:10:04.313258032Z",
@@ -630,7 +711,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9260534,
+      "rating": 0.8736556,
       "ratingCount": 0,
       "created": "2026-07-22T07:36:16.056842Z",
       "updated": "2026-11-20T14:10:15.769455332Z",
@@ -657,7 +738,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9028361,
+      "rating": 0.90083337,
       "ratingCount": 63,
       "created": "2026-11-13T10:35:22.300575Z",
       "updated": "2026-11-20T09:19:35.792166Z",
@@ -684,7 +765,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9157255,
+      "rating": 0.91563773,
       "ratingCount": 366,
       "created": "2026-11-13T12:25:10.771703Z",
       "updated": "2026-11-20T04:59:36.456911Z",
@@ -711,7 +792,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94570446,
+      "rating": 0.94469976,
       "ratingCount": 7,
       "created": "2026-11-19T16:20:57.439018Z",
       "updated": "2026-11-19T16:36:32.125312Z",
@@ -738,92 +819,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8596785,
+      "rating": 0.8651169,
       "ratingCount": 0,
       "created": "2026-10-03T14:38:44.116526Z",
       "updated": "2026-11-19T15:13:01.033830427Z",
       "chartUpdated": "2026-10-03T14:38:44.116526Z",
-      "hidden": false
-    },
-    {
-      "id": 78436,
-      "name": "Still Shining (feat. 重音テト)",
-      "level": "AT Lv.16",
-      "difficulty": 16.6,
-      "charter": "bluesky",
-      "composer": "Mayonazy",
-      "illustrator": "匪橘",
-      "description": "我就甩个链接\r\nMV:https://www.bilibili.com/video/BV1ovQLBNEGf/?spm_id_from=333.1391.0.0&amp%3Bvd_source=3db96269b80d6ff30e9cd3c0b0ed2abf&vd_source=3db96269b80d6ff30e9cd3c0b0ed2abf",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/0b6bf5e5-683f-4e7d-8e80-778e9a89d9f5",
-      "preview": "https://phira.5wyxi.com/files/a18e31c8-49cd-419e-a484-676b3d18efd8",
-      "file": "https://phira.5wyxi.com/files/7ba9d2b0-6f0c-48d5-9bb6-d8f6aa38b73f",
-      "uploader": 24717,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.87954813,
-      "ratingCount": 6,
-      "created": "2026-09-19T04:17:06.600437Z",
-      "updated": "2026-11-19T15:11:48.951880Z",
-      "chartUpdated": "2026-09-19T04:17:06.600437Z",
-      "hidden": false
-    },
-    {
-      "id": 82241,
-      "name": "director kasukasu puppy",
-      "level": "AT Lv.17",
-      "difficulty": 17.0,
-      "charter": "SubDaimeng",
-      "composer": "kasumi",
-      "illustrator": "うてなゆき (ネムレス)",
-      "description": null,
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/2322da85-8bb0-4117-9dcf-15ef87af67d4",
-      "preview": "https://phira.5wyxi.com/files/c88fee8c-1781-4bcd-8e1b-b92595f174b5",
-      "file": "https://phira.5wyxi.com/files/17d53ca1-ba58-484b-a85d-67d2809f68f7",
-      "uploader": 2777,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9160938,
-      "ratingCount": 127,
-      "created": "2026-10-26T09:53:13.616324Z",
-      "updated": "2026-11-19T11:31:07.977278267Z",
-      "chartUpdated": "2026-11-19T11:31:07.977278267Z",
-      "hidden": false
-    },
-    {
-      "id": 84416,
-      "name": "鹿 Be Free",
-      "level": "IN 9",
-      "difficulty": 9.0,
-      "charter": "时辰shars",
-      "composer": "熊出没",
-      "illustrator": "熊出没",
-      "description": "协作@RS超级小瑞#599775\n\n熊出没教给我们的\n\n友情，担当\n对困难有直面的勇气\n\n时间是公平的\n不会因有权有势而眷顾\n不会因穷困潦倒而鄙视\n\n也许有的人童年并不完整\n也许现实中也活的不如意\n\n但不要忘记那份童年的畅想\n那是时间赐予你最珍贵的礼物\n\n若是累了\n回来听听音乐吧\n出去看看山河吧\n\n时辰 留\n2026.11.9",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/d2ca7735-9897-4ef4-8bc7-09d1b3a079b6",
-      "preview": "https://phira.5wyxi.com/files/2f2ed1d5-6013-44b1-9b88-ba5d6e0eef8a",
-      "file": "https://phira.5wyxi.com/files/10785b1b-63d8-4923-aa60-e8a2afdff232",
-      "uploader": 1619714,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.926945,
-      "ratingCount": 0,
-      "created": "2026-11-19T05:20:56.055478Z",
-      "updated": "2026-11-19T09:02:44.009055828Z",
-      "chartUpdated": "2026-11-19T05:20:56.055478Z",
       "hidden": false
     }
   ]
