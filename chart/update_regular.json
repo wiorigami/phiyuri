@@ -2,6 +2,116 @@
   "count": 9804,
   "results": [
     {
+      "id": 84907,
+      "name": "Titania",
+      "level": "IN Lv.16",
+      "difficulty": 16.0,
+      "charter": "Pancake",
+      "composer": "xi",
+      "illustrator": "",
+      "description": "江江比耶\nBV1ggyez6EF9\n本人上传",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": true,
+      "illustration": "https://phira.5wyxi.com/files/036d8dd3-1632-48a7-ac4d-017468b2777c",
+      "preview": "https://phira.5wyxi.com/files/04dc0508-7046-409d-813c-73bb3c426244",
+      "file": "https://phira.5wyxi.com/files/7a6dfe62-165c-4aac-8865-d73e15734963",
+      "uploader": 251121,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.9371491,
+      "ratingCount": 103,
+      "created": "2026-11-22T12:57:10.690017Z",
+      "updated": "2026-11-27T06:24:05.154901669Z",
+      "chartUpdated": "2026-11-27T06:24:05.154901669Z",
+      "hidden": false
+    },
+    {
+      "id": 85168,
+      "name": "The Master Race",
+      "level": "IN Lv.13",
+      "difficulty": 13.699999,
+      "charter": "YSTAR-T IN HAMSTER BALL",
+      "composer": "Peter Hajba",
+      "illustrator": "Peter Hajba",
+      "description": "谱师本人上传\r\n物量 480\r\nIntro送combo数与Hard难度一致(55)\r\n补齐了16分双连音\r\n物量 480→512\r\n定数 13.7 (14.0严重虚高)",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/e249fb69-f8d4-4236-bdc4-594bf710be11",
+      "preview": "https://phira.5wyxi.com/files/2b0d1d91-f0d0-40f0-a796-e1b7ea30890a",
+      "file": "https://phira.5wyxi.com/files/8b4cbe17-3a7f-4486-8d02-f0b2b0564e5f",
+      "uploader": 1213694,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.897374,
+      "ratingCount": 95,
+      "created": "2026-11-25T14:11:40.380884Z",
+      "updated": "2026-11-26T15:09:50.328063188Z",
+      "chartUpdated": "2026-11-26T15:09:50.328063188Z",
+      "hidden": false
+    },
+    {
+      "id": 72137,
+      "name": "Day dreamer",
+      "level": "IN  Lv.14",
+      "difficulty": 14.800003,
+      "charter": "UNK_area",
+      "composer": "F-777",
+      "illustrator": "",
+      "description": "谱面为本人上传。\n谱面预览：Bilibili BV1sruc6iEza\n欢迎评价。",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/c2e6601d-9bd0-4e64-af58-c8049d80c919",
+      "preview": "https://phira.5wyxi.com/files/594ed1ba-87cb-49b4-98df-1a9e150b687a",
+      "file": "https://phira.5wyxi.com/files/e8439cc3-1d03-4340-a2bf-174209ba2d6c",
+      "uploader": 3669603,
+      "tags": [
+        "regular"
+      ],
+      "rating": 0.87178373,
+      "ratingCount": 0,
+      "created": "2026-08-08T15:14:09.655915Z",
+      "updated": "2026-11-26T13:17:45.230624850Z",
+      "chartUpdated": "2026-08-08T15:14:09.655915Z",
+      "hidden": false
+    },
+    {
+      "id": 84763,
+      "name": "サイエンス (Science)",
+      "level": "IN Lv.15",
+      "difficulty": 15.500002,
+      "charter": "皮一下很开心awa",
+      "composer": "MIMI、重音テト",
+      "illustrator": "3774",
+      "description": "Chart:玉米解说BuBu(b站)\n视频稍后发布",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/f5196847-9a24-4c3e-be87-840681e5819d",
+      "preview": "https://phira.5wyxi.com/files/d0f5a120-0756-4638-9de3-bcb4eca3f73e",
+      "file": "https://phira.5wyxi.com/files/9ba871bf-a668-4a31-9960-3dcc3040df24",
+      "uploader": 1083286,
+      "tags": [
+        "MIMI",
+        "科学",
+        "regular"
+      ],
+      "rating": 0.9158167,
+      "ratingCount": 0,
+      "created": "2026-11-21T16:06:52.713908Z",
+      "updated": "2026-11-26T13:07:11.924304249Z",
+      "chartUpdated": "2026-11-21T16:06:52.713908Z",
+      "hidden": false
+    },
+    {
       "id": 82739,
       "name": "雾里",
       "level": "IN Lv.13",
@@ -21,7 +131,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.79625374,
+      "rating": 0.90957916,
       "ratingCount": 0,
       "created": "2026-11-01T02:09:26.096719Z",
       "updated": "2026-11-26T06:14:17.493512723Z",
@@ -48,7 +158,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7482895,
+      "rating": 0.9102805,
       "ratingCount": 0,
       "created": "2026-11-16T12:10:25.228191Z",
       "updated": "2026-11-26T06:13:35.109535156Z",
@@ -75,7 +185,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7482895,
+      "rating": 0.8670254,
       "ratingCount": 0,
       "created": "2026-11-22T08:30:41.884474Z",
       "updated": "2026-11-26T06:12:46.629938556Z",
@@ -102,7 +212,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9074344,
+      "rating": 0.9098506,
       "ratingCount": 95,
       "created": "2026-10-18T13:22:57.808622Z",
       "updated": "2026-11-25T15:46:48.709510613Z",
@@ -131,7 +241,7 @@
         "可爱",
         "regular"
       ],
-      "rating": 0.8956197,
+      "rating": 0.9131183,
       "ratingCount": 1,
       "created": "2026-11-25T14:45:30.494031Z",
       "updated": "2026-11-25T15:40:49.782421Z",
@@ -158,38 +268,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.92481905,
+      "rating": 0.9186619,
       "ratingCount": 237,
       "created": "2026-11-12T14:42:14.528659Z",
       "updated": "2026-11-25T14:49:59.812330566Z",
       "chartUpdated": "2026-11-25T14:49:59.812330566Z",
-      "hidden": false
-    },
-    {
-      "id": 85168,
-      "name": "The Master Race",
-      "level": "IN Lv.14",
-      "difficulty": 14.0,
-      "charter": "YSTAR-T IN HAMSTER BALL",
-      "composer": "Peter Hajba",
-      "illustrator": "Peter Hajba",
-      "description": "谱师本人上传\r\n物量 480\r\nIntro送combo数与Hard难度一致(55)\r\n物量 480\r\n定数 14.0",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/6e364294-f002-4f27-b61d-c3db6831519c",
-      "preview": "https://phira.5wyxi.com/files/4c0c5f92-0eee-42c6-8d5e-e14ba4f7d602",
-      "file": "https://phira.5wyxi.com/files/616d7eef-4bb4-4ff0-9f79-a42b7afa078e",
-      "uploader": 1213694,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.8788261,
-      "ratingCount": 0,
-      "created": "2026-11-25T14:11:40.380884Z",
-      "updated": "2026-11-25T14:13:15.064515490Z",
-      "chartUpdated": "2026-11-25T14:11:40.380884Z",
       "hidden": false
     },
     {
@@ -212,7 +295,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.8952987,
+      "rating": 0.9241156,
       "ratingCount": 0,
       "created": "2026-11-25T09:13:26.351976Z",
       "updated": "2026-11-25T12:56:32.459332172Z",
@@ -239,7 +322,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.7750618,
+      "rating": 0.78728336,
       "ratingCount": 0,
       "created": "2026-04-12T07:24:23.753612Z",
       "updated": "2026-11-25T11:02:15.214983934Z",
@@ -271,10 +354,10 @@
         "底力",
         "regular"
       ],
-      "rating": 0.85395545,
-      "ratingCount": 0,
+      "rating": 0.8484657,
+      "ratingCount": 27,
       "created": "2026-11-25T09:07:13.654093Z",
-      "updated": "2026-11-25T10:06:58.785212676Z",
+      "updated": "2026-11-25T10:06:58.785212Z",
       "chartUpdated": "2026-11-25T09:07:13.654093Z",
       "hidden": false
     },
@@ -298,7 +381,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.93068594,
+      "rating": 0.9363058,
       "ratingCount": 0,
       "created": "2026-11-24T16:05:32.393428Z",
       "updated": "2026-11-24T16:14:48.296779Z",
@@ -325,7 +408,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9183275,
+      "rating": 0.9116208,
       "ratingCount": 0,
       "created": "2026-11-24T15:15:00.286260Z",
       "updated": "2026-11-24T15:59:35.401037133Z",
@@ -352,7 +435,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91952884,
+      "rating": 0.9193885,
       "ratingCount": 0,
       "created": "2026-11-17T12:25:32.656340Z",
       "updated": "2026-11-24T14:20:23.616463310Z",
@@ -379,7 +462,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9132906,
+      "rating": 0.9268309,
       "ratingCount": 0,
       "created": "2026-11-22T11:38:18.885331Z",
       "updated": "2026-11-24T02:01:12.482776372Z",
@@ -406,7 +489,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.91613126,
+      "rating": 0.91475374,
       "ratingCount": 246,
       "created": "2026-08-08T05:52:59.001709Z",
       "updated": "2026-11-23T00:48:43.971691Z",
@@ -435,7 +518,7 @@
         "ZZZ",
         "regular"
       ],
-      "rating": 0.9569942,
+      "rating": 0.9581881,
       "ratingCount": 0,
       "created": "2026-11-22T13:18:41.084111Z",
       "updated": "2026-11-22T14:53:35.496409058Z",
@@ -462,38 +545,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9387354,
+      "rating": 0.9356482,
       "ratingCount": 0,
       "created": "2026-11-22T11:46:41.850662Z",
       "updated": "2026-11-22T13:08:31.977281843Z",
       "chartUpdated": "2026-11-22T11:46:41.850662Z",
-      "hidden": false
-    },
-    {
-      "id": 84907,
-      "name": "Titania",
-      "level": "IN Lv.16",
-      "difficulty": 16.0,
-      "charter": "Pancake",
-      "composer": "xi",
-      "illustrator": "",
-      "description": "江江比耶\nBV1ggyez6EF9\n本人上传",
-      "ranked": false,
-      "reviewed": false,
-      "stable": false,
-      "stableRequest": true,
-      "illustration": "https://phira.5wyxi.com/files/8f1b240d-fdd4-48ff-a76b-b23043e65470",
-      "preview": "https://phira.5wyxi.com/files/51fe8e55-a4dd-4e47-9a4c-871f4ab997c2",
-      "file": "https://phira.5wyxi.com/files/9e51d7de-3ff2-4dd1-9e1f-31505b9e650b",
-      "uploader": 251121,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.93667454,
-      "ratingCount": 7,
-      "created": "2026-11-22T12:57:10.690017Z",
-      "updated": "2026-11-22T13:06:18.230418Z",
-      "chartUpdated": "2026-11-22T12:57:10.690017Z",
       "hidden": false
     },
     {
@@ -516,7 +572,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94099766,
+      "rating": 0.9356107,
       "ratingCount": 71,
       "created": "2026-11-21T10:00:56.169563Z",
       "updated": "2026-11-22T10:10:55.161919Z",
@@ -543,7 +599,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.933963,
+      "rating": 0.9325829,
       "ratingCount": 376,
       "created": "2026-11-19T02:24:43.080976Z",
       "updated": "2026-11-22T08:05:33.864344Z",
@@ -570,7 +626,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9339111,
+      "rating": 0.9346075,
       "ratingCount": 0,
       "created": "2026-11-22T06:28:59.637272Z",
       "updated": "2026-11-22T06:32:59.203785Z",
@@ -597,7 +653,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9067971,
+      "rating": 0.9088548,
       "ratingCount": 0,
       "created": "2026-11-21T08:19:30.543888Z",
       "updated": "2026-11-21T15:10:52.948583277Z",
@@ -624,7 +680,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.94883215,
+      "rating": 0.9498609,
       "ratingCount": 0,
       "created": "2026-11-20T16:23:04.478647Z",
       "updated": "2026-11-21T13:53:40.387998030Z",
@@ -651,7 +707,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.70251006,
+      "rating": 0.7029824,
       "ratingCount": 0,
       "created": "2026-11-21T13:09:10.148426Z",
       "updated": "2026-11-21T13:24:01.840982193Z",
@@ -678,7 +734,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9367913,
+      "rating": 0.93422943,
       "ratingCount": 43,
       "created": "2026-11-21T11:44:11.945723Z",
       "updated": "2026-11-21T13:01:24.241082Z",
@@ -705,7 +761,7 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.87982213,
+      "rating": 0.8873458,
       "ratingCount": 0,
       "created": "2026-07-20T05:36:00.526222Z",
       "updated": "2026-11-21T12:36:09.107420240Z",
@@ -733,7 +789,7 @@
         "Roteano",
         "regular"
       ],
-      "rating": 0.9322205,
+      "rating": 0.93291813,
       "ratingCount": 1,
       "created": "2026-11-20T17:26:55.590823Z",
       "updated": "2026-11-21T11:10:04.532912Z",
@@ -760,65 +816,11 @@
       "tags": [
         "regular"
       ],
-      "rating": 0.9648575,
+      "rating": 0.9671163,
       "ratingCount": 0,
       "created": "2026-11-21T04:36:44.821768Z",
       "updated": "2026-11-21T10:28:25.631123Z",
       "chartUpdated": "2026-11-21T04:36:44.821768Z",
-      "hidden": false
-    },
-    {
-      "id": 84642,
-      "name": "蒼天",
-      "level": "SKY Lv.18",
-      "difficulty": 18.0,
-      "charter": "LuNaTiC9E",
-      "composer": "うしみつ",
-      "illustrator": "うしみつ",
-      "description": "2026.7.21\n谱师本人上传\n感谢7poLoyo指导\n写谱净时长8h\n感谢游玩",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/f87296b0-7751-4b89-a00f-edd0e3e06494",
-      "preview": "https://phira.5wyxi.com/files/09cef7b8-02fe-4dbc-98f9-fd9763f196c1",
-      "file": "https://phira.5wyxi.com/files/a408859f-6181-43d5-b749-dcaca49be60d",
-      "uploader": 1222,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.90319574,
-      "ratingCount": 17,
-      "created": "2026-11-21T05:53:14.577308Z",
-      "updated": "2026-11-21T08:09:42.253888Z",
-      "chartUpdated": "2026-11-21T05:53:14.577308Z",
-      "hidden": false
-    },
-    {
-      "id": 84651,
-      "name": "Life is PIANO",
-      "level": "IN Lv.13",
-      "difficulty": 13.0,
-      "charter": "Ex1stenS",
-      "composer": "Junk",
-      "illustrator": "TOHRU MiTSUHASHi",
-      "description": "to RainyIkigai_",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/e54dae6e-9325-448b-9e9c-03390990585f",
-      "preview": "https://phira.5wyxi.com/files/83feadbe-6690-4d89-902e-f5989c93a1b8",
-      "file": "https://phira.5wyxi.com/files/2bfea099-615e-4fbb-b696-ad5b557d9ca0",
-      "uploader": 1503,
-      "tags": [
-        "regular"
-      ],
-      "rating": 0.9299562,
-      "ratingCount": 0,
-      "created": "2026-11-21T06:06:36.074987Z",
-      "updated": "2026-11-21T06:55:14.569702114Z",
-      "chartUpdated": "2026-11-21T06:06:36.074987Z",
       "hidden": false
     }
   ]
