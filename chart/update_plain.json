@@ -1,6 +1,33 @@
 {
-  "count": 3427,
+  "count": 3428,
   "results": [
+    {
+      "id": 84181,
+      "name": "リリィ",
+      "level": "4k Lv.21",
+      "difficulty": 10.0,
+      "charter": "冷影 & qi_-",
+      "composer": "上田麓奈",
+      "illustrator": "UK",
+      "description": "本人上传\n\n挺适合新手说是（\n玩得开心\n\n谢谢冷影妈妈\n@尘晰常间#4379248",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/9d2e417a-89d3-4e49-946b-2b50f3ff226d",
+      "preview": "https://phira.5wyxi.com/files/fa9a0ca2-f483-4921-afb6-82014b7a1269",
+      "file": "https://phira.5wyxi.com/files/f4895491-0dc2-46cb-a068-8e4855a79d00",
+      "uploader": 2340,
+      "tags": [
+        "plain"
+      ],
+      "rating": 0.90321827,
+      "ratingCount": 0,
+      "created": "2026-11-16T05:49:39.185274Z",
+      "updated": "2026-11-27T09:44:54.980851007Z",
+      "chartUpdated": "2026-11-16T05:49:39.185274Z",
+      "hidden": false
+    },
     {
       "id": 85004,
       "name": "One More (feat. Hannah Fortune & lowstattic)",
@@ -22,7 +49,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.8678234,
+      "rating": 0.88252765,
       "ratingCount": 0,
       "created": "2026-11-23T13:15:47.504419Z",
       "updated": "2026-11-26T13:26:12.293636556Z",
@@ -51,7 +78,7 @@
         "大键盘",
         "plain"
       ],
-      "rating": 0.81336373,
+      "rating": 0.8545475,
       "ratingCount": 0,
       "created": "2026-11-24T17:29:23.323013Z",
       "updated": "2026-11-25T14:07:54.681838041Z",
@@ -161,7 +188,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9211972,
+      "rating": 0.92220795,
       "ratingCount": 0,
       "created": "2026-02-12T07:08:37.582787Z",
       "updated": "2026-11-23T12:27:35.224530355Z",
@@ -189,7 +216,7 @@
         "四指",
         "plain"
       ],
-      "rating": 0.84945625,
+      "rating": 0.8515347,
       "ratingCount": 65,
       "created": "2024-02-12T08:06:11.923864Z",
       "updated": "2026-11-22T18:53:12.684087720Z",
@@ -221,7 +248,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.7803841,
+      "rating": 0.81567323,
       "ratingCount": 0,
       "created": "2026-11-21T23:00:10.564546Z",
       "updated": "2026-11-22T09:38:05.646169881Z",
@@ -250,7 +277,7 @@
         "叠",
         "plain"
       ],
-      "rating": 0.77400696,
+      "rating": 0.7708639,
       "ratingCount": 0,
       "created": "2026-11-20T10:51:42.861057Z",
       "updated": "2026-11-21T12:20:17.538679555Z",
@@ -283,7 +310,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.856128,
+      "rating": 0.8678234,
       "ratingCount": 0,
       "created": "2026-11-20T14:25:28.653901Z",
       "updated": "2026-11-20T14:38:42.488253334Z",
@@ -310,7 +337,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8912792,
+      "rating": 0.89647853,
       "ratingCount": 0,
       "created": "2026-11-20T06:24:12.060125Z",
       "updated": "2026-11-20T11:34:47.217904994Z",
@@ -372,7 +399,7 @@
         "Tea",
         "plain"
       ],
-      "rating": 0.8678234,
+      "rating": 0.8778362,
       "ratingCount": 0,
       "created": "2026-10-30T17:05:14.718122Z",
       "updated": "2026-11-19T18:58:25.176536Z",
@@ -402,7 +429,7 @@
         "Stamina",
         "plain"
       ],
-      "rating": 0.8745423,
+      "rating": 0.8800975,
       "ratingCount": 0,
       "created": "2026-11-19T07:15:26.267165Z",
       "updated": "2026-11-19T15:35:39.686920046Z",
@@ -430,7 +457,7 @@
         "4k",
         "plain"
       ],
-      "rating": 0.93851036,
+      "rating": 0.9400431,
       "ratingCount": 0,
       "created": "2026-11-13T14:34:29.078083Z",
       "updated": "2026-11-19T15:00:07.517120527Z",
@@ -457,7 +484,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.89015156,
+      "rating": 0.89569443,
       "ratingCount": 14,
       "created": "2026-11-17T13:20:00.732063Z",
       "updated": "2026-11-19T09:59:48.253268Z",
@@ -484,7 +511,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9333441,
+      "rating": 0.9356231,
       "ratingCount": 19,
       "created": "2025-11-19T12:30:34.185621Z",
       "updated": "2026-11-19T01:41:57.790402Z",
@@ -511,7 +538,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8700155,
+      "rating": 0.8521479,
       "ratingCount": 0,
       "created": "2025-11-18T17:12:36.593929Z",
       "updated": "2026-11-19T01:41:47.350418289Z",
@@ -543,7 +570,7 @@
         "乱",
         "plain"
       ],
-      "rating": 0.94635135,
+      "rating": 0.946663,
       "ratingCount": 159,
       "created": "2025-10-06T15:07:53.234125Z",
       "updated": "2026-11-19T01:40:30.874143252Z",
@@ -573,7 +600,7 @@
         "电信宽带",
         "plain"
       ],
-      "rating": 0.92049867,
+      "rating": 0.9228127,
       "ratingCount": 104,
       "created": "2025-07-26T06:47:31.574183Z",
       "updated": "2026-11-19T01:38:36.940955533Z",
@@ -602,7 +629,7 @@
         "emo",
         "plain"
       ],
-      "rating": 0.94045824,
+      "rating": 0.9404765,
       "ratingCount": 729,
       "created": "2025-07-16T04:40:55.550182Z",
       "updated": "2026-11-19T01:37:33.392591433Z",
@@ -631,7 +658,7 @@
         "双指",
         "plain"
       ],
-      "rating": 0.9103894,
+      "rating": 0.905654,
       "ratingCount": 49,
       "created": "2025-07-08T13:55:04.697894Z",
       "updated": "2026-11-19T01:37:17.988719424Z",
@@ -688,7 +715,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9460494,
+      "rating": 0.94490427,
       "ratingCount": 358,
       "created": "2024-09-15T23:41:48.882693Z",
       "updated": "2026-11-19T01:33:55.909039270Z",
@@ -715,7 +742,7 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.8501819,
+      "rating": 0.8507434,
       "ratingCount": 0,
       "created": "2026-11-18T16:22:17.474618Z",
       "updated": "2026-11-18T23:43:50.058940700Z",
@@ -745,7 +772,7 @@
         "RainyAlley",
         "plain"
       ],
-      "rating": 0.9451751,
+      "rating": 0.94991916,
       "ratingCount": 9,
       "created": "2026-11-09T15:16:32.162762Z",
       "updated": "2026-11-18T14:01:16.635483Z",
@@ -828,38 +855,11 @@
       "tags": [
         "plain"
       ],
-      "rating": 0.9256426,
+      "rating": 0.927406,
       "ratingCount": 34,
       "created": "2026-11-10T13:59:12.746436Z",
       "updated": "2026-11-15T19:27:16.475397Z",
       "chartUpdated": "2026-11-10T13:59:12.746436Z",
-      "hidden": false
-    },
-    {
-      "id": 84117,
-      "name": "Clinozoisite",
-      "level": "4K MY LIFE Lv.35",
-      "difficulty": 35.0,
-      "charter": "YMEA",
-      "composer": "Ludicin",
-      "illustrator": "Lage",
-      "description": "这个是我第三首长曲，本来想写生贺谱的，但是写的太快了，就现在传吧。\n\n工程时间用了三天，前前后后改了两版。\n\n后面忘了，求个好评。\n\n快手xB站  洋漫YMEA\nDY YMEA\n\n@Lage#852606（曲绘）",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/b909ec78-6f28-4045-b7c0-20d9714bac96",
-      "preview": "https://phira.5wyxi.com/files/b5a3d7c3-8fa5-46b9-86b6-48217da72c67",
-      "file": "https://phira.5wyxi.com/files/22f7aebe-d880-4fef-86d7-293f49a8a264",
-      "uploader": 4477288,
-      "tags": [
-        "plain"
-      ],
-      "rating": 0.9391949,
-      "ratingCount": 25,
-      "created": "2026-11-15T13:35:06.401675Z",
-      "updated": "2026-11-15T14:33:50.549279Z",
-      "chartUpdated": "2026-11-15T13:35:06.401675Z",
       "hidden": false
     }
   ]
