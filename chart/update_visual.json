@@ -1,6 +1,33 @@
 {
-  "count": 168,
+  "count": 169,
   "results": [
+    {
+      "id": 53131,
+      "name": "Bangarang来了",
+      "level": "SP Lv.?",
+      "difficulty": 20.0,
+      "charter": "SakiZhengG",
+      "composer": "Sakillex feat. Siranon",
+      "illustrator": "",
+      "description": "阿拉現在繼續開始，今天給大家帶來整活鋪面",
+      "ranked": false,
+      "reviewed": true,
+      "stable": false,
+      "stableRequest": false,
+      "illustration": "https://phira.5wyxi.com/files/07fff87c-5f3d-4371-93b3-f379ab7fbc4e",
+      "preview": "https://phira.5wyxi.com/files/b1718bfa-f83e-42b8-8b6e-e5563375c322",
+      "file": "https://phira.5wyxi.com/files/7ce63eed-773e-4f93-acb9-18ee8aa43a40",
+      "uploader": 670434,
+      "tags": [
+        "visual"
+      ],
+      "rating": 0.7827321,
+      "ratingCount": 0,
+      "created": "2026-02-21T12:48:12.612822Z",
+      "updated": "2026-11-27T11:05:15.204943015Z",
+      "chartUpdated": "2026-02-21T12:48:12.612822Z",
+      "hidden": false
+    },
     {
       "id": 30808,
       "name": "Everybody Knows",
@@ -48,7 +75,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8376066,
+      "rating": 0.83945173,
       "ratingCount": 25,
       "created": "2026-08-18T11:56:45.304155Z",
       "updated": "2026-10-09T15:05:02.927646Z",
@@ -110,7 +137,7 @@
         "原神启动",
         "visual"
       ],
-      "rating": 0.6045364,
+      "rating": 0.60785604,
       "ratingCount": 111,
       "created": "2026-09-30T09:55:25.988502Z",
       "updated": "2026-10-02T08:16:38.531728Z",
@@ -224,7 +251,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.9197012,
+      "rating": 0.9197206,
       "ratingCount": 98081,
       "created": "2026-07-27T16:42:57.962104Z",
       "updated": "2026-07-27T16:42:57.962104Z",
@@ -278,7 +305,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.86654085,
+      "rating": 0.867216,
       "ratingCount": 192,
       "created": "2026-06-20T14:05:15.124654Z",
       "updated": "2026-06-20T14:05:15.124654Z",
@@ -359,7 +386,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.81041884,
+      "rating": 0.8108039,
       "ratingCount": 489,
       "created": "2026-04-02T01:53:56.151166Z",
       "updated": "2026-04-02T01:53:56.151166Z",
@@ -442,7 +469,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8678914,
+      "rating": 0.8697294,
       "ratingCount": 65,
       "created": "2026-03-01T05:13:19.479990Z",
       "updated": "2026-03-01T05:13:19.479990Z",
@@ -500,7 +527,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8121353,
+      "rating": 0.8127181,
       "ratingCount": 633,
       "created": "2026-02-13T07:01:51.207298Z",
       "updated": "2026-02-13T07:01:51.207298Z",
@@ -529,7 +556,7 @@
         "创意",
         "visual"
       ],
-      "rating": 0.9179768,
+      "rating": 0.91851664,
       "ratingCount": 145,
       "created": "2026-02-10T06:56:11.788757Z",
       "updated": "2026-02-10T06:56:11.788757Z",
@@ -556,7 +583,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.8588334,
+      "rating": 0.85620266,
       "ratingCount": 109,
       "created": "2026-01-31T12:08:54.911616Z",
       "updated": "2026-01-31T12:08:54.911616Z",
@@ -583,7 +610,7 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.87422985,
+      "rating": 0.87368524,
       "ratingCount": 1044,
       "created": "2026-01-23T10:04:04.163379Z",
       "updated": "2026-01-23T10:04:04.163379Z",
@@ -811,38 +838,11 @@
       "tags": [
         "visual"
       ],
-      "rating": 0.949034,
+      "rating": 0.94912004,
       "ratingCount": 620,
       "created": "2025-12-21T16:50:09.078652Z",
       "updated": "2025-12-21T16:50:09.078652Z",
       "chartUpdated": "2025-12-21T16:50:09.078652Z",
-      "hidden": false
-    },
-    {
-      "id": 49901,
-      "name": "怪獣になりたい",
-      "level": "4k Lv.lunitic?!",
-      "difficulty": 20.0,
-      "charter": "LsenY",
-      "composer": "Sakuzyo",
-      "illustrator": "",
-      "description": "本人上传 我真的求你了我求你了给我过审吧我错了我错了我错了",
-      "ranked": false,
-      "reviewed": true,
-      "stable": false,
-      "stableRequest": false,
-      "illustration": "https://phira.5wyxi.com/files/7bf3f5f6-5d0f-43f8-9549-f45cf8d78f6e",
-      "preview": "https://phira.5wyxi.com/files/4e242a84-ad9e-47f8-a88d-7eb55404a70e",
-      "file": "https://phira.5wyxi.com/files/3848f77d-595e-4c29-9232-037c6a288dd5",
-      "uploader": 714570,
-      "tags": [
-        "visual"
-      ],
-      "rating": 0.7302319,
-      "ratingCount": 554,
-      "created": "2025-12-06T15:38:20.222075Z",
-      "updated": "2025-12-06T15:38:20.222075Z",
-      "chartUpdated": "2025-12-06T15:38:20.222075Z",
       "hidden": false
     }
   ]
